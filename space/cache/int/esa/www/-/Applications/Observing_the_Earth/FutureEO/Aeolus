@@ -1,0 +1,1630 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="Aeolus">
+<title>ESA - Aeolus</title>						<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header connecting-benefiting">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'connecting-benefiting';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+				
+			<section class="page-header mission-header connecting-benefiting">
+	<header class="entry">
+		<a href="/Applications" class="pillar">Applications</a>
+		<h1 class="heading">Aeolus </h1>
+		<p class="subheading">ESA's wind mission</p> 
+	</header>
+	<div class="social-media-links">
+		
+										
+													
+																				<a href="https://twitter.com/search?q=%23aeolus&src=typed_query&f=live" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+														
+														
+														
+						</div>
+					<img class="image-bg stellar" src="/var/esa/storage/images/applications/observing_the_earth/futureeo/aeolus/19716558-9-eng-GB/Aeolus_pillars.jpg" alt="Aeolus" data-stellar-ratio="0.8"> 
+</section>
+
+<section class="mission-details">
+	<div class="mission-intro">
+		
+		<a name="eztoc19726788_1" id="eztoc19726788_1"></a><h2><b>The mission</b></h2><p>Aeolus was the first satellite mission to acquire profiles of Earth’s wind on a global scale.&nbsp;These observations improved weather forecasts and climate models. The Aeolus satellite carried just one large instrument – a Doppler wind lidar that measured the winds sweeping around our planet.&nbsp;Surpassing scientific expectations and exceeding its planned life in orbit, the mission ended on 28 July 2023.</p>
+	</div>
+	<div class="mission-data">
+		
+		<a name="eztoc19727811_1" id="eztoc19727811_1"></a><h2><b>The launch</b></h2>
+<ul>
+
+<li><b>Date: </b>22&nbsp;August 2018</li>
+
+<li><b>Site:&nbsp;</b>Kourou, French Guiana</li>
+
+<li><b>Rocket: </b>Vega</li>
+
+</ul>
+
+	</div>
+	</section>
+
+<section class="mission-stats connecting-benefiting">
+	
+		
+		
+<ul>
+
+<li><a href="https://www.esa.int/Applications/Observing_the_Earth/Aeolus/Lasers_in_space" target="_blank"><b>1st </b></a>wind lidar in space</li>
+
+<li><a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Aeolus/Lasers_in_space"><b>7 billion</b></a>&nbsp;UV pulses</li>
+
+<li><a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Aeolus/Aeolus_a_historic_end_to_a_trailblazing_mission" target="_blank"><b>5 years</b></a>&nbsp;in orbit</li>
+
+<li><a href="https://www.esa.int/ESA_Multimedia/Images/2022/10/Aeolus_Value_of_Information" target="_blank"><b>3 billion</b></a>&nbsp;euros societal benefit</li>
+
+</ul>
+
+	
+	<div class="dimmer"></div>
+	<img class="image-bg" src="/" alt="Aeolus">
+</section>
+
+
+
+	
+						  
+	
+
+
+
+
+
+
+					 
+
+	
+																																			
+				
+																																																					
+				
+														
+				
+												
+			
+	
+					
+			
+			 
+		
+					
+			
+			 
+		
+					
+						
+						 
+		
+					
+			
+			 
+						
+ 
+
+<section class="cards filtered">
+	<div class="filter-wrapper">
+		<h2 class="heading section-heading">
+			
+							Latest
+					</h2>
+		<div class="filters button-group">
+			<button data-filter="" class="btn active">All</button>
+			<button data-filter=".story" class="btn">Stories</button>
+			<button data-filter=".video" class="btn">Videos</button>
+			<button data-filter=".image" class="btn">Images</button>
+		</div>
+	</div>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1693918800">
+<a class="card story monitoring-safeguarding" href="/Space_Safety/Space_Debris/Final_images_before_Aeolus_demise">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/09/final_images_of_aeolus_during_its_brief_phase_as_space_debris/25070736-6-eng-GB/Final_images_of_Aeolus_during_its_brief_phase_as_space_debris_card_medium.gif" alt="Final images of Aeolus during its brief phase as space debris">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">Final images before Aeolus demise</h3>  
+
+<div class="meta">
+			<span>05/09/2023</span>
+		<span>16648 <small>views</small></span>
+			<span>79 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1691142600">
+<a class="card image monitoring-safeguarding popup" href="/ESA_Multimedia/Images/2023/08/Right_on_track_Aeolus_reentry_map">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Space Safety</span>
+
+<h3 class="heading">Right on track: Aeolus reentry map</h3>  
+
+<div class="meta">
+			<span>04/08/2023</span>
+		<span>3680 <small>views</small></span>
+			<span>114 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/08/right_on_track_aeolus_reentry_map/25036603-13-eng-GB/Right_on_track_Aeolus_reentry_map_card_full.jpg" alt="Right on track: Aeolus reentry map">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1691051400">
+<a class="card video monitoring-safeguarding popup" href="/ESA_Multimedia/Videos/2023/08/Simulating_Aeolus_s_demise_a_bird_s_eye_view">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:01:35
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2023/08/simulating_aeolus_s_demise_a_bird_s_eye_view/25033943-1-eng-GB/Simulating_Aeolus_s_demise_a_bird_s_eye_view_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">Simulating Aeolus’s demise: a bird’s eye view </h3>  
+
+<div class="meta">
+			<span>03/08/2023</span>
+		<span>5410 <small>views</small></span>
+			<span>129 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1690612200">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Aeolus/Aeolus_a_historic_end_to_a_trailblazing_mission">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2014/03/understanding_earth_s_winds/14329793-1-eng-GB/Understanding_Earth_s_winds_card_medium.jpg" alt="Understanding Earth’s winds">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Aeolus: a historic end to a trailblazing mission</h3>  
+
+<div class="meta">
+			<span>29/07/2023</span>
+		<span>13592 <small>views</small></span>
+			<span>134 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1690449000">
+<a class="card focuson designing-operating" href="https://blogs.esa.int/rocketscience/2023/07/24/aeolus-reentry-live/" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2015/06/measuring_cyclones/15418279-1-eng-GB/Measuring_cyclones_card_medium.jpg" alt="Measuring cyclones ">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Enabling & Support</span>
+				<h3 class="heading">Historic Aeolus reentry – how it happened</h3> 
+		<p class="subheading">Get rolling updates on the Aeolus reentry, on the Rocket Science blog</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1690377600">
+<a class="card video designing-operating popup" href="/ESA_Multimedia/Videos/2023/07/Aeolus_reentry_the_breakdown">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:02:42
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2023/07/aeolus_reentry_the_breakdown/25024763-1-eng-GB/Aeolus_reentry_the_breakdown_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Enabling & Support</span>
+
+<h3 class="heading">Aeolus reentry: the breakdown</h3>  
+
+<div class="meta">
+			<span>26/07/2023</span>
+		<span>5571 <small>views</small></span>
+			<span>131 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1689944400">
+<a class="card video connecting-benefiting popup" href="/ESA_Multimedia/Videos/2023/07/Journey_back_to_Earth_Aeolus_historic_reentry">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:05:00
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2023/07/journey_back_to_earth_aeolus_historic_reentry/25017325-1-eng-GB/Journey_back_to_Earth_Aeolus_historic_reentry_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Journey back to Earth: Aeolus' historic reentry</h3>  
+
+<div class="meta">
+			<span>21/07/2023</span>
+		<span>3245 <small>views</small></span>
+			<span>117 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1689768000">
+<a class="card video connecting-benefiting popup" href="/ESA_Multimedia/Videos/2023/07/Replay_Aeolus_reentry_media_briefing">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:40:24
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2023/07/replay_aeolus_reentry_media_briefing/25011975-7-eng-GB/Replay_Aeolus_reentry_media_briefing_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Replay: Aeolus reentry media briefing</h3>  
+
+<div class="meta">
+			<span>19/07/2023</span>
+		<span>1441 <small>views</small></span>
+			<span>49 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1689692400">
+<a class="card story designing-operating" href="/Enabling_Support/Operations/Simulating_Aeolus_s_return_mission_control_feels_the_heat">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/07/aeolus_teams_take_part_in_the_first_ever_assisted_reentry_simulations_at_esa_mission_control/24994905-6-eng-GB/Aeolus_teams_take_part_in_the_first_ever_assisted_reentry_simulations_at_ESA_mission_control_card_medium.jpg" alt="Aeolus teams take part in the first ever assisted reentry simulations at ESA mission control">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Enabling & Support</span>
+
+<h3 class="heading">Simulating Aeolus’s return: mission control feels the heat</h3>  
+
+<div class="meta">
+			<span>18/07/2023</span>
+		<span>4499 <small>views</small></span>
+			<span>89 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+													
+						
+											
+
+		
+<div class="grid-item story" data-date="1689325200">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Aeolus/The_sound_of_Aeolus_will_blow_you_away">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/07/to_the_tune_of_aeolus/24990380-1-eng-GB/To_the_tune_of_Aeolus_card_medium.jpg" alt="To the tune of Aeolus">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">The sound of Aeolus will blow you away </h3>  
+
+<div class="meta">
+			<span>14/07/2023</span>
+		<span>4607 <small>views</small></span>
+			<span>79 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1688994000">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Aeolus/Guiding_Aeolus_safe_reentry">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2014/01/esa_s_wind_mission/13483893-1-eng-GB/ESA_s_wind_mission_card_medium.jpg" alt="ESA's wind mission">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Guiding Aeolus' safe reentry</h3>  
+
+<div class="meta">
+			<span>10/07/2023</span>
+		<span>11511 <small>views</small></span>
+			<span>188 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1685429700">
+<a class="card focuson connecting-benefiting" href="https://earth.esa.int/eogateway/news/aeolus-enhances-volcanic-ash-forecasts-for-aviation-safety" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/05/ash_plume_moving_over_greece/24901152-1-eng-GB/Ash_plume_moving_over_Greece_card_medium.gif" alt="Ash plume moving over Greece">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Aeolus enhances volcanic ash forecasts for aviation safety</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+  
+					
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1574332260">
+<a class="card focuson connecting-benefiting" href="https://nikal.eventsair.com/QuickEventWebsitePortal/2nd-aeolus-post-launch-calval-and-science-workshop/aeolus" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/11/aeolus_cal_val_workshop/21469841-2-eng-GB/Aeolus_CAL_VAL_workshop_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Aeolus CAL/VAL and science workshop</h3> 
+		<p class="subheading">* Rescheduled to 2–6 November 2020</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+  
+				<div class="grid-item story image video"> 
+<a class="card more" href="/Applications/Observing_the_Earth/FutureEO/Aeolus/(archive)/0">
+	<div class="outline">
+		<h3 class="heading">More items</h3>
+	</div>
+</a>
+</div>
+	</div>
+</section>
+		
+		
+											<!-- # obj in slider 4 -->		<section class="feature slider">
+	<div class="flexslider"><ul class="slides">
+								<li>
+				
+	
+	
+ 
+	
+
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Image gallery</h3>
+		
+					<a class="cta" href="https://www.esa.int/spaceinimages/Missions/Aeolus" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/05/wind_profile_from_aeolus_6_may_2020/22007878-1-eng-GB/Wind_profile_from_Aeolus_6_May_2020_pillars.jpg" alt="Wind profile from Aeolus 6 May 2020">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+	
+	
+ 
+	
+
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Video gallery</h3>
+		
+					<a class="cta" href="https://www.esa.int/spaceinvideos/Missions/Aeolus" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2013/09/video_gallery/13006679-1-eng-GB/Video_gallery_pillars.jpg" alt="">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+	
+	
+ 
+	
+
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Aeolus brochure</h3>
+		
+					<a class="cta" href="https://esamultimedia.esa.int/docs/EarthObservation/aeolus_brochure_web.pdf" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2015/06/measuring_cyclones/15418279-1-eng-GB/Measuring_cyclones_pillars.jpg" alt="Measuring cyclones ">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+
+
+	
+	
+
+	
+			  
+													
+						
+											
+
+		
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Documents & publications</h3>
+
+<div class="meta">
+			<span>21/06/2017</span>
+		<span>4299 <small>views</small></span>
+			<span>4 <small>likes</small></span>
+		
+	</div>
+		<a class="cta" href="/Applications/Observing_the_Earth/FutureEO/Aeolus/Documents_publications">
+			<label>Read</label>
+			<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+		</a>
+	</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/11/documents_and_publications/21149456-1-eng-GB/Documents_and_publications_pillars.jpg" alt="Documents and publications">
+</figure>
+</div>
+</li>
+						
+						</ul></div>
+	</section>				
+		
+									
+	<section class="cards">
+					<h2 class="heading section-heading">Discover Aeolus</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="999689700">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Aeolus/Introducing_Aeolus">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2014/01/esa_s_wind_mission/13483893-1-eng-GB/ESA_s_wind_mission_card_medium.jpg" alt="ESA's wind mission">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Introducing Aeolus</h3>  
+
+<div class="meta">
+		<span>42044 <small>views</small></span>
+			<span>127 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1498038120">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Aeolus/Facts_and_figures">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2015/06/measuring_cyclones/15418279-1-eng-GB/Measuring_cyclones_card_medium.jpg" alt="Measuring cyclones ">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Facts and figures</h3>  
+
+<div class="meta">
+		<span>8701 <small>views</small></span>
+			<span>14 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1001575020">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Aeolus/Earth_s_winds">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2018/08/earth_s_winds/17643754-5-eng-GB/Earth_s_winds_card_medium.jpg" alt="Earth’s winds">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Earth's winds</h3>  
+
+<div class="meta">
+		<span>13532 <small>views</small></span>
+			<span>15 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="999776640">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Aeolus/Measuring_wind">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2016/07/profiling_the_world_s_winds/16082460-1-eng-GB/Profiling_the_world_s_winds_card_medium.jpg" alt="Profiling the world's winds">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Measuring wind</h3>  
+
+<div class="meta">
+		<span>11755 <small>views</small></span>
+			<span>19 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="999866700">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Aeolus/Forecasting_weather">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2018/06/weather_map/17655675-1-eng-GB/Weather_map_card_medium.jpg" alt="Weather map">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Forecasting weather</h3>  
+
+<div class="meta">
+		<span>11351 <small>views</small></span>
+			<span>12 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="999609060">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Aeolus/Aeolus_satellite">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2018/06/aeolus_on_show/17536329-1-eng-GB/Aeolus_on_show_card_medium.jpg" alt="Aeolus on show">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Aeolus satellite</h3>  
+
+<div class="meta">
+		<span>14452 <small>views</small></span>
+			<span>20 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="999681600">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Aeolus/Lasers_in_space">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2014/03/understanding_earth_s_winds/14329793-1-eng-GB/Understanding_Earth_s_winds_card_medium.jpg" alt="Understanding Earth’s winds">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Lasers in space</h3>  
+
+<div class="meta">
+		<span>21925 <small>views</small></span>
+			<span>61 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1537255320">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Aeolus/Into_space_and_back">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2018/08/aeolus_liftoff_replay/17650795-6-eng-GB/Aeolus_liftoff_replay_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Into space and back</h3>  
+
+<div class="meta">
+		<span>10379 <small>views</small></span>
+			<span>17 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="999677640">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Aeolus/Data_flow">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/08/aeolus_data_flow/17130039-1-eng-GB/Aeolus_data_flow_card_medium.jpg" alt="Aeolus data flow">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Data flow</h3>  
+
+<div class="meta">
+		<span>7206 <small>views</small></span>
+			<span>15 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1001575020">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Aeolus/Data_products">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2018/09/first_light_from_aeolus/17674059-2-eng-GB/First_light_from_Aeolus_card_medium.png" alt="First light from Aeolus">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Data products</h3>  
+
+<div class="meta">
+		<span>9706 <small>views</small></span>
+			<span>52 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+ 
+		
+		
+											<section class="link-section dark">
+		<div class="theme-block connecting-benefiting">
+					<h2 class="heading section-heading">Follow us</h2>
+	<div class="section-group button-group">
+															 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new?topic_id=EUESA_6" class="btn"><i class="fas fa-rss"></i>Subscribe</a>
+		
+		 
+
+															 
+								
+										<a href="https://twitter.com/ESA_EO" class="btn"><i class="fa-brands fa-x-twitter"></i> @ESA_EO</a>
+		
+		 
+
+															 
+								
+										<a href="https://www.instagram.com/esa_earth/" class="btn"><i class="fab fa-instagram"></i> @esa_earth</a>
+		
+		 
+
+	 
+	</div> 
+
+</div> 
+ 
+		</section>
+			
+		
+									
+	<section class="cards">
+					<h2 class="heading section-heading">Recommended</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		 
+										
+											
+												
+																			
+				
+	
+	
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1112884920">
+<a class="card focuson connecting-benefiting" href="/Applications/Observing_the_Earth" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/10/eo_general/21103663-1-eng-GB/EO_general_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Observing the Earth</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					
+								
+										
+
+
+	 
+
+		
+<div class="grid-item focuson" data-date="1696321867">
+<a class="card focuson connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<img class="image-bg" src="/var/esa/storage/images/applications/observing_the_earth/futureeo/19716535-16-eng-GB/FutureEO_card_full.jpg" alt="FutureEO">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+		<h3 class="heading">FutureEO</h3>
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+	</div>
+</a>
+</div>
+																					 
+										
+											
+												
+																			
+				
+	
+	
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1540720860">
+<a class="card focuson connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Earth_Explorers_ESA_s_pioneering_science_missions_for_Earth">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/12/earth_explorers_icon/23865850-1-eng-GB/Earth_Explorers_icon_card_medium.jpg" alt="Earth Explorers icon">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Earth Explorers</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1504186560">
+<a class="card focuson connecting-benefiting" href="https://earth.esa.int/eogateway/missions/aeolus" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/08/aeolus_wind_field_snip_icon/17130437-1-eng-GB/Aeolus_wind_field_snip_icon_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Access Aeolus data</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+ 
+		
+		
+		
+ 
+
+
+	<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice_ESA_website">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

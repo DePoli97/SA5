@@ -1,0 +1,1789 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="Webb">
+<title>ESA - Webb</title>						<meta name="keywords" content="Webb, JWST, James Webb Space Telescope, Universe, exoplanets, Ariane 5, stars, galaxies, solar system, seeing farther, science, astronomy, astrophysics, hubble ">
+			<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header exploring-discovering">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'exploring-discovering';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+				
+			<section class="page-header mission-header exploring-discovering">
+	<header class="entry">
+		<a href="/Science_Exploration" class="pillar">Science & Exploration</a>
+		<h1 class="heading">Webb </h1>
+		<p class="subheading">Seeing farther</p> 
+	</header>
+	<div class="social-media-links">
+		
+										
+													
+														
+														
+														
+						</div>
+					<img class="image-bg stellar" src="/var/esa/storage/images/science_exploration/space_science/webb/22516077-2-eng-GB/Webb_pillars.jpg" alt="Webb" data-stellar-ratio="0.8"> 
+</section>
+
+<section class="mission-details">
+	<div class="mission-intro">
+		
+		<a name="eztoc22516094_1" id="eztoc22516094_1"></a><h2>The mission</h2><p>The James Webb Space Telescope (Webb) is the next great space science observatory following Hubble, designed to answer outstanding questions about the Universe and to make breakthrough discoveries in all fields of astronomy. Webb will see farther into our origins: from the formation of stars and planets, to the birth of the first galaxies in the early Universe. Webb is an international partnership between NASA, ESA and CSA. The telescope launched on an Ariane 5 from Europe's Spaceport in French Guiana.</p>
+	</div>
+	<div class="mission-data">
+		
+		<a name="eztoc22516095_1" id="eztoc22516095_1"></a><h2>The launch</h2>
+<ul>
+
+<li><b>Launch date: </b>25 December 2021</li>
+
+<li><b>Launch location: </b>Europe's Spaceport in French Guiana</li>
+
+<li><b>Launch vehicle: </b>Ariane 5</li>
+
+<li><b>Orbit: </b>Lagrange point 2, 1.5 million km from Earth</li>
+
+</ul>
+
+	</div>
+		<div class="mission-logo">
+		<img src="/var/esa/storage/images/science_exploration/space_science/webb/22516096-3-eng-GB/Webb_pillars.jpg"> 
+	</div>
+	</section>
+
+<section class="mission-stats exploring-discovering">
+	
+		
+		
+<ul>
+
+<li><b>6.5 m </b>mirror</li>
+
+<li><b>18 </b>mirror segments</li>
+
+<li><b>4</b>&nbsp; instruments</li>
+
+<li><b>5 </b>sunshield layers</li>
+
+</ul>
+
+	
+	<div class="dimmer"></div>
+	<img class="image-bg" src="/var/esa/storage/images/science_exploration/space_science/webb/22516098-3-eng-GB/Webb.jpg" alt="Webb">
+</section>
+
+
+
+	
+						  
+	
+
+
+
+
+
+
+					 
+
+	
+																																			
+				
+																																																					
+				
+														
+				
+												
+			
+	
+					
+			
+			 
+		
+					
+			
+			 
+		
+					
+						
+						 
+		
+					
+			
+			 
+						
+ 
+
+<section class="cards filtered">
+	<div class="filter-wrapper">
+		<h2 class="heading section-heading">
+			
+							Latest
+					</h2>
+		<div class="filters button-group">
+			<button data-filter="" class="btn active">All</button>
+			<button data-filter=".story" class="btn">Stories</button>
+			<button data-filter=".video" class="btn">Videos</button>
+			<button data-filter=".image" class="btn">Images</button>
+		</div>
+	</div>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1697727600">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Webb/Webb_pinpoints_a_high-speed_jet_stream_on_Jupiter">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/10/jupiter_jet_pullouts/25141394-1-eng-GB/Jupiter_jet_pullouts_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Webb pinpoints a high-speed jet stream on Jupiter</h3>  
+
+<div class="meta">
+			<span>19/10/2023</span>
+		<span>10195 <small>views</small></span>
+			<span>82 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1697464800">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2023/10/Webb_spots_quartz_crystals_in_clouds_of_exoplanet_WASP-17b">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Webb spots quartz crystals in clouds of exoplanet WASP-17b</h3>  
+
+<div class="meta">
+			<span>16/10/2023</span>
+		<span>9135 <small>views</small></span>
+			<span>84 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/10/webb_spots_quartz_crystals_in_clouds_of_exoplanet_wasp-17b/25138242-1-eng-GB/Webb_spots_quartz_crystals_in_clouds_of_exoplanet_WASP-17b_card_full.jpg" alt="">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1696946400">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2023/10/Webb_captures_an_ethereal_view_of_NGC_3462">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Webb captures an ethereal view of NGC 346</h3>  
+
+<div class="meta">
+			<span>10/10/2023</span>
+		<span>18275 <small>views</small></span>
+			<span>210 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/10/webb_captures_an_ethereal_view_of_ngc_3462/25128726-1-eng-GB/Webb_captures_an_ethereal_view_of_NGC_346_card_full.jpg" alt="NGC 346 (MIRI image)">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1696240800">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Webb/Webb_s_wide-angle_view_of_the_Orion_Nebula_is_released_in_ESASky">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/09/short-wavelength_nircam_orion_mosaic_in_esasky/25104796-1-eng-GB/Short-wavelength_NIRCam_Orion_mosaic_in_ESASky_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Webb’s wide-angle view of the Orion Nebula is released in E&#8230;</h3>  
+
+<div class="meta">
+			<span>02/10/2023</span>
+		<span>123021 <small>views</small></span>
+			<span>398 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1695319200">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Webb/Webb_finds_carbon_source_on_surface_of_Jupiter_s_moon_Europa">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/09/europa_nircam_image/25096545-1-eng-GB/Europa_NIRCam_image_card_medium.jpg" alt="Europa (NIRCam image)">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Webb finds carbon source on surface of Jupiter’s moon Europa</h3>  
+
+<div class="meta">
+			<span>21/09/2023</span>
+		<span>33040 <small>views</small></span>
+			<span>158 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1694700000">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2023/09/Webb_snaps_supersonic_outflow_of_young_star">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Webb snaps supersonic outflow of young star</h3>  
+
+<div class="meta">
+			<span>14/09/2023</span>
+		<span>5267 <small>views</small></span>
+			<span>185 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/09/webb_snaps_supersonic_outflow_of_young_star/25077917-1-eng-GB/Webb_snaps_supersonic_outflow_of_young_star_card_full.jpg" alt="HH 211 (NIRCam image)">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1694440800">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Webb/Webb_discovers_methane_and_carbon_dioxide_in_atmosphere_of_K2-18_b">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/09/exoplanet_k2-18_b_illustration/25077827-1-eng-GB/Exoplanet_K2-18_b_Illustration_card_medium.jpg" alt="Exoplanet K2-18 b (Illustration)">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Webb discovers methane and carbon dioxide in atmosphere of &#8230;</h3>  
+
+<div class="meta">
+			<span>11/09/2023</span>
+		<span>6980 <small>views</small></span>
+			<span>104 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1693296000">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2023/08/Webb_captures_a_cosmic_Whirlpool">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Webb captures a cosmic Whirlpool</h3>  
+
+<div class="meta">
+			<span>29/08/2023</span>
+		<span>23990 <small>views</small></span>
+			<span>473 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/08/webb_captures_a_cosmic_whirlpool/25056954-1-eng-GB/Webb_captures_a_cosmic_Whirlpool_card_full.jpg" alt="">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1692626400">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Webb/Webb_captures_detailed_beauty_of_Ring_Nebula">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/08/webb_captures_detailed_beauty_of_ring_nebula_nircam_image/25047351-1-eng-GB/Webb_captures_detailed_beauty_of_Ring_Nebula_NIRCam_image_card_medium.jpg" alt="Webb captures detailed beauty of Ring Nebula (NIRCam image)">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Webb captures detailed beauty of Ring Nebula</h3>  
+
+<div class="meta">
+			<span>21/08/2023</span>
+		<span>23736 <small>views</small></span>
+			<span>210 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1691589600">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2023/08/Earendel_and_the_Sunrise_Arc_in_the_galaxy_cluster_WHL0137-08">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Earendel and the Sunrise Arc in the galaxy cluster WHL0137-&#8230;</h3>  
+
+<div class="meta">
+			<span>09/08/2023</span>
+		<span>5550 <small>views</small></span>
+			<span>122 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/08/earendel_and_the_sunrise_arc_in_the_galaxy_cluster_whl0137-08/25039535-1-eng-GB/Earendel_and_the_Sunrise_Arc_in_the_galaxy_cluster_WHL0137-08_card_full.jpg" alt="">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1689156000">
+<a class="card video exploring-discovering popup" href="/ESA_Multimedia/Videos/2023/07/Webb_s_first_year_in_images">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:03:03
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2023/07/webb_s_first_year_in_images/24983648-1-eng-GB/Webb_s_first_year_in_images_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Webb’s first year in images</h3>  
+
+<div class="meta">
+			<span>12/07/2023</span>
+		<span>30187 <small>views</small></span>
+			<span>303 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1666188000">
+<a class="card video exploring-discovering popup" href="/ESA_Multimedia/Videos/2022/10/Zoom_into_Webb_s_view_of_the_Pillars_of_Creation">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:01:00
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2022/10/zoom_into_webb_s_view_of_the_pillars_of_creation/24533340-1-eng-GB/Zoom_into_Webb_s_view_of_the_Pillars_of_Creation_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Zoom into Webb’s view of the Pillars of Creation</h3>  
+
+<div class="meta">
+			<span>19/10/2022</span>
+		<span>11526 <small>views</small></span>
+			<span>253 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1662472800">
+<a class="card video exploring-discovering popup" href="/ESA_Multimedia/Videos/2022/09/Zoom_into_the_Tarantula_Nebula">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:01:00
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2022/09/zoom_into_the_tarantula_nebula/24421105-9-eng-GB/Zoom_Into_the_Tarantula_Nebula_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Zoom into the Tarantula Nebula</h3>  
+
+<div class="meta">
+			<span>06/09/2022</span>
+		<span>15601 <small>views</small></span>
+			<span>369 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1649660400">
+<a class="card video exploring-discovering popup" href="/ESA_Multimedia/Videos/2022/04/Webb_s_instruments_meet_MIRI">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:01:00
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2022/04/webb_s_instruments_meet_miri/24024911-1-eng-GB/Webb_s_instruments_meet_MIRI_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Webb’s instruments: meet MIRI</h3>  
+
+<div class="meta">
+			<span>11/04/2022</span>
+		<span>8357 <small>views</small></span>
+			<span>233 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1648211400">
+<a class="card video exploring-discovering popup" href="/ESA_Multimedia/Videos/2022/03/Webb_s_infrared_Universe">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:01:00
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2022/03/webb_s_infrared_universe/24010115-1-eng-GB/Webb_s_infrared_universe_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Webb's infrared Universe</h3>  
+
+<div class="meta">
+			<span>25/03/2022</span>
+		<span>9790 <small>views</small></span>
+			<span>175 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+				<div class="grid-item story image video"> 
+<a class="card more" href="/Science_Exploration/Space_Science/Webb/(archive)/0">
+	<div class="outline">
+		<h3 class="heading">More items</h3>
+	</div>
+</a>
+</div>
+	</div>
+</section>
+		
+		
+											<!-- # obj in slider 4 -->		<section class="feature slider">
+	<div class="flexslider"><ul class="slides">
+								<li>
+				
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+
+		
+<div class="feature-item story exploring-discovering">
+<figure class="thumbnail">
+	<header class="entry">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Webb reveals “Cosmic Cliffs” – a glittering landscape of star birth</h3>
+
+<div class="meta">
+			<span>12/07/2022</span>
+		<span>37735 <small>views</small></span>
+			<span>304 <small>likes</small></span>
+		
+	</div>
+		<a class="cta" href="/Science_Exploration/Space_Science/Webb/Webb_reveals_Cosmic_Cliffs_a_glittering_landscape_of_star_birth">
+			<label>Read</label>
+			<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+		</a>
+	</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/07/cosmic_cliffs_in_carina_nircam/24353058-1-eng-GB/Cosmic_Cliffs_in_Carina_NIRCam_pillars.png" alt="Cosmic Cliffs in Carina – NIRCam">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+
+		
+<div class="feature-item story exploring-discovering">
+<figure class="thumbnail">
+	<header class="entry">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Webb reveals steamy atmosphere of distant planet in exquisite detail</h3>
+
+<div class="meta">
+			<span>12/07/2022</span>
+		<span>15312 <small>views</small></span>
+			<span>140 <small>likes</small></span>
+		
+	</div>
+		<a class="cta" href="/Science_Exploration/Space_Science/Webb/Webb_reveals_steamy_atmosphere_of_distant_planet_in_exquisite_detail">
+			<label>Read</label>
+			<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+		</a>
+	</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/07/exoplanet_wasp-96_b_niriss_transmission_spectrum/24348710-4-eng-GB/Exoplanet_WASP-96_b_NIRISS_transmission_spectrum_pillars.png" alt="Exoplanet WASP-96 b – NIRISS transmission spectrum">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+
+		
+<div class="feature-item story exploring-discovering">
+<figure class="thumbnail">
+	<header class="entry">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Webb sheds light on galaxy evolution, black holes</h3>
+
+<div class="meta">
+			<span>12/07/2022</span>
+		<span>27630 <small>views</small></span>
+			<span>239 <small>likes</small></span>
+		
+	</div>
+		<a class="cta" href="/Science_Exploration/Space_Science/Webb/Webb_sheds_light_on_galaxy_evolution_black_holes">
+			<label>Read</label>
+			<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+		</a>
+	</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/07/stephan_s_quintet_nircam_and_miri_imaging/24354379-1-eng-GB/Stephan_s_Quintet_NIRCam_and_MIRI_imaging_pillars.png" alt="Stephan’s Quintet – NIRCam and MIRI imaging">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+
+		
+<div class="feature-item story exploring-discovering">
+<figure class="thumbnail">
+	<header class="entry">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Webb delivers deepest image of Universe yet</h3>
+
+<div class="meta">
+			<span>12/07/2022</span>
+		<span>28075 <small>views</small></span>
+			<span>195 <small>likes</small></span>
+		
+	</div>
+		<a class="cta" href="/Science_Exploration/Space_Science/Webb/Webb_delivers_deepest_image_of_Universe_yet">
+			<label>Read</label>
+			<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+		</a>
+	</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/07/webb_s_first_deep_field_miri_and_nircam/24354768-1-eng-GB/Webb_s_first_deep_field_MIRI_and_NIRCam_pillars.png" alt="Webb’s first deep field (MIRI and NIRCam)">
+</figure>
+</div>
+</li>
+						
+						</ul></div>
+	</section>				
+		
+									
+	<section class="cards">
+					<h2 class="heading section-heading">Webb overview </h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1614345960">
+<a class="card focuson exploring-discovering" href="https://www.esa.int/Science_Exploration/Space_Science/Webb_factsheet">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2018/03/artist_s_impression_of_the_james_webb_space_telescope/17429370-1-eng-GB/Artist_s_impression_of_the_James_Webb_Space_Telescope_card_medium.jpg" alt="Artist's impression of the James Webb Space Telescope">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Science & Exploration</span>
+				<h3 class="heading">Webb factsheet</h3> 
+		<p class="subheading">Overview of the Webb mission</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+											
+												
+																			
+				
+	
+	
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1625727660">
+<a class="card focuson exploring-discovering" href="/Science_Exploration/Space_Science/Webb/James_Webb_Space_Telescope_launch_kit">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/06/webb_launch_kit_cover/23323428-1-eng-GB/Webb_launch_kit_cover_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Science & Exploration</span>
+				<h3 class="heading">Webb launch kit</h3> 
+		<p class="subheading">Interactive infographics and background information to prepare for Webb's launch</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+											
+												
+																			
+ 
+		
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1634023740">
+<a class="card focuson" href="/About_Us/ESA_Publications/ESA_BR-348_Webb_Seeing_farther">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/10/esa_br-348_webb/23501649-7-eng-GB/ESA_BR-348_Webb_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Webb brochure</h3> 
+		<p class="subheading">Available in 6 languages, as an interactive format and downloadable PDF</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1640003040">
+<a class="card focuson" href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_fulldome_material_for_digital_dome_theaters" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/10/webb_flies_ariane_5/23528641-1-eng-GB/Webb_flies_Ariane_5_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Webb fulldome material</h3> 
+		<p class="subheading">Webb fulldome material for digital dome theaters</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1634722140">
+<a class="card focuson" href="https://www.esa.int/About_Us/Exhibitions/Webb">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/10/webb_seeing_farther/23528509-3-eng-GB/Webb_seeing_farther_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Webb</h3> 
+		<p class="subheading">A set of images for projection or print giving an overview of Webb.</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1086859860">
+<a class="card focuson exploring-discovering" href="http://sci.esa.int/science-e/www/area/index.cfm?fareaid=29" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2015/12/test_mirror_segments_for_the_james_webb_space_telescope/15558313-1-eng-GB/Test_mirror_segments_for_the_James_Webb_Space_Telescope_card_medium.jpg" alt="Test mirror segments for the James Webb Space Telescope">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Science & Exploration</span>
+				<h3 class="heading">Webb in depth</h3> 
+		<p class="subheading">Spacecraft testing journals, and science mission in depth </p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1614004140">
+<a class="card focuson" href="https://www.esa.int/Enabling_Support/Space_Transportation/Ariane">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/12/ariane_5_moved_to_meet_webb2/23838330-2-eng-GB/Ariane_5_moved_to_meet_Webb_card_medium.jpg" alt="Webb's Ariane 5 launch vehicle exits the launch vehicle integration building at Europe's Spaceport">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Ariane 5 overview</h3> 
+		<p class="subheading">Webb will launch on an Ariane 5 from Europe's Spaceport in Kourou</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1614346140">
+<a class="card focuson exploring-discovering" href="https://www.esa.int/Science_Exploration/Space_Science/MIRI_factsheet">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2013/07/miri_integration_into_jwst_payload_module/12931589-1-eng-GB/MIRI_integration_into_JWST_payload_module_card_medium.jpg" alt="MIRI integration into JWST payload module">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Science & Exploration</span>
+				<h3 class="heading">MIRI factsheet</h3> 
+		<p class="subheading">MIRI instrument overview, part of Europe's contribution to Webb</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1614346260">
+<a class="card focuson exploring-discovering" href="https://www.esa.int/Science_Exploration/Space_Science/NIRSpec_factsheet">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2013/09/jwst_s_near_infrared_spectrograph_nirspec/13013688-1-eng-GB/JWST_s_Near_InfraRed_Spectrograph_NIRSpec_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Science & Exploration</span>
+				<h3 class="heading">NIRSpec factsheet</h3> 
+		<p class="subheading">NIRSpec instrument overview, part of Europe's contribution to Webb </p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+ 
+		
+		
+									
+	<section class="cards">
+					<h2 class="heading section-heading">Blogs and partner sites</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1642062600">
+<a class="card focuson" href="https://esawebb.org/" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/02/esa_webb_logo/23168175-2-eng-GB/ESA_Webb_logo_card_medium.png" alt="Webb logo">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">ESA Webb community site</h3> 
+		<p class="subheading">ESA Webb site for scientific community</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1642061220">
+<a class="card focuson" href="https://blogs.nasa.gov/webb/" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/01/webb_identifier/23891169-1-eng-GB/Webb_identifier_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Webb blog</h3> 
+		<p class="subheading">NASA/ESA/CSA blog</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1373268960">
+<a class="card focuson" href="http://www.jwst.nasa.gov/">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/03/nasa_logo/21872476-1-eng-GB/NASA_logo_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Webb at NASA </h3> 
+		<p class="subheading">Webb is an international partnership between NASA, ESA, and CSA</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1336555800">
+<a class="card focuson" href="http://www.asc-csa.gc.ca/eng/satellites/jwst/" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/04/csa_logo/24850490-1-eng-GB/CSA_logo_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Webb at CSA</h3> 
+		<p class="subheading">Webb is an international partnership between NASA, ESA, and CSA</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+ 
+		
+		
+								
+
+		
+		
+											<section class="link-section dark">
+		<div class="theme-block exploring-discovering">
+					<h2 class="heading section-heading">More about Webb </h2>
+	<div class="section-group button-group">
+															 
+								
+										<h3 class="heading">About Webb</h3>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Space_Science/Webb/What_is_Webb" class="btn">What is Webb? </a>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Space_Science/Webb/Europe_s_role_in_Webb" class="btn">Europe’s role in Webb</a>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Space_Science/Webb/Science_with_Webb" class="btn">Science with Webb</a>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Space_Science/Webb/Webb_s_instruments" class="btn">Webb’s instruments</a>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Space_Science/Webb/Spectra_detectives" class="btn">Spectra detectives</a>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Space_Science/Webb/From_Hubble_to_Webb" class="btn">From Hubble to Webb</a>
+		
+		 
+
+												
+									
+							<h3 class="heading">About Ariane 5</h3>
+		
+					
+																																								
+				 
+
+																													 
+												
+																											
+											
+																		<a href="/Enabling_Support/Space_Transportation/Ariane" class="btn">Ariane</a>
+				
+				 
+
+																																		
+													<a href="/Enabling_Support/Space_Transportation/Launch_vehicles/Ariane_5_ECA2" class="btn">Ariane 5 ECA</a>
+				
+				 
+
+																													 
+												
+																											
+											
+																		<a href="/Enabling_Support/Space_Transportation/Europe_s_Spaceport" class="btn">Europe's Spaceport</a>
+				
+				 
+
+			 
+						</div> 
+			<div class="section-group button-group">
+					 
+
+															 
+								
+										<h3 class="heading">Multimedia</h3>
+		
+		 
+
+															 
+								
+										<a href="https://www.esa.int/ESA_Multimedia/Search?SearchText=webb&result_type=images" class="btn">Webb images</a>
+		
+		 
+
+															 
+								
+										<a href="https://www.esa.int/ESA_Multimedia/Search?SearchText=webb&result_type=videos" class="btn">Webb videos</a>
+		
+		 
+
+															 
+								
+										<h3 class="heading">Follow us</h3>
+		
+		 
+
+															 
+								
+										<a href="https://twitter.com/ESA_Webb" class="btn"><i class="fab fa-twitter"></i> @ESA_Webb</a>
+		
+		 
+
+	 
+	</div> 
+
+</div> 
+ 
+		</section>
+			
+		
+		
+ 
+
+
+	<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice_ESA_website">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

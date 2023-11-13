@@ -1,0 +1,651 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="SOHO overview">
+<title>ESA - SOHO overview</title>						<meta name="keywords" content="SPCS soho overview">
+			
+	
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header exploring-discovering">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'exploring-discovering';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+		<script>
+$.post(
+	'/ezjscore/call', 
+	"ezjscServer_function_arguments=esaux::viewsincr::183489", 
+	function(data) { 
+		$(document).ready(function() {			$('#viewcount').text(data)
+		})
+	})
+</script>
+
+
+
+<article class="article mission-overview exploring-discovering">
+
+<div class="feature slider"><div class="flexslider"><ul class="slides">	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2015/12/SOHO">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2015/12/soho/15706139-1-eng-GB/SOHO_pillars.jpg" alt="SOHO ">
+				<figcaption class="image__caption">SOHO </figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2020/12/29_November_2020_coronal_mass_ejection">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/12/29_november_2020_coronal_mass_ejection/22353110-1-eng-GB/29_November_2020_coronal_mass_ejection_pillars.gif" alt="29 November 2020 coronal mass ejection ">
+				<figcaption class="image__caption">29 November 2020 coronal mass ejection </figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2000/12/A_solar_flare_26-Nov-2000">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2000/12/a_solar_flare_26-nov-2000/9220338-5-eng-GB/A_solar_flare_26-Nov-2000_pillars.jpg" alt="A solar flare, 26-Nov-2000">
+				<figcaption class="image__caption">A solar flare, 26-Nov-2000</figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2017/06/SOHO_s_summer_solstice_Sun">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/06/soho_s_summer_solstice_sun/17035739-1-eng-GB/SOHO_s_summer_solstice_Sun_pillars.jpg" alt="SOHO’s summer solstice Sun">
+				<figcaption class="image__caption">SOHO’s summer solstice Sun</figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2020/12/SOHO_25_years_of_solar_imaging">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/12/soho_25_years_of_solar_imaging/22352543-3-eng-GB/SOHO_25_years_of_solar_imaging_pillars.gif" alt="SOHO: 25 years of solar imaging ">
+				<figcaption class="image__caption">SOHO: 25 years of solar imaging </figcaption>
+			</a></figure></div></li></ul></div></div>
+
+<header class="entry article__block">
+	<span class="pillar article__item">Science & Exploration</span>
+	<h1 class="heading heading--main article__item">SOHO overview</h1>
+	<div class="meta article__item">
+		<span><span id="viewcount">45375</span><small> views</small></span>
+		
+	</div>
+</header>
+<div class="breadcrumbs article__block article__item">
+<a class="breadcrumbs__entry" href="/">ESA</a> /			<a class="breadcrumbs__entry" href="/Science_Exploration">Science & Exploration</a> /			<a class="breadcrumbs__entry" href="/Science_Exploration/Space_Science">Space Science</a></div>
+
+
+<div class="abstract article__block article__item">
+	
+</div>
+
+
+
+
+<div class="article__block">
+				</div>
+
+
+    
+					
+	
+    
+							
+														
+																	
+
+
+
+							
+				
+								
+						
+								
+												<div class="article__block">
+				<figure class="article__image article__image--left">
+					<a href="/ESA_Multimedia/Images/2001/08/Artist_s_impression_of_the_SOHO_spacecraft" class="popup">
+				<img src="/var/esa/storage/images/esa_multimedia/images/2001/08/artist_s_impression_of_the_soho_spacecraft/9204218-5-eng-GB/Artist_s_impression_of_the_SOHO_spacecraft_article.jpg" alt="Artist's impression of the SOHO spacecraft">
+			</a>
+				<figcaption class="image__caption">
+							<a href="/ESA_Multimedia/Images/2001/08/Artist_s_impression_of_the_SOHO_spacecraft">Artist's impression of the SOHO spacecraft</a>
+								</figcaption>
+	</figure>	
+		<p>
+<b>Status</b><br />In operation</p><p>
+<b>Objective</b><br />Staring at the Sun, SOHO’s studies range from the Sun's interior, its visible surface and stormy atmosphere, to where the solar wind blows in distant regions of our Solar System.</p><p>
+<b>Mission</b><br />The Solar and Heliospheric Observatory (SOHO) is stationed 1.5 million kilometres away from Earth. There, it constantly watches the Sun, returning spectacular pictures and data of the storms that rage across its surface. SOHO's studies range from the Sun's hot interior, through its visible surface and stormy atmosphere, and out to distant regions where the wind from the Sun battles with a breeze of atoms coming from among the stars. The SOHO mission is a joint ESA/NASA project.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">What's special?</h2>
+	    
+						
+		<p>Every day SOHO sends thrilling images from which research scientists learn about the Sun's nature and behaviour. Experts around the world use SOHO images and data to help them predict 'space weather' events affecting our planet.</p><p>SOHO moves around the Sun on the sunward side of Earth, where it enjoys an uninterrupted view of the Sun, by slowly orbiting around Lagrange point L1. This a spot in space where the gravitational fields of the Sun and Earth cancel each other and keep SOHO in an orbit locked in line with the two bodies.</p><p>Discoveries include complex currents of gas flowing beneath the visible solar surface and rapid changes in the pattern of magnetic fields. In the Sun’s atmosphere, SOHO also sees explosions, remarkable shock waves and tornadoes.</p>	</div>	
+    
+						
+			<div class="article__block">
+				<p>&nbsp;</p> <iframe width="560" height="315" src="https://www.youtube.com/embed/YYTh3ontyh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Spacecraft</h2>
+	    
+						
+		<p>The total mass of the spacecraft at launch was 1850 kilograms. Its length along the sun-pointing axis is 4.3 metres, and the span of the extended solar panels is 9.5 metres.</p><p>The instruments on board SOHO are:</p>
+<ul>
+
+<li>CDS (Coronal Diagnostic Spectrometer) from Rutherford Appleton Laboratory, United Kingdom.</li>
+
+<li>CELIAS (Charge, Element, and Isotope Analysis System) from the University of Bern, Switzerland.</li>
+
+<li>COSTEP (Comprehensive Suprathermal and Energetic Particle Analyser) from the University of Kiel, Germany.</li>
+
+<li>EIT (Extreme ultraviolet Imaging Telescope) from the Institut d'Astrophysique Spatiale, France.</li>
+
+<li>ERNE (Energetic and Relativistic Nuclei and Electron experiment) from the University of Turku, Finland.</li>
+
+<li>GOLF (Global Oscillations at Low Frequencies) from the Institut d'Astrophysique Spatiale, France.</li>
+
+<li>LASCO (Large Angle and Spectrometric Coronagraph) from the Naval Research Laboratory, United States.</li>
+
+<li>MDI (Michelson Doppler Imager) from Stanford University, United States.</li>
+
+<li>SUMER (Solar Ultraviolet Measurements of Emitted Radiation) from the Max-Planck-Institut für Aeronomie, Germany.</li>
+
+<li>SWAN (Solar Wind Anisotropies) from Service d'Aeronomie, France.</li>
+
+<li>UVCS (Ultraviolet Coronagraph Spectrometer) from Harvard-Smithsonian Center for Astrophysics, United States.</li>
+
+<li>VIRGO (Variability of Solar Irradiance and Gravity Oscillations) from PMO/WRC Davos, Switzerland.</li>
+
+</ul>
+	</div>	
+	<div class="article__block">
+	<h2 class="heading">Journey</h2>
+	    
+							
+														
+																	
+
+
+
+							
+				
+								
+						
+								
+											<figure class="article__image article__image--left">
+					<a href="/ESA_Multimedia/Images/2003/04/SOHO_s_launch_2_December_1995" class="popup">
+				<img src="/var/esa/storage/images/esa_multimedia/images/2003/04/soho_s_launch_2_december_1995/9784041-3-eng-GB/SOHO_s_launch_2_December_1995_article.jpg" alt="SOHO's launch, 2 December  1995">
+			</a>
+				<figcaption class="image__caption">
+							<a href="/ESA_Multimedia/Images/2003/04/SOHO_s_launch_2_December_1995">SOHO's launch, 2 December  1995</a>
+								</figcaption>
+	</figure>	
+		<p>SOHO had such a flawless launch in 1995, that it had to use only very little thruster fuel for course corrections during its journey out to its operating position L1.</p><p>SOHO was meant to operate until 1998, but it was so successful that ESA and NASA decided to prolong its life several times and endorsed several mission extensions. It celebrated its <a href="https://www.esa.int/Science_Exploration/Space_Science/SOHO_s_pioneering_25_years_in_orbit">25th launch anniversary</a> in 2020 and its mission is ongoing.</p><p>Three years into its mission, in June 1998, contact was lost with SOHO after a sequence of incorrect commands during what should have been a routine manoeuvre. All attempts to re-establish contact with the spacecraft failed and no one knew where it was for four weeks.</p><p>In August 1998, a powerful radar signal from Earth produced a faint echo from the spacecraft. SOHO was still in the right place and angled in such a way that sunlight would begin to fall on its solar cells again during the following months, so enabling it to resume normal operations.</p><p>Other difficulties came with the loss of the gyroscopes used to control the spacecraft orientation. Despite these problems, engineers have kept SOHO functioning with all its instruments performing well. SOHO was the first three-axis stabilised spacecraft to be operated without any gyroscopes.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">History</h2>
+	    
+						
+		<p>SOHO was first proposed 13 years before its actual launch and the roots of SOHO were laid in earlier studies, namely those of GRIST (Grazing Incidence Solar Telescope) and DISCO (Dual Spectral Irradiance and Solar Constant Orbiter). It is the combination of the objectives of these two missions that constitutes the core of the SOHO mission.</p><p>In June 1976, GRIST had been competing with a 'Solar Probe' as well as other studies involving other disciplines for further study. Solar Probe envisaged a set of instruments on a spacecraft that would get close to the Sun. Although its assessment study cited four scientific disciplines interested in the mission, Solar Probe was not followed up at the time.</p><p>The GRIST study, on the other hand, proceeded to a feasibility stage. GRIST was preferred over Solar Probe because the wavelength range accessible through its optics was particularly useful for studying the hot outer solar atmosphere. GRIST was at that time being designed for flights on Spacelab.</p><p>Following the 1976 study, GRIST did not make it to project selection either. It was based on a collaboration with NASA which became a victim in 1981 of NASA's cancellation of the US probe in the International Solar Polar Mission (ISPM, the former 'Out-of-Ecliptic Mission', now called Ulysses). GRIST was 'parked', but restricted studies on its main spectrometers were supported by ESA.</p><p>In 1980, a group of French and American physicists observed the Sun continuously from Antarctica, studying solar physics with the best conditions available on Earth. These historic observations led to the decision to include the same sort of experiments on board a newly proposed mission called DISCO. DISCO would sit at the L1 Lagrange point between the Sun and Earth, which would be an ideal observing site. A miniaturised version of the South Pole experiment could be used as part of DISCO’s payload, provided its weight could be reduced.</p><p>DISCO was conceived as a fairly small and cheap spin-stabilised spacecraft, weighing no more than 520 kilograms. It was intended to prove that ESA could also undertake small and inexpensive missions. A first assessment was made in 1981, when DISCO had remained a relatively inexpensive spinning satellite, very similar to Cluster. ESA's Solar System Working Group preferred DISCO to a competing Mars mission called 'Keller', but DISCO eventually lost out to the Infrared Space Observatory in 1983.</p><p>SOHO itself developed as a mission in 1983, combining many of the aspects of the previously planned missions. It became important because it developed momentum, together with the Cluster mission, as part of the International Solar–Terrestrial Physics Programme. In May 1984, ESA identified SOHO as a part of the 'Cornerstone' of its long-term 'Horizon 2000' science programme.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Partnerships</h2>
+	    
+							
+														
+																	
+
+
+
+							
+				
+								
+						
+								
+											<figure class="article__image article__image--right">
+					<a href="/ESA_Multimedia/Images/2002/08/Cluster_II" class="popup">
+				<img src="/var/esa/storage/images/esa_multimedia/images/2002/08/cluster_ii/9148228-6-eng-GB/Cluster_II_article.jpg" alt="Cluster II">
+			</a>
+				<figcaption class="image__caption">
+							<a href="/ESA_Multimedia/Images/2002/08/Cluster_II">Cluster II</a>
+								</figcaption>
+	</figure>	
+		<p>SOHO is part of the first Cornerstone project in ESA's Science programme (the other is Cluster). Both are joint ESA/NASA projects in which ESA is the senior partner. SOHO and Cluster are also contributions to the International Solar-Terrestrial Physics Programme, to which ESA, NASA, Japan, Russia, Sweden and Denmark all contribute satellites monitoring the Sun and solar effects.</p><p>Of the spacecraft's 12 instruments, nine come from multinational teams led by European scientists, and three from US-led teams. More than 1500 scientists from around the world have been involved with the SOHO programme.</p><p>SOHO was built by industrial companies in 14 European countries, led by Matra-Marconi (now Astrium). The service module, with solar panels, thrusters, attitude control systems, communications, and housekeeping functions, was prepared in Toulouse, France. The payload module carrying the scientific instruments was assembled in Portsmouth, United Kingdom, and mated with the service module in Toulouse, France. NASA launched SOHO and is responsible for tracking, telemetry reception, and commanding.</p>	</div>
+</article>
+
+
+	<section class="cards">
+		<h2 class="heading section-heading">Related Links</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1297332120">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/SOHO_science_highlights">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2008/02/the_solar_corona_during_an_extreme_solar_event/9602193-3-eng-GB/The_solar_corona_during_an_extreme_solar_event_card_medium.jpg" alt="The solar corona during an extreme solar event">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">SOHO science highlights</h3>  
+
+<div class="meta">
+		<span>7306 <small>views</small></span>
+			<span>19 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1668506820">
+<a class="card focuson exploring-discovering" href="https://sci.esa.int/web/soho/" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2001/08/artist_s_impression_of_the_soho_spacecraft/9204218-5-eng-GB/Artist_s_impression_of_the_SOHO_spacecraft_card_medium.jpg" alt="Artist's impression of the SOHO spacecraft">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Science & Exploration</span>
+				<h3 class="heading">SOHO in depth</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1066988640">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Safety_tips_for_observing_the_Sun">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2003/06/space_sensations/9786185-3-eng-GB/Space_sensations_card_medium.jpg" alt="Space sensations">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Safety tips for observing the Sun</h3>  
+
+<div class="meta">
+		<span>6264 <small>views</small></span>
+			<span>11 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+													
+						
+											
+
+		
+<div class="grid-item story" data-date="1055423160">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Cluster/Space_weather2">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2001/12/cluster_probes_the_mysteries_of_the_black_aurora/9145757-5-eng-GB/Cluster_probes_the_mysteries_of_the_black_aurora_card_medium.jpg" alt="Cluster probes the mysteries of the black aurora">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Space weather</h3>  
+
+<div class="meta">
+		<span>4142 <small>views</small></span>
+			<span>21 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+													
+						
+											
+
+		
+<div class="grid-item story" data-date="1066996800">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/What_are_solar_flares">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2001/04/the_solar_flare_of_2_april_2001_observed_by_the_eit_on_soho/9144014-5-eng-GB/The_solar_flare_of_2_April_2001_observed_by_the_EIT_on_SOHO_card_medium.jpg" alt="The solar flare of 2 April 2001 observed by the EIT on SOHO">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">What are solar flares?</h3>  
+
+<div class="meta">
+		<span>133053 <small>views</small></span>
+			<span>553 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1060681680">
+<a class="card focuson" href="http://sohowww.estec.esa.nl/" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2015/12/soho/15706139-1-eng-GB/SOHO_card_medium.jpg" alt="SOHO ">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">SOHO mission home page</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+
+		<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

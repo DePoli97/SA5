@@ -47,7 +47,9 @@
 <title>ESA - Ariane</title>					<meta name="description" content="Ariane">
 		<meta property="og:description" content="Ariane">
 				<meta name="keywords" content="Ariane">
-			<script>
+			
+	
+	<script>
 var _paq = window._paq = window._paq || [];
 _paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
 _paq.push(["enableCrossDomainLinking"]);
@@ -265,8 +267,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>25/10/2023</span>
-		<span>3946 <small>views</small></span>
-			<span>116 <small>likes</small></span>
+		<span>5002 <small>views</small></span>
+			<span>128 <small>likes</small></span>
 		
 	</div>
 	</header>
@@ -302,7 +304,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>19/10/2023</span>
-		<span>2228 <small>views</small></span>
+		<span>2389 <small>views</small></span>
 			<span>15 <small>likes</small></span>
 		
 	</div>
@@ -344,8 +346,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>28/09/2023</span>
-		<span>13062 <small>views</small></span>
-			<span>118 <small>likes</small></span>
+		<span>13492 <small>views</small></span>
+			<span>119 <small>likes</small></span>
 		
 	</div>
 	</header>
@@ -381,7 +383,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>21/09/2023</span>
-		<span>2399 <small>views</small></span>
+		<span>2453 <small>views</small></span>
 			<span>17 <small>likes</small></span>
 		
 	</div>
@@ -425,8 +427,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>06/09/2023</span>
-		<span>12392 <small>views</small></span>
-			<span>75 <small>likes</small></span>
+		<span>12914 <small>views</small></span>
+			<span>76 <small>likes</small></span>
 		
 	</div>
 			</header>
@@ -467,7 +469,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>06/09/2023</span>
-		<span>9811 <small>views</small></span>
+		<span>9848 <small>views</small></span>
 			<span>99 <small>likes</small></span>
 		
 	</div>
@@ -511,7 +513,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>04/09/2023</span>
-		<span>8813 <small>views</small></span>
+		<span>8840 <small>views</small></span>
 			<span>44 <small>likes</small></span>
 		
 	</div>
@@ -555,7 +557,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>02/09/2023</span>
-		<span>13633 <small>views</small></span>
+		<span>13672 <small>views</small></span>
 			<span>65 <small>likes</small></span>
 		
 	</div>
@@ -599,8 +601,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>06/08/2023</span>
-		<span>2320 <small>views</small></span>
-			<span>91 <small>likes</small></span>
+		<span>2376 <small>views</small></span>
+			<span>92 <small>likes</small></span>
 		
 	</div>
 			</header>
@@ -643,7 +645,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>05/08/2023</span>
-		<span>1895 <small>views</small></span>
+		<span>1938 <small>views</small></span>
 			<span>81 <small>likes</small></span>
 		
 	</div>
@@ -680,7 +682,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>11/04/2023</span>
-		<span>7337 <small>views</small></span>
+		<span>7345 <small>views</small></span>
 			<span>117 <small>likes</small></span>
 		
 	</div>
@@ -720,7 +722,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>28/03/2023</span>
-		<span>1713 <small>views</small></span>
+		<span>1719 <small>views</small></span>
 			<span>27 <small>likes</small></span>
 		
 	</div>
@@ -760,7 +762,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>28/03/2023</span>
-		<span>380 <small>views</small></span>
+		<span>387 <small>views</small></span>
 			<span>2 <small>likes</small></span>
 		
 	</div>
@@ -800,7 +802,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>28/03/2023</span>
-		<span>281 <small>views</small></span>
+		<span>287 <small>views</small></span>
 			<span>1 <small>likes</small></span>
 		
 	</div>
@@ -840,7 +842,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>02/03/2023</span>
-		<span>722 <small>views</small></span>
+		<span>728 <small>views</small></span>
 			<span>2 <small>likes</small></span>
 		
 	</div>
@@ -894,8 +896,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>14/06/2023</span>
-		<span>2758 <small>views</small></span>
-			<span>31 <small>likes</small></span>
+		<span>2793 <small>views</small></span>
+			<span>32 <small>likes</small></span>
 		
 	</div>
 		<a class="cta popup" href="/ESA_Multimedia/Videos/2023/06/25_years_of_Ariane_5">
@@ -936,7 +938,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>26/06/2023</span>
-		<span>1616 <small>views</small></span>
+		<span>1642 <small>views</small></span>
 			<span>56 <small>likes</small></span>
 		
 	</div>
@@ -978,7 +980,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>06/06/2019</span>
-		<span>7178 <small>views</small></span>
+		<span>7202 <small>views</small></span>
 			<span>308 <small>likes</small></span>
 		
 	</div>
@@ -1018,7 +1020,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>14/04/2023</span>
-		<span>448 <small>views</small></span>
+		<span>456 <small>views</small></span>
 			<span>4 <small>likes</small></span>
 		
 	</div>
@@ -1058,7 +1060,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>06/07/2023</span>
-		<span>111 <small>views</small></span>
+		<span>118 <small>views</small></span>
 			<span>2 <small>likes</small></span>
 		
 	</div>
@@ -1100,7 +1102,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>17/02/2020</span>
-		<span>16027 <small>views</small></span>
+		<span>16090 <small>views</small></span>
 			<span>130 <small>likes</small></span>
 		
 	</div>

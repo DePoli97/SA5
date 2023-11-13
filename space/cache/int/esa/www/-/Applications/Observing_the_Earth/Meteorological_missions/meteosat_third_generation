@@ -1,0 +1,1807 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="meteosat third generation">
+<title>ESA - meteosat third generation</title>					<meta name="description" content="Meteosat Third Generation">
+		<meta property="og:description" content="Meteosat Third Generation">
+				<meta name="keywords" content="Meteosat Third Generation">
+			
+	
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header connecting-benefiting">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'connecting-benefiting';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+				
+			<section class="page-header mission-header connecting-benefiting">
+	<header class="entry">
+		<a href="/Applications" class="pillar">Applications</a>
+		<h1 class="heading">meteosat third generation </h1>
+		<p class="subheading">Monitoring the weather from geostationary orbit</p> 
+	</header>
+	<div class="social-media-links">
+		
+										
+													
+														
+														
+														
+						</div>
+					<img class="image-bg stellar" src="/var/esa/storage/images/applications/observing_the_earth/meteorological_missions/meteosat_third_generation/19717127-6-eng-GB/Meteosat_Third_Generation_pillars.jpg" alt="meteosat third generation" data-stellar-ratio="0.8"> 
+</section>
+
+<section class="mission-details">
+	<div class="mission-intro">
+		
+		<a name="eztoc19727357_1" id="eztoc19727357_1"></a><h2><b>The mission</b></h2><p>Building on the long-standing partnership between ESA and Eumetsat, Meteosat Third Generation will guarantee the continuity of data for weather forecasting from geostationary orbit for the next two decades. The full MTG system&nbsp;is based on a series of two types of satellite: four MTG-Imagers and two MTG-Sounders. The first satellite, MTG-I1, was launched on 13 December 2022.</p>
+	</div>
+	<div class="mission-data">
+		
+		<a name="eztoc19728380_1" id="eztoc19728380_1"></a><h2><b>The launch</b></h2>
+<ul>
+
+<li><b>Date: </b>from 2022</li>
+
+<li><b>Site:&nbsp;</b>Kourou, French Guiana</li>
+
+<li><b>Rocket:&nbsp;</b>Ariane 5</li>
+
+</ul>
+
+	</div>
+		<div class="mission-logo">
+		<img src="/var/esa/storage/images/applications/observing_the_earth/meteorological_missions/meteosat_third_generation/19729403-16-eng-GB/meteosat_third_generation_pillars.jpg"> 
+	</div>
+	</section>
+
+<section class="mission-stats connecting-benefiting">
+	
+		
+		
+<ul>
+
+<li><a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Satellite_constellation"><b>6</b></a> satellite system</li>
+
+<li><a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Facts_and_figures"><b>4 </b></a>Imager satellites</li>
+
+<li><a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Facts_and_figures"><b>2 </b></a>Sounder satellites</li>
+
+<li><a href="https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Introducing_MTG"><b>20-year</b></a> operational life</li>
+
+</ul>
+
+	
+	<div class="dimmer"></div>
+	<img class="image-bg" src="/" alt="meteosat third generation">
+</section>
+
+
+
+	
+						  
+	
+
+
+
+
+
+
+					 
+
+	
+																																			
+				
+																																																					
+				
+														
+				
+												
+			
+	
+					
+			
+			 
+		
+					
+			
+			 
+		
+					
+						
+						 
+		
+					
+			
+			 
+						
+ 
+
+<section class="cards filtered">
+	<div class="filter-wrapper">
+		<h2 class="heading section-heading">
+			
+							Latest
+					</h2>
+		<div class="filters button-group">
+			<button data-filter="" class="btn active">All</button>
+			<button data-filter=".story" class="btn">Stories</button>
+			<button data-filter=".video" class="btn">Videos</button>
+			<button data-filter=".image" class="btn">Images</button>
+		</div>
+	</div>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1694430000">
+<a class="card video connecting-benefiting popup" href="/ESA_Multimedia/Videos/2023/09/Meteosat_Third_Generation_painting_the_full_picture">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:00:14
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2023/09/meteosat_third_generation_painting_the_full_picture/25078544-1-eng-GB/Meteosat_Third_Generation_painting_the_full_picture_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Meteosat Third Generation: painting the full picture</h3>  
+
+<div class="meta">
+			<span>11/09/2023</span>
+		<span>3661 <small>views</small></span>
+			<span>111 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1692018600">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Putting_the_S_in_the_first_Meteosat_Third_Generation_Sounder">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/08/the_mtg_infrared_sounder_prior_to_integration_on_mtg-s1/25045185-2-eng-GB/The_MTG_Infrared_Sounder_prior_to_integration_on_MTG-S1_card_medium.jpg" alt="The MTG Infrared Sounder prior to integration on MTG-S1">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Putting the S in the first Meteosat Third Generation Sounder</h3>  
+
+<div class="meta">
+			<span>14/08/2023</span>
+		<span>3430 <small>views</small></span>
+			<span>78 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1688389200">
+<a class="card video connecting-benefiting popup" href="/ESA_Multimedia/Videos/2023/07/First_data_from_Europe_s_Lightning_Imager">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:04:49
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2023/07/first_data_from_europe_s_lightning_imager/24968605-1-eng-GB/First_data_from_Europe_s_Lightning_Imager_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">First data from Europe’s Lightning Imager </h3>  
+
+<div class="meta">
+			<span>03/07/2023</span>
+		<span>5512 <small>views</small></span>
+			<span>122 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1688385000">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/European_satellite_strikes_lightning">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/07/lightning_over_europe/24968208-3-eng-GB/Lightning_over_Europe_card_medium.gif" alt="Lightning over Europe">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">European satellite strikes lightning</h3>  
+
+<div class="meta">
+			<span>03/07/2023</span>
+		<span>16101 <small>views</small></span>
+			<span>68 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1683201600">
+<a class="card video connecting-benefiting popup" href="/ESA_Multimedia/Videos/2023/05/Meteosat_Third_Generation_s_first_stunning_image">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:03:57
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2023/05/meteosat_third_generation_s_first_stunning_image/24865665-1-eng-GB/Meteosat_Third_Generation_s_first_stunning_image_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Meteosat Third Generation's first stunning image </h3>  
+
+<div class="meta">
+			<span>04/05/2023</span>
+		<span>5508 <small>views</small></span>
+			<span>155 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+													
+						
+											
+
+		
+<div class="grid-item story" data-date="1683187200">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/New_weather_satellite_reveals_spectacular_images_of_Earth">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/05/full_earth_disc/24859668-4-eng-GB/Full_Earth_disc_card_medium.png" alt="Full Earth disc">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">New weather satellite reveals spectacular images of Earth</h3>  
+
+<div class="meta">
+			<span>04/05/2023</span>
+		<span>146085 <small>views</small></span>
+			<span>419 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1679326200">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Space_for_our_climate/Earth_observation_supports_latest_UN_climate_report">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/03/air_pollution/24760827-1-eng-GB/Air_pollution_card_medium.jpg" alt="Air pollution">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Earth observation supports latest UN climate report</h3>  
+
+<div class="meta">
+			<span>20/03/2023</span>
+		<span>4776 <small>views</small></span>
+			<span>70 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1675932780">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Copernicus/Sentinel-4_set_to_join_next_weather_satellite">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/02/preparing_to_test_sentinel-4/24709921-1-eng-GB/Preparing_to_test_Sentinel-4_card_medium.jpg" alt="Preparing to test Sentinel-4">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Sentinel-4 set to join next weather satellite</h3>  
+
+<div class="meta">
+			<span>09/02/2023</span>
+		<span>2973 <small>views</small></span>
+			<span>64 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1674143520">
+<a class="card video connecting-benefiting popup" href="/ESA_Multimedia/Videos/2023/01/Timelapse_of_Meteosat_Third_Generation_Imager_Launch">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:03:19
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2023/01/timelapse_of_meteosat_third_generation_imager_launch/24682536-2-eng-GB/Timelapse_of_Meteosat_Third_Generation_Imager_Launch_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Timelapse of Meteosat Third Generation Imager Launch</h3>  
+
+<div class="meta">
+			<span>19/01/2023</span>
+		<span>721 <small>views</small></span>
+			<span>6 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1670968800">
+<a class="card video connecting-benefiting popup" href="/ESA_Multimedia/Videos/2022/12/MTG-I1_launch_coverage">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">02:43:00
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2022/12/mtg-i1_launch_coverage/24620479-6-eng-GB/MTG-I1_launch_coverage_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">MTG-I1 launch coverage</h3>  
+
+<div class="meta">
+			<span>13/12/2022</span>
+		<span>5806 <small>views</small></span>
+			<span>79 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1670963940">
+<a class="card image connecting-benefiting popup" href="/ESA_Multimedia/Images/2022/12/Europe_s_all-new_weather_satellite_takes_to_the_skies">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Applications</span>
+
+<h3 class="heading">Europe’s all-new weather satellite takes to the skies</h3>  
+
+<div class="meta">
+			<span>13/12/2022</span>
+		<span>3558 <small>views</small></span>
+			<span>95 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/12/europe_s_all-new_weather_satellite_takes_to_the_skies/24622403-8-eng-GB/Europe_s_all-new_weather_satellite_takes_to_the_skies_card_full.png" alt="Europe’s all-new weather satellite takes to the skies">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+				
+	
+	
+ 
+	
+ 
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	<div class="grid-item highlight">
+<a class="card highlight connecting-benefiting" href="https://indd.adobe.com/view/80cb38fc-bf13-4d48-a8f8-bc0fbbe403a5" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Highlight</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Applications</span>
+			<h3 class="heading">Explore Meteosat Third Generation</h3>
+			
+		</header>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/12/mtg_interactive_brochure_cover/24619344-1-eng-GB/MTG_interactive_brochure_cover_card_full.jpg" alt="">
+		<div class="cta">
+			<label>Open</label>
+			<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Open">
+		</div>
+	</figure>
+</a>
+</div>
+  
+					
+				
+	
+	
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1669716900">
+<a class="card focuson connecting-benefiting" href="/Newsroom/Press_Releases/Media_invitation_Meteosat_Third_Generation_Imager-1_Launch" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/11/meteosat_third_generation_imager/24610914-1-eng-GB/Meteosat_Third_Generation_Imager_card_medium.gif" alt="Meteosat Third Generation Imager">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Media invitation:  Meteosat Third Generation Imager-1 launch</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+  
+					
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1667896620">
+<a class="card focuson connecting-benefiting" href="https://www.esa.int/Newsroom/Press_Releases/Media_advisory_Launch_of_the_first_Meteosat_Third_Generation_satellite_MTG-I1" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/08/meteosat_third_generation_weather_satellites/24390136-5-eng-GB/Meteosat_Third_Generation_weather_satellites_card_medium.jpg" alt="Meteosat Third Generation weather satellites">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Call for Media: launch of the first MTG satellite MTG-I1</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+  
+					
+				
+	
+	
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1660053780">
+<a class="card focuson connecting-benefiting" href="/Newsroom/Press_Releases/Invitation_to_media_Viewing_Europe_s_MTG-I_weather_satellite_before_launch_in_Cannes" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/03/mtg-i1_on_the_shaker/24009309-1-eng-GB/MTG-I1_on_the_shaker_card_medium.jpg" alt="MTG-I1 on the shaker">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Call for Media: view MTG-I weather satellite before launch</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+  
+				<div class="grid-item story image video"> 
+<a class="card more" href="/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/(archive)/0">
+	<div class="outline">
+		<h3 class="heading">More items</h3>
+	</div>
+</a>
+</div>
+	</div>
+</section>
+		
+		
+											<!-- # obj in slider 5 -->		<section class="feature slider">
+	<div class="flexslider"><ul class="slides">
+								<li>
+				
+	
+	
+ 
+	
+
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Image gallery</h3>
+		
+					<a class="cta" href="https://www.esa.int/ESA_Multimedia/Missions/MTG/(result_type)/images" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/08/meteosat_third_generation_weather_satellites/24390136-5-eng-GB/Meteosat_Third_Generation_weather_satellites_pillars.jpg" alt="Meteosat Third Generation weather satellites">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+	
+	
+ 
+	
+
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Video gallery</h3>
+		
+					<a class="cta" href="https://www.esa.int/ESA_Multimedia/Missions/MTG/(result_type)/videos" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2013/09/video_gallery/13006679-1-eng-GB/Video_gallery_pillars.jpg" alt="">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+	
+	
+ 
+	
+
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Applications</span>
+		<h3 class="heading">MTG-I interactive brochure</h3>
+		
+					<a class="cta" href="https://indd.adobe.com/view/80cb38fc-bf13-4d48-a8f8-bc0fbbe403a5" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/12/mtg_interactive_brochure_cover/24619344-1-eng-GB/MTG_interactive_brochure_cover_pillars.jpg" alt="">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+
+		
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">MTG-I1 pre-launch diary</h3>
+
+<div class="meta">
+			<span>28/09/2022</span>
+		<span>2056 <small>views</small></span>
+			<span>0 <small>likes</small></span>
+		
+	</div>
+		<a class="cta" href="/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/MTG-I1_pre-launch_diary">
+			<label>Read</label>
+			<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+		</a>
+	</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/12/mtg-i1_almost_sealed_from_view/24624589-1-eng-GB/MTG-I1_almost_sealed_from_view_pillars.jpg" alt="MTG-I1 almost sealed from view">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+
+
+	
+	
+
+	
+			  
+													
+						
+											
+
+		
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Downloads</h3>
+
+<div class="meta">
+			<span>02/12/2022</span>
+		<span>393 <small>views</small></span>
+			<span>3 <small>likes</small></span>
+		
+	</div>
+		<a class="cta" href="/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Downloads">
+			<label>Read</label>
+			<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+		</a>
+	</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/05/download_page_icon/22001315-1-eng-GB/Download_page_icon_pillars.jpg" alt="">
+</figure>
+</div>
+</li>
+						
+						</ul></div>
+	</section>				
+		
+									
+	<section class="cards">
+					<h2 class="heading section-heading">Discover Meteosat Third Generation</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1553592180">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Introducing_MTG">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/08/meteosat_third_generation_weather_satellites/24390136-5-eng-GB/Meteosat_Third_Generation_weather_satellites_card_medium.jpg" alt="Meteosat Third Generation weather satellites">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Introducing MTG</h3>  
+
+<div class="meta">
+		<span>12134 <small>views</small></span>
+			<span>23 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1552643700">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Solid_heritage">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2015/07/msg-4/15516404-1-eng-GB/MSG-4_card_medium.jpg" alt="MSG-4 in orbit">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Solid heritage</h3>  
+
+<div class="meta">
+		<span>606 <small>views</small></span>
+			<span>1 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1553763180">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Forecasting_the_weather">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/03/rainy_weather/19299886-1-eng-GB/Rainy_weather_card_medium.jpg" alt="Rainy weather">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Forecasting the weather</h3>  
+
+<div class="meta">
+		<span>2900 <small>views</small></span>
+			<span>2 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1666959540">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Weathering_the_storm">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/05/cyclone_amphan_making_landfall_over_bangladesh/22028803-1-eng-GB/Cyclone_Amphan_making_landfall_over_Bangladesh_card_medium.jpg" alt="Cyclone Amphan making landfall over Bangladesh">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Weathering the storm</h3>  
+
+<div class="meta">
+		<span>845 <small>views</small></span>
+			<span>3 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1553610240">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Satellite_constellation">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/03/observing_fast-evolving_weather_with_mtg/19298668-1-eng-GB/Observing_fast-evolving_weather_with_MTG_card_medium.png" alt="Observing fast-evolving weather with MTG">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Satellite constellation</h3>  
+
+<div class="meta">
+		<span>2231 <small>views</small></span>
+			<span>13 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1553697900">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Flexible_Combined_Imager">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2018/07/fci_at_test_centre/17577501-1-eng-GB/FCI_at_Test_Centre_card_medium.jpg" alt="FCI at Test Centre">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Flexible Combined Imager</h3>  
+
+<div class="meta">
+		<span>3118 <small>views</small></span>
+			<span>21 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1553698140">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Lightning_Imager">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/03/mtg_to_monitor_lightning/19299812-1-eng-GB/MTG_to_monitor_lightning_card_medium.jpg" alt="MTG to monitor lightning">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Lightning Imager</h3>  
+
+<div class="meta">
+		<span>6095 <small>views</small></span>
+			<span>13 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1553698380">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Infrared_Sounder">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/02/mtg_infrared_sounder/23164702-1-eng-GB/MTG_Infrared_Sounder_card_medium.jpg" alt="MTG Infrared Sounder">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Infrared Sounder</h3>  
+
+<div class="meta">
+		<span>1878 <small>views</small></span>
+			<span>8 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1553594520">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Facts_and_figures">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/03/testing_mtg_imager/19298375-1-eng-GB/Testing_MTG_imager_card_medium.jpg" alt="Testing MTG imager">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Facts and figures</h3>  
+
+<div class="meta">
+		<span>1964 <small>views</small></span>
+			<span>8 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1664808420">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Team_talk_10_things_about_Meteosat_Third_Generation">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/09/mtg-i_and_mtg-s/24426386-1-eng-GB/MTG-I_and_MTG-S_card_medium.jpg" alt="MTG-I and MTG-S">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Team talk: 10 things about Meteosat Third Generation</h3>  
+
+<div class="meta">
+		<span>422 <small>views</small></span>
+			<span>1 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+													
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1662387120">
+<a class="card focuson connecting-benefiting" href="https://esamultimedia.esa.int/docs/EarthObservation/MTG-i1_factsheet_221006.pdf" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/11/documents_and_publications/21149456-1-eng-GB/Documents_and_publications_card_medium.jpg" alt="Documents and publications">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Meteosat Third Generation Imager-1 fact sheet</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+ 
+		
+		
+											<section class="link-section dark">
+		<div class="theme-block connecting-benefiting">
+					<h2 class="heading section-heading">Follow us</h2>
+	<div class="section-group button-group">
+															 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new?topic_id=EUESA_6" class="btn"><i class="fas fa-rss"></i>Subscribe</a>
+		
+		 
+
+															 
+								
+										<a href="https://twitter.com/ESA_EO" class="btn"><i class="fa-brands fa-x-twitter"></i> @ESA_EO</a>
+		
+		 
+
+															 
+								
+										<a href="https://www.instagram.com/esa_earth/" class="btn"><i class="fab fa-instagram"></i> @esa_earth</a>
+		
+		 
+
+	 
+	</div> 
+
+</div> 
+ 
+		</section>
+			
+		
+									
+	<section class="cards">
+					<h2 class="heading section-heading">Recommended</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		 
+										
+											
+												
+																			
+				
+	
+	
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1112884920">
+<a class="card focuson connecting-benefiting" href="/Applications/Observing_the_Earth" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/10/eo_general/21103663-1-eng-GB/EO_general_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Observing the Earth</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					
+								
+										
+
+
+	 
+
+		
+<div class="grid-item focuson" data-date="1696322254">
+<a class="card focuson connecting-benefiting" href="/Applications/Observing_the_Earth/Meteorological_missions">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<img class="image-bg" src="/var/esa/storage/images/applications/observing_the_earth/meteorological_missions/19716541-8-eng-GB/Meteorological_missions_card_full.jpg" alt="Meteorological missions">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Meteorological missions</h3>
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1347889020">
+<a class="card focuson connecting-benefiting" href="http://www.eumetsat.int" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/media/image_links/eumetsat_logo/3764509-10-eng-GB/eumetsat_logo_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Eumetsat</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1547744220">
+<a class="card focuson connecting-benefiting" href="https://www.thalesgroup.com/en/global/activities/space" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/01/thales_logo/21787012-1-eng-GB/Thales_logo_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Thales Alenia Space</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+ 
+		
+		
+		
+ 
+
+
+	<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

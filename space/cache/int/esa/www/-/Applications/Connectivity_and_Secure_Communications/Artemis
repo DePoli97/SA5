@@ -1,9 +1,447 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>403 Forbidden</title>
-</head><body>
-<h1>Forbidden</h1>
-<p>You don't have permission to access /Applications/Connectivity_and_Secure_Communications/Artemis
-on this server.<br />
-</p>
-</body></html>
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="Artemis">
+<title>ESA - Artemis</title>					<meta name="description" content="Equipped with a suite of advanced communication payloads, ESA's Advanced Relay and TEchnology MISsion (Artemis) satellite&amp;nbsp;has scored a long series of satcom firsts still in use today and precursors to new ESA programmes like the European Data Relay System.">
+		<meta property="og:description" content="Equipped with a suite of advanced communication payloads, ESA's Advanced Relay and TEchnology MISsion (Artemis) satellite&amp;nbsp;has scored a long series of satcom firsts still in use today and precursors to new ESA programmes like the European Data Relay System.">
+				<meta name="keywords" content="TIA, Artemis">
+					<meta property="og:image" content="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2009/04/artemis/9519912-4-eng-GB/ARTEMIS_pillars.jpg">
+	
+	
+			<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@esa">
+		
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header connecting-benefiting">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'connecting-benefiting';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+
+		<script>
+$.post(
+	'/ezjscore/call', 
+	"ezjscServer_function_arguments=esaux::viewsincr::140961", 
+	function(data) { 
+		$(document).ready(function() {			$('#viewcount').text(data)
+		})
+	})
+</script>
+
+
+							
+											 
+				
+
+	  
+
+							
+				
+								
+						
+								
+				<section class="feature feature--article">
+	<a href="/ESA_Multimedia/Images/2009/04/ARTEMIS" class="popup">
+		<img class="image-bg stellar" src="/var/esa/storage/images/esa_multimedia/images/2009/04/artemis/9519912-4-eng-GB/ARTEMIS_pillars.jpg" alt="" data-stellar-ratio="0.7" data-stellar-vertical-offset="60">
+	</a>
+	</section>
+	
+
+<article class="article connecting-benefiting">
+
+<header class="entry article__block">
+	<span class="pillar article__item">Applications</span>
+	<h1 class="heading heading--main article__item">Artemis</h1>
+	<div class="meta article__item">
+				<span><span id="viewcount">28554</span><small> views</small></span>
+										<span><span id="ezsr_total_6819648">83</span><small> likes</small></span>
+				
+	</div>
+</header>
+<div class="breadcrumbs article__block article__item">
+<a class="breadcrumbs__entry" href="/">ESA</a> /			<a class="breadcrumbs__entry" href="/Applications">Applications</a> /			<a class="breadcrumbs__entry" href="/Applications/Connectivity_and_Secure_Communications">Connectivity and Secure Communications</a></div>
+
+
+
+
+<div class="abstract article__block article__item">
+	<p>Equipped with a suite of advanced communication payloads, ESA's Advanced Relay and TEchnology MISsion (Artemis) satellite&nbsp;has scored a long series of satcom firsts still in use today and precursors to new ESA programmes like the European Data Relay System.</p>
+</div>
+
+<div class="article__block">
+				
+		<p>Although Artemis has officially completed its mission, the telecommunications satellite still has plenty to offer. Reaching its working orbit 11 years ago after an arduous journey, Artemis continues to communicate with Earth. ESA transferred ownership of the satellite to Avanti Communications (UK) in 2014.</p><p>Artemis created the first laser data link between satellites in different orbits. It was the first telecom satellite to be extensively reprogrammed in orbit, and it was the first to power its way to geostationary orbit, 36 000 km up, with ion thrusters after surviving the longest-ever drift to its destination.&nbsp;Artemis also provided data relay for Envisat, the largest Earth observation satellite ever built.</p><p>Today, Artemis provides links for all of ESA’s Automated Transfer Vehicle (ATV) missions to the International Space Station, from launcher separation to docking, deorbiting and, finally, reentry.&nbsp;Its navigation payload is a critical element for the European Geostationary Overlay System (EGNOS), which enhances navigation services data for aircraft and ships.&nbsp;Artemis has been broadcasting the EGNOS signals since 2003 and supports the EGNOS open service and the safety-of-life service.&nbsp;</p><p>Artemis’ list of accomplishments includes establishing two-way links in 2006 and 2007 with an aircraft flying over the southern coast of France, receiving video footage at 50 Mbits per second.</p><p>Artemis also provided a two-way link with an unmanned drone dropped from an altitude of 21 km off the coast of Sardinia in 2007. Telemetry and commands were exchanged while the drone was flying in excess of Mach 1.&nbsp;</p>
+	</div>
+			
+    
+						
+    
+						
+    
+						
+    
+						
+    
+						
+    
+						
+    
+						
+    
+						
+    
+						
+    
+					
+
+<div class="share button-group article__block article__item">
+
+<button id="ezsr_6819648_32_5" class="btn ezsr-star-rating-enabled" title="Like">Like</button>
+<p id="ezsr_just_rated_6819648" class="ezsr-just-rated hide">Thank you for liking</p>
+<p id="ezsr_has_rated_6819648" class="ezsr-has-rated hide">You have already liked this page, you can only like it once!</p>
+
+
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+	<a class="a2a_button_x"></a>
+	<a class="a2a_button_facebook"></a>
+	<a class="a2a_button_copy_link"></a>
+	<a class="a2a_dd" href=https://www.addtoany.com/share></a>
+</div>
+
+</div>
+
+</article>
+
+
+	<section class="cards">
+		<h2 class="heading section-heading">Related Articles</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		
+								
+										
+				
+
+
+	
+	
+
+	
+													
+						
+											
+
+		
+<div class="grid-item story" data-date="1045558380">
+<a class="card story connecting-benefiting" href="/Applications/Connectivity_and_Secure_Communications/ESA_s_Artemis_satellite_reaches_geostationary_orbit_-_from_total_loss_to_full_recovery">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2003/02/the_artemis_recovery_team/9856156-3-eng-GB/The_Artemis_recovery_team_card_medium.jpg" alt="The Artemis recovery team">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">ESA's Artemis satellite reaches geostationary orbit - from &#8230;</h3>  
+
+<div class="meta">
+			<span>18/02/2003</span>
+		<span>3521 <small>views</small></span>
+			<span>5 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					 
+										
+											
+												
+																			
+ 
+		
+ 
+		
+					
+			
+  
+	
+
+
+	
+	 
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1337701020">
+<a class="card focuson" href="/Enabling_Support/Operations/Artemis_the_ATV_whisperer">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Artemis: the ATV whisperer</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+
+	<section class="cards">
+		<h2 class="heading section-heading">Related Links</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		
+								
+										
+				
+
+
+	
+	
+
+	
+													
+						
+											
+
+		
+<div class="grid-item story" data-date="1045558380">
+<a class="card story connecting-benefiting" href="/Applications/Connectivity_and_Secure_Communications/ESA_s_Artemis_satellite_reaches_geostationary_orbit_-_from_total_loss_to_full_recovery">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2003/02/the_artemis_recovery_team/9856156-3-eng-GB/The_Artemis_recovery_team_card_medium.jpg" alt="The Artemis recovery team">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">ESA's Artemis satellite reaches geostationary orbit - from &#8230;</h3>  
+
+<div class="meta">
+			<span>18/02/2003</span>
+		<span>3521 <small>views</small></span>
+			<span>5 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					 
+										
+											
+												
+																			
+ 
+		
+ 
+		
+					
+			
+  
+	
+
+
+	
+	 
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1337701020">
+<a class="card focuson" href="/Enabling_Support/Operations/Artemis_the_ATV_whisperer">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Artemis: the ATV whisperer</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+
+	
+	
+ 
+	<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+
+<script>
+if (jQuery.cookie('cc_cookie_accept') == "cc_cookie_accept") {
+var s = document.createElement("script");
+
+s.src = "https://static.addtoany.com/menu/page.js";
+document.body.appendChild(s);
+}</script>
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

@@ -48,6 +48,11 @@
 		<meta property="og:description" content="Alphasat is the largest European telecom satellite ever built.&amp;nbsp;">
 				<meta name="keywords" content="Alphasat overview">
 					<meta property="og:image" content="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2013/07/alphasat_artist_s_impression/12960027-1-eng-GB/Alphasat_artist_s_impression_pillars.jpg">
+	
+	
+			<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@esa">
+		
 	<script>
 var _paq = window._paq = window._paq || [];
 _paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
@@ -140,7 +145,7 @@ $.post(
 	<span class="pillar article__item">Applications</span>
 	<h1 class="heading heading--main article__item">Overview</h1>
 	<div class="meta article__item">
-				<span><span id="viewcount">22691</span><small> views</small></span>
+				<span><span id="viewcount">22739</span><small> views</small></span>
 										<span><span id="ezsr_total_12667425">31</span><small> likes</small></span>
 				
 	</div>

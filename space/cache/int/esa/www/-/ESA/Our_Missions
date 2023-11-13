@@ -44,7 +44,9 @@
 
 
 		<meta property="og:title" content="Our Missions">
-<title>ESA - Our Missions</title>						<script>
+<title>ESA - Our Missions</title>						
+	
+	<script>
 var _paq = window._paq = window._paq || [];
 _paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
 _paq.push(["enableCrossDomainLinking"]);
@@ -3223,7 +3225,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 																	 
 								
 														
-																			<a href="/Services/Privacy_notice_ESA_website">Privacy notice</a>
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
 																	 
 								
 														

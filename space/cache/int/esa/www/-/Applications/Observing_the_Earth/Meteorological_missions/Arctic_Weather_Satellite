@@ -44,7 +44,9 @@
 
 
 		<meta property="og:title" content="Arctic Weather Satellite">
-<title>ESA - Arctic Weather Satellite</title>						<script>
+<title>ESA - Arctic Weather Satellite</title>						
+	
+	<script>
 var _paq = window._paq = window._paq || [];
 _paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
 _paq.push(["enableCrossDomainLinking"]);
@@ -236,7 +238,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>09/03/2021</span>
-		<span>21721 <small>views</small></span>
+		<span>21767 <small>views</small></span>
 			<span>128 <small>likes</small></span>
 		
 	</div>
@@ -286,8 +288,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>09/03/2021</span>
-		<span>1924 <small>views</small></span>
-			<span>27 <small>likes</small></span>
+		<span>1942 <small>views</small></span>
+			<span>29 <small>likes</small></span>
 		
 	</div>
 		<a class="cta popup" href="/ESA_Multimedia/Images/2021/03/Arctic_Weather_Satellite">
@@ -341,7 +343,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 <h3 class="heading">Better Arctic and global weather forecasts </h3>  
 
 <div class="meta">
-		<span>1007 <small>views</small></span>
+		<span>1021 <small>views</small></span>
 			<span>5 <small>likes</small></span>
 		
 	</div>
@@ -383,7 +385,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 <h3 class="heading">Facts and figures</h3>  
 
 <div class="meta">
-		<span>1300 <small>views</small></span>
+		<span>1311 <small>views</small></span>
 			<span>3 <small>likes</small></span>
 		
 	</div>
@@ -425,7 +427,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 <h3 class="heading">The satellite</h3>  
 
 <div class="meta">
-		<span>1249 <small>views</small></span>
+		<span>1263 <small>views</small></span>
 			<span>3 <small>likes</small></span>
 		
 	</div>
@@ -467,7 +469,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 <h3 class="heading">The instrument</h3>  
 
 <div class="meta">
-		<span>1709 <small>views</small></span>
+		<span>1729 <small>views</small></span>
 			<span>5 <small>likes</small></span>
 		
 	</div>
@@ -509,7 +511,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 <h3 class="heading">Operations and data flow</h3>  
 
 <div class="meta">
-		<span>1014 <small>views</small></span>
+		<span>1025 <small>views</small></span>
 			<span>2 <small>likes</small></span>
 		
 	</div>

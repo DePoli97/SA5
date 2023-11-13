@@ -44,7 +44,9 @@
 
 
 		<meta property="og:title" content="Altius">
-<title>ESA - Altius</title>						<script>
+<title>ESA - Altius</title>						
+	
+	<script>
 var _paq = window._paq = window._paq || [];
 _paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
 _paq.push(["enableCrossDomainLinking"]);
@@ -243,7 +245,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>23/02/2023</span>
-		<span>6309 <small>views</small></span>
+		<span>6787 <small>views</small></span>
 			<span>165 <small>likes</small></span>
 		
 	</div>
@@ -285,8 +287,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>11/01/2022</span>
-		<span>3600 <small>views</small></span>
-			<span>90 <small>likes</small></span>
+		<span>3662 <small>views</small></span>
+			<span>91 <small>likes</small></span>
 		
 	</div>
 	</header>
@@ -327,7 +329,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>24/01/2020</span>
-		<span>4709 <small>views</small></span>
+		<span>4743 <small>views</small></span>
 			<span>53 <small>likes</small></span>
 		
 	</div>
@@ -377,7 +379,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>24/01/2020</span>
-		<span>2252 <small>views</small></span>
+		<span>2267 <small>views</small></span>
 			<span>18 <small>likes</small></span>
 		
 	</div>
@@ -418,7 +420,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>23/02/2023</span>
-		<span>147 <small>views</small></span>
+		<span>159 <small>views</small></span>
 			<span>1 <small>likes</small></span>
 		
 	</div>
@@ -473,7 +475,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 <h3 class="heading">Introducing Altius</h3>  
 
 <div class="meta">
-		<span>1585 <small>views</small></span>
+		<span>1644 <small>views</small></span>
 			<span>5 <small>likes</small></span>
 		
 	</div>
@@ -515,7 +517,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 <h3 class="heading">Facts and figures</h3>  
 
 <div class="meta">
-		<span>673 <small>views</small></span>
+		<span>695 <small>views</small></span>
 			<span>4 <small>likes</small></span>
 		
 	</div>
@@ -557,7 +559,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 <h3 class="heading">Ozone</h3>  
 
 <div class="meta">
-		<span>437 <small>views</small></span>
+		<span>447 <small>views</small></span>
 			<span>3 <small>likes</small></span>
 		
 	</div>
@@ -599,7 +601,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 <h3 class="heading">Measuring ozone</h3>  
 
 <div class="meta">
-		<span>964 <small>views</small></span>
+		<span>1002 <small>views</small></span>
 			<span>1 <small>likes</small></span>
 		
 	</div>
@@ -641,7 +643,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 <h3 class="heading">The satellite</h3>  
 
 <div class="meta">
-		<span>1168 <small>views</small></span>
+		<span>1181 <small>views</small></span>
 			<span>0 <small>likes</small></span>
 		
 	</div>
@@ -683,7 +685,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 <h3 class="heading">The instrument</h3>  
 
 <div class="meta">
-		<span>743 <small>views</small></span>
+		<span>760 <small>views</small></span>
 			<span>1 <small>likes</small></span>
 		
 	</div>
@@ -725,7 +727,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 <h3 class="heading">The launch </h3>  
 
 <div class="meta">
-		<span>412 <small>views</small></span>
+		<span>429 <small>views</small></span>
 			<span>0 <small>likes</small></span>
 		
 	</div>
@@ -767,7 +769,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 <h3 class="heading">Operations and data flow </h3>  
 
 <div class="meta">
-		<span>449 <small>views</small></span>
+		<span>460 <small>views</small></span>
 			<span>0 <small>likes</small></span>
 		
 	</div>
@@ -805,7 +807,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>17/03/2023</span>
-		<span>148 <small>views</small></span>
+		<span>161 <small>views</small></span>
 			<span>0 <small>likes</small></span>
 		
 	</div>

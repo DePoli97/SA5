@@ -1,0 +1,477 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="Cluster overview">
+<title>ESA - Cluster overview</title>						<meta name="keywords" content="SPCS cluster overview">
+			
+	
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header exploring-discovering">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'exploring-discovering';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+		<script>
+$.post(
+	'/ezjscore/call', 
+	"ezjscServer_function_arguments=esaux::viewsincr::183487", 
+	function(data) { 
+		$(document).ready(function() {			$('#viewcount').text(data)
+		})
+	})
+</script>
+
+
+
+<article class="article mission-overview exploring-discovering">
+
+<div class="feature slider"><div class="flexslider"><ul class="slides">	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2000/09/Cluster_2_Artist_s_view">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2000/09/cluster_2_artist_s_view/9233606-6-eng-GB/Cluster_2_Artist_s_view_pillars.jpg" alt="Cluster 2, Artist's view">
+				<figcaption class="image__caption">Cluster 2, Artist's view</figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2007/08/Cluster_cutaway">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2007/08/cluster_cutaway/9976011-3-eng-GB/Cluster_cutaway_pillars.jpg" alt="Cutaway diagram of a Cluster spacecraft">
+				<figcaption class="image__caption">Cutaway diagram of a Cluster spacecraft</figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2003/04/Liftoff_for_first_pair_of_Cluster_satellites">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2003/04/liftoff_for_first_pair_of_cluster_satellites/10059853-2-eng-GB/Liftoff_for_first_pair_of_Cluster_satellites_pillars.jpg" alt="Liftoff  for  first pair of Cluster satellites">
+				<figcaption class="image__caption">Liftoff  for  first pair of Cluster satellites</figcaption>
+			</a></figure></div></li>	
+							
+														
+																								
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2014/12/Cluster_and_Image_during_aurora_observation">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2014/12/cluster_and_image_during_aurora_observation/15169959-1-eng-GB/Cluster_and_Image_during_aurora_observation_pillars.jpg" alt="Cluster and Image during aurora observation">
+				<figcaption class="image__caption">Cluster and Image during aurora observation</figcaption>
+			</a></figure></div></li>	
+						<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2014/12/Cluster_and_Image_during_aurora_observation">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2014/12/cluster_and_image_during_aurora_observation/15169959-1-eng-GB/Cluster_and_Image_during_aurora_observation_pillars.jpg" alt="Cluster and Image during aurora observation">
+				<figcaption class="image__caption">Cluster and Image during aurora observation</figcaption>
+			</a></figure></div></li></ul></div></div>
+
+<header class="entry article__block">
+	<span class="pillar article__item">Science & Exploration</span>
+	<h1 class="heading heading--main article__item">Cluster overview</h1>
+	<div class="meta article__item">
+		<span><span id="viewcount">22150</span><small> views</small></span>
+		
+	</div>
+</header>
+<div class="breadcrumbs article__block article__item">
+<a class="breadcrumbs__entry" href="/">ESA</a> /			<a class="breadcrumbs__entry" href="/Science_Exploration">Science & Exploration</a> /			<a class="breadcrumbs__entry" href="/Science_Exploration/Space_Science">Space Science</a></div>
+
+
+<div class="abstract article__block article__item">
+	
+</div>
+
+
+
+
+<div class="article__block">
+				</div>
+
+
+    
+					
+	
+    
+							
+														
+																	
+
+
+
+							
+				
+								
+						
+								
+												<div class="article__block">
+				<figure class="article__image article__image--right">
+					<a href="/ESA_Multimedia/Images/2015/01/Cluster" class="popup">
+				<img src="/var/esa/storage/images/esa_multimedia/images/2015/01/cluster/15192611-4-eng-GB/Cluster_article.jpg" alt="4-satellite Cluster mission">
+			</a>
+				<figcaption class="image__caption">
+							<a href="/ESA_Multimedia/Images/2015/01/Cluster">4-satellite Cluster mission</a>
+								</figcaption>
+	</figure>	
+		<p><b>Status:</b> In operation</p><p>
+<b>Objectives</b><br />Studying how the solar wind affects Earth, Cluster spacecraft pass in and out of our planet's magnetic field to make the most detailed investigation yet of how the Sun and Earth interact.</p><p>
+<b>Mission</b><br />Cluster is a constellation of four spacecraft flying in formation around Earth. They relay the most detailed information ever about how the solar wind affects our planet in three dimensions. The solar wind (the perpetual stream of subatomic particles given out by the Sun) can damage communications satellites and power stations on Earth. The original operation life-time of the Cluster mission ran from February 2001 to January 2003. Over twenty years post launch, the mission is still going strong.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">What's special?</h2>
+	    
+						
+		<p>The Sun emits the solar wind, which is a thin, hot, ionised gas that carries particles and magnetic fields outward from the Sun.</p><p>The Earth is shielded from the full blast by its magnetosphere, the region around our planet controlled by its magnetic field. Some solar wind descends into Earth's upper atmosphere through the polar cusps, funnel-like openings in the magnetosphere at the poles. These energetic particles excite atoms and molecules in the upper atmosphere to create the northern and southern lights (the auroras). The part of a planetary magnetosphere that is pushed in the direction of the solar wind is known as the magnetotail.</p><p>Cluster will determine the physical processes involved in the interaction between the solar wind and the magnetosphere by visiting key regions like the polar cusps and the magnetotail. The four Cluster spacecraft map the plasma structures contained in these regions in three dimensions. The simultaneous four-point measurements also allow close studies of plasma quantities in both space and time.</p><p>During periods of high solar activity (which cycles every 11 years), the solar wind can be particularly energetic. This can have a dramatic effect on human activities, disrupting electrical power and telecommunications or causing serious problems in the operation of satellites, especially those in geostationary orbit. Subtle changes to the weather on Earth also occur during these times. Watching the effects of this increased activity during these periods is one of the main tasks of Cluster.</p><p>Understanding the interaction between the solar wind and the magnetosphere and how the plasma levels of the magnetosphere are affected is important. Cluster will help us to prepare for the effects of sudden bursts of solar energy here on Earth.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Spacecraft</h2>
+	    
+							
+														
+																	
+
+
+
+								
+				
+								
+						
+								
+											<figure class="article__image article__image--left">
+					<a href="/ESA_Multimedia/Images/2003/04/Artist_s_impression_of_the_four_Cluster_spacecraft" class="popup">
+				<img src="/var/esa/storage/images/esa_multimedia/images/2003/04/artist_s_impression_of_the_four_cluster_spacecraft/9718073-3-eng-GB/Artist_s_impression_of_the_four_Cluster_spacecraft_article.jpg" alt="Artist's impression of the four Cluster spacecraft">
+			</a>
+				<figcaption class="image__caption">
+							<a href="/ESA_Multimedia/Images/2003/04/Artist_s_impression_of_the_four_Cluster_spacecraft">Artist's impression of the four Cluster spacecraft</a>
+								</figcaption>
+	</figure>	
+		<p>The Cluster spacecraft resemble giant 'Lego' sets, assembled from thousands of individual blocks. Each one is shaped like a giant disc, 1.3 metres high and 2.9 metres wide, with a cylinder in the centre.</p><p>Six spherical fuel tanks are attached to the outside of this central cylinder. The fuel they carry accounts for more than half the launch weight of each spacecraft. Most of the fuel is consumed soon after launch and in complex manoeuvres to reach their operational orbits. Each spacecraft also carries eight thrusters for smaller changes of orbit.</p><p>Around the central cylinder is the main equipment platform. Electrical power comes from six curved solar panels attached around the outside of the platform. Five batteries are used for power supply during the four-hour-long eclipses when the spacecraft enter Earth's shadow.</p><p>Rod-shaped booms open out once Cluster reaches orbit. There are two antennae for communications, two sensors, and four wire booms that operate when the spacecraft begins to spin. These measure changing electrical and magnetic fields around each spacecraft.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Journey</h2>
+	    
+						
+		<p>At each launch, two Cluster satellites were placed in an elliptical orbit whose height varied from 200 to 18 000 kilometres above Earth. The two satellites of each launch were then released, one after the other and used their own on-board propulsion systems to reach the final operational orbit (19 000 to 119 000 kilometres from the planet).</p><p>The first pair of Cluster satellites lifted off on 16 July 2000, the second pair one month later. This gap allowed fewer people to be used for mission control in the European Space Operations Centre (ESOC) in Darmstadt (Germany).</p><p>Once the booster reached the correct altitude after liftoff, the Fregat payload assist module and its two Cluster spacecraft were released. The Fregat main engine fired almost immediately to achieve a circular orbit of approximately 200 kilometres high. About an hour later, the Fregat engine fired again to inject the spacecraft into an elliptical orbit.</p><p>The two satellites were released, one after the other. Each Cluster spacecraft main engine performed six major manoeuvres, using the large amount of onboard fuel (about half of each satellite's launch mass).</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">History</h2>
+	    
+						
+		<p>The Cluster mission was first proposed in November 1982. The idea was developed into a proposal to study the 'cusp' and the ‘magnetotail’ regions of the Earth's magnetosphere with a polar orbiting mission. The Cluster idea developed into a proposal and then a mission. In 1996, Cluster was ready for launch.</p><p>Cluster was expected to benefit from a 'free' launch on the first test flight of the newly developed Ariane 5 booster. After several minor delays, Ariane-501 lifted off from Kourou, French Guiana on 4 June 1996, carrying its payload of four Cluster satellites. Unfortunately, intense aerodynamic loads resulted in its break-up and initiation of the automatic destruct system.</p><p>To recover some of the unique science from the mission, ESA decided to build a fifth Cluster satellite (named `Phoenix'). It would be equipped with flight spares of the experiments and subsystems prepared for the Cluster mission. Phoenix was expected to be fully integrated and tested by mid-1997, opening the way for a launch later that year. However, awareness grew that the scientific objectives of the Cluster mission could not be met by a single spacecraft. There were proposals to rebuild three or four full-size Cluster spacecraft alongside Phoenix.</p><p>After a preliminary study, it was decided that a Soyuz rocket could launch a pair of Cluster spacecraft. However, the very eccentric orbit required a new upper stage. Two flights were successfully done at the beginning of 2000 and about six months later, Cluster was launched by a Soyuz-Fregat launcher from Baikonur Cosmodrome, Kazakhstan.</p><p>On 8 February 2002, the ESA Science Programme Committee approved unanimously the extension of the Cluster mission, pushing back the end date from 1&nbsp;February 2003 to 31 December 2005.&nbsp;This extension allowed the first measurements of space plasmas at both small and large scales simultaneously and the sampling of geospace regions never crossed before by four spacecraft flying in close formation.&nbsp;In January 2005 the mission was extended from 1 January 2006 to 31 December 2009. As of 2022, the mission is still going strong.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Partnerships</h2>
+	    
+						
+		<p>The prime contractor for the original (lost) Cluster and replacement Cluster satellites was Dornier Satellitensysteme GmbH (later Astrium, now incorporated into Airbus Defence and Space), Friedrichshafen, Germany, the leader of an industrial consortium involving 35 major contractors from all of the ESA member countries and the United States.</p><p>Each spacecraft carries an identical set of 11 instruments to investigate charged particles, electrical, and magnetic fields. These were built by European and American instrument teams led by Principal Investigators.</p><p>The Cluster scientific community includes the ESA Project Scientist, 11 Principal Investigators, and more than 250 Co-Investigators from ESA Member States, the United States, Canada, China, the Czech Republic, Hungary, India, Israel, Japan, and Russia.</p>	</div>	
+    
+					
+</article>
+
+
+	<section class="cards">
+		<h2 class="heading section-heading">Related Links</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		 
+										
+											
+												
+																			
+				
+	
+	
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1661953800">
+<a class="card focuson exploring-discovering" href="/Science_Exploration/Space_Science/Cluster_overview2">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2002/08/cluster_ii/9148228-6-eng-GB/Cluster_II_card_medium.jpg" alt="Cluster II">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Science & Exploration</span>
+				<h3 class="heading">Cluster overview</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+											
+												
+																			
+				
+	
+	
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1661954460">
+<a class="card focuson exploring-discovering" href="/Science_Exploration/Space_Science/Cluster/Cluster_s_20_years_of_studying_Earth_s_magnetosphere">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2015/01/cluster/15192611-4-eng-GB/Cluster_card_medium.jpg" alt="4-satellite Cluster mission">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Science & Exploration</span>
+				<h3 class="heading">Cluster science highlights</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1283174520">
+<a class="card focuson exploring-discovering" href="http://sci.esa.int/science-e/www/area/index.cfm?fareaid=8">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2000/08/the_four_cluster_spacecraft/9235253-5-eng-GB/The_four_Cluster_spacecraft_card_medium.jpg" alt="The four Cluster spacecraft">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Science & Exploration</span>
+				<h3 class="heading">Cluster in depth</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+
+		<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

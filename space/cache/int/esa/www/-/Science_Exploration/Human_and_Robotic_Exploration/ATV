@@ -1,0 +1,1328 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="ATV">
+<title>ESA - ATV</title>						
+	
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header exploring-discovering">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'exploring-discovering';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+				
+			<section class="page-header exploring-discovering">
+	<header class="entry">
+		<a href="/Science_Exploration" class="pillar">Science & Exploration</a>
+		<h1 class="heading">ATV </h1>
+	</header>
+						<img class="image-bg stellar" src="/var/esa/storage/images/science_exploration/20756628-2-eng-GB/Science_Exploration_pillars.jpg" alt="ATV" data-stellar-ratio="0.9"> 
+</section>
+
+
+
+	
+						  
+			
+	
+			
+	
+															
+	
+			
+	
+															
+	
+			
+	
+												
+	
+			
+	
+												
+	
+			
+	
+												
+	
+			
+	
+													
+
+
+
+
+
+	
+	
+					 
+
+	
+																																			
+				
+																																																					
+				
+														
+				
+												
+			
+	
+					
+			
+						 
+		
+					
+			
+						 
+		
+					
+						
+						 
+		
+					
+			
+						 
+						
+ 
+
+<section class="cards filtered">
+	<div class="filter-wrapper">
+		<h2 class="heading section-heading">
+			
+							Latest
+					</h2>
+		<div class="filters button-group">
+			<button data-filter="" class="btn active">All</button>
+			<button data-filter=".story" class="btn">Stories</button>
+			<button data-filter=".video" class="btn">Videos</button>
+			<button data-filter=".image" class="btn">Images</button>
+		</div>
+	</div>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1447166220">
+<a class="card story exploring-discovering" href="/Science_Exploration/Human_and_Robotic_Exploration/Orion_s_European_module_ready_for_testing">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2015/11/orion_esm_structural_test_model/15669606-4-eng-GB/Orion_ESM_structural_test_model_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Orion’s European module ready for testing</h3>  
+
+<div class="meta">
+			<span>10/11/2015</span>
+		<span>13801 <small>views</small></span>
+			<span>110 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1429779660">
+<a class="card story designing-operating" href="/Enabling_Support/Operations/Space_artist_nominated_for_prestigious_prize">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2014/11/gerst_with_meteorite/15371209-1-eng-GB/Gerst_with_meteorite_card_medium.jpg" alt="Back in space">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Enabling & Support</span>
+
+<h3 class="heading">Space artist nominated for prestigious prize</h3>  
+
+<div class="meta">
+			<span>23/04/2015</span>
+		<span>5599 <small>views</small></span>
+			<span>47 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1424428380">
+<a class="card story designing-operating" href="/Enabling_Support/Space_Engineering_Technology/ATV_s_internal_camera_delivered_data_but_not_images">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2015/02/final_view_of_camera_system/15263726-1-eng-GB/Final_view_of_camera_system_card_medium.jpg" alt="Final view of camera system">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Enabling & Support</span>
+
+<h3 class="heading">ATV’s internal camera delivered data, but not images</h3>  
+
+<div class="meta">
+			<span>20/02/2015</span>
+		<span>7360 <small>views</small></span>
+			<span>53 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1424024280">
+<a class="card story exploring-discovering" href="/Science_Exploration/Human_and_Robotic_Exploration/ATV/Last_ATV_reentry_leaves_legacy_for_future_space_exploration">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2015/02/atv-5_reentry_seen_from_space/15256676-1-eng-GB/ATV-5_reentry_seen_from_space_card_medium.jpg" alt="ATV-5 reentry seen from Space Station">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Last ATV reentry leaves legacy for future space exploration</h3>  
+
+<div class="meta">
+			<span>15/02/2015</span>
+		<span>15625 <small>views</small></span>
+			<span>123 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1423594260">
+<a class="card story exploring-discovering" href="/Science_Exploration/Human_and_Robotic_Exploration/ATV/ATV_to_bid_farewell_to_Space_Station_for_last_time">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2014/08/atv5_flyunder/14717377-1-eng-GB/ATV5_flyunder_card_medium.png" alt="ATV-5 during ISS flyunder">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">ATV to bid farewell to Space Station for last time</h3>  
+
+<div class="meta">
+			<span>10/02/2015</span>
+		<span>12411 <small>views</small></span>
+			<span>78 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1423225560">
+<a class="card story designing-operating" href="/Enabling_Support/Space_Engineering_Technology/Camera_to_record_doomed_ATV_s_disintegration_from_inside">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2015/02/atv-5/15241288-1-eng-GB/ATV-5_card_medium.jpg" alt="ATV-5">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Enabling & Support</span>
+
+<h3 class="heading">Camera to record doomed ATV’s disintegration – from inside</h3>  
+
+<div class="meta">
+			<span>06/02/2015</span>
+		<span>26061 <small>views</small></span>
+			<span>138 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1418141520">
+<a class="card story exploring-discovering" href="/Science_Exploration/Human_and_Robotic_Exploration/ATV/ATV_views_Space_Station_as_never_before">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2014/12/liris_on_atv-5/15105800-1-eng-GB/LIRIS_on_ATV-5_card_medium.jpg" alt="LIRIS on ATV">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">ATV views Space Station as never before</h3>  
+
+<div class="meta">
+			<span>09/12/2014</span>
+		<span>15488 <small>views</small></span>
+			<span>114 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1417797300">
+<a class="card story exploring-discovering" href="/Science_Exploration/Human_and_Robotic_Exploration/Orion_test_sets_stage_for_ESA_service_module">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2014/12/exploration_flight_test-1/15097317-1-eng-GB/Exploration_Flight_Test-1_card_medium.jpg" alt="Exploration Flight Test-1">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Orion test sets stage for ESA service module  </h3>  
+
+<div class="meta">
+			<span>05/12/2014</span>
+		<span>15855 <small>views</small></span>
+			<span>128 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1415110260">
+<a class="card story exploring-discovering" href="/Science_Exploration/Human_and_Robotic_Exploration/ATV/ESA_space_ferry_moves_Space_Station_to_avoid_debris">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2014/10/international_space_station_with_atv-5/15002161-1-eng-GB/International_Space_Station_with_ATV-5_card_medium.jpg" alt="International Space Station with ATV-5">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">ESA space ferry moves Space Station to avoid debris</h3>  
+
+<div class="meta">
+			<span>04/11/2014</span>
+		<span>13703 <small>views</small></span>
+			<span>124 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1408694040">
+<a class="card story designing-operating" href="/Enabling_Support/Space_Engineering_Technology/Hard_work_behind_ATV_s_good_clean_cargo_delivery">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2014/08/alexander_gerst_inside_atv-5_after_hatch_opening/14719993-1-eng-GB/Alexander_Gerst_inside_ATV-5_after_hatch_opening_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Enabling & Support</span>
+
+<h3 class="heading">Hard work behind ATV’s good, clean cargo delivery</h3>  
+
+<div class="meta">
+			<span>22/08/2014</span>
+		<span>3362 <small>views</small></span>
+			<span>34 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1407850200">
+<a class="card story exploring-discovering" href="/Science_Exploration/Human_and_Robotic_Exploration/ATV_completes_final_automated_docking">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2014/08/atv-5_docks/14717598-2-eng-GB/ATV-5_docks_card_medium.jpg" alt="ATV-5 docks">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">ATV completes final automated docking</h3>  
+
+<div class="meta">
+			<span>12/08/2014</span>
+		<span>11483 <small>views</small></span>
+			<span>65 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+				<div class="grid-item story image video"> 
+<a class="card more" href="/Science_Exploration/Human_and_Robotic_Exploration/ATV/(archive)/0">
+	<div class="outline">
+		<h3 class="heading">More items</h3>
+	</div>
+</a>
+</div>
+	</div>
+</section>
+		
+		
+								
+
+	
+	<section class="link-section dark">
+			<div class="theme-block exploring-discovering">
+		<h2 class="heading section-heading">More</h2>
+	<div class="section-group button-group">
+															 
+								
+										<h3 class="heading">Flight plan</h3>
+		
+		 
+
+															 
+								
+																			
+														<a href="/Science_Exploration/Human_and_Robotic_Exploration/ATV/Mission_concept_and_the_role_of_ATV" class="btn">ATV mission concept</a>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/ATV/ATV_flight_phases" class="btn">ATV flight phases</a>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/ATV/ATV_cargo_capacity" class="btn">ATV cargo capacity</a>
+		
+		 
+
+															 
+								
+										<h3 class="heading">Spacecraft</h3>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/ATV/ATV_configuration" class="btn">ATV configuration</a>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/ATV/ATV_Integrated_Cargo_Carrier" class="btn">ATV Integrated Cargo Carrier</a>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/ATV/ATV_Service_Module" class="btn">ATV Service Module</a>
+		
+		 
+
+															 
+								
+																			
+														<a href="/Science_Exploration/Human_and_Robotic_Exploration/Orion/ESA_workhorse_to_power_NASA_s_Orion_spacecraft" class="btn">ATV evolution</a>
+		
+		 
+
+															 
+								
+										<h3 class="heading">ATV Missions</h3>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/ATV/ATV-1_i_Jules_Verne_i" class="btn">ATV-1: <i>Jules Verne</i></a>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/ATV/ATV-2_i_Johannes_Kepler_i" class="btn">ATV-2: <i>Johannes Kepler</i></a>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/ATV/ATV-3_i_Edoardo_Amaldi_i" class="btn">ATV-3: <i>Edoardo Amaldi</i></a>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/ATV/ATV-4_i_Albert_Einstein_i" class="btn">ATV-4: <i>Albert Einstein</i></a>
+		
+		 
+
+															 
+								
+																			
+														<a href="/Science_Exploration/Human_and_Robotic_Exploration/ATV/Fifth_ATV_named_after_Georges_Lemaitre" class="btn">ATV-5: <I>Georges Lemaître</I></a>
+		
+		 
+
+															 
+								
+										<h3 class="heading">Operations</h3>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/ATV/Flight_operations" class="btn">Flight operations</a>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/ATV/ATV_Control_Centre" class="btn">ATV Control Centre</a>
+		
+		 
+
+															 
+								
+																			
+														<a href="/Science_Exploration/Human_and_Robotic_Exploration/ATV/Astronaut_s_role_in_mission_control" class="btn">Crew role</a>
+		
+		 
+
+															 
+								
+										<h3 class="heading">Industry</h3>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/ATV/ATV_history" class="btn">ATV history</a>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/ATV/European_industry" class="btn">European industry</a>
+		
+		 
+
+															 
+								
+										<h3 class="heading">ATV multimedia</h3>
+		
+		 
+
+															 
+								
+										<a href="http://spaceinimages.esa.int/content/search?img=1&SearchText=ATV%20Automated%20Transfer%20Vehicle&sortBy=published" class="btn">ATV image gallery</a>
+		
+		 
+
+															 
+								
+										<a href="http://spaceinvideos.esa.int/Missions/ATV/(sortBy)/published" class="btn">ATV video gallery</a>
+		
+		 
+
+															 
+								
+										<a href="http://www.flickr.com/photos/europeanspaceagency/sets/72157629474969225/" class="btn"><img src="https://esamultimedia.esa.int/multimedia/a/fl.png" align="absbottom" style="margin:0 6px 0 1px;"> ATV on Flickr</a>
+		
+		 
+
+	 
+	</div> 
+
+</div> 
+ 
+				</section>		
+		
+								<!-- #lls = 1 -->	<section class="cards">
+		<h2 class="heading section-heading">Recommended</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1294920660">
+<a class="card focuson" href="http://blogs.esa.int/atv " target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/media/image_links/atv2_icon_for_link/3768925-5-eng-GB/ATV2_icon_for_link_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">ATV blog</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1393850179">
+<a class="card focuson" href="http://www.esa.int/spaceinimages/Images/2013/09/ATV-5_logo">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2013/09/atv-5_logo/13046202-1-eng-GB/ATV-5_logo_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">ATV-5 logo</h3> 
+		<p class="subheading">ATV-5 logo</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																																													 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	 
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1205328540">
+<a class="card focuson" href="http://www.cnes.fr/web/3679-atv-cc.php" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">CNES</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	 
+
+
+ 
+	
+<div class="grid-item focuson" data-date="996141780">
+<a class="card focuson" href="http://www.astrium.eads.net/" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Astrium</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="981993060">
+<a class="card focuson" href="https://www.thalesgroup.com/en/worldwide/space" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/01/thales_logo/21787012-1-eng-GB/Thales_logo_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Thales Alenia Space</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1318333320">
+<a class="card focuson" href="https://download.esa.int/HSO/ATV/Build_your_own_ATV.pdf" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/media/image_links/atv_paper_model_banner/6861277-7-eng-GB/ATV_paper_model_banner_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading"></h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																																													 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	 
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1398951677">
+<a class="card focuson" href="https://esamultimedia.esa.int/multimedia/publications/ATV_brochure_EN">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading"> ATV-5 mission brochure English</h3> 
+		<p class="subheading"><img src="https://esamultimedia.esa.int/images/UnKi.gif" /> ATV-5 mission brochure </p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	 
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1398951956">
+<a class="card focuson" href="https://esamultimedia.esa.int/multimedia/publications/ATV_brochure_DE">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading"> ATV-5 mission brochure German</h3> 
+		<p class="subheading">ATV-5 Brochure English</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	 
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1398951352">
+<a class="card focuson" href="https://esamultimedia.esa.int/multimedia/publications/ATV_brochure_FR">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading"> ATV-5 mission brochure French</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	 
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1398952887">
+<a class="card focuson" href="https://esamultimedia.esa.int/multimedia/publications/ATV_brochure_IT">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading"> ATV-5 mission brochure Italian</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+			
+		
+									
+	<section class="cards">
+					<h2 class="heading section-heading">Related</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		 
+										
+											
+												
+																			
+ 
+		
+ 
+		
+					
+			
+  
+	
+
+
+	
+	 
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1021376340">
+<a class="card focuson" href="/Science_Exploration/Human_and_Robotic_Exploration">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Human Spaceflight</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+ 
+		
+		
+		
+ 
+
+
+	<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

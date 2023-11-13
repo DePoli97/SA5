@@ -44,7 +44,9 @@
 
 
 		<meta property="og:title" content="Vega">
-<title>ESA - Vega</title>						<script>
+<title>ESA - Vega</title>						
+	
+	<script>
 var _paq = window._paq = window._paq || [];
 _paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
 _paq.push(["enableCrossDomainLinking"]);
@@ -256,8 +258,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>10/10/2023</span>
-		<span>317 <small>views</small></span>
-			<span>2 <small>likes</small></span>
+		<span>446 <small>views</small></span>
+			<span>3 <small>likes</small></span>
 		
 	</div>
 			</header>
@@ -298,7 +300,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>09/10/2023</span>
-		<span>10397 <small>views</small></span>
+		<span>11240 <small>views</small></span>
 			<span>84 <small>likes</small></span>
 		
 	</div>
@@ -335,7 +337,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>09/10/2023</span>
-		<span>65 <small>views</small></span>
+		<span>74 <small>views</small></span>
 			<span>1 <small>likes</small></span>
 		
 	</div>
@@ -375,8 +377,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>09/10/2023</span>
-		<span>82 <small>views</small></span>
-			<span>1 <small>likes</small></span>
+		<span>102 <small>views</small></span>
+			<span>2 <small>likes</small></span>
 		
 	</div>
 		</header>
@@ -415,7 +417,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>09/10/2023</span>
-		<span>165 <small>views</small></span>
+		<span>197 <small>views</small></span>
 			<span>1 <small>likes</small></span>
 		
 	</div>
@@ -460,7 +462,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>06/10/2023</span>
-		<span>2258 <small>views</small></span>
+		<span>3060 <small>views</small></span>
 			<span>45 <small>likes</small></span>
 		
 	</div>
@@ -502,7 +504,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>05/10/2023</span>
-		<span>1778 <small>views</small></span>
+		<span>1883 <small>views</small></span>
 			<span>46 <small>likes</small></span>
 		
 	</div>
@@ -544,7 +546,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>04/10/2023</span>
-		<span>1858 <small>views</small></span>
+		<span>1958 <small>views</small></span>
 			<span>55 <small>likes</small></span>
 		
 	</div>
@@ -586,7 +588,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>03/10/2023</span>
-		<span>2502 <small>views</small></span>
+		<span>2566 <small>views</small></span>
 			<span>67 <small>likes</small></span>
 		
 	</div>
@@ -630,8 +632,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>02/10/2023</span>
-		<span>2229 <small>views</small></span>
-			<span>31 <small>likes</small></span>
+		<span>2293 <small>views</small></span>
+			<span>32 <small>likes</small></span>
 		
 	</div>
 			</header>
@@ -674,7 +676,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>22/07/2022</span>
-		<span>1735 <small>views</small></span>
+		<span>1773 <small>views</small></span>
 			<span>17 <small>likes</small></span>
 		
 	</div>
@@ -718,7 +720,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>13/07/2022</span>
-		<span>4532 <small>views</small></span>
+		<span>4554 <small>views</small></span>
 			<span>93 <small>likes</small></span>
 		
 	</div>
@@ -762,7 +764,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>13/07/2022</span>
-		<span>9113 <small>views</small></span>
+		<span>9145 <small>views</small></span>
 			<span>101 <small>likes</small></span>
 		
 	</div>
@@ -802,7 +804,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>13/12/2021</span>
-		<span>1351 <small>views</small></span>
+		<span>1362 <small>views</small></span>
 			<span>9 <small>likes</small></span>
 		
 	</div>
@@ -834,7 +836,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 		<div class="subheading">On Tuesday 17 November, Arianespace announced the loss of the Vega VV17 mission, carrying two payloads: SEOSAT-Ingenio for ESA and TARANIS for the French space agency, CNES.</div> 
 		<div class="meta">
 			<span>17/11/2020</span>
-			<span>42858 <small>views</small></span>
+			<span>42878 <small>views</small></span>
 		</div>
 		
 	</header>
@@ -884,7 +886,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>10/02/2021</span>
-		<span>2028 <small>views</small></span>
+		<span>2051 <small>views</small></span>
 			<span>30 <small>likes</small></span>
 		
 	</div>
@@ -925,7 +927,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>21/10/2020</span>
-		<span>3593 <small>views</small></span>
+		<span>3604 <small>views</small></span>
 			<span>22 <small>likes</small></span>
 		
 	</div>
@@ -967,7 +969,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>17/02/2020</span>
-		<span>15987 <small>views</small></span>
+		<span>16078 <small>views</small></span>
 			<span>130 <small>likes</small></span>
 		
 	</div>
@@ -1008,7 +1010,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>11/05/2022</span>
-		<span>494 <small>views</small></span>
+		<span>499 <small>views</small></span>
 			<span>4 <small>likes</small></span>
 		
 	</div>
@@ -1049,7 +1051,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>08/07/2022</span>
-		<span>641 <small>views</small></span>
+		<span>649 <small>views</small></span>
 			<span>17 <small>likes</small></span>
 		
 	</div>
@@ -1089,7 +1091,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>13/07/2022</span>
-		<span>251 <small>views</small></span>
+		<span>259 <small>views</small></span>
 			<span>0 <small>likes</small></span>
 		
 	</div>
@@ -1130,7 +1132,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>14/07/2022</span>
-		<span>887 <small>views</small></span>
+		<span>897 <small>views</small></span>
 			<span>18 <small>likes</small></span>
 		
 	</div>
@@ -1172,7 +1174,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>13/07/2022</span>
-		<span>8998 <small>views</small></span>
+		<span>9065 <small>views</small></span>
 			<span>84 <small>likes</small></span>
 		
 	</div>
@@ -1214,7 +1216,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>13/07/2022</span>
-		<span>4532 <small>views</small></span>
+		<span>4554 <small>views</small></span>
 			<span>93 <small>likes</small></span>
 		
 	</div>
@@ -1256,7 +1258,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>06/05/2022</span>
-		<span>3301 <small>views</small></span>
+		<span>3337 <small>views</small></span>
 			<span>13 <small>likes</small></span>
 		
 	</div>
@@ -1412,7 +1414,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 																	 
 								
 														
-																			<a href="/Services/Privacy_notice_ESA_website">Privacy notice</a>
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
 																	 
 								
 														

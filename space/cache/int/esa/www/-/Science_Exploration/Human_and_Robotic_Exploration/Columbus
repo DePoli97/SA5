@@ -1,0 +1,1394 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="Columbus">
+<title>ESA - Columbus</title>					<meta name="description" content="Columbus">
+		<meta property="og:description" content="Columbus">
+				<meta name="keywords" content="Columbus, European Columbus laboratory, International Space Station, ISS, module, STS-122, ESA astronauts, Hans Schlegel, Leopold Eyharts, Stephen Frick, Alan Poindexter, Rex Walheim, Stanley Love, Leland Melvin, Daniel Tani, Expedition 16, Space Shuttle Atlantis, ISS assembly, 1E, Columbus Mission, research laboratory, experiment facilities, Internal facilities, External facilities, Biolab, European Drawer Rack, European Physiology Modules Facility, Fluid Science Laboratory, European Transport Carrier, EuTEF, European Technology Exposure Facility, SOLAR, WAICO, Multigen-1, Geoflow, Columbus Control Centre, User Support Operations Centre, installation, activation, commissioning">
+			
+	
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header exploring-discovering">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'exploring-discovering';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+				
+			<section class="page-header exploring-discovering">
+	<header class="entry">
+		<a href="/Science_Exploration" class="pillar">Science & Exploration</a>
+		<h1 class="heading">Columbus </h1>
+	</header>
+						<img class="image-bg stellar" src="/var/esa/storage/images/science_exploration/20756628-2-eng-GB/Science_Exploration_pillars.jpg" alt="Columbus" data-stellar-ratio="0.9"> 
+</section>
+
+
+
+	
+						  
+			
+	
+			
+	
+															
+	
+			
+	
+															
+	
+			
+	
+															
+	
+			
+	
+															
+	
+			
+	
+															
+	
+			
+	
+																
+
+
+
+
+
+	
+	
+					 
+
+	
+																																			
+				
+																																																					
+				
+														
+				
+												
+			
+	
+					
+			
+						 
+		
+					
+			
+						 
+		
+					
+						
+						 
+		
+					
+			
+						 
+						
+ 
+
+<section class="cards filtered">
+	<div class="filter-wrapper">
+		<h2 class="heading section-heading">
+			
+							Latest
+					</h2>
+		<div class="filters button-group">
+			<button data-filter="" class="btn active">All</button>
+			<button data-filter=".story" class="btn">Stories</button>
+			<button data-filter=".video" class="btn">Videos</button>
+			<button data-filter=".image" class="btn">Images</button>
+		</div>
+	</div>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1554808800">
+<a class="card story exploring-discovering" href="/Science_Exploration/Human_and_Robotic_Exploration/Research/Fireworks_of_blue_lightning_and_gamma_rays_above_thunderclouds">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/02/thunderstorm_seen_from_space_station/16802515-2-eng-GB/Thunderstorm_seen_from_Space_Station_card_medium.png" alt="Thunderstorm seen from Space Station">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Fireworks of blue lightning and gamma rays above thunderclo&#8230;</h3>  
+
+<div class="meta">
+			<span>09/04/2019</span>
+		<span>9255 <small>views</small></span>
+			<span>82 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1531136760">
+<a class="card story exploring-discovering" href="/Science_Exploration/Human_and_Robotic_Exploration/Be_the_next_Space_Exploration_Master">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/12/space_exploration_masters_winners/17284005-1-eng-GB/Space_Exploration_Masters_winners_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Be the next Space Exploration Master</h3>  
+
+<div class="meta">
+			<span>09/07/2018</span>
+		<span>4555 <small>views</small></span>
+			<span>21 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1530262560">
+<a class="card story exploring-discovering" href="/Science_Exploration/Human_and_Robotic_Exploration/Research/Dragon_delivers_some_ICE">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2018/06/spx15_dragon_lift_off/17573655-1-eng-GB/Spx15_Dragon_lift_off_card_medium.png" alt="SpaceX CRS-15 lifts off ">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Dragon delivers some ICE </h3>  
+
+<div class="meta">
+			<span>29/06/2018</span>
+		<span>4532 <small>views</small></span>
+			<span>64 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1528209960">
+<a class="card story exploring-discovering" href="/Science_Exploration/Human_and_Robotic_Exploration/Research/ICE_Cubes_space_research_service_open_for_business">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/06/experiment_cube/17009644-1-eng-GB/Experiment_cube_card_medium.jpg" alt="Experiment cube">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">ICE Cubes space research service open for business</h3>  
+
+<div class="meta">
+			<span>05/06/2018</span>
+		<span>10522 <small>views</small></span>
+			<span>55 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1527076560">
+<a class="card story exploring-discovering" href="/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/First_light_for_the_storm_hunter">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2018/05/eyes_on_the_storm/17520263-3-eng-GB/Eyes_on_the_storm_card_medium.gif" alt="Eyes on the storm">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">First light for the storm hunter</h3>  
+
+<div class="meta">
+			<span>23/05/2018</span>
+		<span>10826 <small>views</small></span>
+			<span>97 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1522925460">
+<a class="card story exploring-discovering" href="/Science_Exploration/Human_and_Robotic_Exploration/The_chemistry_of_lightning">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2016/02/lightning_strikes/15803082-1-eng-GB/Lightning_strikes_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">The chemistry of lightning</h3>  
+
+<div class="meta">
+			<span>05/04/2018</span>
+		<span>10136 <small>views</small></span>
+			<span>46 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1690189200">
+<a class="card story exploring-discovering" href="/Science_Exploration/Human_and_Robotic_Exploration/Probe_the_space_weather_around_Earth">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/12/m-nlp_during_estec_testing/24623049-1-eng-GB/m-NLP_during_ESTEC_testing_card_medium.jpg" alt="m-NLP during ESTEC testing">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Probe the space weather around Earth</h3>  
+
+<div class="meta">
+			<span>24/07/2023</span>
+		<span>1771 <small>views</small></span>
+			<span>46 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1618992000">
+<a class="card story exploring-discovering" href="/Science_Exploration/Human_and_Robotic_Exploration/Astronauts/20_years_of_Europeans_on_the_Space_Station">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2001/04/launch_sts-100/9189936-5-eng-GB/Launch_STS-100_card_medium.jpg" alt="Launch STS-100">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">20 years of Europeans on the Space Station</h3>  
+
+<div class="meta">
+			<span>21/04/2021</span>
+		<span>2531 <small>views</small></span>
+			<span>63 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1618474560">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2021/04/Time_keeping">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Time keeping</h3>  
+
+<div class="meta">
+			<span>15/04/2021</span>
+		<span>2074 <small>views</small></span>
+			<span>44 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/04/time_keeping/23255714-1-eng-GB/Time_keeping_card_full.jpg" alt="Time keeping">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1616062680">
+<a class="card story exploring-discovering" href="/Science_Exploration/Human_and_Robotic_Exploration/New_podcast_episode_Columbus_launch_to_orbit">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2008/02/atlantis_lifts_off4/9525085-4-eng-GB/Atlantis_lifts_off_card_medium.jpg" alt="Atlantis lifts off">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">New podcast episode: Columbus' launch to orbit</h3>  
+
+<div class="meta">
+			<span>18/03/2021</span>
+		<span>2217 <small>views</small></span>
+			<span>50 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1615899480">
+<a class="card story exploring-discovering" href="/Science_Exploration/Human_and_Robotic_Exploration/European_science_on_Space_Station_in_February">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/03/electromagnetic_levitator_in_columbus/23214168-1-eng-GB/Electromagnetic_levitator_in_Columbus_card_medium.jpg" alt="Electromagnetic levitator in Columbus">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">European science on Space Station in February</h3>  
+
+<div class="meta">
+			<span>16/03/2021</span>
+		<span>1491 <small>views</small></span>
+			<span>36 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1604318520">
+<a class="card story exploring-discovering" href="/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/20_years_of_human_research_on_the_International_Space_Station">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/11/international_space_station/22293527-2-eng-GB/International_Space_Station_card_medium.gif" alt="International Space Station">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">20 years of human research on the International Space Stati&#8230;</h3>  
+
+<div class="meta">
+			<span>02/11/2020</span>
+		<span>7237 <small>views</small></span>
+			<span>112 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1603202100">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2020/10/Hidden_science">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Hidden science</h3>  
+
+<div class="meta">
+			<span>20/10/2020</span>
+		<span>4127 <small>views</small></span>
+			<span>113 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/10/hidden_science/22270511-1-eng-GB/Hidden_science_card_full.jpg" alt="Hidden science">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1585242840">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2020/03/Columbus_Control_Centre_during_Corona">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Columbus Control Centre during Corona</h3>  
+
+<div class="meta">
+			<span>26/03/2020</span>
+		<span>5341 <small>views</small></span>
+			<span>95 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/03/columbus_control_centre_during_corona/21900014-1-eng-GB/Columbus_Control_Centre_during_Corona_card_full.jpg" alt="Columbus Control Centre during Corona">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+				<div class="grid-item story image video"> 
+<a class="card more" href="/Science_Exploration/Human_and_Robotic_Exploration/Columbus/(archive)/0">
+	<div class="outline">
+		<h3 class="heading">More items</h3>
+	</div>
+</a>
+</div>
+	</div>
+</section>
+		
+		
+								
+
+	
+	<section class="link-section dark">
+			<div class="theme-block exploring-discovering">
+		<h2 class="heading section-heading">More</h2>
+	<div class="section-group button-group">
+															 
+								
+										<h3 class="heading">About Columbus</h3>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/Columbus/Columbus_laboratory" class="btn">Columbus laboratory</a>
+		
+		 
+
+															 
+								
+																			
+														<a href="/Science_Exploration/Human_and_Robotic_Exploration/Columbus/European_Columbus_laboratory" class="btn">Columbus facts & figures</a>
+		
+		 
+
+															 
+								
+										<h3 class="heading">Columbus facilities</h3>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/Columbus/Biolab" class="btn">Biolab</a>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/Columbus/European_Drawer_Rack" class="btn">European Drawer Rack</a>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/Columbus/European_Physiology_Modules" class="btn">European Physiology Modules</a>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/Columbus/European_Transport_Carrier" class="btn">European Transport Carrier</a>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/Columbus/Fluid_Science_Laboratory" class="btn">Fluid Science Laboratory</a>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/Columbus/Microgravity_Science_Glovebox" class="btn">Microgravity Science Glovebox</a>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/Columbus/Muscle_Atrophy_Research_and_Exercise_System" class="btn">Muscle Atrophy Research and Exercise System</a>
+		
+		 
+
+															 
+								
+										<h3 class="heading">External payloads</h3>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/Research/Atmosphere_Space_Interactions_Monitor" class="btn">Atmosphere–Space Interactions Monitor</a>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/Columbus/SOLAR" class="btn">SOLAR</a>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/Columbus/Vessel-ID" class="btn">Vessel-ID</a>
+		
+		 
+
+															 
+								
+										<h3 class="heading">Columbus mission</h3>
+		
+		 
+
+															 
+								
+																			
+														<a href="/Science_Exploration/Human_and_Robotic_Exploration/Columbus/Columbus_Mission" class="btn">About the mission</a>
+		
+		 
+
+															 
+								
+																			
+														<a href="/Science_Exploration/Human_and_Robotic_Exploration/Columbus/Mission_objectives" class="btn">Mission objectives</a>
+		
+		 
+
+																		
+							<a href="/Science_Exploration/Human_and_Robotic_Exploration/Columbus/Daily_activities_STS-122" class="btn">Daily activities STS-122</a>
+		
+		 
+
+															 
+								
+																			
+														<a href="/Science_Exploration/Human_and_Robotic_Exploration/Columbus/Columbus_Mission_facts" class="btn">Mission facts STS-122</a>
+		
+		 
+
+															 
+								
+																			
+														<a href="/Science_Exploration/Human_and_Robotic_Exploration/Columbus/Columbus_Mission_crew_STS-122_Expedition_16" class="btn">Crew biographies</a>
+		
+		 
+
+															 
+								
+										<h3 class="heading">Columbus operations</h3>
+		
+		 
+
+															 
+								
+																			
+														<a href="/Science_Exploration/Human_and_Robotic_Exploration/Columbus/Columbus_Control_Centre_Oberpfaffenhofen_Germany" class="btn">Columbus Control Centre</a>
+		
+		 
+
+															 
+								
+																			
+														<a href="/Science_Exploration/Human_and_Robotic_Exploration/Columbus/User_Support_and_Operations_Centres_USOCs" class="btn">User Support and Operations Centres</a>
+		
+		 
+
+															 
+								
+										<h3 class="heading">Downloads</h3>
+		
+		 
+
+															 
+								
+										<a href="https://esamultimedia.esa.int/docs/columbus/infokit/english/Columbus_Mission_Info_Kit.pdf" class="btn">Columbus Information Kit (pdf)</a>
+		
+		 
+
+															 
+								
+																			
+														<a href="/Science_Exploration/Human_and_Robotic_Exploration/Columbus/Exploring_with_Columbus" class="btn">Exploring with Columbus (pdf)</a>
+		
+		 
+
+															 
+								
+										<h3 class="heading">Multimedia</h3>
+		
+		 
+
+															 
+								
+										<a href="http://www.esa.int/esa-mmg/mmg.pl?mission=Columbus+Mission+%28Astronaut+Eyharts+and+Schlegel%29&amp;keyword=+--%3E+Keyword&amp;idf=+--%3E+ID&amp;Ic=on&amp;subm3=GO" class="btn">Image gallery</a>
+		
+		 
+
+															 
+								
+										<a href="http://spaceinvideos.esa.int/content/search?SearchText=Columbus&sortBy=added" class="btn">Columbus videos</a>
+		
+		 
+
+															 
+								
+																			
+														<a href="/About_Us/Exhibitions/Ready-to-use_material/The_Columbus_Mission" class="btn">Exhibition material</a>
+		
+		 
+
+	 
+	</div> 
+
+</div> 
+ 
+				</section>		
+		
+								<!-- #lls = 2 -->	<section class="cards">
+		<h2 class="heading section-heading">Recommended</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		 
+										
+											
+												
+																			
+ 
+		
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1201269420">
+<a class="card focuson" href="/Science_Exploration/Human_and_Robotic_Exploration/Columbus/About_the_mission_logos">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2007/11/columbus_logo/9612411-3-eng-GB/Columbus_logo_card_medium.jpg" alt="Columbus logo">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">About the Columbus logo</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1138624500">
+<a class="card focuson" href="https://esamultimedia.esa.int/docs/issedukit/en/html/index.html" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/media/image_links/iss_education_kit_on_the_web_-_screenshot/3769313-6-eng-GB/ISS_Education_Kit_on_the_web_-_screenshot_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Space Station education kit</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																																													 
+										
+											
+												
+																			
+ 
+		
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1039161360">
+<a class="card focuson" href="/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/Building_the_International_Space_Station3">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/media/image_links/assembly_sequence_main_image/3756504-6-eng-GB/Assembly_sequence_main_image_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Building the International Space Station</h3> 
+		<p class="subheading">Building the International Space Station</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+											
+												
+																			
+				
+	
+	
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1047996660">
+<a class="card focuson exploring-discovering" href="/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/Where_is_the_International_Space_Station" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/11/cosmic_pearl/23822293-1-eng-GB/Cosmic_pearl_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Science & Exploration</span>
+				<h3 class="heading">Where is the International Space Station?</h3> 
+		<p class="subheading">Where is the International Space Station?</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+		<section class="cards">
+		<h2 class="heading section-heading"> </h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1416492960">
+<a class="card story exploring-discovering" href="/Science_Exploration/Human_and_Robotic_Exploration/Research/Research_Announcements">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2017/06/visions_of_human_spaceflight_and_robotic_exploration/17037308-1-eng-GB/Visions_of_human_spaceflight_and_robotic_exploration_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Research Announcements</h3>  
+
+<div class="meta">
+		<span>107688 <small>views</small></span>
+			<span>89 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+				
+	
+	
+ 
+	
+ 
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	<div class="grid-item highlight">
+<a class="card highlight exploring-discovering" href="http://eea.spaceflight.esa.int/" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Highlight</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+			<h3 class="heading">Experiment archive</h3>
+			
+		</header>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2014/05/blood_samples/14524220-1-eng-GB/Blood_samples_card_full.jpg" alt="Alexander's blood samples">
+		<div class="cta">
+			<label>Open</label>
+			<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Open">
+		</div>
+	</figure>
+</a>
+</div>
+																					
+								
+										
+
+
+	 
+
+		
+<div class="grid-item focuson" data-date="1348052461">
+<a class="card focuson exploring-discovering" href="/Science_Exploration/Human_and_Robotic_Exploration/Columbus">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<img class="image-bg" src="/var/esa/storage/images/science_exploration/20756628-2-eng-GB/Science_Exploration_card_full.jpg" alt="Columbus">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Science & Exploration</span>
+		<h3 class="heading">Columbus</h3>
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+			
+		
+									
+	<section class="cards">
+					<h2 class="heading section-heading">Related</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		 
+										
+											
+												
+																			
+ 
+		
+ 
+		
+					
+			
+  
+	
+
+
+	
+	 
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1061556540">
+<a class="card focuson" href="/Science_Exploration/Human_and_Robotic_Exploration">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Human Spaceflight</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+ 
+		
+		
+		
+ 
+
+
+	<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

@@ -1,0 +1,533 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="Gaia overview">
+<title>ESA - Gaia overview</title>						<meta name="keywords" content="SPCS overview gaia">
+			
+	
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header exploring-discovering">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'exploring-discovering';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+		<script>
+$.post(
+	'/ezjscore/call', 
+	"ezjscServer_function_arguments=esaux::viewsincr::183507", 
+	function(data) { 
+		$(document).ready(function() {			$('#viewcount').text(data)
+		})
+	})
+</script>
+
+
+
+<article class="article mission-overview exploring-discovering">
+
+<div class="feature slider"><div class="flexslider"><ul class="slides">	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2004/05/Gaia_mapping_the_stars_of_the_Milky_Way">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2004/05/gaia_mapping_the_stars_of_the_milky_way/10200416-8-eng-GB/Gaia_mapping_the_stars_of_the_Milky_Way_pillars.jpg" alt="Gaia mapping the stars of the Milky Way">
+				<figcaption class="image__caption">Gaia mapping the stars of the Milky Way</figcaption>
+			</a></figure></div></li>	
+							
+														
+																								
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2022/06/Gaia_s_Milky_Way_in_motion">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/06/gaia_s_milky_way_in_motion/24305522-1-eng-GB/Gaia_s_Milky_Way_in_motion_pillars.png" alt="Gaia’s Milky Way in motion">
+				<figcaption class="image__caption">Gaia’s Milky Way in motion</figcaption>
+			</a></figure></div></li>	
+							
+														
+																								
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2022/06/Asteroids_on_13_June_2022_with_Gaia">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/06/asteroids_on_13_june_2022_with_gaia/24305989-1-eng-GB/Asteroids_on_13_June_2022_with_Gaia_pillars.png" alt="Asteroids on 13 June 2022 with Gaia">
+				<figcaption class="image__caption">Asteroids on 13 June 2022 with Gaia</figcaption>
+			</a></figure></div></li>	
+							
+														
+																								
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2022/06/Gaia_Exploring_the_multi-dimensional_Milky_Way">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/06/gaia_exploring_the_multi-dimensional_milky_way/24305477-1-eng-GB/Gaia_Exploring_the_multi-dimensional_Milky_Way_pillars.jpg" alt="Gaia: Exploring the multi-dimensional Milky Way">
+				<figcaption class="image__caption">Gaia: Exploring the multi-dimensional Milky Way</figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2019/04/Gaia_s_first_asteroid_discoveries">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/04/gaia_s_first_asteroid_discoveries/19366739-1-eng-GB/Gaia_s_first_asteroid_discoveries_pillars.png" alt="Gaia’s first asteroid discoveries">
+				<figcaption class="image__caption">Gaia’s first asteroid discoveries</figcaption>
+			</a></figure></div></li></ul></div></div>
+
+<header class="entry article__block">
+	<span class="pillar article__item">Science & Exploration</span>
+	<h1 class="heading heading--main article__item">Gaia overview</h1>
+	<div class="meta article__item">
+		<span><span id="viewcount">189802</span><small> views</small></span>
+		
+	</div>
+</header>
+<div class="breadcrumbs article__block article__item">
+<a class="breadcrumbs__entry" href="/">ESA</a> /			<a class="breadcrumbs__entry" href="/Science_Exploration">Science & Exploration</a> /			<a class="breadcrumbs__entry" href="/Science_Exploration/Space_Science">Space Science</a> /			<a class="breadcrumbs__entry" href="/Science_Exploration/Space_Science/Gaia">Gaia</a></div>
+
+
+<div class="abstract article__block article__item">
+	
+</div>
+
+
+
+
+<div class="article__block">
+				</div>
+
+
+    
+					
+	
+    
+							
+														
+																	
+
+
+
+							
+				
+								
+						
+								
+												<div class="article__block">
+				<figure class="article__image article__image--right">
+					<a href="/ESA_Multimedia/Images/2013/12/Gaia_mapping_the_stars_of_the_Milky_Way" class="popup">
+				<img src="/var/esa/storage/images/esa_multimedia/images/2013/12/gaia_mapping_the_stars_of_the_milky_way/13461326-3-eng-GB/Gaia_mapping_the_stars_of_the_Milky_Way_article.jpg" alt="Gaia mapping the stars of the Milky Way">
+			</a>
+				<figcaption class="image__caption">
+							<a href="/ESA_Multimedia/Images/2013/12/Gaia_mapping_the_stars_of_the_Milky_Way">Gaia mapping the stars of the Milky Way</a>
+								</figcaption>
+	</figure>	
+		<p><b>Status:</b> In operation</p><p>
+<b>Objective</b><br />A global space astrometry mission, Gaia is building the largest, most precise three-dimensional map of our Galaxy by surveying nearly two billion objects. </p><p>
+<b>Mission</b><br />Throughout the course of its mission, Gaia monitors each of its target stars about 14 times per year. It is precisely charting their positions, distances, movements, and changes in brightness. It is expected to discover hundreds of thousands of new celestial objects, such as extra-solar planets and brown dwarfs, and observe hundreds of thousands of asteroids within our own Solar System. The mission is also studying more than 1 million distant quasars and providing stringent new tests of Albert Einstein’s General Theory of Relativity.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">What's special?</h2>
+	    
+							
+														
+																	
+
+
+
+							
+				
+								
+						
+								
+											<figure class="article__image article__image--left">
+					<a href="/ESA_Multimedia/Images/2020/12/The_density_of_stars_from_Gaia_s_Early_Data_Release_32" class="popup">
+				<img src="/var/esa/storage/images/esa_multimedia/images/2020/12/the_density_of_stars_from_gaia_s_early_data_release_32/22358886-1-eng-GB/The_density_of_stars_from_Gaia_s_Early_Data_Release_3_article.png" alt="The density of stars from Gaia’s Early Data Release 3">
+			</a>
+				<figcaption class="image__caption">
+							<a href="/ESA_Multimedia/Images/2020/12/The_density_of_stars_from_Gaia_s_Early_Data_Release_32">The density of stars from Gaia’s Early Data Release 3</a>
+								</figcaption>
+	</figure>	
+		<p>Gaia is creating an extraordinarily precise three-dimensional map of nearly two billion objects throughout our Galaxy and beyond, mapping their motions, luminosity, temperature and composition. This huge stellar census is providing the data needed to tackle an enormous range of important open questions relating to the origin, structure and evolutionary history of our Galaxy.</p><p>For example, Gaia is identifying which stars are relics from smaller galaxies long ago ‘swallowed’ by the Milky Way. By watching for the large-scale motion of stars in our Galaxy, it is also probing the distribution of dark matter, the invisible substance thought to hold our Galaxy together.</p><p>Gaia is achieving its goals by repeatedly measuring the positions of all objects down to magnitude 20 (about 400 000 times fainter than can be seen with the naked eye).</p><p>For all objects brighter than magnitude 15 (4000 times fainter than the naked eye limit), Gaia is measuring their positions to an accuracy of 24 microarcseconds. This is comparable to measuring the diameter of a human hair at a distance of 1000 km.</p><p>This is allowing the nearest stars to have their distances measured to the extraordinary accuracy of 0.001%. Even stars near the Galactic centre, some 30&nbsp;000 light-years away, will have their distances measured to within an accuracy of 20%.</p><p>The vast catalogue of celestial objects created from Gaia’s scientific haul is not only benefiting studies of our own Solar System and Galaxy, but also the fundamental physics that underpins our entire Universe.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Spacecraft</h2>
+	    
+							
+														
+																	
+
+
+
+							
+				
+								
+						
+								
+											<figure class="article__image article__image--right">
+					<a href="/ESA_Multimedia/Images/2020/12/The_colour_of_the_sky_from_Gaia_s_Early_Data_Release_3" class="popup">
+				<img src="/var/esa/storage/images/esa_multimedia/images/2020/12/the_colour_of_the_sky_from_gaia_s_early_data_release_3/22358049-1-eng-GB/The_colour_of_the_sky_from_Gaia_s_Early_Data_Release_3_article.png" alt="The colour of the sky from Gaia’s Early Data Release 3">
+			</a>
+				<figcaption class="image__caption">
+							<a href="/ESA_Multimedia/Images/2020/12/The_colour_of_the_sky_from_Gaia_s_Early_Data_Release_3">The colour of the sky from Gaia’s Early Data Release 3</a>
+								</figcaption>
+	</figure>	
+		<p>At its heart, Gaia contains two optical telescopes that work with three science instruments to precisely determine the location of stars and their velocities, and to split their light into a spectrum for analysis.</p><p>During its mission, the spacecraft is spinning slowly, sweeping the two telescopes across the entire celestial sphere. As the detectors repeatedly measure the position of each celestial object, they are detecting the object's motion through space as well as changes therein.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Journey</h2>
+	    
+							
+														
+																	
+
+
+
+							
+				
+								
+						
+								
+											<figure class="article__image article__image--right">
+					<a href="/ESA_Multimedia/Images/2013/12/Gaia_liftoff5" class="popup">
+				<img src="/var/esa/storage/images/esa_multimedia/images/2013/12/gaia_liftoff5/13462262-2-eng-GB/Gaia_liftoff_article.jpg" alt="Gaia liftoff">
+			</a>
+				<figcaption class="image__caption">
+							<a href="/ESA_Multimedia/Images/2013/12/Gaia_liftoff5">Gaia liftoff</a>
+								</figcaption>
+	</figure>	
+		<p>Gaia launched on a Soyuz-STB/Fregat-MT launch vehicle from the European Spaceport in Kourou, French Guiana.</p><p>After launch, Gaia unfolded a ‘skirt’ just over 10 m in diameter. This acts as both a sunshade to permanently shade the telescopes and allow their temperatures to drop to below –100°C, and as a power generator for the spacecraft. The underside of the shield is partially covered with solar panels and always faces the Sun, generating electricity to operate the spacecraft and its instruments.</p><p>Gaia is mapping the stars from an orbit around the Sun, at a distance of 1.5 million km beyond Earth’s orbit. This special location, known as the L2 Lagrangian point, keeps pace with Earth as we orbit the Sun. It offers a clearer view of the cosmos than an orbit around Earth, which would result in the spacecraft passing in and out of Earth's shadow and causing it to heat up and cool down, distorting its view. Free from this restriction and far away from the heat radiated by Earth, L2 provides a much more stable viewpoint.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">History</h2>
+	    
+						
+		<p>Gaia has its roots in ESA’s Hipparcos mission (1989-1993), which catalogued more than 100 000 stars to high precision, and more than a million to lesser precision. Gaia catalogues nearly two thousand million stars, measuring each star's position and motion 200 times more accurately than Hipparcos, and produces data for 20 000 times more stars than its predecessor.</p><p>The Gaia mission was approved in 2000 as an ESA Cornerstone mission. </p><p>The name ‘GAIA’ was originally derived as an acronym for Global Astrometric Interferometer for Astrophysics. This reflected the optical technique of interferometry that was originally planned for use on the spacecraft. However, the working method has now changed, and although the acronym is no longer applicable, the name Gaia remains to provide continuity with the project.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Partnerships</h2>
+	    
+							
+														
+																	
+
+
+
+							
+				
+								
+						
+								
+											<figure class="article__image article__image--left">
+					<a href="/ESA_Multimedia/Images/2013/02/Satellite_control" class="popup">
+				<img src="/var/esa/storage/images/esa_multimedia/images/2013/02/satellite_control/12542194-8-eng-GB/Satellite_control_article.jpg" alt="Satellite control">
+			</a>
+				<figcaption class="image__caption">
+							<a href="/ESA_Multimedia/Images/2013/02/Satellite_control">Satellite control</a>
+								</figcaption>
+	</figure>	
+		<p>Gaia is a fully European mission.</p><p>The spacecraft is controlled&nbsp;from the European Space Operations Centre (ESOC, Darmstadt, Germany)&nbsp;using the three ground stations Cebreros (Spain), Malargüe (Argentina) and New Norcia (Australia). Science operations are conducted from the European Space Astronomy Centre (ESAC, Villafranca, Spain).</p><p>The Gaia Data Processing and Analysis Consortium (DPAC) processes the raw data that are published in one of the largest stellar catalogues ever made.</p>	</div>	
+    
+					
+</article>
+
+
+	<section class="cards">
+		<h2 class="heading section-heading">Related Links</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		 
+										
+											
+												
+																			
+				
+	
+	
+ 
+		
+					
+			
+ 
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	<div class="grid-item highlight mission" data-date="1370962740">
+<a class="card highlight mission exploring-discovering" href="/Science_Exploration/Space_Science/Gaia">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Mission</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+			<h3 class="heading">Gaia: Surveying a billion stars</h3>
+			
+		</header>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/10/gaia_mission_cover/21111318-1-eng-GB/Gaia_mission_cover_card_full.jpg" alt="">
+		<div class="cta">
+			<label>Open</label>
+			<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Open">
+		</div>
+	</figure>
+</a>
+</div>
+																																													 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1654688460">
+<a class="card focuson exploring-discovering" href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_overview">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2004/05/gaia_mapping_the_stars_of_the_milky_way/10200416-8-eng-GB/Gaia_mapping_the_stars_of_the_Milky_Way_card_medium.jpg" alt="Gaia mapping the stars of the Milky Way">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Science & Exploration</span>
+				<h3 class="heading">Gaia overview</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1371458580">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Gaia/Gaia_factsheet">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/12/the_colour_of_the_sky_from_gaia_s_early_data_release_3/22358049-1-eng-GB/The_colour_of_the_sky_from_Gaia_s_Early_Data_Release_3_card_medium.png" alt="The colour of the sky from Gaia’s Early Data Release 3">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Gaia factsheet</h3>  
+
+<div class="meta">
+		<span>32045 <small>views</small></span>
+			<span>157 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																														</div>
+</section> 
+
+		<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

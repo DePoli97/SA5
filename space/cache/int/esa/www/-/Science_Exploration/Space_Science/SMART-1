@@ -1,0 +1,1146 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="SMART-1">
+<title>ESA - SMART-1</title>					<meta name="description" content="SMART-1 is the first of ESA’s Small Missions for Advanced Research in Technology. It is heading for the Moon using solar-electric propulsion and carrying a battery of miniaturised instruments. As well as testing new technology, SMART-1 will make the first comprehensive inventory of key chemical elements in the lunar surface. It will also investigate the theory that the Moon was formed following the violent collision of a smaller planet with Earth, four and a half thousand million years ago.">
+		<meta property="og:description" content="SMART-1 is the first of ESA’s Small Missions for Advanced Research in Technology. It is heading for the Moon using solar-electric propulsion and carrying a battery of miniaturised instruments. As well as testing new technology, SMART-1 will make the first comprehensive inventory of key chemical elements in the lunar surface. It will also investigate the theory that the Moon was formed following the violent collision of a smaller planet with Earth, four and a half thousand million years ago.">
+				<meta name="keywords" content="SMART-1, moon, lunar mission, european moon mission, ion propulsion, ion engine">
+			
+	
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header exploring-discovering">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'exploring-discovering';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+				
+			<section class="page-header exploring-discovering">
+	<header class="entry">
+		<a href="/Science_Exploration" class="pillar">Science & Exploration</a>
+		<h1 class="heading">SMART-1 </h1>
+	</header>
+						<img class="image-bg stellar" src="/var/esa/storage/images/science_exploration/20756628-2-eng-GB/Science_Exploration_pillars.jpg" alt="SMART-1" data-stellar-ratio="0.9"> 
+</section>
+
+
+
+	
+						  
+	
+
+
+
+
+
+
+					 
+
+	
+																																			
+				
+																																																					
+				
+														
+				
+												
+			
+	
+					
+			
+			 
+		
+					
+			
+			 
+		
+					
+						
+						 
+		
+					
+			
+			 
+						
+ 
+
+<section class="cards filtered">
+	<div class="filter-wrapper">
+		<h2 class="heading section-heading">
+			
+							Latest
+					</h2>
+		<div class="filters button-group">
+			<button data-filter="" class="btn active">All</button>
+			<button data-filter=".story" class="btn">Stories</button>
+			<button data-filter=".video" class="btn">Videos</button>
+			<button data-filter=".image" class="btn">Images</button>
+		</div>
+	</div>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1586949000">
+<a class="card video exploring-discovering popup" href="/ESA_Multimedia/Videos/2020/04/Lunar_SMART-1_mission_in_VR">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:00:00
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2020/04/lunar_smart-1_mission_in_vr/21954622-1-eng-GB/Lunar_SMART-1_mission_in_VR_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Lunar SMART-1 mission in VR</h3>  
+
+<div class="meta">
+			<span>15/04/2020</span>
+		<span>1517 <small>views</small></span>
+			<span>0 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1535958000">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2018/09/SMART-1_s_crash_site">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">SMART-1’s crash site</h3>  
+
+<div class="meta">
+			<span>03/09/2018</span>
+		<span>9483 <small>views</small></span>
+			<span>137 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2018/09/smart-1_s_crash_site/17670838-1-eng-GB/SMART-1_s_crash_site_card_full.jpg" alt="SMART-1’s crash site">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1469438940">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2005/07/Hadley_Rille_on_the_Moon_seen_by_SMART-1">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Hadley Rille on the Moon, seen by SMART-1</h3>  
+
+<div class="meta">
+			<span>25/07/2016</span>
+		<span>6290 <small>views</small></span>
+			<span>71 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2005/07/hadley_rille_on_the_moon_seen_by_smart-1/9764389-3-eng-GB/Hadley_Rille_on_the_Moon_seen_by_SMART-1_card_full.jpg" alt="Hadley Rille on the Moon, seen by SMART-1">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1455529500">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2016/02/SMART-1_views_a_cluster_of_the_Moon_s_craters">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">SMART-1 views a cluster of the Moon’s craters</h3>  
+
+<div class="meta">
+			<span>15/02/2016</span>
+		<span>9543 <small>views</small></span>
+			<span>102 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2016/02/smart-1_views_a_cluster_of_the_moon_s_craters/15812633-1-eng-GB/SMART-1_views_a_cluster_of_the_Moon_s_craters_card_full.jpg" alt="">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1401088080">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2014/05/Annotated_lunar_south_pole_mosaic">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Annotated lunar south pole mosaic</h3>  
+
+<div class="meta">
+			<span>26/05/2014</span>
+		<span>2761 <small>views</small></span>
+			<span>22 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2014/05/annotated_lunar_south_pole_mosaic/14545955-1-eng-GB/Annotated_lunar_south_pole_mosaic_card_full.jpg" alt="Annotated lunar south pole mosaic">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1248697020">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/SMART-1/Experience_a_virtual_journey_to_the_lunar_Peak_of_Eternal_Light">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2005/04/smart-1_search_for_lunar_peaks_of_eternal_light/9778657-3-eng-GB/SMART-1_Search_for_lunar_peaks_of_eternal_light_card_medium.jpg" alt="SMART-1 Search for lunar peaks of eternal light">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Experience a virtual journey to the lunar Peak of Eternal L&#8230;</h3>  
+
+<div class="meta">
+			<span>27/07/2009</span>
+		<span>3679 <small>views</small></span>
+			<span>12 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1244622060">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/SMART-1/SMART-1_maps_Kaguya_lunar_impact">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2009/06/kaguya_impact_approach_strip/9578498-3-eng-GB/Kaguya_impact_approach_strip_card_medium.jpg" alt="Kaguya impact approach strip">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">SMART-1 maps Kaguya lunar impact</h3>  
+
+<div class="meta">
+			<span>10/06/2009</span>
+		<span>2657 <small>views</small></span>
+			<span>3 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1205247540">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/SMART-1/New_lunar_south_polar_maps_from_nobr_SMART-1_nobr">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2008/03/lunar_south_pole_mosaic/9953121-2-eng-GB/Lunar_south_pole_mosaic_card_medium.jpg" alt="Lunar south pole mosaic">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">New lunar south polar maps from SMART-1</h3>  
+
+<div class="meta">
+			<span>11/03/2008</span>
+		<span>3450 <small>views</small></span>
+			<span>4 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1196844180">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/SMART-1/SMART-1_Travel_maps_of_the_lunar_north_pole">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2007/12/the_lunar_north_pole_-_smart-1_mosaic/10019837-2-eng-GB/The_lunar_north_pole_-_SMART-1_mosaic_card_medium.jpg" alt="The lunar north pole - SMART-1 mosaic">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">SMART-1: Travel maps of the lunar north pole</h3>  
+
+<div class="meta">
+			<span>05/12/2007</span>
+		<span>3843 <small>views</small></span>
+			<span>4 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+													
+						
+											
+
+		
+<div class="grid-item story" data-date="1193223360">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/SMART-1/Chang_e-1_-_new_mission_to_Moon_lifts_off">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2007/10/chang_e-12/10281689-2-eng-GB/Chang_e-1_card_medium.jpg" alt="Chang'e-1">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Chang'e-1 - new mission to Moon lifts off</h3>  
+
+<div class="meta">
+			<span>24/10/2007</span>
+		<span>8333 <small>views</small></span>
+			<span>9 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1161349080">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2006/10/SMART-1_view_of_Shackleton_crater_at_lunar_South_Pole">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">SMART-1 view of Shackleton crater at lunar South Pole</h3>  
+
+<div class="meta">
+			<span>20/10/2006</span>
+		<span>3731 <small>views</small></span>
+			<span>26 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2006/10/smart-1_view_of_shackleton_crater_at_lunar_south_pole/9852310-3-eng-GB/SMART-1_view_of_Shackleton_crater_at_lunar_South_Pole_card_full.jpg" alt="SMART-1 view of Shackleton crater at lunar South Pole">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1159826400">
+<a class="card video designing-operating popup" href="/ESA_Multimedia/Videos/2006/10/Smart-1_Impact_on_the_Moon_so_far">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:04:34
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2006/10/smart-1_impact_on_the_moon_so_far/11151192-4-eng-GB/Smart-1_Impact_on_the_Moon_so_far_card_medium.jpg" alt="Smart-1 Impact on the Moon.">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Enabling & Support</span>
+
+<h3 class="heading">Smart-1 Impact on the Moon so far</h3>  
+
+<div class="meta">
+			<span>03/10/2006</span>
+		<span>1669 <small>views</small></span>
+			<span>0 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1156370400">
+<a class="card video designing-operating popup" href="/ESA_Multimedia/Videos/2006/08/Smart-1_End_of_Mission_Review">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:08:16
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2006/08/smart-1_end_of_mission_review/11150655-4-eng-GB/Smart-1_End_of_Mission_Review_card_medium.jpg" alt="Smart-1 End of mission Review">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Enabling & Support</span>
+
+<h3 class="heading">Smart-1 End of Mission Review</h3>  
+
+<div class="meta">
+			<span>24/08/2006</span>
+		<span>4142 <small>views</small></span>
+			<span>2 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1064707200">
+<a class="card video exploring-discovering popup" href="/ESA_Multimedia/Videos/2003/09/Smart-1_En_route_to_the_Moon">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:04:39
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2003/09/smart-1_en_route_to_the_moon/11199316-5-eng-GB/Smart-1_En_route_to_the_Moon_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Smart-1 : En route to the Moon</h3>  
+
+<div class="meta">
+			<span>28/09/2003</span>
+		<span>2186 <small>views</small></span>
+			<span>3 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1049061600">
+<a class="card video designing-operating popup" href="/ESA_Multimedia/Videos/2003/03/Smart-1_Story_2-_Why_Go_to_the_Moon">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:07:24
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2003/03/smart-1_story_2-_why_go_to_the_moon/11186541-5-eng-GB/Smart-1_Story_2-_Why_Go_to_the_Moon_card_medium.jpg" alt="Smart 1 : why to go to the Moon">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Enabling & Support</span>
+
+<h3 class="heading">Smart-1: Story 2- Why Go to the Moon</h3>  
+
+<div class="meta">
+			<span>31/03/2003</span>
+		<span>1682 <small>views</small></span>
+			<span>3 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+				<div class="grid-item story image video"> 
+<a class="card more" href="/Science_Exploration/Space_Science/SMART-1/(archive)/0">
+	<div class="outline">
+		<h3 class="heading">More items</h3>
+	</div>
+</a>
+</div>
+	</div>
+</section>
+		
+		
+								
+
+	
+	<section class="link-section dark">
+			<div class="theme-block exploring-discovering">
+		<h2 class="heading section-heading">More</h2>
+	<div class="section-group button-group">
+															 
+								
+										<h3 class="heading">Towards final impact</h3>
+		
+		 
+
+															 
+								
+																			
+														<a href="/Science_Exploration/Space_Science/SMART-1/SMART-1_Impact_Frequently_Asked_Questions_FAQs" class="btn">Frequently Asked Questions</a>
+		
+		 
+
+												
+									
+							<h3 class="heading">About the journey</h3>
+		
+					
+																																					
+													<a href="/Science_Exploration/Space_Science/SMART-1/The_magic_of_ion_engines" class="btn">The magic of ion engines</a>
+				
+				 
+
+																																		
+													<a href="/Science_Exploration/Space_Science/SMART-1/The_SMART_way_to_travel" class="btn">The SMART way to travel</a>
+				
+				 
+
+																																		
+													<a href="/Science_Exploration/Space_Science/SMART-1/A_spiral_pathway_to_the_Moon" class="btn">A spiral pathway to the Moon</a>
+				
+				 
+
+			 
+						</div> 
+			<div class="section-group button-group">
+					 
+
+												
+									
+							<h3 class="heading">About the mission</h3>
+		
+					
+																																					
+													<a href="/Science_Exploration/Space_Science/SMART-1/Masterpieces_of_miniaturisation" class="btn">Masterpieces of miniaturisation</a>
+				
+				 
+
+																																		
+													<a href="/Science_Exploration/Space_Science/SMART-1/What_do_all_the_instruments_do" class="btn">What do all the instruments do?</a>
+				
+				 
+
+			 
+						</div> 
+			<div class="section-group button-group">
+					 
+
+												
+									
+							<h3 class="heading">About the Moon</h3>
+		
+					
+																																					
+													<a href="/Science_Exploration/Space_Science/SMART-1/Welcome_to_the_double_planet" class="btn">Welcome to the double planet</a>
+				
+				 
+
+																																		
+													<a href="/Science_Exploration/Space_Science/SMART-1/Lunar_science_-_still_plenty_left_to_do" class="btn">Lunar science - still plenty left to do!</a>
+				
+				 
+
+																																		
+													<a href="/Science_Exploration/Space_Science/SMART-1/Where_did_the_Moon_come_from" class="btn">Where did the Moon come from?</a>
+				
+				 
+
+			 
+						</div> 
+			<div class="section-group button-group">
+					 
+
+															 
+								
+										<h3 class="heading">Multimedia</h3>
+		
+		 
+
+															 
+								
+										<a href="https://www.esa.int/ESA_Multimedia/Search?SearchText=smart-1&result_type=images" class="btn">SMART-1 images</a>
+		
+		 
+
+															 
+								
+										<a href="http://www.esa.int/esa-mmg/mmg.pl?mission=SMART-1&amp;type=V" class="btn">SMART-1 videos</a>
+		
+		 
+
+															 
+								
+										<a href="https://esamultimedia.esa.int/images/smart_1/wallpaper_SMART1_002.jpg" class="btn">SMART-1 wallpaper</a>
+		
+		 
+
+															 
+								
+										<h3 class="heading">Follow us</h3>
+		
+		 
+
+															 
+								
+										<a href="http://www.twitter.com/esascience" class="btn">@esascience</a>
+		
+		 
+
+	 
+	</div> 
+
+</div> 
+ 
+				</section>		
+		
+								<!-- #lls = 1 -->	<section class="cards">
+		<h2 class="heading section-heading">Recommended</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		 
+										
+											
+												
+																			
+				
+	
+	
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1663335060">
+<a class="card focuson exploring-discovering" href="/Science_Exploration/Space_Science/SMART-1/SMART-1_overview" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2003/04/smart-1_is_travelling_to_the_moon_using_a_new_solar-electric_propulsion_system/9515865-4-eng-GB/SMART-1_is_travelling_to_the_Moon_using_a_new_solar-electric_propulsion_system_card_medium.jpg" alt="SMART-1 is travelling to the Moon using a new solar-electric propulsion system">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Science & Exploration</span>
+				<h3 class="heading">Smart-1 overview</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+											
+												
+																			
+				
+	
+	
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1663335120">
+<a class="card focuson exploring-discovering" href="/Science_Exploration/Space_Science/SMART-1/SMART-1_science_highlights" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2006/03/mayer_and_bond_craters_seen_by_smart-1/9815666-3-eng-GB/Mayer_and_Bond_craters_seen_by_SMART-1_card_medium.jpg" alt="Mayer and Bond craters seen by SMART-1">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Science & Exploration</span>
+				<h3 class="heading">Smart-1 science highlights</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+									<!--  203081 discarded  -->
+								
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1118910660">
+<a class="card focuson" href="http://sci.esa.int/smart-1">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2006/07/smart-1_trajectory_up_to_moon_impact/9513932-5-eng-GB/SMART-1_trajectory_up_to_Moon_impact_card_medium.jpg" alt="SMART-1 trajectory up to Moon impact">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">SMART-1 in-depth</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+			
+		
+		
+ 
+
+
+	<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

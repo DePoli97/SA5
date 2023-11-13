@@ -47,7 +47,9 @@
 <title>ESA - Venus Express</title>					<meta name="description" content="Thanks to a set of state-of-the-art instruments for planetary investigations, Venus Express will dig into the secrets of the Venusian atmosphere. It will study its complex dynamics and chemistry, and the interactions between the atmosphere and the surface, which will give clues about the surface’s characteristics. It will also study the interactions between the atmosphere and the interplanetary environment (solar wind) to better understand the evolution of the planet.">
 		<meta property="og:description" content="Thanks to a set of state-of-the-art instruments for planetary investigations, Venus Express will dig into the secrets of the Venusian atmosphere. It will study its complex dynamics and chemistry, and the interactions between the atmosphere and the surface, which will give clues about the surface’s characteristics. It will also study the interactions between the atmosphere and the interplanetary environment (solar wind) to better understand the evolution of the planet.">
 				<meta name="keywords" content="venus express atmosphere mission planetary exploration">
-			<script>
+			
+	
+	<script>
 var _paq = window._paq = window._paq || [];
 _paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
 _paq.push(["enableCrossDomainLinking"]);
@@ -198,7 +200,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>15/08/2017</span>
-		<span>16720 <small>views</small></span>
+		<span>16764 <small>views</small></span>
 			<span>182 <small>likes</small></span>
 		
 	</div>
@@ -240,7 +242,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>20/06/2016</span>
-		<span>15229 <small>views</small></span>
+		<span>15328 <small>views</small></span>
 			<span>115 <small>likes</small></span>
 		
 	</div>
@@ -277,7 +279,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>09/11/2015</span>
-		<span>16100 <small>views</small></span>
+		<span>16150 <small>views</small></span>
 			<span>138 <small>likes</small></span>
 		
 	</div>
@@ -322,7 +324,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>18/06/2015</span>
-		<span>58888 <small>views</small></span>
+		<span>59006 <small>views</small></span>
 			<span>140 <small>likes</small></span>
 		
 	</div>
@@ -364,7 +366,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>16/12/2014</span>
-		<span>37669 <small>views</small></span>
+		<span>37768 <small>views</small></span>
 			<span>180 <small>likes</small></span>
 		
 	</div>
@@ -406,7 +408,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>28/07/2014</span>
-		<span>15285 <small>views</small></span>
+		<span>15311 <small>views</small></span>
 			<span>85 <small>likes</small></span>
 		
 	</div>
@@ -443,7 +445,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>16/05/2014</span>
-		<span>9573 <small>views</small></span>
+		<span>9605 <small>views</small></span>
 			<span>52 <small>likes</small></span>
 		
 	</div>
@@ -483,7 +485,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>16/05/2014</span>
-		<span>4217 <small>views</small></span>
+		<span>4241 <small>views</small></span>
 			<span>32 <small>likes</small></span>
 		
 	</div>
@@ -523,7 +525,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>08/10/2012</span>
-		<span>7792 <small>views</small></span>
+		<span>7831 <small>views</small></span>
 			<span>20 <small>likes</small></span>
 		
 	</div>
@@ -563,7 +565,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>04/12/2008</span>
-		<span>2110 <small>views</small></span>
+		<span>2148 <small>views</small></span>
 			<span>4 <small>likes</small></span>
 		
 	</div>
@@ -867,7 +869,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 <h3 class="heading">Venus Express science highlights</h3>  
 
 <div class="meta">
-		<span>16283 <small>views</small></span>
+		<span>16357 <small>views</small></span>
 			<span>21 <small>likes</small></span>
 		
 	</div>
@@ -996,7 +998,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 																	 
 								
 														
-																			<a href="/Services/Privacy_notice_ESA_website">Privacy notice</a>
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
 																	 
 								
 														

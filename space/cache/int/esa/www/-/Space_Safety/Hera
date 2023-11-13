@@ -1,0 +1,2106 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="Hera">
+<title>ESA - Hera</title>					<meta name="description" content="Asteroid Impact Mission, AIM">
+		<meta property="og:description" content="Asteroid Impact Mission, AIM">
+				<meta name="keywords" content="Asteroid Impact Mission, AIM">
+			
+	
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header monitoring-safeguarding">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'monitoring-safeguarding';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+				
+			<section class="page-header mission-header monitoring-safeguarding">
+	<header class="entry">
+		<a href="/Space_Safety" class="pillar">Space Safety</a>
+		<h1 class="heading">Hera </h1>
+		<p class="subheading">Examining the first test of asteroid deflection, performing the first survey of a binary asteroid system</p> 
+	</header>
+	<div class="social-media-links">
+		
+										
+													
+														
+														
+														
+						</div>
+					<img class="image-bg stellar" src="/var/esa/storage/images/space_safety/hera/19717001-20-eng-GB/Hera_pillars.jpg" alt="Hera" data-stellar-ratio="0.8"> 
+</section>
+
+<section class="mission-details">
+	<div class="mission-intro">
+		
+		<p>As part of the world’s first test of asteroid deflection, Hera will perform a detailed post-impact survey of the target asteroid, Dimorphos – the orbiting moonlet of a binary asteroid system known as Didymos. Now that NASA’s DART mission has impacted the moonlet, Hera will turn the grand-scale experiment into a well-understood and repeatable planetary defence technique. Demonstrating new technologies from autonomous navigation around an asteroid to low gravity proximity operations, Hera will be humankind’s first probe to rendezvous with a binary asteroid system and Europe’s flagship Planetary Defender.</p>
+	</div>
+	<div class="mission-data">
+		
+		<p><b>Hera Launch: </b>October 2024</p><p><b>Target:</b>&nbsp;Dimorphos</p><p><b>DART impact date:</b>&nbsp;26 September 2022</p><p><b>Hera rendezvous:</b> December 2026</p>
+	</div>
+	</section>
+
+<section class="mission-stats monitoring-safeguarding">
+	
+		
+		
+<ul>
+
+<li><b>870 </b>kg&nbsp;launch mass</li>
+
+<li><b>160</b>&nbsp;m target&nbsp;asteroid</li>
+
+<li><b>6.6</b> km/s impact</li>
+
+<li><b>2 </b>Hera&nbsp;CubeSats&nbsp;</li>
+
+</ul>
+
+	
+	<div class="dimmer"></div>
+	<img class="image-bg" src="/" alt="Hera">
+</section>
+
+
+
+	
+						  
+		
+	
+			
+	
+												
+	
+			
+	
+						
+	
+			
+	
+						
+	
+			
+	
+						
+	
+			
+	
+						
+	
+			
+	
+						
+	
+			
+	
+						
+	
+			
+	
+												
+	
+			
+	
+						
+	
+			
+	
+															
+	
+			
+	
+												
+	
+			
+	
+																		
+	
+			
+	
+						
+	
+			
+	
+																		
+	
+			
+	
+												
+	
+			
+	
+															
+	
+			
+	
+												
+	
+			
+	
+												
+	
+			
+	
+						
+	
+			
+	
+						
+	
+			
+	
+						
+	
+			
+	
+						
+	
+			
+	
+						
+	
+			
+	
+																					
+	
+			
+	
+															
+	
+			
+	
+						
+	
+			
+	
+						
+	
+			
+	
+												
+	
+			
+	
+									
+	
+			
+	
+						
+	
+			
+	
+															
+	
+			
+	
+						
+	
+			
+	
+						
+	
+			
+	
+				
+
+ 
+
+<section class="cards filtered">
+	<div class="filter-wrapper">
+		<h2 class="heading section-heading">
+			
+							Latest
+					</h2>
+		<div class="filters button-group">
+			<button data-filter="" class="btn active">All</button>
+			<button data-filter=".story" class="btn">Stories</button>
+			<button data-filter=".video" class="btn">Videos</button>
+			<button data-filter=".image" class="btn">Images</button>
+		</div>
+	</div>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1699619280">
+<a class="card story monitoring-safeguarding" href="/Space_Safety/Hera/Hera_asteroid_mission_hears_the_noise">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/11/hera_inside_the_leaf_acoustic_chamber/25189622-1-eng-GB/Hera_inside_the_LEAF_acoustic_chamber_card_medium.jpg" alt="Hera inside the LEAF acoustic chamber">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">Hera asteroid mission hears the noise</h3>  
+
+<div class="meta">
+			<span>10/11/2023</span>
+		<span>1541 <small>views</small></span>
+			<span>43 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1697812800">
+<a class="card video monitoring-safeguarding popup" href="/ESA_Multimedia/Videos/2023/10/Hera_asteroid_mission_goes_on_trial">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:04:41
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2023/10/hera_asteroid_mission_goes_on_trial/25128586-5-eng-GB/Hera_asteroid_mission_goes_on_trial_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">Hera asteroid mission goes on trial</h3>  
+
+<div class="meta">
+			<span>20/10/2023</span>
+		<span>3520 <small>views</small></span>
+			<span>130 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1697116200">
+<a class="card video monitoring-safeguarding popup" href="/ESA_Multimedia/Videos/2023/10/The_Incredible_Adventures_of_the_Hera_mission_Testing_times">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:03:42
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2023/10/the_incredible_adventures_of_the_hera_mission_testing_times/25126814-10-eng-GB/The_Incredible_Adventures_of_the_Hera_mission_Testing_times_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">The Incredible Adventures of the Hera mission – Testing tim&#8230;</h3>  
+
+<div class="meta">
+			<span>12/10/2023</span>
+		<span>2221 <small>views</small></span>
+			<span>79 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1697121120">
+<a class="card image monitoring-safeguarding popup" href="/ESA_Multimedia/Images/2023/10/Hera_asteroid_mission_on_show">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Space Safety</span>
+
+<h3 class="heading">Hera asteroid mission on show</h3>  
+
+<div class="meta">
+			<span>12/10/2023</span>
+		<span>1156 <small>views</small></span>
+			<span>44 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/10/hera_asteroid_mission_on_show/25137161-1-eng-GB/Hera_asteroid_mission_on_show_card_full.jpg" alt="Hera asteroid mission on show">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1695823920">
+<a class="card image monitoring-safeguarding popup" href="/ESA_Multimedia/Images/2023/09/Hera_takes_wing">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Space Safety</span>
+
+<h3 class="heading">Hera takes wing</h3>  
+
+<div class="meta">
+			<span>27/09/2023</span>
+		<span>3204 <small>views</small></span>
+			<span>87 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/09/hera_takes_wing/25104587-1-eng-GB/Hera_takes_wing_card_full.jpg" alt="Hera takes wing">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1695819660">
+<a class="card video monitoring-safeguarding popup" href="/ESA_Multimedia/Videos/2023/09/Hera_solar_wing_deployed">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:00:57
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2023/09/hera_solar_wing_deployed/25105540-1-eng-GB/Hera_solar_wing_deployed_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">Hera solar wing deployed</h3>  
+
+<div class="meta">
+			<span>27/09/2023</span>
+		<span>1566 <small>views</small></span>
+			<span>36 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1693567620">
+<a class="card image monitoring-safeguarding popup" href="/ESA_Multimedia/Images/2023/09/Hera_asteroid_mission_here">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Space Safety</span>
+
+<h3 class="heading">Hera asteroid mission here </h3>  
+
+<div class="meta">
+			<span>01/09/2023</span>
+		<span>3208 <small>views</small></span>
+			<span>93 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/09/hera_asteroid_mission_here/25065909-1-eng-GB/Hera_asteroid_mission_here_card_full.jpg" alt="Hera asteroid mission here ">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1692865020">
+<a class="card story monitoring-safeguarding" href="/Space_Safety/Hera/Hera_asteroid_spacecraft_assembled">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/08/hera_s_core_module_lowered_onto_propulsion_module/25054709-1-eng-GB/Hera_s_Core_Module_lowered_onto_Propulsion_Module_card_medium.jpg" alt="Hera's Core Module lowered onto Propulsion Module">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">Hera asteroid spacecraft assembled</h3>  
+
+<div class="meta">
+			<span>24/08/2023</span>
+		<span>4106 <small>views</small></span>
+			<span>53 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1692864000">
+<a class="card video monitoring-safeguarding popup" href="/ESA_Multimedia/Videos/2023/08/Mating_Hera_two_into_one">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:03:31
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2023/08/mating_hera_two_into_one/25055870-2-eng-GB/Mating_Hera_two_into_one_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">Mating Hera: two into one</h3>  
+
+<div class="meta">
+			<span>24/08/2023</span>
+		<span>1504 <small>views</small></span>
+			<span>49 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1691653680">
+<a class="card story monitoring-safeguarding" href="/Space_Safety/Hera/Hera_s_mini-radar_will_probe_asteroid_s_heart">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/10/juventas_studies_asteroid_s_internal_structure/22246997-1-eng-GB/Juventas_studies_asteroid_s_internal_structure_card_medium.jpg" alt="Juventas studies asteroid's internal structure">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">Hera’s mini-radar will probe asteroid’s heart</h3>  
+
+<div class="meta">
+			<span>10/08/2023</span>
+		<span>3525 <small>views</small></span>
+			<span>65 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1689861600">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Hubble_sees_boulders_escaping_from_asteroid_Dimorphos">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/07/hubble_sees_boulders_escaping_from_asteroid_dimorphos/25011620-1-eng-GB/Hubble_sees_boulders_escaping_from_asteroid_Dimorphos_card_medium.jpg" alt="Hubble sees boulders escaping from asteroid Dimorphos">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Hubble sees boulders escaping from asteroid Dimorphos</h3>  
+
+<div class="meta">
+			<span>20/07/2023</span>
+		<span>9830 <small>views</small></span>
+			<span>120 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1688113680">
+<a class="card story monitoring-safeguarding" href="/Space_Safety/Hera/Imagine_walking_on_Hera_s_asteroid">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/06/dimorphos_asteroid_seen_by_dart/24958158-1-eng-GB/Dimorphos_asteroid_seen_by_DART_card_medium.png" alt="Dimorphos asteroid seen by DART">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">Imagine walking on Hera’s asteroid </h3>  
+
+<div class="meta">
+			<span>30/06/2023</span>
+		<span>3538 <small>views</small></span>
+			<span>78 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1688119200">
+<a class="card video monitoring-safeguarding popup" href="/ESA_Multimedia/Videos/2023/06/Hera_Propulsion_Module_leak_test_time-lapse">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:02:23
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2023/06/hera_propulsion_module_leak_test_time-lapse/24956600-1-eng-GB/Hera_Propulsion_Module_leak_test_time-lapse_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">Hera Propulsion Module leak test – time-lapse</h3>  
+
+<div class="meta">
+			<span>30/06/2023</span>
+		<span>2175 <small>views</small></span>
+			<span>58 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1688029920">
+<a class="card story monitoring-safeguarding" href="/Space_Safety/Hera/Precision_deployer_to_put_Hera_s_CubeSats_into_asteroid_orbit">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/10/after_the_crash_comes_hera/22247285-1-eng-GB/After_the_crash_comes_Hera_card_medium.jpg" alt="After the crash comes Hera">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">Precision deployer to put Hera’s CubeSats into asteroid orb&#8230;</h3>  
+
+<div class="meta">
+			<span>29/06/2023</span>
+		<span>1889 <small>views</small></span>
+			<span>39 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1684750020">
+<a class="card story monitoring-safeguarding" href="/Space_Safety/Hera/Instrument_to_measure_asteroid_gravity_tested_for_space">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/05/grass_gravimeter_on_shaker/24891591-1-eng-GB/GRASS_gravimeter_on_shaker_card_medium.gif" alt="GRASS gravimeter on shaker">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">Instrument to measure asteroid gravity tested for space</h3>  
+
+<div class="meta">
+			<span>22/05/2023</span>
+		<span>4670 <small>views</small></span>
+			<span>65 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1682343000">
+<a class="card story monitoring-safeguarding" href="/Space_Safety/Hera/What_colour_is_an_asteroid_Hyperspectral_imager_to_find_out">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/10/hera_her_cubesats_and_their_rocky_target_destination/22247326-1-eng-GB/Hera_her_CubeSats_and_their_rocky_target_destination_card_medium.jpg" alt="Hera, her CubeSats, and their rocky target destination">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">What colour is an asteroid? Hyperspectral imager to find out</h3>  
+
+<div class="meta">
+			<span>24/04/2023</span>
+		<span>2246 <small>views</small></span>
+			<span>43 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1677686400">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Hubble_captures_movie_of_DART_asteroid_impact_debris">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/03/hubble_captures_dart_asteroid_impact_debris/24734396-1-eng-GB/Hubble_captures_DART_asteroid_impact_debris_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Hubble captures movie of DART asteroid impact debris</h3>  
+
+<div class="meta">
+			<span>01/03/2023</span>
+		<span>9463 <small>views</small></span>
+			<span>76 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1677158100">
+<a class="card story monitoring-safeguarding" href="/Space_Safety/Hera/Eyes_on_Hera_Asteroid_mission_s_cameras_ready">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/10/hera_her_cubesats_and_their_rocky_target_destination/22247326-1-eng-GB/Hera_her_CubeSats_and_their_rocky_target_destination_card_medium.jpg" alt="Hera, her CubeSats, and their rocky target destination">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">Eyes on Hera: Asteroid mission’s cameras ready</h3>  
+
+<div class="meta">
+			<span>23/02/2023</span>
+		<span>6351 <small>views</small></span>
+			<span>109 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1675967700">
+<a class="card image designing-operating popup" href="/ESA_Multimedia/Images/2023/02/Sound_test_of_Hera_asteroid_mission_antenna">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Enabling & Support</span>
+
+<h3 class="heading">Sound test of Hera asteroid mission antenna </h3>  
+
+<div class="meta">
+			<span>09/02/2023</span>
+		<span>2077 <small>views</small></span>
+			<span>71 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/02/sound_test_of_hera_asteroid_mission_antenna/24710438-1-eng-GB/Sound_test_of_Hera_asteroid_mission_antenna_card_full.jpg" alt="Sound test of Hera asteroid mission antenna ">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1674116400">
+<a class="card image designing-operating popup" href="/ESA_Multimedia/Images/2023/01/Hera_s_time_of_trial">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Enabling & Support</span>
+
+<h3 class="heading">Hera’s time of trial</h3>  
+
+<div class="meta">
+			<span>19/01/2023</span>
+		<span>3992 <small>views</small></span>
+			<span>131 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/01/hera_s_time_of_trial/24679985-1-eng-GB/Hera_s_time_of_trial_card_full.gif" alt="Hera’s time of trial">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1671695040">
+<a class="card image monitoring-safeguarding popup" href="/ESA_Multimedia/Images/2022/12/How_Hera_asteroid_mission_will_phone_home">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Space Safety</span>
+
+<h3 class="heading">How Hera asteroid mission will phone home</h3>  
+
+<div class="meta">
+			<span>22/12/2022</span>
+		<span>4255 <small>views</small></span>
+			<span>114 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/12/how_hera_asteroid_mission_will_phone_home/24656167-1-eng-GB/How_Hera_asteroid_mission_will_phone_home_card_full.jpg" alt="How Hera asteroid mission will phone home">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1666800540">
+<a class="card video monitoring-safeguarding popup" href="/ESA_Multimedia/Videos/2022/10/The_Incredible_Adventures_of_the_Hera_mission_Tales_of_Terrific_Technology">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:02:56
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2022/10/the_incredible_adventures_of_the_hera_mission_tales_of_terrific_technology/24539150-1-eng-GB/The_Incredible_Adventures_of_the_Hera_mission_Tales_of_Terrific_Technology_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">The Incredible Adventures of the Hera mission – Tales of Te&#8230;</h3>  
+
+<div class="meta">
+			<span>26/10/2022</span>
+		<span>3218 <small>views</small></span>
+			<span>120 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1666949820">
+<a class="card image monitoring-safeguarding popup" href="/ESA_Multimedia/Images/2022/10/Mini-radar_for_asteroid_CubeSat">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Space Safety</span>
+
+<h3 class="heading">Mini-radar for asteroid CubeSat</h3>  
+
+<div class="meta">
+			<span>28/10/2022</span>
+		<span>4852 <small>views</small></span>
+			<span>112 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/10/mini-radar_for_asteroid_cubesat/24549503-1-eng-GB/Mini-radar_for_asteroid_CubeSat_card_full.jpg" alt="Mini-radar for asteroid CubeSat">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1665572880">
+<a class="card story monitoring-safeguarding" href="/Space_Safety/Hera/First_kinetic_impact_test_succeeds_in_shifting_asteroid_orbit">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/10/liciacube_image_of_asteroid_ejecta/24515549-1-eng-GB/LICIACube_image_of_asteroid_ejecta_card_medium.jpg" alt="LICIACube image of asteroid ejecta">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">First kinetic impact test succeeds in shifting asteroid orb&#8230;</h3>  
+
+<div class="meta">
+			<span>12/10/2022</span>
+		<span>4592 <small>views</small></span>
+			<span>55 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1664452140">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Webb/Webb_and_Hubble_capture_detailed_views_of_DART_impact">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/09/hubble_captures_dart_impact/24490103-1-eng-GB/Hubble_captures_DART_impact_card_medium.gif" alt="">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Webb and Hubble capture detailed views of DART impact</h3>  
+
+<div class="meta">
+			<span>29/09/2022</span>
+		<span>12241 <small>views</small></span>
+			<span>114 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1664262000">
+<a class="card video monitoring-safeguarding popup" href="/ESA_Multimedia/Videos/2022/09/After_DART_comes_Hera">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:02:52
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2022/09/after_dart_comes_hera/24476850-5-eng-GB/After_DART_comes_Hera_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">After DART comes Hera</h3>  
+
+<div class="meta">
+			<span>27/09/2022</span>
+		<span>5125 <small>views</small></span>
+			<span>120 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1664283600">
+<a class="card video monitoring-safeguarding popup" href="/ESA_Multimedia/Videos/2022/09/DART_asteroid_impact_impresses_in_ESA_s_view_from_the_ground">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:00:12
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2022/09/dart_asteroid_impact_impresses_in_esa_s_view_from_the_ground/24482160-1-eng-GB/DART_asteroid_impact_impresses_in_ESA_s_view_from_the_ground_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">DART asteroid impact impresses in ESA’s view from the groun&#8230;</h3>  
+
+<div class="meta">
+			<span>27/09/2022</span>
+		<span>61118 <small>views</small></span>
+			<span>286 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1664235300">
+<a class="card story monitoring-safeguarding" href="/Space_Safety/Hera/Hera_team_congratulates_NASA_asteroid_impactors">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/09/dart_s_moment_of_impact/24480245-1-eng-GB/DART_s_moment_of_impact_card_medium.jpg" alt="DART's moment of impact">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">Hera team congratulates NASA asteroid impactors</h3>  
+
+<div class="meta">
+			<span>27/09/2022</span>
+		<span>7676 <small>views</small></span>
+			<span>85 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1664184600">
+<a class="card story monitoring-safeguarding" href="/Space_Safety/Planetary_Defence/ESA_to_capture_light_from_deflected_asteroid_s_new_plume">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/09/plume_ejects_from_dimorphos_as_dart_impacts/24476942-1-eng-GB/Plume_ejects_from_Dimorphos_as_DART_impacts_card_medium.gif" alt="Plume ejects from Dimorphos as DART impacts">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">ESA to capture light from deflected asteroid’s new plume</h3>  
+
+<div class="meta">
+			<span>26/09/2022</span>
+		<span>24089 <small>views</small></span>
+			<span>79 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1663848000">
+<a class="card video monitoring-safeguarding popup" href="/ESA_Multimedia/Videos/2022/09/The_incredible_adventures_of_the_Hera_mission_Creating_a_crater">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:02:36
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2022/09/the_incredible_adventures_of_the_hera_mission_creating_a_crater/24453084-3-eng-GB/The_incredible_adventures_of_the_Hera_mission_Creating_a_crater_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">The incredible adventures of the Hera mission – Creating a &#8230;</h3>  
+
+<div class="meta">
+			<span>22/09/2022</span>
+		<span>5899 <small>views</small></span>
+			<span>125 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1663679700">
+<a class="card story monitoring-safeguarding" href="/Space_Safety/Planetary_Defence/ESA_deep_space_network_tracks_DART_asteroid_impact">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/06/dart_impacting_asteroid/19455063-1-eng-GB/DART_impacting_asteroid_card_medium.jpg" alt="DART impacting asteroid">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">ESA deep space network tracks DART asteroid impact</h3>  
+
+<div class="meta">
+			<span>20/09/2022</span>
+		<span>14047 <small>views</small></span>
+			<span>104 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1655282820">
+<a class="card image designing-operating popup" href="/ESA_Multimedia/Images/2022/06/Hera_asteroid_mission_s_first_step">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Enabling & Support</span>
+
+<h3 class="heading">Hera asteroid mission’s first step</h3>  
+
+<div class="meta">
+			<span>15/06/2022</span>
+		<span>3123 <small>views</small></span>
+			<span>92 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/06/hera_asteroid_mission_s_first_step/24313502-1-eng-GB/Hera_asteroid_mission_s_first_step_card_full.jpg" alt="Hera asteroid mission’s first step">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1653894960">
+<a class="card image designing-operating popup" href="/ESA_Multimedia/Images/2022/05/Vacuum_soak_for_satellite_brain">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Enabling & Support</span>
+
+<h3 class="heading">Vacuum soak for satellite brain</h3>  
+
+<div class="meta">
+			<span>30/05/2022</span>
+		<span>8241 <small>views</small></span>
+			<span>84 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/05/vacuum_soak_for_satellite_brain/24092799-1-eng-GB/Vacuum_soak_for_satellite_brain_card_full.jpg" alt="Vacuum soak for satellite brain">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+ 
+		
+<div class="grid-item image" data-date="1646902980">
+<a class="card image agency popup" href="/ESA_Multimedia/Images/2022/03/Backbone_of_Hera_asteroid_mission">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Agency</span>
+
+<h3 class="heading">Backbone of Hera asteroid mission</h3>  
+
+<div class="meta">
+			<span>10/03/2022</span>
+		<span>4097 <small>views</small></span>
+			<span>99 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/03/backbone_of_hera_asteroid_mission/23994093-1-eng-GB/Backbone_of_Hera_asteroid_mission_card_full.jpg" alt="Backbone of Hera asteroid mission">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+				<div class="grid-item story image video"> 
+<a class="card more" href="/Space_Safety/Hera/(archive)/0">
+	<div class="outline">
+		<h3 class="heading">More items</h3>
+	</div>
+</a>
+</div>
+	</div>
+</section>
+		
+		
+											<!-- # obj in slider 5 -->		<section class="feature slider">
+	<div class="flexslider"><ul class="slides">
+								<li>
+				
+	
+	
+ 
+	
+
+
+
+	
+	
+
+	
+			  
+													
+						
+											
+<div class="feature-item story monitoring-safeguarding">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Space Safety</span>
+		<h3 class="heading">Talking to the team</h3>
+		
+					<a class="cta" href="https://thecamp.fr/news/ian-carnelli-alan-fitsimmons-could-humans-prevent-asteroid-hitting-earth" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/10/hera_team_for_hl/21092609-1-eng-GB/Hera_team_for_HL_pillars.jpg" alt="Hera team for HL">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+	
+	
+ 
+	
+
+
+
+	
+	
+
+	
+			  
+													
+						
+											
+<div class="feature-item story monitoring-safeguarding">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Space Safety</span>
+		<h3 class="heading">Video: Steering Hera</h3>
+		
+					<a class="cta" href="https://www.youtube.com/watch?v=_BsI7-p2AW8" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/10/gmv_for_hl/20818903-1-eng-GB/GMV_for_HL_pillars.jpg" alt="GMV for HL">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+	
+	
+ 
+		
+					
+			
+
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+<div class="feature-item story monitoring-safeguarding">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Space Safety</span>
+		<h3 class="heading">Asteroid mission on high</h3>
+		
+					<a class="cta" href="/ESA_Multimedia/Images/2019/10/Hera_logo_aboard_ISS" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/10/hera_logo_aboard_iss/20805906-1-eng-GB/Hera_logo_aboard_ISS_pillars.jpg" alt="Hera logo aboard ISS">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+	
+	
+ 
+		
+					
+			
+
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+<div class="feature-item story monitoring-safeguarding">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Space Safety</span>
+		<h3 class="heading">Video: ESA defending Earth</h3>
+		
+					<a class="cta" href="/ESA_Multimedia/Videos/2019/06/Hera_ESA_s_planetary_defence_mission" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/06/hera_at_didymos/19457944-6-eng-GB/Hera_at_Didymos_pillars.gif" alt="Hera at Didymos">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+	
+	
+ 
+		
+					
+			
+
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+<div class="feature-item story monitoring-safeguarding">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Space Safety</span>
+		<h3 class="heading">Showing support</h3>
+		
+					<a class="cta" href="/ESA_Multimedia/Images/2019/08/Brian_May_models_Hera_polo_shirt" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/08/brian_may_models_hera_polo_shirt/19679658-1-eng-GB/Brian_May_models_Hera_polo_shirt_pillars.jpg" alt="Brian May models Hera polo shirt">
+</figure>
+</div>
+</li>
+						
+						</ul></div>
+	</section>				
+		
+											<section class="link-section dark">
+		<div class="theme-block monitoring-safeguarding">
+					<h2 class="heading section-heading">ESA's planetary defence mission</h2>
+	<div class="section-group button-group">
+															 
+								
+										<h3 class="heading">Mission goals</h3>
+		
+		 
+
+																		
+							<a href="/Space_Safety/Hera/Planetary_defence2" class="btn">Planetary defence</a>
+		
+		 
+
+																		
+							<a href="/Space_Safety/Hera/Technology_demonstration2" class="btn">Technology demonstration</a>
+		
+		 
+
+																		
+							<a href="/Space_Safety/Hera/Bonus_science" class="btn">Bonus science</a>
+		
+		 
+
+															 
+								
+										<h3 class="heading">In depth</h3>
+		
+		 
+
+																		
+							<a href="/Space_Safety/Hera/Hera" class="btn">Hera</a>
+		
+		 
+
+																		
+							<a href="/Space_Safety/Hera/Target_asteroid2" class="btn">Target asteroid</a>
+		
+		 
+
+																		
+							<a href="/Space_Safety/Hera/Facts_and_figures" class="btn">Facts and figures</a>
+		
+		 
+
+																		
+							<a href="/Space_Safety/Hera/From_2022_to_2026_a_question_of_time" class="btn">From 2022 to 2026: a question of time</a>
+		
+		 
+
+															 
+								
+										<a href="https://www.esaspaceshop.com/catalogsearch/result/?q=hera" class="btn">Hera goodies in the ESA Shop</a>
+		
+		 
+
+																		
+							<a href="/Space_Safety/Hera/Spacecraft2" class="btn">Spacecraft</a>
+		
+		 
+
+																		
+							<a href="/Space_Safety/Hera/Fault_detection_isolation_and_recovery" class="btn">Fault detection, isolation and recovery</a>
+		
+		 
+
+																		
+							<a href="/Space_Safety/Hera/Instruments2" class="btn">Instruments</a>
+		
+		 
+
+																		
+							<a href="/Space_Safety/Hera/Deep_space_CubeSats" class="btn">Deep space CubeSats</a>
+		
+		 
+
+																		
+							<a href="/Space_Safety/Hera/Asteroid_Impact_Deflection_Assessment_AIDA_collaboration" class="btn">Asteroid Impact & Deflection Assessment (AIDA) collaboration</a>
+		
+		 
+
+															 
+								
+										<a href="https://dart.jhuapl.edu/" class="btn">DART</a>
+		
+		 
+
+																		
+							<a href="/Space_Safety/Hera/The_story_so_far" class="btn">The story so far</a>
+		
+		 
+
+															 
+								
+										<a href="http://www.esa.int/ESA_Multimedia/Sets/Hera_images/(result_type)/images" class="btn">Download images</a>
+		
+		 
+
+	 
+	</div> 
+
+</div> 
+ 
+		</section>
+			
+		
+		
+ 
+
+
+	<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

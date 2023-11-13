@@ -45,7 +45,9 @@
 
 		<meta property="og:title" content="Webb">
 <title>ESA - Webb</title>						<meta name="keywords" content="Webb, JWST, James Webb Space Telescope, Universe, exoplanets, Ariane 5, stars, galaxies, solar system, seeing farther, science, astronomy, astrophysics, hubble ">
-			<script>
+			
+	
+	<script>
 var _paq = window._paq = window._paq || [];
 _paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
 _paq.push(["enableCrossDomainLinking"]);
@@ -235,6 +237,90 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 											
 
 		
+<div class="grid-item story" data-date="1698674400">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Webb/Webb_sees_Crab_Nebula_in_new_light">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/10/the_crab_nebula/25160335-1-eng-GB/The_Crab_Nebula_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Webb sees Crab Nebula in new light</h3>  
+
+<div class="meta">
+			<span>30/10/2023</span>
+		<span>7445 <small>views</small></span>
+			<span>137 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1698246000">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Webb/Webb_s_first_detection_of_heavy_element_from_star_merger">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/10/kilonova_and_host_galaxy_clean/25151123-1-eng-GB/Kilonova_and_host_galaxy_clean_card_medium.jpg" alt="Kilonova and host galaxy (clean)">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Webb's first detection of heavy element from star merger</h3>  
+
+<div class="meta">
+			<span>25/10/2023</span>
+		<span>5344 <small>views</small></span>
+			<span>105 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
 <div class="grid-item story" data-date="1697727600">
 <a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Webb/Webb_pinpoints_a_high-speed_jet_stream_on_Jupiter">
 	<figure class="thumbnail">
@@ -252,8 +338,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>19/10/2023</span>
-		<span>10195 <small>views</small></span>
-			<span>82 <small>likes</small></span>
+		<span>13485 <small>views</small></span>
+			<span>96 <small>likes</small></span>
 		
 	</div>
 	</header>
@@ -289,8 +375,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>16/10/2023</span>
-		<span>9135 <small>views</small></span>
-			<span>84 <small>likes</small></span>
+		<span>9580 <small>views</small></span>
+			<span>93 <small>likes</small></span>
 		
 	</div>
 		</header>
@@ -329,8 +415,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>10/10/2023</span>
-		<span>18275 <small>views</small></span>
-			<span>210 <small>likes</small></span>
+		<span>18969 <small>views</small></span>
+			<span>219 <small>likes</small></span>
 		
 	</div>
 		</header>
@@ -374,8 +460,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>02/10/2023</span>
-		<span>123021 <small>views</small></span>
-			<span>398 <small>likes</small></span>
+		<span>126645 <small>views</small></span>
+			<span>407 <small>likes</small></span>
 		
 	</div>
 	</header>
@@ -416,8 +502,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>21/09/2023</span>
-		<span>33040 <small>views</small></span>
-			<span>158 <small>likes</small></span>
+		<span>34457 <small>views</small></span>
+			<span>161 <small>likes</small></span>
 		
 	</div>
 	</header>
@@ -453,8 +539,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>14/09/2023</span>
-		<span>5267 <small>views</small></span>
-			<span>185 <small>likes</small></span>
+		<span>5599 <small>views</small></span>
+			<span>188 <small>likes</small></span>
 		
 	</div>
 		</header>
@@ -464,48 +550,6 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 	<div class="cta">
 		<label>View</label>
 		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
-	</div>
-</a>
-</div>
-  
-					
-				
-
-
-	
-	
-
-	
-										
-						
-											
-
-		
-<div class="grid-item story" data-date="1694440800">
-<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Webb/Webb_discovers_methane_and_carbon_dioxide_in_atmosphere_of_K2-18_b">
-	<figure class="thumbnail">
-		<div class="entry-info">
-			<span class="category">Story</span>
-		</div>
-		<div class="dimmer"></div>
-		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/09/exoplanet_k2-18_b_illustration/25077827-1-eng-GB/Exoplanet_K2-18_b_Illustration_card_medium.jpg" alt="Exoplanet K2-18 b (Illustration)">
-	</figure>
-	<header class="entry">
-				
-		<span class="pillar">Science & Exploration</span>
-
-<h3 class="heading">Webb discovers methane and carbon dioxide in atmosphere of &#8230;</h3>  
-
-<div class="meta">
-			<span>11/09/2023</span>
-		<span>6980 <small>views</small></span>
-			<span>104 <small>likes</small></span>
-		
-	</div>
-	</header>
-	<div class="cta">
-		<label>Read</label>
-		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
 	</div>
 </a>
 </div>
@@ -535,8 +579,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>29/08/2023</span>
-		<span>23990 <small>views</small></span>
-			<span>473 <small>likes</small></span>
+		<span>24468 <small>views</small></span>
+			<span>475 <small>likes</small></span>
 		
 	</div>
 		</header>
@@ -546,48 +590,6 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 	<div class="cta">
 		<label>View</label>
 		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
-	</div>
-</a>
-</div>
-  
-					
-				
-
-
-	
-	
-
-	
-										
-						
-											
-
-		
-<div class="grid-item story" data-date="1692626400">
-<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Webb/Webb_captures_detailed_beauty_of_Ring_Nebula">
-	<figure class="thumbnail">
-		<div class="entry-info">
-			<span class="category">Story</span>
-		</div>
-		<div class="dimmer"></div>
-		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/08/webb_captures_detailed_beauty_of_ring_nebula_nircam_image/25047351-1-eng-GB/Webb_captures_detailed_beauty_of_Ring_Nebula_NIRCam_image_card_medium.jpg" alt="Webb captures detailed beauty of Ring Nebula (NIRCam image)">
-	</figure>
-	<header class="entry">
-				
-		<span class="pillar">Science & Exploration</span>
-
-<h3 class="heading">Webb captures detailed beauty of Ring Nebula</h3>  
-
-<div class="meta">
-			<span>21/08/2023</span>
-		<span>23736 <small>views</small></span>
-			<span>210 <small>likes</small></span>
-		
-	</div>
-	</header>
-	<div class="cta">
-		<label>Read</label>
-		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
 	</div>
 </a>
 </div>
@@ -617,8 +619,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>09/08/2023</span>
-		<span>5550 <small>views</small></span>
-			<span>122 <small>likes</small></span>
+		<span>5647 <small>views</small></span>
+			<span>123 <small>likes</small></span>
 		
 	</div>
 		</header>
@@ -664,8 +666,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>12/07/2023</span>
-		<span>30187 <small>views</small></span>
-			<span>303 <small>likes</small></span>
+		<span>30339 <small>views</small></span>
+			<span>306 <small>likes</small></span>
 		
 	</div>
 			</header>
@@ -708,8 +710,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>19/10/2022</span>
-		<span>11526 <small>views</small></span>
-			<span>253 <small>likes</small></span>
+		<span>11779 <small>views</small></span>
+			<span>256 <small>likes</small></span>
 		
 	</div>
 			</header>
@@ -752,8 +754,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>06/09/2022</span>
-		<span>15601 <small>views</small></span>
-			<span>369 <small>likes</small></span>
+		<span>15709 <small>views</small></span>
+			<span>371 <small>likes</small></span>
 		
 	</div>
 			</header>
@@ -796,8 +798,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>11/04/2022</span>
-		<span>8357 <small>views</small></span>
-			<span>233 <small>likes</small></span>
+		<span>8439 <small>views</small></span>
+			<span>234 <small>likes</small></span>
 		
 	</div>
 			</header>
@@ -840,8 +842,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>25/03/2022</span>
-		<span>9790 <small>views</small></span>
-			<span>175 <small>likes</small></span>
+		<span>10316 <small>views</small></span>
+			<span>181 <small>likes</small></span>
 		
 	</div>
 			</header>
@@ -891,7 +893,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>12/07/2022</span>
-		<span>37735 <small>views</small></span>
+		<span>37907 <small>views</small></span>
 			<span>304 <small>likes</small></span>
 		
 	</div>
@@ -933,7 +935,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>12/07/2022</span>
-		<span>15312 <small>views</small></span>
+		<span>15361 <small>views</small></span>
 			<span>140 <small>likes</small></span>
 		
 	</div>
@@ -975,7 +977,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>12/07/2022</span>
-		<span>27630 <small>views</small></span>
+		<span>27725 <small>views</small></span>
 			<span>239 <small>likes</small></span>
 		
 	</div>
@@ -1017,8 +1019,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>12/07/2022</span>
-		<span>28075 <small>views</small></span>
-			<span>195 <small>likes</small></span>
+		<span>28457 <small>views</small></span>
+			<span>196 <small>likes</small></span>
 		
 	</div>
 		<a class="cta" href="/Science_Exploration/Space_Science/Webb/Webb_delivers_deepest_image_of_Universe_yet">
@@ -1759,7 +1761,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 																	 
 								
 														
-																			<a href="/Services/Privacy_notice_ESA_website">Privacy notice</a>
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
 																	 
 								
 														

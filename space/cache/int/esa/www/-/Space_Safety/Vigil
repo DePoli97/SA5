@@ -44,7 +44,9 @@
 
 
 		<meta property="og:title" content="Vigil">
-<title>ESA - Vigil</title>						<script>
+<title>ESA - Vigil</title>						
+	
+	<script>
 var _paq = window._paq = window._paq || [];
 _paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
 _paq.push(["enableCrossDomainLinking"]);
@@ -179,8 +181,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>10/02/2022</span>
-		<span>6523 <small>views</small></span>
-			<span>151 <small>likes</small></span>
+		<span>6734 <small>views</small></span>
+			<span>152 <small>likes</small></span>
 		
 	</div>
 		<a class="cta popup" href="/ESA_Multimedia/Videos/2022/02/Introducing_ESA_Vigil">
@@ -278,7 +280,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>12/04/2022</span>
-		<span>8001 <small>views</small></span>
+		<span>8264 <small>views</small></span>
 			<span>64 <small>likes</small></span>
 		
 	</div>
@@ -315,7 +317,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>25/03/2022</span>
-		<span>2154 <small>views</small></span>
+		<span>2211 <small>views</small></span>
 			<span>36 <small>likes</small></span>
 		
 	</div>
@@ -360,8 +362,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>18/02/2022</span>
-		<span>67425 <small>views</small></span>
-			<span>185 <small>likes</small></span>
+		<span>67628 <small>views</small></span>
+			<span>186 <small>likes</small></span>
 		
 	</div>
 	</header>
@@ -404,8 +406,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>10/02/2022</span>
-		<span>6523 <small>views</small></span>
-			<span>151 <small>likes</small></span>
+		<span>6734 <small>views</small></span>
+			<span>152 <small>likes</small></span>
 		
 	</div>
 			</header>
@@ -446,7 +448,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>10/02/2022</span>
-		<span>7755 <small>views</small></span>
+		<span>7909 <small>views</small></span>
 			<span>46 <small>likes</small></span>
 		
 	</div>
@@ -488,7 +490,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>19/05/2021</span>
-		<span>2361 <small>views</small></span>
+		<span>2380 <small>views</small></span>
 			<span>45 <small>likes</small></span>
 		
 	</div>
@@ -530,7 +532,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>05/03/2019</span>
-		<span>8038 <small>views</small></span>
+		<span>8112 <small>views</small></span>
 			<span>81 <small>likes</small></span>
 		
 	</div>
@@ -594,7 +596,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>12/02/2020</span>
-		<span>6692 <small>views</small></span>
+		<span>6743 <small>views</small></span>
 			<span>103 <small>likes</small></span>
 		
 	</div>
@@ -639,7 +641,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>07/11/2018</span>
-		<span>6601 <small>views</small></span>
+		<span>6643 <small>views</small></span>
 			<span>104 <small>likes</small></span>
 		
 	</div>
@@ -684,7 +686,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>17/05/2021</span>
-		<span>5275 <small>views</small></span>
+		<span>5328 <small>views</small></span>
 			<span>92 <small>likes</small></span>
 		
 	</div>
@@ -726,8 +728,8 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 <h3 class="heading">What are Lagrange points?</h3>  
 
 <div class="meta">
-		<span>167965 <small>views</small></span>
-			<span>1240 <small>likes</small></span>
+		<span>169089 <small>views</small></span>
+			<span>1247 <small>likes</small></span>
 		
 	</div>
 	</header>
@@ -764,7 +766,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>04/01/2019</span>
-		<span>3618 <small>views</small></span>
+		<span>3681 <small>views</small></span>
 			<span>11 <small>likes</small></span>
 		
 	</div>
@@ -805,7 +807,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 
 <div class="meta">
 			<span>25/01/2018</span>
-		<span>26578 <small>views</small></span>
+		<span>26893 <small>views</small></span>
 			<span>251 <small>likes</small></span>
 		
 	</div>
@@ -937,7 +939,7 @@ $.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
 																	 
 								
 														
-																			<a href="/Services/Privacy_notice_ESA_website">Privacy notice</a>
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
 																	 
 								
 														

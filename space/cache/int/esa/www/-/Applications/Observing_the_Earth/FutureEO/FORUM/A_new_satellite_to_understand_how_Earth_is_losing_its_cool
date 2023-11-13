@@ -1,0 +1,551 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="A new satellite to understand how Earth is losing its cool">
+<title>ESA - A new satellite to understand how Earth is losing its cool</title>					<meta name="description" content="Following a rigorous selection process, ESA has selected a new satellite mission to fill in a critical missing piece of the climate jigsaw. By measuring radiation emitted by Earth into space, FORUM will provide new insight into the planet’s radiation budget and how it is controlled.">
+		<meta property="og:description" content="Following a rigorous selection process, ESA has selected a new satellite mission to fill in a critical missing piece of the climate jigsaw. By measuring radiation emitted by Earth into space, FORUM will provide new insight into the planet’s radiation budget and how it is controlled.">
+						<meta property="og:image" content="https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2019/09/forum/19705976-3-eng-GB/FORUM_pillars.jpg">
+	
+	
+			<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@esa">
+		
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header connecting-benefiting">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'connecting-benefiting';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+
+		<script>
+$.post(
+	'/ezjscore/call', 
+	"ezjscServer_function_arguments=esaux::viewsincr::430122", 
+	function(data) { 
+		$(document).ready(function() {			$('#viewcount').text(data)
+		})
+	})
+</script>
+
+
+							
+											 
+				
+
+	  
+
+				
+				
+								
+						
+								
+				<section class="feature feature--article">
+	<a href="/ESA_Multimedia/Videos/2019/09/FORUM" class="popup">
+			
+
+   <img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+   <div class="dimmer"></div>
+   <img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2019/09/forum/19705976-3-eng-GB/FORUM_pillars.jpg" alt="$video.data_map.short_description.content">
+
+  
+	</a>
+	</section>
+	
+
+<article class="article connecting-benefiting">
+
+<header class="entry article__block">
+	<span class="pillar article__item">Applications</span>
+	<h1 class="heading heading--main article__item">A new satellite to understand how Earth is losing its cool</h1>
+	<div class="meta article__item">
+		  
+						<span>24/09/2019</span>
+				<span><span id="viewcount">19554</span><small> views</small></span>
+										<span><span id="ezsr_total_19715700">172</span><small> likes</small></span>
+				
+	</div>
+</header>
+<div class="breadcrumbs article__block article__item">
+<a class="breadcrumbs__entry" href="/">ESA</a> /			<a class="breadcrumbs__entry" href="/Applications">Applications</a> /			<a class="breadcrumbs__entry" href="/Applications/Observing_the_Earth">Observing the Earth</a> /			<a class="breadcrumbs__entry" href="/Applications/Observing_the_Earth/FutureEO">FutureEO</a> /			<a class="breadcrumbs__entry" href="/Applications/Observing_the_Earth/FutureEO/FORUM">FORUM</a></div>
+
+
+
+
+<div class="abstract article__block article__item">
+	<p>Following a rigorous selection process, ESA has selected a new satellite mission to fill in a critical missing piece of the climate jigsaw. By measuring radiation emitted by Earth into space, FORUM will provide new insight into the planet’s radiation budget and how it is controlled.</p>
+</div>
+
+<div class="article__block">
+				
+		<p>The Far-infrared Outgoing Radiation Understanding and Monitoring (FORUM) mission was one of two concepts competing to be ESA’s ninth Earth Explorer mission.</p><p>Earth Explorers use innovative measurement techniques to yield new insight into different aspects of the Earth system and the interactions that bind the system as a whole. Fundamentally, they are designed and built to fill knowledge gaps identified by the scientific community, so, importantly, the community retains a key role in the selection and development process.</p><p>After a two-year feasibility study phase, both FORUM and its competitor, the Sea-surface Kinematics Multiscale monitoring (SKIM) concept, were presented and discussed in detail with the scientific community at a User Consultation Meeting in Cambridge, UK, in July.</p><p>Wolfram Mauser, who chaired ESA’s Advisory Committee for Earth Observation on behalf of Martin Visbeck, said, “Both mission concepts are outstanding in the value they would bring to science, and are technologically ready to be built, so it was difficult to recommend which one should be implemented.</p>
+	</div>
+			
+    
+						
+			<div class="article__block">
+				<p>“Nevertheless, FORUM promises to improve climate models and, therefore, climate prediction. So with the issue of climate change a major global concern, we finally decided to recommend this concept – and we are very happy that ESA has taken our recommendation.”</p><p>Earth’s surface temperature is driven by the radiation balance at the top of the atmosphere, but this balance has been disturbed by the emission of greenhouse gases that are trapping heat in the atmosphere that would otherwise escape into space. More than half of this outgoing longwave energy is in the far-infrared part of the electromagnetic spectrum – and this has not, so far, been measured.</p><p>Filling this gap, FORUM will measure across Earth’s entire far-infrared part of the electromagnetic spectrum.</p><p>
+These measurements are important because Earth’s outgoing radiation at these wavelengths is strongly affected by water vapour and ice clouds, which in turn, play a key role in regulating surface temperatures.<br />Measurements from this exciting new mission will improve confidence in the accuracy of climate change assessments that form the basis for future policy decisions.</p><p>Josef Aschbacher, ESA’s Director of Earth Observation Programmes, said, “FORUM will measure, for the first time, the far-infrared part of the electromagnetic spectrum from space, thus allowing us to better understand the energy balance of our planet. FORUM will bring great benefits to climate science.</p><p>“Better understanding the complexity of our climate system and filling gaps in our knowledge is of critical importance as the consequences of climate change are far-reaching, affecting all facets of society and the natural world.”</p><p>The design of the mission will now be fine-tuned, and then built with a view to be launched in 2026.</p>	</div>	
+    
+						
+    
+						
+    
+						
+    
+						
+    
+						
+    
+						
+    
+						
+    
+						
+    
+					
+
+<div class="share button-group article__block article__item">
+
+<button id="ezsr_19715700_6_5" class="btn ezsr-star-rating-enabled" title="Like">Like</button>
+<p id="ezsr_just_rated_19715700" class="ezsr-just-rated hide">Thank you for liking</p>
+<p id="ezsr_has_rated_19715700" class="ezsr-has-rated hide">You have already liked this page, you can only like it once!</p>
+
+
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+	<a class="a2a_button_x"></a>
+	<a class="a2a_button_facebook"></a>
+	<a class="a2a_button_copy_link"></a>
+	<a class="a2a_dd" href=https://www.addtoany.com/share></a>
+</div>
+
+</div>
+
+</article>
+
+
+	<section class="cards">
+		<h2 class="heading section-heading">Related Articles</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1510751700">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Preparing_for_tomorrow/Two_new_Earth_Explorer_concepts_to_understand_our_rapidly_changing_world">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2014/11/a_new_era_for_science_and_society/15684073-1-eng-GB/A_new_era_for_science_and_society_card_medium.jpg" alt="A new era for science and society">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Two new Earth Explorer concepts to understand our rapidly c&#8230;</h3>  
+
+<div class="meta">
+			<span>15/11/2017</span>
+		<span>13833 <small>views</small></span>
+			<span>66 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+
+	<section class="cards">
+		<h2 class="heading section-heading">Related Links</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		 
+										
+											
+												
+																			
+				
+	
+	
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1112884920">
+<a class="card focuson connecting-benefiting" href="/Applications/Observing_the_Earth" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/10/eo_general/21103663-1-eng-GB/EO_general_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Observing the Earth</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+											
+												
+																			
+				
+	
+	
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1259750460">
+<a class="card focuson connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Earth_Explorers_ESA_s_pioneering_science_missions_for_Earth">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/12/earth_explorers_icon/23865850-1-eng-GB/Earth_Explorers_icon_card_medium.jpg" alt="Earth Explorers icon">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Earth Explorers</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1564045980">
+<a class="card focuson connecting-benefiting" href="http://www.esa.int/spaceinvideos/Sets/Earth_Explorer_9_User_Consultation_Meeting" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/05/replay_icon/24071438-1-eng-GB/Replay_icon_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Replay: User Consultation Meeting for Earth Explorer 9</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+													
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1569246840">
+<a class="card focuson" href="https://esamultimedia.esa.int/docs/EarthObservation/EE9-FORUM-RfMS-ESA-v1.0-FINAL.pdf" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/11/documents_and_publications/21149456-1-eng-GB/Documents_and_publications_card_medium.jpg" alt="Documents and publications">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">FORUM Report for Selection</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	 
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1569247009">
+<a class="card focuson" href="https://www.forum-ee9.eu/" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">FORUM blog</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+
+	
+	
+ 
+	<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+
+<script>
+if (jQuery.cookie('cc_cookie_accept') == "cc_cookie_accept") {
+var s = document.createElement("script");
+
+s.src = "https://static.addtoany.com/menu/page.js";
+document.body.appendChild(s);
+}</script>
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

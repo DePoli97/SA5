@@ -1,0 +1,393 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="Scouts: ESA’s agile research missions">
+<title>ESA - Scouts: ESA’s agile research missions</title>					<meta name="description" content="Complementing the well-established series of Earth Explorer research satellite missions, Scout missions are a new component of ESA's Earth Observation FutureEO programme. This new family of small satellites delivers value-added science, either by miniaturising existing space technologies or by demonstrating new observing techniques. Importantly, the overarching aim is to achieve all of this quickly.">
+		<meta property="og:description" content="Complementing the well-established series of Earth Explorer research satellite missions, Scout missions are a new component of ESA's Earth Observation FutureEO programme. This new family of small satellites delivers value-added science, either by miniaturising existing space technologies or by demonstrating new observing techniques. Importantly, the overarching aim is to achieve all of this quickly.">
+						<meta property="og:image" content="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/06/scout_missions/24329139-1-eng-GB/Scout_missions_pillars.jpg">
+	
+	
+			<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@esa">
+		
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header connecting-benefiting">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'connecting-benefiting';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+
+		<script>
+$.post(
+	'/ezjscore/call', 
+	"ezjscServer_function_arguments=esaux::viewsincr::466911", 
+	function(data) { 
+		$(document).ready(function() {			$('#viewcount').text(data)
+		})
+	})
+</script>
+
+
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<section class="feature feature--article">
+	<a href="/ESA_Multimedia/Images/2022/06/Scout_missions" class="popup">
+		<img class="image-bg stellar" src="/var/esa/storage/images/esa_multimedia/images/2022/06/scout_missions/24329139-1-eng-GB/Scout_missions_pillars.jpg" alt="Scout missions" data-stellar-ratio="0.7" data-stellar-vertical-offset="60">
+	</a>
+	</section>
+	
+
+<article class="article connecting-benefiting">
+
+<header class="entry article__block">
+	<span class="pillar article__item">Applications</span>
+	<h1 class="heading heading--main article__item">Scouts: ESA’s agile research missions</h1>
+	<div class="meta article__item">
+				<span><span id="viewcount">2879</span><small> views</small></span>
+										<span><span id="ezsr_total_24064253">5</span><small> likes</small></span>
+				
+	</div>
+</header>
+<div class="breadcrumbs article__block article__item">
+<a class="breadcrumbs__entry" href="/">ESA</a> /			<a class="breadcrumbs__entry" href="/Applications">Applications</a> /			<a class="breadcrumbs__entry" href="/Applications/Observing_the_Earth">Observing the Earth</a> /			<a class="breadcrumbs__entry" href="/Applications/Observing_the_Earth/FutureEO">FutureEO</a></div>
+
+
+
+
+<div class="abstract article__block article__item">
+	<p>Complementing the well-established series of <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Earth_Explorers_ESA_s_world-class_research_missions">Earth Explorer</a> research satellite missions, Scout missions are a new component of ESA's Earth Observation FutureEO programme. This new family of small satellites delivers value-added science, either by miniaturising existing space technologies or by demonstrating new observing techniques. Importantly, the overarching aim is to achieve all of this quickly.</p>
+</div>
+
+<div class="article__block">
+				
+		<p>Science and technology in the field of observing Earth from space is evolving at an increasingly rapid pace. Keeping ahead of the game and embracing the concept of New Space, the new Scout category of satellite missions follows an extremely agile and low-cost development process while offering the space industry and academia a proactive role.</p><p>A Scout mission is defined by three key aspects:</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It must deliver innovative science and technology</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It must cost less than €30 million</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It must be developed within three years, from kick-off to launch</p><p>Scout missions are literally scouts; they pave the way to innovative science in a quick and agile fashion.</p><p>There is currently one Scout mission in the process of being developed:&nbsp;<a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Contract_secures_build_for_HydroGNSS_Scout_mission">HydroGNSS</a>.</p>
+	</div>
+			
+	<div class="article__block">
+	<h2 class="heading">HydroGNSS</h2>
+	    
+							
+														
+																	
+
+
+
+							
+				
+								
+						
+								
+											<figure class="article__image article__image--left">
+					<a href="/ESA_Multimedia/Images/2021/10/Scout_HydroGNSS_mission" class="popup">
+				<img src="/var/esa/storage/images/esa_multimedia/images/2021/10/scout_hydrognss_mission/23512641-1-eng-GB/Scout_HydroGNSS_mission_article.jpg" alt="Scout HydroGNSS mission">
+			</a>
+				<figcaption class="image__caption">
+							<a href="/ESA_Multimedia/Images/2021/10/Scout_HydroGNSS_mission">Scout HydroGNSS mission</a>
+								</figcaption>
+	</figure>	
+		<p>HydroGNSS will improve our knowledge of Earth’s hydrological cycle, and in turn, improve our understanding of natural processes and the way human activity affects land and water.</p><p>The satellite will sense signals reflected by Earth’s surface from the Galileo and GPS navigation missions – a technique called GNSS reflectometry. This will allow for the observation of essential climate variables such as soil moisture, inundation and wetlands, freeze–thaw over soil and permafrost, and above-ground biomass.</p><p>HydroGNSS comprises one small satellite, measuring 50 x 50 x 70 cm and weighing 60 kg. It will orbit Earth at an altitude of 550 km. Launch is planned for 2024 and the mission will provide observations for 4.5 years.</p>	</div>	
+    
+						
+			<div class="article__block">
+				<p>
+<b><i>NOTE</i></b><br /><i>In 2022, CubeMAP, which set out to improve out knowledge of upper-atmosphere processes, was selected as the first Scout mission. However, in June 2023, ESA's&nbsp;Earth Observation Programme Board took the decision to terminate its development. This was because the development path was exceeding programmatic constraints with respect to timeline and budgetary boundaries allocated for this category of mission.&nbsp;</i><i><b>Read full article</b>: <a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CubeMAP_mission_development_halted" target="_blank">CubeMAP mission development halted</a></i></p>	</div>	
+    
+						
+    
+						
+    
+						
+    
+						
+    
+						
+    
+						
+    
+						
+    
+					
+
+<div class="share button-group article__block article__item">
+
+<button id="ezsr_24064253_9_5" class="btn ezsr-star-rating-enabled" title="Like">Like</button>
+<p id="ezsr_just_rated_24064253" class="ezsr-just-rated hide">Thank you for liking</p>
+<p id="ezsr_has_rated_24064253" class="ezsr-has-rated hide">You have already liked this page, you can only like it once!</p>
+
+
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+	<a class="a2a_button_x"></a>
+	<a class="a2a_button_facebook"></a>
+	<a class="a2a_button_copy_link"></a>
+	<a class="a2a_dd" href=https://www.addtoany.com/share></a>
+</div>
+
+</div>
+
+</article>
+
+
+
+	<section class="cards">
+		<h2 class="heading section-heading">Related Links</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		
+								
+										
+
+
+	 
+
+		
+<div class="grid-item focuson" data-date="1697449013">
+<a class="card focuson connecting-benefiting" href="/Applications/Observing_the_Earth">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<img class="image-bg" src="/var/esa/storage/images/applications/observing_the_earth/19716454-24-eng-GB/Observing_the_Earth_card_full.jpg" alt="Observing the Earth">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Observing the Earth</h3>
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+	</div>
+</a>
+</div>
+																					
+								
+										
+
+
+	 
+
+		
+<div class="grid-item focuson" data-date="1698313511">
+<a class="card focuson connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<img class="image-bg" src="/var/esa/storage/images/applications/observing_the_earth/futureeo/19716535-16-eng-GB/FutureEO_card_full.jpg" alt="FutureEO">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+		<h3 class="heading">FutureEO</h3>
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+	</div>
+</a>
+</div>
+																					 
+										
+											
+												
+																			
+				
+	
+	
+ 
+		
+					
+			
+ 
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	<div class="grid-item highlight mission" data-date="1651834380">
+<a class="card highlight mission connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/HydroGNSS_twice_as_good" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Mission</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Applications</span>
+			<h3 class="heading">HydroGNSS</h3>
+			
+		</header>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/05/hydrognss_card_for_navigator/24061995-1-eng-GB/HydroGNSS_card_for_navigator_card_full.jpg" alt="">
+		<div class="cta">
+			<label>Open</label>
+			<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Open">
+		</div>
+	</figure>
+</a>
+</div>
+						</div>
+</section> 
+
+	
+	
+ 
+	<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+
+<script>
+if (jQuery.cookie('cc_cookie_accept') == "cc_cookie_accept") {
+var s = document.createElement("script");
+
+s.src = "https://static.addtoany.com/menu/page.js";
+document.body.appendChild(s);
+}</script>
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

@@ -12,7 +12,7 @@ class Test_spider(scrapy.Spider):
     row_processed = 0
 
 
-    def parse(self, response):    # Funcion called every crawled web page. The response parameter will contain the web site response.
+    def parse(self, response):# Funcion called every crawled web page. The response parameter will contain the web site response.
         next_pages = []
         for row in response.css('tbody tr'):
             
@@ -32,7 +32,7 @@ class Test_spider(scrapy.Spider):
 
             country = row.css('td:nth-child(3)::text').get()
             
-            # Extract href attribute from the <a> tag in the researcher/Mission name column
+            # Extract href attribute from the <a> tag in the Mission name column
             mission_href = row.css('td:nth-child(4) a::attr(href)').get()
             mission_text = row.css('td:nth-child(4) a::text').get()
 

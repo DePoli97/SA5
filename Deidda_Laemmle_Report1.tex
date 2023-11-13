@@ -1,0 +1,43 @@
+\documentclass{article}
+
+% Set page size and margins
+\usepackage[letterpaper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+
+\usepackage{hyperref}
+
+\title{
+Information Retrieval
+
+\begin{large} 
+  Status report
+\end{large} }
+\author{Deidda Paolo, Lämmle Christian}
+
+\begin{document}
+\maketitle
+
+\section{Introduction}\label{sec:introduction}
+
+The scope of our project is to build a system to retrieve, elaborate, store, and provide information about space explorations to users based on their information needs. In order to retrieve and save those informations we are using Scrapy, an open source Python framework. To index and query, we are using PyTerrier, another Python framework inspired by Terrier for Java.
+
+Our idea was to find and save the name of the project, a (small) description, the date of launch, and the organization responsible for each space mission.
+
+\section{Websites}
+
+\subsection{ESA}\label{subsec:esa}
+This is the site that we were given to start our project; unfortunately, this site has a very good anti-scraping system that keeps banning our little spider, even with crawling delays exceeding 10 minutes for every page, so at this point in time, we have zero to no data from this site.
+
+\subsection{NASA}\label{subsec:nasa}
+We chose this website because we couldn't overlook the agency that successfully landed the first human on the moon. Unfortunately, scraping the mission list page is not as easy as it may seem, as it seems to generate the page on the fly using JavaScript, and Scrapy doesn't seem to handle it very well. We have been working on it for a while now, with the help of both TAs and another experienced student. However, it appears to be more challenging than we initially expected. We will definitely investigate it further since we find it very useful for learning. Nevertheless, we might consider changing our data source if the difficulties end up requiring more time than it's actually worth.
+
+\subsection{Wikipedia}\label{subsec:wikipedia}
+Wikipedia offers a nice list of space missions, each with a lot of information. This is why we decided to add it as one of our sources; at the same time, it is not an official website of a space agency, and we have to take more care while working with this information as it can be incorrect. Based on our initial scouting of the site, this crawl is going to require more attention than anticipated since the pages have a lot of information on them, and we have to decide if everything is worth scraping or not. Moreover, on this site, we only find the first mission to accomplish something, so the list of missions is not complete at all.
+
+
+\begin{thebibliography}{9}
+    \bibitem{esa} \url{https://www.esa.int/ESA/Our_Missions}
+    \bibitem{nasa} \url{https://www.nasa.gov/missions/}
+    \bibitem{wikipedia} \url{https://en.wikipedia.org/wiki/Timeline_of_space_exploration#1970%E2%80%931979}
+\end{thebibliography}
+
+\end{document}

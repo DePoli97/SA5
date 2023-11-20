@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://spaceflightnow.com/wp-sitemap.xml
+User-agent: Twitterbot
+Disallow: 
+User-agent: *
+Disallow: /*blackhole
+Disallow: /?blackhole

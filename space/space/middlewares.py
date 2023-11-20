@@ -19,7 +19,7 @@ class CacheMiddleware:
         url = urlparse(url)
 
         site_path = '/'.join(url.netloc.split('.')[::-1])
-        insite_path = url.path.strip('/')
+        insite_path = url.path.strip('/').replace('/', '_')  # Replace slashes with underscores
         query = f'?{url.query}' if url.query else ''
         return f'{cls._local_cache_path}/{site_path}/-/{insite_path}{query}'
 

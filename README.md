@@ -1,11 +1,14 @@
 # information_retrieval
 
-## run virtual environment
+### run application
 ```bash
-source scrapy_venv/bin/activate
+source scrapy_env/bin/activate
+flask run
 ```
 
-## run back-end
+### run scrapy
 ```bash
-flask run
+source scrapy_env/bin/activate
+cd space/
+scrapy crawl spaceflight_now -o spaceflight_now.jsonl
 ```

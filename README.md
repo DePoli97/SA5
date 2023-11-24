@@ -1,5 +1,7 @@
 # information_retrieval
 
+
+## run stuff from project root folder
 ### run application
 ```bash
 source scrapy_env/bin/activate

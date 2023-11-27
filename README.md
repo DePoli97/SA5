@@ -2,7 +2,13 @@
 
 
 ## run stuff from project root folder
-### run application
+### run application (front-end? maybe...)
+```bash
+cd web-app/front-end/scrappy
+npm run serve
+```
+
+### run application (back-end? who knows...)
 ```bash
 source scrapy_env/bin/activate
 flask run

@@ -1,0 +1,463 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="ISO overview">
+<title>ESA - ISO overview</title>						<meta name="keywords" content="SPCS overview iso">
+			
+	
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header exploring-discovering">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'exploring-discovering';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+		<script>
+$.post(
+	'/ezjscore/call', 
+	"ezjscServer_function_arguments=esaux::viewsincr::183467", 
+	function(data) { 
+		$(document).ready(function() {			$('#viewcount').text(data)
+		})
+	})
+</script>
+
+
+
+<article class="article mission-overview exploring-discovering">
+
+<div class="feature slider"><div class="flexslider"><ul class="slides">	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2003/04/ISO_PR_VG">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2003/04/iso_pr_vg/9699005-3-eng-GB/ISO_PR_VG_pillars.jpg" alt="ISO PR VG">
+				<figcaption class="image__caption">ISO PR VG</figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+								
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2003/04/ISO_launch_lights_up_the_night">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2003/04/iso_launch_lights_up_the_night/9553931-4-eng-GB/ISO_launch_lights_up_the_night_pillars.jpg" alt="ISO launch lights up the night">
+				<figcaption class="image__caption">ISO launch lights up the night</figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+							
+				
+						<!--   discarded  -->
+				
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2002/01/ISO_-_Andromeda_galaxy">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2002/01/iso_-_andromeda_galaxy/9149125-5-eng-GB/ISO_-_Andromeda_galaxy_pillars.jpg" alt="ISO - Andromeda galaxy">
+				<figcaption class="image__caption">ISO - Andromeda galaxy</figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2002/10/Dark_cloud_seen_by_ISO">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2002/10/dark_cloud_seen_by_iso/9158699-6-eng-GB/Dark_cloud_seen_by_ISO_pillars.jpg" alt="Dark cloud seen by ISO, one of ESA's ghosts">
+				<figcaption class="image__caption">Dark cloud seen by ISO, one of ESA's ghosts</figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2003/04/ISO_s_view_of_Jupiter">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2003/04/iso_s_view_of_jupiter/9790796-3-eng-GB/ISO_s_view_of_Jupiter_pillars.jpg" alt="ISO's view of Jupiter">
+				<figcaption class="image__caption">ISO's view of Jupiter</figcaption>
+			</a></figure></div></li></ul></div></div>
+
+<header class="entry article__block">
+	<span class="pillar article__item">Science & Exploration</span>
+	<h1 class="heading heading--main article__item">ISO overview</h1>
+	<div class="meta article__item">
+		<span><span id="viewcount">16558</span><small> views</small></span>
+		
+	</div>
+</header>
+<div class="breadcrumbs article__block article__item">
+<a class="breadcrumbs__entry" href="/">ESA</a> /			<a class="breadcrumbs__entry" href="/Science_Exploration">Science & Exploration</a> /			<a class="breadcrumbs__entry" href="/Science_Exploration/Space_Science">Space Science</a></div>
+
+
+<div class="abstract article__block article__item">
+	
+</div>
+
+
+
+
+<div class="article__block">
+				</div>
+
+
+    
+					
+	
+    
+							
+														
+																	
+
+
+
+								
+				
+								
+						
+								
+												<div class="article__block">
+				<figure class="article__image article__image--left">
+					<a href="/ESA_Multimedia/Images/2001/01/ISO" class="popup">
+				<img src="/var/esa/storage/images/esa_multimedia/images/2001/01/iso/9222050-5-eng-GB/ISO_article.jpg" alt="ISO">
+			</a>
+				<figcaption class="image__caption">
+							<a href="/ESA_Multimedia/Images/2001/01/ISO">ISO</a>
+								</figcaption>
+	</figure>	
+		<p>
+<b>Status</b><br />Completed (1998)</p><p>
+<b>Objective</b><br />Probing the cool and hidden Universe, the Infrared Space Observatory (ISO) was the most sensitive infrared satellite ever launched. It made important discoveries about interstellar dust, and its data still produce results today.</p><p>&nbsp;</p><p>
+<b>Mission</b><br />In its time the Infrared Space Observatory (ISO) was the most sensitive infrared satellite ever launched. ISO made particularly important studies of the dusty regions of the Universe, where visible light telescopes can see nothing. The wealth of data collected by ISO still produce important science results.</p><p>In 1983 the US–Dutch–British IRAS satellite inaugurated infrared space astronomy by mapping 250 000 cosmic infrared sources and large areas of extended emission. However, that was only the beginning. ISO's detectors, with an enhanced sensitivity and resolution (by 1000 times in sensitivity and by 100 times in angular resolution at 12 microns), have allowed a much closer look, a much more detailed perception of the 'infrared scenery'. ISO has therefore provided astronomers with a unique facility to see both familiar objects in an unusual way and objects that are invisible at other wavelengths.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">What’s special?</h2>
+	    
+						
+		<p>Infrared radiation is primarily 'heat', or thermal radiation. Even objects that we think of as being very cold, such as an ice cube, emit infrared radiation.</p><p>For this reason, ISO, operating at wavelengths from 2.5 to 240 microns, could observe astronomical objects that remain hidden for optical telescopes, such as cool objects that are unable to emit in visible light. Opaque objects, those surrounded by clouds of dust, are another specialty of ISO because the longer IR wavelengths can penetrate the dust, allowing us to see deeper into such clouds.</p><p>On average, ISO performed 45 observations per revolution (a period of almost 24 hours). Throughout all of its lifetime - more than 900 revolutions - ISO successfully completed well some 30 000 scientific observations.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Spacecraft</h2>
+	    
+						
+		<p>The satellite essentially consisted of a cryostat, the telescope, four scientific instruments, and the service module:</p><p>Observing the cool Universe requires cooled instruments which can work at temperatures close to absolute zero, –273°C. Keeping the temperature this low was the task of the large liquid-helium cryostat on board ISO, filled before launch with 2286 litres of superfluid helium. This cryostat made ISO one of the coldest objects in the universe. ISO’s lifetime was limited by its helium supply, so nearly all observations had to stop when this coolant liquid was depleted on 8 April 1998.</p><p>A telescope with a 60-centimetre diameter primary mirror feeds infrared light via a pyramidal mirror to the four instruments. The fields of view and the selection of wavelengths were varied, to suit the nature of the object examined.</p><p>ISO’s infrared camera (ISOCAM) covered the 2.5 to 17 micron band with two different detectors. It can be compared to a normal photo camera, taking pictures of the 'infrared face' of astronomical objects at a high resolution (so as to distinguish very fine details).</p><p>The ISO photo-polarimeter (ISOPHOT) was designed to detect the amount of infrared radiation emitted by an astronomical object. The broad range of wavelengths at which ISOPHOT operated (between 2.5 and 240 microns) allowed it to 'see' objects as cool as the clouds of dust lying among stars and galaxies, whose temperature may be just a few degrees above –273°C.</p><p>The Short-Wave Spectrometer (SWS) covered the 2.4 to 45 micron band. It has provided valuable information about the little known chemistry of the Universe, since many molecules emit copiously in the infrared. Moreover, SWS has been able to study the physical conditions of those chemical constituents, such as temperature or density.</p><p>The Long-Wave Spectrometer (LWS) operated at the 45 to 196.8 micron band. LWS has focused on cooler objects than SWS. It is especially useful studying the physical condition in very cold dust clouds in the space between stars.</p><p>The service module provided electrical power, attitude control, and telecommunications.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Journey</h2>
+	    
+						
+		<p>ISO's highly elliptical orbit around the Earth took almost 24 hours. For almost 17 hours per day ISO was outside the radiation belts surrounding Earth. During this time, all of ISO's detectors could be operated.</p><p>ISO was launched by an Ariane 44P launcher from Europe's spaceport in Kourou, French Guiana, on 17 November 1995. Initially it was supposed to be operational for 18 months, but thanks to meticulous engineering and some good fortune, the satellite's working life was stretched to more than 28 months until May 1998.</p><p>Just before ISO was switched off on 16 May 1998, its orbit was changed to force the satellite to burn up in the atmosphere, contributing to preserving the environment in space.</p><p>However, ISO continued to give scientific surprises to the very end. ISO's 'last-light' observation - taken with the SWS instrument just before midnight on 10 May - was of emission lines from hydrogen in the hot supergiant star Eta Canis Majoris.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">History</h2>
+	    
+						
+		<p>The ISO project was started by ESA in 1983 under its Horizon 2000 science programme. The investment involved covered satellite development, launch, and in-orbit operation. The scientific instruments were provided separately by a group of eleven European countries. The United States and Japan co-operated on ground support operations in return for average daily observing time of half an hour each.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Partnerships</h2>
+	    
+						
+		<p>The scientific instruments were developed by multinational teams, with leaders in France, Germany, the Netherlands, and the United Kingdom.</p><p>The satellite was developed, manufactured, integrated, and tested by an industrial consortium made up of 32 companies, mostly from Europe, headed by Aérospatiale, France.</p>	</div>	
+    
+					
+</article>
+
+
+	<section class="cards">
+		<h2 class="heading section-heading">Related Links</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1072864200">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/ISO_science_highlights">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/1998/01/iso_observes_starburst_galaxies/9105893-5-eng-GB/ISO_observes_starburst_galaxies_card_medium.jpg" alt="ISO observes starburst galaxies">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">ISO science highlights</h3>  
+
+<div class="meta">
+		<span>1895 <small>views</small></span>
+			<span>7 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+ 
+		
+<div class="grid-item story" data-date="1055422020">
+<a class="card story agency" href="/About_Us/ESOC/Observations_Seeing_in_infrared_wavelengths">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2000/09/iso_infrared_space_observatory/9216991-5-eng-GB/ISO_Infrared_Space_Observatory_card_medium.jpg" alt="ISO: Infrared Space Observatory">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Agency</span>
+
+<h3 class="heading">Observations: Seeing in infrared wavelengths</h3>  
+
+<div class="meta">
+		<span>5935 <small>views</small></span>
+			<span>18 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1661724720">
+<a class="card focuson exploring-discovering" href="https://sci.esa.int/web/iso">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/1998/01/iso_s_orbital_path/9097253-5-eng-GB/ISO_s_orbital_path_card_medium.jpg" alt="ISO's orbital path">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Science & Exploration</span>
+				<h3 class="heading">ISO in-depth</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+
+		<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

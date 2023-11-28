@@ -1,0 +1,1430 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="GOCE">
+<title>ESA - GOCE</title>					<meta name="description" content="GOCE (Gravity field and steady-state Ocean Circulation Explorer) will be the first of a series of Earth Explorer satellites in orbit, to be developed as part of ESA's Living Planet Programme. Addressing the challenges of global change, GOCE will significantly advance our knowledge of how the Earth works by mapping the Earth’s gravity field in unprecedented detail and provide insight into ocean circulation, sea-level change, climate change, volcanism and earthquakes.">
+		<meta property="og:description" content="GOCE (Gravity field and steady-state Ocean Circulation Explorer) will be the first of a series of Earth Explorer satellites in orbit, to be developed as part of ESA's Living Planet Programme. Addressing the challenges of global change, GOCE will significantly advance our knowledge of how the Earth works by mapping the Earth’s gravity field in unprecedented detail and provide insight into ocean circulation, sea-level change, climate change, volcanism and earthquakes.">
+				<meta name="keywords" content="GOCE, living, planet, explorers, gravity, satellite, ESA, ocean, circulation, climate, change, volcanism, earthquakes, sea, Earth, interior">
+			
+	
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header connecting-benefiting">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'connecting-benefiting';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+				
+			<section class="page-header mission-header connecting-benefiting">
+	<header class="entry">
+		<a href="/Applications" class="pillar">Applications</a>
+		<h1 class="heading">GOCE </h1>
+		<p class="subheading">ESA's gravity mission</p> 
+	</header>
+	<div class="social-media-links">
+		
+										
+													
+														
+														
+														
+						</div>
+					<img class="image-bg stellar" src="/var/esa/storage/images/applications/observing_the_earth/futureeo/goce/19716691-16-eng-GB/GOCE_pillars.jpg" alt="GOCE" data-stellar-ratio="0.8"> 
+</section>
+
+<section class="mission-details">
+	<div class="mission-intro">
+		
+		<a name="eztoc19726921_1" id="eztoc19726921_1"></a><h2><b>The mission</b></h2><p>ESA's Earth Explorer GOCE mission was dedicated to&nbsp;map Earth's gravity with unrivalled precision and provided&nbsp;the most accurate model of the 'geoid' ever produced to further our understanding of how Earth works. After more than four years in orbit, the mission came to a natural end on 11 November 2013, but the wealth of data from GOCE continues to be exploited to improve our understanding of ocean circulation, sea level, ice dynamics, Earth’s interior and climate change.</p>
+	</div>
+	<div class="mission-data">
+		
+		<a name="eztoc19727944_1" id="eztoc19727944_1"></a><h2><b>The launch</b></h2>
+<ul>
+
+<li><b>Date: </b>17&nbsp;March 2009</li>
+
+<li><b>Site:&nbsp;</b>Plesetsk Cosmodrome, Russia</li>
+
+<li><b>Launcher:&nbsp;</b>Rockot</li>
+
+</ul>
+
+	</div>
+	</section>
+
+<section class="mission-stats connecting-benefiting">
+	
+		
+		
+<ul>
+
+<li><a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/GOCE/Introducing_GOCE"><b>1st</b></a>&nbsp;in the Explorer series</li>
+
+<li><a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/GOCE/A_force_that_shapes_our_planet"><b>1-2 cm </b></a>geoid accuracy</li>
+
+<li><a href="https://www.esa.int/Applications/Observing_the_Earth/FutureEO/GOCE/Satellite"><b>260 km</b></a> altitude</li>
+
+</ul>
+
+	
+	<div class="dimmer"></div>
+	<img class="image-bg" src="/" alt="GOCE">
+</section>
+
+
+
+	
+						  
+	
+
+
+
+
+
+
+					 
+
+	
+																																			
+				
+																																																					
+				
+														
+				
+												
+			
+	
+					
+			
+			 
+		
+					
+			
+			 
+		
+					
+						
+						 
+		
+					
+			
+			 
+						
+ 
+
+<section class="cards filtered">
+	<div class="filter-wrapper">
+		<h2 class="heading section-heading">
+			
+							Latest
+					</h2>
+		<div class="filters button-group">
+			<button data-filter="" class="btn active">All</button>
+			<button data-filter=".story" class="btn">Stories</button>
+			<button data-filter=".video" class="btn">Videos</button>
+			<button data-filter=".image" class="btn">Images</button>
+		</div>
+	</div>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1681824300">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/10_remarkable_Earth_facts">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/04/earth_30_year_comparison/24832556-1-eng-GB/Earth_30_year_comparison_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">10 remarkable Earth facts</h3>  
+
+<div class="meta">
+			<span>18/04/2023</span>
+		<span>124645 <small>views</small></span>
+			<span>1957 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1646837100">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/GOCE/Filling_the_GOCE_data_gap_unearths_South_Pole_s_geological_past">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/03/patterns_of_magnetic_rocks_and_embayment_under_the_ice_in_east_antarctica/23991352-1-eng-GB/Patterns_of_magnetic_rocks_and_embayment_under_the_ice_in_East_Antarctica_card_medium.jpg" alt="Patterns of magnetic rocks and embayment under the ice in East Antarctica">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Filling the GOCE data gap unearths South Pole’s geological &#8230;</h3>  
+
+<div class="meta">
+			<span>09/03/2022</span>
+		<span>4000 <small>views</small></span>
+			<span>104 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1644938700">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/GOCE/Deep_down_temperature_shifts_give_rise_to_eruptions">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/02/hot_and_cold_beneath_tonga_volcano/23966451-1-eng-GB/Hot_and_cold_beneath_Tonga_volcano_card_medium.jpg" alt="Hot and cold beneath Tonga volcano">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Deep down temperature shifts give rise to eruptions</h3>  
+
+<div class="meta">
+			<span>15/02/2022</span>
+		<span>7400 <small>views</small></span>
+			<span>162 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1615470000">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/GOCE/Gravity_mission_still_unearthing_hidden_secrets">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/03/goce_helps_create_new_model_of_crust_and_upper_mantle/23208047-1-eng-GB/GOCE_helps_create_new_model_of_crust_and_upper_mantle_card_medium.jpg" alt="GOCE helps create new model of crust and upper mantle">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Gravity mission still unearthing hidden secrets</h3>  
+
+<div class="meta">
+			<span>11/03/2021</span>
+		<span>9706 <small>views</small></span>
+			<span>127 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1575904200">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/GOCE/GOCE_reveals_what_s_going_on_deep_below_Antarctica">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/12/antarctica_below_the_surface/21507583-1-eng-GB/Antarctica_below_the_surface_card_medium.png" alt="Antarctica: below the surface">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">GOCE reveals what’s going on deep below Antarctica </h3>  
+
+<div class="meta">
+			<span>09/12/2019</span>
+		<span>19904 <small>views</small></span>
+			<span>94 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+				<div class="grid-item story image video"> 
+<a class="card more" href="/Applications/Observing_the_Earth/FutureEO/GOCE/(archive)/0">
+	<div class="outline">
+		<h3 class="heading">More items</h3>
+	</div>
+</a>
+</div>
+	</div>
+</section>
+		
+		
+											<!-- # obj in slider 4 -->		<section class="feature slider">
+	<div class="flexslider"><ul class="slides">
+								<li>
+				
+	
+	
+ 
+	
+
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Image gallery</h3>
+		
+					<a class="cta" href="https://www.esa.int/ESA_Multimedia/Missions/GOCE/(result_type)/images" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/03/goce_helps_create_new_model_of_crust_and_upper_mantle/23208047-1-eng-GB/GOCE_helps_create_new_model_of_crust_and_upper_mantle_pillars.jpg" alt="GOCE helps create new model of crust and upper mantle">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+	
+	
+ 
+	
+
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Video gallery</h3>
+		
+					<a class="cta" href="https://www.esa.int/ESA_Multimedia/Missions/GOCE/(result_type)/videos" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2013/09/video_gallery/13006679-1-eng-GB/Video_gallery_pillars.jpg" alt="">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+	
+	
+ 
+		
+					
+			
+
+
+
+	
+	
+
+	
+			  
+													
+						
+											
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Applications</span>
+		<h3 class="heading">GOCE publications</h3>
+		
+					<a class="cta" href="/Applications/Observing_the_Earth/FutureEO/GOCE/GOCE_publications" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/05/download_page_icon/22001315-1-eng-GB/Download_page_icon_pillars.jpg" alt="">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+	
+	
+ 
+		
+					
+			
+
+
+
+	
+	
+
+	
+			  
+													
+						
+											
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Applications</span>
+		<h3 class="heading">GOCE technical documents</h3>
+		
+					<a class="cta" href="/Applications/Observing_the_Earth/FutureEO/GOCE/GOCE_technical_documents" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/11/documents_and_publications/21149456-1-eng-GB/Documents_and_publications_pillars.jpg" alt="Documents and publications">
+</figure>
+</div>
+</li>
+						
+						</ul></div>
+	</section>				
+		
+									
+	<section class="cards">
+					<h2 class="heading section-heading">Discover GOCE</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1202998320">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/GOCE/Introducing_GOCE">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2009/05/goce_in_orbit/9577058-3-eng-GB/GOCE_in_orbit_card_medium.jpg" alt="GOCE in orbit">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Introducing GOCE</h3>  
+
+<div class="meta">
+		<span>24085 <small>views</small></span>
+			<span>75 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1202998320">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/GOCE/A_force_that_shapes_our_planet">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2014/07/2011_goce_geoid/14677890-1-eng-GB/2011_GOCE_geoid_card_medium.jpg" alt="2011 GOCE geoid">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">A force that shapes our planet</h3>  
+
+<div class="meta">
+		<span>46063 <small>views</small></span>
+			<span>92 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1421317620">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/GOCE/Ocean_circulation">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2008/06/ocean_circulation_conveyor_belt/9557986-4-eng-GB/Ocean_circulation_conveyor_belt_card_medium.jpg" alt="Ocean circulation conveyor belt">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Ocean circulation</h3>  
+
+<div class="meta">
+		<span>7660 <small>views</small></span>
+			<span>23 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1421329020">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/GOCE/Solid-Earth_physics">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2008/06/new_insights_into_earth_interior_processes/10306275-2-eng-GB/New_insights_into_Earth_interior_processes_card_medium.jpg" alt="New insights into Earth interior processes">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Solid-Earth physics</h3>  
+
+<div class="meta">
+		<span>3400 <small>views</small></span>
+			<span>11 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1421415420">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/GOCE/Surpassing_expectations">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2013/10/goce/13361376-1-eng-GB/GOCE_card_medium.jpg" alt="GOCE">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Surpassing expectations</h3>  
+
+<div class="meta">
+			<span>16/01/2015</span>
+		<span>2337 <small>views</small></span>
+			<span>6 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1202998320">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/GOCE/Facts_and_figures">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2004/03/artist_s_impression_of_goce4/10172077-2-eng-GB/Artist_s_impression_of_GOCE_card_medium.jpg" alt="Artist's impression of GOCE">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Facts and figures</h3>  
+
+<div class="meta">
+		<span>21097 <small>views</small></span>
+			<span>41 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1211448480">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/GOCE/Satellite">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2008/03/solar-panel_inspection/9928535-2-eng-GB/Solar-panel_inspection_card_medium.jpg" alt="Solar-panel inspection">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Satellite</h3>  
+
+<div class="meta">
+		<span>50325 <small>views</small></span>
+			<span>77 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+									<!--  228913 discarded  -->
+								
+						
+											
+
+		
+<div class="grid-item story" data-date="1203328140">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/GOCE/Instruments">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2008/03/goce_gradiometer2/10075771-3-eng-GB/GOCE_gradiometer_card_medium.jpg" alt="GOCE gradiometer">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Instruments</h3>  
+
+<div class="meta">
+		<span>19331 <small>views</small></span>
+			<span>21 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1203328140">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/GOCE/About_the_launch">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2009/03/goce_liftoff/15094802-1-eng-GB/GOCE_liftoff_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">About the launch</h3>  
+
+<div class="meta">
+		<span>5564 <small>views</small></span>
+			<span>6 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1421405160">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/GOCE/Reentry_into_atmosphere">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2013/11/goce_reenters_atmosphere/13396346-1-eng-GB/GOCE_reenters_atmosphere_card_medium.jpg" alt="GOCE reenters atmosphere">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Reentry into atmosphere</h3>  
+
+<div class="meta">
+		<span>3328 <small>views</small></span>
+			<span>7 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1203328140">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/GOCE/Data_flow">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2007/02/kiruna_station/9577796-4-eng-GB/Kiruna_station_card_medium.png" alt="Kiruna station">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Data flow</h3>  
+
+<div class="meta">
+		<span>4826 <small>views</small></span>
+			<span>11 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+													
+						
+											
+
+		
+<div class="grid-item story" data-date="1215517440">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/GOCE/Data_products">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2008/04/goce_data_products/10242922-2-eng-GB/GOCE_data_products_card_medium.jpg" alt="GOCE data products">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Data products</h3>  
+
+<div class="meta">
+		<span>11000 <small>views</small></span>
+			<span>27 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+						
+
+
+	
+	
+
+	
+													
+						
+											
+
+		
+<div class="grid-item story" data-date="1421229900">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/GOCE/Calibration">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2001/08/pendulum_bench_test_set-up/9150372-8-eng-GB/Pendulum_bench_test_set-up_card_medium.jpg" alt="Pendulum bench test set-up">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Calibration</h3>  
+
+<div class="meta">
+		<span>4427 <small>views</small></span>
+			<span>4 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+ 
+		
+		
+											<section class="link-section dark">
+		<div class="theme-block connecting-benefiting">
+					<h2 class="heading section-heading">Follow us</h2>
+	<div class="section-group button-group">
+															 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new?topic_id=EUESA_6" class="btn"><i class="fas fa-rss"></i>Subscribe</a>
+		
+		 
+
+															 
+								
+										<a href="https://twitter.com/ESA_EO" class="btn"><i class="fa-brands fa-x-twitter"></i> @ESA_EO</a>
+		
+		 
+
+															 
+								
+										<a href="https://www.instagram.com/esa_earth/" class="btn"><i class="fab fa-instagram"></i> @esa_earth</a>
+		
+		 
+
+	 
+	</div> 
+
+</div> 
+ 
+		</section>
+			
+		
+									
+	<section class="cards">
+					<h2 class="heading section-heading">Recommended</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		
+								
+										
+
+
+	 
+
+		
+<div class="grid-item focuson" data-date="1697449013">
+<a class="card focuson connecting-benefiting" href="/Applications/Observing_the_Earth">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<img class="image-bg" src="/var/esa/storage/images/applications/observing_the_earth/19716454-24-eng-GB/Observing_the_Earth_card_full.jpg" alt="Observing the Earth">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Observing the Earth</h3>
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+	</div>
+</a>
+</div>
+																					
+								
+										
+
+
+	 
+
+		
+<div class="grid-item focuson" data-date="1698313511">
+<a class="card focuson connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<img class="image-bg" src="/var/esa/storage/images/applications/observing_the_earth/futureeo/19716535-16-eng-GB/FutureEO_card_full.jpg" alt="FutureEO">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+		<h3 class="heading">FutureEO</h3>
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1288180920">
+<a class="card focuson connecting-benefiting" href="https://earth.esa.int/eogateway/missions/goce" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2014/07/2011_goce_geoid/14677890-1-eng-GB/2011_GOCE_geoid_card_medium.jpg" alt="2011 GOCE geoid">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Access GOCE data</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="981993060">
+<a class="card focuson" href="https://www.thalesgroup.com/en/worldwide/space" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/01/thales_logo/21787012-1-eng-GB/Thales_logo_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Thales Alenia Space</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1175247660">
+<a class="card focuson" href="http://www.onera.fr/english.php" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/02/onera_icon/23967253-2-eng-GB/Onera_icon_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">ONERA</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+ 
+		
+		
+		
+ 
+
+
+	<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

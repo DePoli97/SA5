@@ -1,0 +1,455 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="Hipparcos overview">
+<title>ESA - Hipparcos overview</title>						<meta name="keywords" content="SPCS overview hipparcos">
+			
+	
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header exploring-discovering">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'exploring-discovering';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+		<script>
+$.post(
+	'/ezjscore/call', 
+	"ezjscServer_function_arguments=esaux::viewsincr::183466", 
+	function(data) { 
+		$(document).ready(function() {			$('#viewcount').text(data)
+		})
+	})
+</script>
+
+
+
+<article class="article mission-overview exploring-discovering">
+
+<div class="feature slider"><div class="flexslider"><ul class="slides">	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2002/02/Hipparcos_testing">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2002/02/hipparcos_testing/9169538-5-eng-GB/Hipparcos_testing_pillars.jpg" alt="Hipparcos testing">
+				<figcaption class="image__caption">Hipparcos testing</figcaption>
+			</a></figure></div></li>	
+							
+														
+																								
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2016/09/ESA_s_Star_Mapper_visualisation">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2016/09/esa_s_star_mapper_visualisation/16128927-1-eng-GB/ESA_s_Star_Mapper_visualisation_pillars.png" alt="ESA’s Star Mapper visualisation">
+				<figcaption class="image__caption">ESA’s Star Mapper visualisation</figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2002/02/Hipparcos_result_-_typical_duration_between_first_and_last_observations">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2002/02/hipparcos_result_-_typical_duration_between_first_and_last_observations/9213472-5-eng-GB/Hipparcos_result_-_typical_duration_between_first_and_last_observations_pillars.jpg" alt="Hipparcos result - typical duration between first and last observations">
+				<figcaption class="image__caption">Hipparcos result - typical duration between first and last observations</figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2002/02/Hipparcos_result_-_typical_accuracy_of_stellar_distances">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2002/02/hipparcos_result_-_typical_accuracy_of_stellar_distances/9213391-5-eng-GB/Hipparcos_result_-_typical_accuracy_of_stellar_distances_pillars.jpg" alt="Hipparcos result - typical accuracy of stellar distances.">
+				<figcaption class="image__caption">Hipparcos result - typical accuracy of stellar distances.</figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+				
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Videos/1991/12/Hipparcos_First_Results">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/1991/12/hipparcos_first_results/12002454-2-eng-GB/Hipparcos_First_Results_pillars.jpg" alt="Hipparcos first results: high precision star measurements">
+				<figcaption class="image__caption">Hipparcos first results: high precision star measurements</figcaption>
+			</a></figure></div></li></ul></div></div>
+
+<header class="entry article__block">
+	<span class="pillar article__item">Science & Exploration</span>
+	<h1 class="heading heading--main article__item">Hipparcos overview</h1>
+	<div class="meta article__item">
+		<span><span id="viewcount">26131</span><small> views</small></span>
+		
+	</div>
+</header>
+<div class="breadcrumbs article__block article__item">
+<a class="breadcrumbs__entry" href="/">ESA</a> /			<a class="breadcrumbs__entry" href="/Science_Exploration">Science & Exploration</a> /			<a class="breadcrumbs__entry" href="/Science_Exploration/Space_Science">Space Science</a></div>
+
+
+<div class="abstract article__block article__item">
+	
+</div>
+
+
+
+
+<div class="article__block">
+				</div>
+
+
+    
+					
+	
+    
+							
+														
+																	
+
+
+
+								
+				
+								
+						
+								
+												<div class="article__block">
+				<figure class="article__image article__image--left">
+					<a href="/ESA_Multimedia/Images/2003/04/Hipparcos_s_instruments_produced_positional_surveys_of_stars" class="popup">
+				<img src="/var/esa/storage/images/esa_multimedia/images/2003/04/hipparcos_s_instruments_produced_positional_surveys_of_stars/9856455-3-eng-GB/Hipparcos_s_instruments_produced_positional_surveys_of_stars_article.jpg" alt="Hipparcos's instruments produced positional surveys of stars">
+			</a>
+				<figcaption class="image__caption">
+							<a href="/ESA_Multimedia/Images/2003/04/Hipparcos_s_instruments_produced_positional_surveys_of_stars">Hipparcos's instruments produced positional surveys of stars</a>
+								</figcaption>
+	</figure>	
+		<p><b>Status</b>: Completed (1993)</p><p><b>Objective</b>: Pinpoint the stars, their motion and distance, this totally European mission mapped the heavens more accurately than ever before. Its work will be refined by ESA's Gaia mission.</p><p>
+<b>Mission:</b><br />Hipparcos, a European mission, pinpointed the positions of more than one hundred thousand stars to high precision, and more than one million stars to lesser precision.</p><p>Hipparcos turned slowly on its axis and repeatedly scanned right around the sky at different angles. It measured angles between widely separated stars, and recorded their brightness, which were often variable from one visit to the next. Each star selected for study was visited about 100 times over four years.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">What's special?</h2>
+	    
+						
+		<p>Calculations from observations by the main instrument generated the Hipparcos Catalogue of 118 218 stars charted with the highest precision. An auxiliary star mapper pinpointed many more stars with lesser but still unprecedented accuracy, in the Tycho Catalogue of 1 058 332 stars. The Tycho 2 Catalogue (2000) brings the total to 2 539 913 stars, and includes 99% of all stars down to magnitude 11, almost 100 000 times fainter than the brightest star, Sirius.</p><p>Hipparcos sent a million million bits of information, radioed to ground stations in Germany, Australia, and the United States, which went into the biggest computation in the history of astronomy.</p><p>Hipparcos confirmed Einstein's prediction of the effect of gravity on star light. The mission discovered that the Milky Way is changing shape. Its data also helped predict the impact of Comet Shoemaker-Levy with Jupiter in 1994.</p><p>Scientists manufactured the mirror of the Hipparcos telescope so accurately that if it were scaled up to the size of the Atlantic Ocean, the bumps on its surface would be only 10 centimetres high.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Spacecraft</h2>
+	    
+						
+		<p>The payload was centred around an optical all-reflective Schmidt telescope. A novel feature of the telescope was the `beam-combining' mirror, which brought the light from the two fields of view, separated by about 58 degrees and each of dimension 0.9 x 0.9 degrees, to a common focal surface. This achieved both large- and small-field measurements simultaneously. The satellite swept out great circles over the celestial sphere, and the star images from two fields of view were modulated by a highly regular grid of 2688 transparent parallel slits located at the focal surface and covering an area of 2.5 x 2.5 square centimetres.</p><p>The satellite was designed to spin slowly, completing a full revolution in just over two hours. At the same time, it was controlled so that there was a continuous slow change of direction of the axis of rotation. In this way, the telescope was able to scan the complete celestial sphere several times during its planned mission. As the telescope scanned the sky, the starlight was modulated by the slit system, and the modulated light was sampled by an image-dissector-tube detector, at a frequency of 1200 Hz. At any one time, some four or five of the selected (or programme) stars were present in the combined fields of view. The detector had a small sensitive area which covered an area of about 38 arcsec in diameter (projected on the sky). The detector could only follow the path of one star at a time. However, with rapid computer control, it could be switched to all the programme stars for short intervals of time during their passage across the field, which took about 20 seconds.</p><p>The telescope was continually determining the relative (along-scan) positions of the programme stars which appeared first in the preceding field of view and then in the following field of view due to the rotation of the satellite. In this way, astronomers obtained several comparisons with different stars. As the scans also overlapped `sideways' when the satellite axis of rotation changed on each sweep of the sky, the stars appeared again, but this time compared with other stars. In this way, a dense net of measurements of the relative angular separations of the stars was progressively built up.</p><p>In addition to the main instrument (designed to measure about one hundred thousand stars down to about 12 mag), the payload included star mappers whose function was to provide data allowing precise real-time satellite attitude determination (a task performed on board the satellite). The star mappers consisted of two sets of four slits. Each slit was set at different inclinations with respect to the scanning direction, so that the satellite attitude could be derived from the detector signals as the star images moved across the grid. The modulated light signal was converted into photon counts by the two photomultiplier tubes.</p><p>The digitised photon counts from the main detector were sent to the ground. Along with relevant attitude information from the satellite's star mappers and other house-keeping data, the relative phases of the star images present within the combined fields of view were derived. The data processing was carried out on the ground. A full analysis of the data collected during the mission lifetime led to the final catalogue of star positions, parallaxes, and proper motions.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Journey</h2>
+	    
+						
+		<p>The satellite failed to reach its proposed geostationary orbit after failure of one of its booster motors. Following a rethink by its scientists allowing for the new position, further operations proceeded normally.</p><p>There was a lot of excitement in the Hipparcos community of researchers, some of whom had worked with the project for 20 years, when Ariane lifted its precious payload into the sky. Their enthusiasm turned to disappointment, however, when the spacecraft's apogee-boost motor failed to fire. This left Hipparcos in an elongated orbit that took it through the Van Allen belts, which risked serious radiation damage to the solar panels that powered the spacecraft.</p><p>Fortunately, the panels turned out to be more resistant to radiation than expected. Over the course of several months, the European Space Agency Project Team, the European Space Operations Centre (ESOC), members of industry, and the Hipparcos scientific consortia turned their collective attention to the observational and scheduling problems posed by the highly eccentric orbit. As a result of their efforts, the mission ran successfully from November 1989 to March 1993, gathering data 60% of the time.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">History</h2>
+	    
+						
+		<p>In Ancient Greece, Hipparchus of Nicea had become a specialist in mathematics and philosophy, but his major claim to modern fame was that he was a pioneer of the discipline of astrometry - the cataloguing of stars and the measurement of star distances. Long before the invention of the telescope, using only his eyes, he took on the daunting task of measuring the positions of the stars and planets as they passed overhead each night. He produced a catalogue of 1080 stars, each of which he described simply as 'bright' or 'small'. His star catalogue was the first of many compiled over the centuries by astronomers using ever-better instruments and techniques.</p><p>After the Renaissance, the Galilean model of the Solar System became accepted – that is, the Earth orbits around the Sun, and not the other way around. Once this was realised, a new word slipped into the science of astrometry: parallax.</p><p>Parallax is the term for the apparent change in the position of an object seen against a more distant background when the viewpoint is changed. It meant for astrometrists that you could, in theory, look at a star in Spring, wait for Autumn and look at it again when the Earth was at the opposite position in its orbit around the Sun. From the two, minutely different apparent positions of the star, you could calculate the distance to that star.</p><p>Using parallax, Sir William Herschel attempted to describe the distance to our nearest star in the late 18th century. He said &quot;If a ship's hold contained 600 tons of dried peas and for every mile travelled, it dropped one pea, you would need 10 000 such ships to travel the distance to our nearest neighbour.&quot; Not using ships and peas, in modern terms Proxima Centauri is 4.22 light-years away.</p><p>As time has gone on, from these astrometrical measurements - all made from the Earth's surface - astronomers have derived everything from basic stellar properties to estimates for the age of the universe. By 1900, a three-dimensional view of our Galaxy had been ascertained.</p><p>In the mid-20th century, however, astrometrics had gone rather out of fashion. With telescopes on Earth limited to viewing stars through the thick layer of our atmosphere, we were reaching a limit on what we could measure. Cosmology was moving on to black holes, supernovae, dark matter, and many other mind-boggling concepts. Simply measuring and cataloguing had become a bit passé.</p><p>In 1967, a Frenchman called Pierre Lacroûte revived astrometry. Why not, he proposed, put a telescope on a satellite above the Earth's atmosphere? From there you could catalogue many more stars, find their luminosity, and measure their distance from the Sun and from each other. Astrometry can provide a better understanding about how stars evolve and this is a key to finding out many other things such as finding planets orbiting other stars and by extension, finding life beyond our Solar System. With the proposal to put a telescope in space and therefore able to measure many more stars, astrometry became fashionable again. Lacroûte's national space agency, the French CNES decided it should support his idea and proposed a plan. However, after a good deal of evaluation and planning, CNES felt it was too expensive to proceed by itself. In 1980, realising the importance to science of this idea, ESA decide to take over and finance the project, which would eventually be called Hipparcos.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Partnerships</h2>
+	    
+						
+		<p>The Hipparcos Science Team, consisting of experts from many ESA member States, advised ESA on all scientific aspects of the mission. The team was responsible for the overall scientific conduct of the Hipparcos project through to the completion and distribution of the final catalogues.</p>	</div>	
+    
+					
+</article>
+
+
+	<section class="cards">
+		<h2 class="heading section-heading">Related Links</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1072860480">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Hipparcos_science_highlights">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2016/09/esa_s_star_mapper_visualisation/16128927-1-eng-GB/ESA_s_Star_Mapper_visualisation_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Hipparcos science highlights</h3>  
+
+<div class="meta">
+		<span>4663 <small>views</small></span>
+			<span>25 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1077529920">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Herschel/How_many_stars_are_there_in_the_Universe">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/06/one_amongst_millions/22062199-1-eng-GB/One_amongst_millions_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">How many stars are there in the Universe?</h3>  
+
+<div class="meta">
+		<span>1024459 <small>views</small></span>
+			<span>2912 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1182254760">
+<a class="card focuson" href="http://sci.esa.int/hipparcos" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/1998/01/ariane-4_v33_ready_for_launch/9088860-5-eng-GB/Ariane-4_V33_ready_for_launch_card_medium.jpg" alt="Ariane-4 V33 ready for launch">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Hipparcos in-depth</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+
+		<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

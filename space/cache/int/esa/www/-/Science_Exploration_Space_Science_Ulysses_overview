@@ -1,0 +1,586 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="Ulysses overview">
+<title>ESA - Ulysses overview</title>						<meta name="keywords" content="SPCS overview ulysses">
+			
+	
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header exploring-discovering">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'exploring-discovering';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+		<script>
+$.post(
+	'/ezjscore/call', 
+	"ezjscServer_function_arguments=esaux::viewsincr::183490", 
+	function(data) { 
+		$(document).ready(function() {			$('#viewcount').text(data)
+		})
+	})
+</script>
+
+
+
+<article class="article mission-overview exploring-discovering">
+
+<div class="feature slider"><div class="flexslider"><ul class="slides">	
+							
+														
+																	
+
+	  
+
+								
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2003/04/Technicians_at_work_on_Ulysses_in_the_test_centre">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2003/04/technicians_at_work_on_ulysses_in_the_test_centre/9824540-3-eng-GB/Technicians_at_work_on_Ulysses_in_the_test_centre_pillars.jpg" alt="Technicians at work on Ulysses in the test centre">
+				<figcaption class="image__caption">Technicians at work on Ulysses in the test centre</figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2003/05/Artist_s_impression_of_Ulysses_released_from_the_Space_Shuttle_6_October_1990">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2003/05/artist_s_impression_of_ulysses_released_from_the_space_shuttle_6_october_1990/9604143-3-eng-GB/Artist_s_impression_of_Ulysses_released_from_the_Space_Shuttle_6_October_1990_pillars.jpg" alt="Artist's impression of Ulysses released from the Space Shuttle, 6 October 1990">
+				<figcaption class="image__caption">Artist's impression of Ulysses released from the Space Shuttle, 6 October 1990</figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2002/02/Ulysses_at_Jupiter">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2002/02/ulysses_at_jupiter/9191893-5-eng-GB/Ulysses_at_Jupiter_pillars.jpg" alt="Ulysses at Jupiter">
+				<figcaption class="image__caption">Ulysses at Jupiter</figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+								
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2000/09/Ulysses_unique_orbit">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2000/09/ulysses_unique_orbit/9229841-5-eng-GB/Ulysses_unique_orbit_pillars.jpg" alt="Ulysses' unique orbit">
+				<figcaption class="image__caption">Ulysses' unique orbit</figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2000/09/Ulysses_artist_s_impression">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2000/09/ulysses_artist_s_impression/9221328-5-eng-GB/Ulysses_artist_s_impression_pillars.jpg" alt="Ulysses, artist’s impression">
+				<figcaption class="image__caption">Ulysses, artist’s impression</figcaption>
+			</a></figure></div></li></ul></div></div>
+
+<header class="entry article__block">
+	<span class="pillar article__item">Science & Exploration</span>
+	<h1 class="heading heading--main article__item">Ulysses overview</h1>
+	<div class="meta article__item">
+		<span><span id="viewcount">27909</span><small> views</small></span>
+		
+	</div>
+</header>
+<div class="breadcrumbs article__block article__item">
+<a class="breadcrumbs__entry" href="/">ESA</a> /			<a class="breadcrumbs__entry" href="/Science_Exploration">Science & Exploration</a> /			<a class="breadcrumbs__entry" href="/Science_Exploration/Space_Science">Space Science</a></div>
+
+
+<div class="abstract article__block article__item">
+	
+</div>
+
+
+
+
+<div class="article__block">
+				</div>
+
+
+    
+					
+	
+    
+							
+														
+																	
+
+
+
+							
+				
+								
+						
+								
+												<div class="article__block">
+				<figure class="article__image article__image--left">
+					<a href="/ESA_Multimedia/Images/2000/12/Ulysses_at_Jupiter_encounter" class="popup">
+				<img src="/var/esa/storage/images/esa_multimedia/images/2000/12/ulysses_at_jupiter_encounter/9224687-5-eng-GB/Ulysses_at_Jupiter_encounter_article.jpg" alt="Ulysses at Jupiter encounter">
+			</a>
+				<figcaption class="image__caption">
+							<a href="/ESA_Multimedia/Images/2000/12/Ulysses_at_Jupiter_encounter">Ulysses at Jupiter encounter</a>
+								</figcaption>
+	</figure>	
+		<p><b>Launch date: </b>6 October 1990</p><p><b>Mission end: </b>30 June 2009</p><p>
+<b>Objective</b><br />Chart the poles of the Sun - exploring our star's environment is vital if we are to understand the Sun, how it works and its effect on the Solar System.</p><p>
+<b>Mission</b><br />Ulysses was the first mission to study the environment of space above and below the poles of the Sun. Its data have given scientists their first look at the variable effect that the Sun has on the space around it.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">What's special?</h2>
+	    
+						
+		<p>Exploring our star’s environment is vital if scientists are to build a complete picture of the Sun, how it works, and its effect on the Solar System. In particular, this satellite studied the solar wind that blows non-stop from the Sun and produces a huge bubble in space called the heliosphere. Ulysses provided the first-ever map of the heliosphere from the equator to the poles.</p><p>The solar wind filling the heliosphere is an outward-racing plasma of charged atoms and electrons from the Sun. This ‘wind’ is very different from the wind on Earth, but its gusts and shocks, causing aurora and magnetic storms, may affect our weather and can harm satellites, power supplies, and communications.</p><p>In 1990, Ulysses was launched by a NASA Space Shuttle on an unprecedented journey of discovery. The gravity of the planet Jupiter deflected it into an orbit taking it over the Sun’s poles. With an array of sophisticated sensors for gauging the invisible winds, atoms, dust grains, and magnetic fields that permeate space around the Sun, Ulysses passed 300 million kilometres above the Sun's southern and northern poles, regions never studied before.</p><p>Ulysses explored the solar wind from all angles, producing the first three-dimensional picture of the heliosphere. It found that the wind from the cooler regions close to the Sun's poles fans out to fill two thirds of the heliosphere, and blows at a uniform speed of 750 kilometres per second, much faster than the 350 kilometres per second wind that emerges from the Sun’s equatorial zone.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Spacecraft</h2>
+	    
+						
+		<p>Ulysses is equipped with a comprehensive range of scientific instruments. These are able to detect and measure solar wind ions and electrons, magnetic fields, energetic particles, radio and plasma waves, dust and gas, X-rays, and gamma rays. This combination of experiments will help scientists understand the Sun and its heliosphere, and perhaps the Sun’s influence on the Earth and our climate.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Journey</h2>
+	    
+						
+		<p>After launch, Ulysses headed out to Jupiter, arriving in February 1992 for the gravity-assist manoeuvre that swung the craft into its unique solar orbit. It passed over the Sun’s south pole in 1994, and the north pole in 1995. Beginning its second orbit of the Sun, Ulysses revisited the south pole in 2000 and the north a year later. At that time, the Sun was close to the peak of its 11-year cycle of activity. Ulysses then headed back out to the orbit of Jupiter on the long leg of its six-year circuit around the Sun.</p> <iframe width="560" height="315" src="https://www.youtube.com/embed/74EH_XIPWCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	</div>	
+	<div class="article__block">
+	<h2 class="heading">History</h2>
+	    
+						
+		<p>The idea of sending a probe to explore the regions of space far away from the Solar System’s ecliptic plane is by no means new. The first mention of an out-of-ecliptic mission was made in 1959. However, how to navigate such long distances, how to use gravity assists, and many other necessary aspects were then unknown to space science.</p><p>Missions such as Pioneers 10 and 11 showed the way to some essential knowledge – that gravity assists were possible and that high-radiation areas, such as the immediate neighbourhood of Jupiter, could be survived by spacecraft.</p><p>Europe and NASA studied the possibility of an ‘out-of-ecliptic’ (OOE) mission in the early 1970s. The mission would consist of two spacecraft flying in formation out to Jupiter and then one of them heading for the northern region of the Sun and the other for the southern region. Two spacecraft at opposite poles from each other would be able to almost completely map the Sun. The mission was approved in 1976, the payload approved in 1977 and a provisional launch date set for February 1983.</p><p>By 1980, NASA was concentrating on the Space Shuttle. Financial cutbacks were made in other areas of its space programme including the second spacecraft of the OOE mission. ESA decided however to go ahead with a single-spacecraft version of the mission, using a European spacecraft with half the instruments on board from the United States.</p><p>Renamed Ulysses, it was due to be launched on board a Space Shuttle in May 1986. In January 1986, the Ulysses spacecraft was shipped out to Kennedy Space Center to finally prepare for launch. On 28 January 1986, the Challenger disaster occurred and put an immediate stop to all Shuttle launches and therefore the Ulysses mission. The spacecraft had to be dismantled and shipped back to Europe.</p><p>When Shuttle launches were restarted in 1989, Ulysses was given a new launch opportunity for 1990 and was launched successfully on 6 October 1990.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Partnerships</h2>
+	    
+						
+		<p>Ulysses was a joint ESA/NASA mission. ESA managed the mission operations and provided the spacecraft, built by Dornier Systems, Germany (now Astrium). NASA provided the Space Shuttle Discovery for launch and the inertial upper stage and payload-assist module to put Ulysses in its correct orbit. NASA also provided the radioisotope thermoelectric generator which powered the spacecraft and payload.</p><p>ESA’s ESTEC and ESOC managed the mission with NASA’s Jet Propulsion Laboratory (JPL). Ulysses was tracked by NASA’s Deep Space Network. A joint ESA/NASA team at JPL oversaw spacecraft operations and data management. Teams from universities and research institutes in Europe and the United States provided the nine science instruments.</p>	</div>	
+    
+					
+</article>
+
+
+	<section class="cards">
+		<h2 class="heading section-heading">Related Links</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1661123460">
+<a class="card focuson exploring-discovering" href="">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2008/06/the_ulysses_spacecraft3/10059403-2-eng-GB/The_Ulysses_spacecraft_card_medium.jpg" alt="The Ulysses spacecraft">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Science & Exploration</span>
+				<h3 class="heading">Ulysses overview</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1072866960">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Ulysses_science_highlights">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2003/05/artist_s_impression_of_ulysses_released_from_the_space_shuttle_6_october_1990/9604143-3-eng-GB/Artist_s_impression_of_Ulysses_released_from_the_Space_Shuttle_6_October_1990_card_medium.jpg" alt="Artist's impression of Ulysses released from the Space Shuttle, 6 October 1990">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Ulysses science highlights</h3>  
+
+<div class="meta">
+		<span>7513 <small>views</small></span>
+			<span>20 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+						
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1165249980">
+<a class="card story designing-operating" href="/Enabling_Support/Operations/Ulysses_operations">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2002/01/ulysses_artist_s_impression/9131148-5-eng-GB/Ulysses_artist_s_impression_card_medium.jpg" alt="Ulysses, artist’s impression">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Enabling & Support</span>
+
+<h3 class="heading">Ulysses operations</h3>  
+
+<div class="meta">
+		<span>6597 <small>views</small></span>
+			<span>11 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1213271340">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Ulysses_the_science_legacy">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2008/06/the_heliosphere/9587777-3-eng-GB/The_heliosphere_card_medium.jpg" alt="The heliosphere">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Ulysses: the science legacy</h3>  
+
+<div class="meta">
+			<span>12/06/2008</span>
+		<span>2105 <small>views</small></span>
+			<span>4 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1213271580">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Ulysses_the_engineering_challenge">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2008/06/artist_s_impression_of_ulysses4/9760564-4-eng-GB/Artist_s_impression_of_Ulysses_card_medium.jpg" alt="Artist’s impression of Ulysses">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Ulysses: the engineering challenge</h3>  
+
+<div class="meta">
+			<span>12/06/2008</span>
+		<span>1644 <small>views</small></span>
+			<span>2 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1171892100">
+<a class="card focuson" href="http://sci.esa.int/science-e/www/area/index.cfm?fareaid=11" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2003/08/ulysses_and_the_heliosphere/9851169-3-eng-GB/Ulysses_and_the_heliosphere_card_medium.jpg" alt="Ulysses and the heliosphere">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Ulysses in-depth</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+
+		<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

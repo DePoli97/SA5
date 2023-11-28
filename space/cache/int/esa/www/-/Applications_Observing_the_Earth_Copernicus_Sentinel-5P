@@ -1,0 +1,1772 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="Sentinel-5P">
+<title>ESA - Sentinel-5P</title>					<meta name="description" content="Copernicus, Sentinel-5P">
+		<meta property="og:description" content="Copernicus, Sentinel-5P">
+				<meta name="keywords" content="Copernicus, Sentinel-5P">
+			
+	
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header connecting-benefiting">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'connecting-benefiting';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+				
+			<section class="page-header mission-header connecting-benefiting">
+	<header class="entry">
+		<a href="/Applications" class="pillar">Applications</a>
+		<h1 class="heading">Sentinel-5P </h1>
+		<p class="subheading">Global air monitoring for Copernicus</p> 
+	</header>
+	<div class="social-media-links">
+		
+										
+													
+														
+														
+														
+						</div>
+					<img class="image-bg stellar" src="/var/esa/storage/images/applications/observing_the_earth/copernicus/sentinel-5p/19717043-9-eng-GB/Sentinel-5P_pillars.jpg" alt="Sentinel-5P" data-stellar-ratio="0.8"> 
+</section>
+
+<section class="mission-details">
+	<div class="mission-intro">
+		
+		<a name="eztoc19727273_1" id="eztoc19727273_1"></a><h2><b>The mission</b></h2><p>Sentinel-5 Precursor – also known as Sentinel-5P – is the first Copernicus mission dedicated to monitoring our atmosphere. The satellite carries the state-of-the-art Tropomi instrument to map a multitude of trace gases, which affect the air we breathe and therefore our health and our climate.</p>
+	</div>
+	<div class="mission-data">
+		
+		<a name="eztoc19728296_1" id="eztoc19728296_1"></a><h2><b>The launch</b></h2><p>
+<b>Date:</b>&nbsp;13 October 2017<br />
+<b>Site: </b>Plesetsk Cosmodrome, Russia<br /><b>Launcher:</b> Rockot</p>
+	</div>
+	</section>
+
+<section class="mission-stats connecting-benefiting">
+	
+		
+		
+<ul>
+
+<li><a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Satellite"><b>2600 km </b></a>swath width</li>
+
+<li><a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Facts_and_figures"><b>7 years </b></a>mission life</li>
+
+<li><a href="https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Facts_and_figures"><b>824 km </b></a>orbit altitude</li>
+
+</ul>
+
+	
+	<div class="dimmer"></div>
+	<img class="image-bg" src="/" alt="Sentinel-5P">
+</section>
+
+
+
+	
+						  
+	
+
+
+
+
+
+
+					 
+
+	
+																																			
+				
+																																																					
+				
+														
+				
+												
+			
+	
+					
+			
+			 
+		
+					
+			
+			 
+		
+					
+						
+						 
+		
+					
+			
+			 
+						
+ 
+
+<section class="cards filtered">
+	<div class="filter-wrapper">
+		<h2 class="heading section-heading">
+			
+							Latest
+					</h2>
+		<div class="filters button-group">
+			<button data-filter="" class="btn active">All</button>
+			<button data-filter=".story" class="btn">Stories</button>
+			<button data-filter=".video" class="btn">Videos</button>
+			<button data-filter=".image" class="btn">Images</button>
+		</div>
+	</div>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1699876800">
+<a class="card video connecting-benefiting popup" href="/ESA_Multimedia/Videos/2023/11/Monitoring_methane_from_space">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:03:23
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2023/11/monitoring_methane_from_space/25183043-8-eng-GB/Monitoring_methane_from_space_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Monitoring methane from space</h3>  
+
+<div class="meta">
+			<span>13/11/2023</span>
+		<span>2914 <small>views</small></span>
+			<span>102 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+													
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1699540200">
+<a class="card focuson connecting-benefiting" href="https://sentinels.copernicus.eu/fi/web/success-stories/-/sentinel-5p-data-map-nitrogen-dioxide-in-finland" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/11/nitrogen_dioxide_in_finland/25187826-1-eng-GB/Nitrogen_dioxide_in_Finland_card_medium.jpg" alt="Nitrogen dioxide in Finland">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Sentinel-5P data map nitrogen dioxide in Finland</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1696426800">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Ozone_hole_goes_large_again">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/10/ozone_hole_extension_2023/25113340-2-eng-GB/Ozone_hole_extension_2023_card_medium.png" alt="Ozone hole extension 2023">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Ozone hole goes large again</h3>  
+
+<div class="meta">
+			<span>04/10/2023</span>
+		<span>46944 <small>views</small></span>
+			<span>70 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1695193200">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Copernicus/Trio_of_Sentinel_satellites_map_methane_super-emitters">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/09/sentinel-5p_detected_methane_plumes/25093445-1-eng-GB/Sentinel-5P_detected_methane_plumes_card_medium.jpg" alt="Sentinel-5P detected methane plumes">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Trio of Sentinel satellites map methane super-emitters</h3>  
+
+<div class="meta">
+			<span>20/09/2023</span>
+		<span>19146 <small>views</small></span>
+			<span>117 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1690365600">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Litli-Hrutur_eruption_seen_from_space">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/07/smoke_plume_from_the_litli-hrutur_volcano/25025146-1-eng-GB/Smoke_plume_from_the_Litli-Hrutur_volcano_card_medium.jpg" alt="Smoke plume from the Litli-Hrútur volcano">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Litli-Hrútur eruption seen from space</h3>  
+
+<div class="meta">
+			<span>26/07/2023</span>
+		<span>13918 <small>views</small></span>
+			<span>72 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1677153600">
+<a class="card video connecting-benefiting popup" href="/ESA_Multimedia/Videos/2023/02/The_ozone_layer_a_hole_new_world">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:08:47
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2023/02/the_ozone_layer_a_hole_new_world/24722594-1-eng-GB/The_ozone_layer_a_hole_new_world_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">The ozone layer: a hole new world </h3>  
+
+<div class="meta">
+			<span>23/02/2023</span>
+		<span>6888 <small>views</small></span>
+			<span>167 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1668589200">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Sentinel-5P_data_used_in_new_methane_detection_system">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/11/global_methane_concentrations/24580105-1-eng-GB/Global_methane_concentrations_card_medium.png" alt="Global methane concentrations">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Sentinel-5P data used in new methane detection system </h3>  
+
+<div class="meta">
+			<span>16/11/2022</span>
+		<span>6067 <small>views</small></span>
+			<span>95 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1665043320">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Satellites_detect_methane_plume_in_Nord_Stream_leak">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/10/nord_stream_leak_as_captured_by_pleiades_neo/24505620-1-eng-GB/Nord_Stream_leak_as_captured_by_Pleiades_Neo_card_medium.jpg" alt="Nord Stream leak as captured by Pléiades Neo">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Satellites detect methane plume in Nord Stream leak</h3>  
+
+<div class="meta">
+			<span>06/10/2022</span>
+		<span>17234 <small>views</small></span>
+			<span>126 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1642676040">
+<a class="card image connecting-benefiting popup" href="/ESA_Multimedia/Images/2022/01/Sulphur_dioxide_from_Tonga_eruption_spreads_over_Australia">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Applications</span>
+
+<h3 class="heading">Sulphur dioxide from Tonga eruption spreads over Australia</h3>  
+
+<div class="meta">
+			<span>20/01/2022</span>
+		<span>12466 <small>views</small></span>
+			<span>191 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/01/sulphur_dioxide_from_tonga_eruption_spreads_over_australia/23907503-1-eng-GB/Sulphur_dioxide_from_Tonga_eruption_spreads_over_Australia_card_full.jpg" alt="The Hunga-Tonga-Hunga-Ha'apai volcano near Tonga in the South Pacific erupted with such force on 15 January that it is thought to be the biggest eruption recorded anywhere on the planet in 30 years.">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1591871400">
+<a class="card image connecting-benefiting popup" href="/ESA_Multimedia/Images/2020/06/Global_air_pollution_maps_now_available">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Applications</span>
+
+<h3 class="heading">Global air pollution maps now available </h3>  
+
+<div class="meta">
+			<span>11/06/2020</span>
+		<span>60981 <small>views</small></span>
+			<span>1079 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/06/global_air_pollution_maps_now_available/22068678-1-eng-GB/Global_air_pollution_maps_now_available_card_full.png" alt="A new online platform that allows for the tracking of air pollution worldwide is now available to the public. ">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1589555520">
+<a class="card video connecting-benefiting popup" href="/ESA_Multimedia/Videos/2020/05/Seen_from_space_COVID-19_and_the_environment">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:04:00
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2020/05/seen_from_space_covid-19_and_the_environment/22012058-3-eng-GB/Seen_from_space_COVID-19_and_the_environment_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Seen from space: COVID-19 and the environment</h3>  
+
+<div class="meta">
+			<span>15/05/2020</span>
+		<span>12785 <small>views</small></span>
+			<span>159 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1584111600">
+<a class="card video connecting-benefiting popup" href="/ESA_Multimedia/Videos/2020/03/Coronavirus_nitrogen_dioxide_emissions_drop_over_Italy">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:00:00
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2020/03/coronavirus_nitrogen_dioxide_emissions_drop_over_italy/21878957-1-eng-GB/Coronavirus_nitrogen_dioxide_emissions_drop_over_Italy_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Coronavirus: nitrogen dioxide emissions drop over Italy</h3>  
+
+<div class="meta">
+			<span>13/03/2020</span>
+		<span>213702 <small>views</small></span>
+			<span>732 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1578582000">
+<a class="card video connecting-benefiting popup" href="/ESA_Multimedia/Videos/2020/01/Aerosol_spread_from_Australian_fires">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:00:20
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2020/01/aerosol_spread_from_australian_fires/21790924-1-eng-GB/Aerosol_spread_from_Australian_fires_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Aerosol spread from Australian fires</h3>  
+
+<div class="meta">
+			<span>09/01/2020</span>
+		<span>9166 <small>views</small></span>
+			<span>107 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1576598100">
+<a class="card image connecting-benefiting popup" href="/ESA_Multimedia/Images/2019/12/Methane_leak_visible_from_space">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Applications</span>
+
+<h3 class="heading">Methane leak visible from space</h3>  
+
+<div class="meta">
+			<span>17/12/2019</span>
+		<span>10947 <small>views</small></span>
+			<span>97 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/12/methane_leak_visible_from_space/21526979-4-eng-GB/Methane_leak_visible_from_space_card_full.jpg" alt="Methane leak visible from space">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+				<div class="grid-item story image video"> 
+<a class="card more" href="/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/(archive)/0">
+	<div class="outline">
+		<h3 class="heading">More items</h3>
+	</div>
+</a>
+</div>
+	</div>
+</section>
+		
+		
+											<!-- # obj in slider 3 -->		<section class="feature slider">
+	<div class="flexslider"><ul class="slides">
+								<li>
+				
+	
+	
+ 
+	
+
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Image gallery</h3>
+		
+					<a class="cta" href="https://www.esa.int/spaceinimages/Missions/Sentinel-5P" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/04/no2_concentrations_over_europe/21956064-3-eng-GB/NO2_concentrations_over_Europe_pillars.gif" alt="NO2 concentrations over Europe">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+	
+	
+ 
+	
+
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Video gallery</h3>
+		
+					<a class="cta" href="http://www.esa.int/spaceinvideos/Missions/Sentinel-5P" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2013/09/video_gallery/13006679-1-eng-GB/Video_gallery_pillars.jpg" alt="">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+	
+	
+ 
+		
+					
+			
+
+
+
+	
+	
+
+	
+			  
+													
+						
+											
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Downloads</h3>
+		
+					<a class="cta" href="/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Downloads" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/05/download_page_icon/22001315-1-eng-GB/Download_page_icon_pillars.jpg" alt="">
+</figure>
+</div>
+</li>
+						
+						</ul></div>
+	</section>				
+		
+									
+	<section class="cards">
+					<h2 class="heading section-heading">Discover Sentinel-5P</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1500382560">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Introducing_Sentinel-5P">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/08/monitoring_air_quality/23426746-1-eng-GB/Monitoring_air_quality_card_medium.jpg" alt="Monitoring air quality">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Introducing Sentinel-5P</h3>  
+
+<div class="meta">
+		<span>15416 <small>views</small></span>
+			<span>74 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1500384900">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/The_air_we_breathe">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/07/air_pollution/17072169-1-eng-GB/Air_pollution_card_medium.jpg" alt="Air pollution">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">The air we breathe</h3>  
+
+<div class="meta">
+		<span>10333 <small>views</small></span>
+			<span>43 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1500386640">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Ozone_layer">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/10/ozone_hole_2020/22268756-5-eng-GB/Ozone_hole_2020_card_medium.png" alt="Ozone hole 2020">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Ozone layer</h3>  
+
+<div class="meta">
+		<span>6132 <small>views</small></span>
+			<span>9 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1500387120">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Climate">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/07/rice_agriculture/17072519-1-eng-GB/Rice_agriculture_card_medium.jpg" alt="Rice agriculture">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Climate</h3>  
+
+<div class="meta">
+		<span>6404 <small>views</small></span>
+			<span>13 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1500454260">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Facts_and_figures">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/09/sentinel-5p_infographic/17147627-1-eng-GB/Sentinel-5P_infographic_card_medium.jpg" alt="Sentinel-5P infographic">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Facts and figures</h3>  
+
+<div class="meta">
+		<span>10405 <small>views</small></span>
+			<span>22 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1500465540">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Satellite">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/07/sentinel-5p_unveiled/17074308-2-eng-GB/Sentinel-5P_unveiled_card_medium.jpg" alt="Sentinel-5P unveiled">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Satellite</h3>  
+
+<div class="meta">
+		<span>6740 <small>views</small></span>
+			<span>12 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1500470100">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Tropomi">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/07/tropomi_s_spectral_range/17076357-1-eng-GB/Tropomi_s_spectral_range_card_medium.jpg" alt="Tropomi’s spectral range">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Tropomi</h3>  
+
+<div class="meta">
+		<span>21401 <small>views</small></span>
+			<span>74 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1500470520">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/About_the_launch">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/07/sentinel-5p_on_a_rockot/17055914-1-eng-GB/Sentinel-5P_on_a_Rockot_card_medium.png" alt="Sentinel-5P on a Rockot">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">About the launch</h3>  
+
+<div class="meta">
+		<span>2328 <small>views</small></span>
+			<span>6 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1500471300">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Data_flow">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2007/02/kiruna_station/9577796-4-eng-GB/Kiruna_station_card_medium.png" alt="Kiruna station">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Data flow</h3>  
+
+<div class="meta">
+		<span>5976 <small>views</small></span>
+			<span>12 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1500474420">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Copernicus/Sentinel-5P/Data_products">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/07/sentinel-5p_data_products/17056031-1-eng-GB/Sentinel-5P_data_products_card_medium.jpg" alt="Sentinel-5P data products">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Data products</h3>  
+
+<div class="meta">
+		<span>11076 <small>views</small></span>
+			<span>39 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1674222900">
+<a class="card focuson connecting-benefiting" href="https://youtu.be/k2V-NB6AZPE" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/01/claus_zehner/24684143-2-eng-GB/Claus_Zehner_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Meet Sentinel-5P's mission manager</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+ 
+		
+		
+											<section class="link-section dark">
+		<div class="theme-block connecting-benefiting">
+					<h2 class="heading section-heading">Follow us</h2>
+	<div class="section-group button-group">
+															 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new?topic_id=EUESA_6" class="btn"><i class="fas fa-rss"></i>Subscribe</a>
+		
+		 
+
+															 
+								
+										<a href="https://twitter.com/ESA_EO" class="btn"><i class="fa-brands fa-x-twitter"></i> @ESA_EO</a>
+		
+		 
+
+															 
+								
+										<a href="https://www.instagram.com/esa_earth/" class="btn"><i class="fab fa-instagram"></i> @esa_earth</a>
+		
+		 
+
+	 
+	</div> 
+
+</div> 
+ 
+		</section>
+			
+		
+									
+	<section class="cards">
+					<h2 class="heading section-heading">Recommended</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		
+								
+										
+
+
+	 
+
+		
+<div class="grid-item focuson" data-date="1697449013">
+<a class="card focuson connecting-benefiting" href="/Applications/Observing_the_Earth">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<img class="image-bg" src="/var/esa/storage/images/applications/observing_the_earth/19716454-24-eng-GB/Observing_the_Earth_card_full.jpg" alt="Observing the Earth">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Observing the Earth</h3>
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+	</div>
+</a>
+</div>
+																					
+								
+										
+
+
+	 
+
+		
+<div class="grid-item focuson" data-date="1696322088">
+<a class="card focuson connecting-benefiting" href="/Applications/Observing_the_Earth/Copernicus">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<img class="image-bg" src="/var/esa/storage/images/applications/observing_the_earth/copernicus/19716552-10-eng-GB/Copernicus_card_full.jpg" alt="Copernicus">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Copernicus</h3>
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+	</div>
+</a>
+</div>
+																					 
+										
+											
+												
+																			
+				
+	
+	
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1259939520">
+<a class="card focuson connecting-benefiting" href="/Applications/Observing_the_Earth/Copernicus/The_Sentinel_missions">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/05/sentinels_icon/23296400-1-eng-GB/Sentinels_icon_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Sentinel missions</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1394102760">
+<a class="card focuson connecting-benefiting" href="https://dataspace.copernicus.eu/" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/11/sentinel_data_access/21456380-1-eng-GB/Sentinel_data_access_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Sentinel data access</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1225879320">
+<a class="card focuson" href="http://www.copernicus.eu/" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2013/06/copernicus/12881065-4-eng-GB/Copernicus_card_medium.jpg" alt="Copernicus logo_no tagline">
+	</figure>
+	<header class="entry">
+				<h3 class="heading"></h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1389779460">
+<a class="card focuson connecting-benefiting" href="http://www.airbus.com/space.html" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/11/airbus_logo/21457623-3-eng-GB/Airbus_logo_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Airbus Defence & Space</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1401196200">
+<a class="card focuson" href="http://www.spaceoffice.nl/en/" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/05/netherlands_space_office_logo/23291920-1-eng-GB/Netherlands_Space_Office_logo_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Netherlands Space Office</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+ 
+		
+		
+		
+ 
+
+
+	<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

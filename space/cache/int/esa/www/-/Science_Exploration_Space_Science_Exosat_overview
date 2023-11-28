@@ -1,0 +1,383 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="Exosat overview">
+<title>ESA - Exosat overview</title>						<meta name="keywords" content="SPCS overview exosat">
+			
+	
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header exploring-discovering">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'exploring-discovering';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+		<script>
+$.post(
+	'/ezjscore/call', 
+	"ezjscServer_function_arguments=esaux::viewsincr::183464", 
+	function(data) { 
+		$(document).ready(function() {			$('#viewcount').text(data)
+		})
+	})
+</script>
+
+
+
+<article class="article mission-overview exploring-discovering">
+
+
+
+<header class="entry article__block">
+	<span class="pillar article__item">Science & Exploration</span>
+	<h1 class="heading heading--main article__item">Exosat overview</h1>
+	<div class="meta article__item">
+		<span><span id="viewcount">7405</span><small> views</small></span>
+		
+	</div>
+</header>
+<div class="breadcrumbs article__block article__item">
+<a class="breadcrumbs__entry" href="/">ESA</a> /			<a class="breadcrumbs__entry" href="/Science_Exploration">Science & Exploration</a> /			<a class="breadcrumbs__entry" href="/Science_Exploration/Space_Science">Space Science</a></div>
+
+
+<div class="abstract article__block article__item">
+	
+</div>
+
+
+
+
+<div class="article__block">
+				</div>
+
+
+    
+					
+	
+	<div class="article__block">
+	<h2 class="heading">Mission</h2>
+	    
+							
+														
+																	
+
+
+
+							
+				
+								
+						
+								
+											<figure class="article__image article__image--left">
+					<a href="/ESA_Multimedia/Images/2003/04/Artist_s_impression_of_Exosat" class="popup">
+				<img src="/var/esa/storage/images/esa_multimedia/images/2003/04/artist_s_impression_of_exosat/9900387-2-eng-GB/Artist_s_impression_of_Exosat_article.jpg" alt="Artist's impression of Exosat">
+			</a>
+				<figcaption class="image__caption">
+							<a href="/ESA_Multimedia/Images/2003/04/Artist_s_impression_of_Exosat">Artist's impression of Exosat</a>
+								</figcaption>
+	</figure>	
+		<p>
+<b>Status</b><br />Completed (1986)</p><p>
+<b>Objective</b><br />Designed to observe and detect high-energy sources, Exosat was the first ESA mission to study the Universe at X-ray wavelengths, and one of the first uncrewed satellites to feature an onboard computer.</p><p>
+<b>Mission</b><br />Exosat was the first ESA mission entirely devoted to study the Universe at X-ray wavelengths. It observed a wide variety of objects, including active galactic nuclei, X-ray binary systems, supernova remnants, and clusters of galaxies.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">What's special?</h2>
+	    
+						
+		<p>The results that Exosat obtained were very useful to scientists, and led to several new discoveries. The most important of these was probably the discovery of quasi-periodic oscillations in low-mass X-ray binary stars and X-ray pulsars, a phenomenon unknown before Exosat. All the data that Exosat retrieved are still available for study, and are still leading to new discoveries.</p><p>The Exosat project was also the forerunner of current X-ray telescopes such as on ESA’s XMM-Newton and NASA’s Chandra missions. These satellites work on very similar principles to Exosat, and due to new technology, are able to take more accurate and insightful readings. The world of X-ray observation is constantly expanding, and there are still many mysteries to solve, but Exosat allowed for a greater understanding of how much of this world works.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Spacecraft</h2>
+	    
+						
+		<p>Exosat’s payload consisted of three instruments:</p>
+<ul>
+
+<li>Two low-energy telescopes</li>
+
+<li>The medium-energy proportional counter</li>
+
+<li>A gas scintillation proportional counter</li>
+
+</ul>
+<p>Exosat was also unusual at the time because it featured an on-board computer. This not only processed much of the data before returning it to Earth, but also allowed scientists to alter the on-board data handling programs after launch. Exosat was much more flexible because of this. Scientists now had more freedom to investigate results that had not been expected at the time of the launch.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Journey</h2>
+	    
+						
+		<p>By placing the satellite in an elliptical orbit, scientists were able to operate the instruments for 76 hours of each revolution, allowing long continuous observations. Exosat was actively making observations until April 1986 but the natural decay of the orbit caused the satellite to enter the Earth’s atmosphere on 6 May 1986.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">History</h2>
+	    
+						
+		<p>The Exosat mission was approved in 1973, when the intention was to take very simple readings of X-ray sources - at that time a relatively small number of positions were known.</p><p>By 1977, when the mission was funded, missions such as Uhuru, Copernicus, Ariel V, ANS, SAS 3 and HEAO 1 had changed the priority, since positions were being determined much more accurately. It was decided to include X-ray imaging.</p><p>X-ray imager and X-ray telescopes were also being developed by then, for example, for a few other missions like NASA’s Einstein Observatory.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Partnerships</h2>
+	    
+						
+		<p>Exosat's instruments were funded and managed by ESA and scientific institutes from the United Kingdom, the Netherlands, Germany, and Italy.</p><p>Development of the Exosat archive and database system has involved ESA, NASA, and the Institute of Astronomy at Cambridge, United Kingdom. However databases continue to be developed by other groups of researchers.</p>	</div>	
+    
+					
+</article>
+
+
+	<section class="cards">
+		<h2 class="heading section-heading">Related Links</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																																										
+								
+										
+						
+
+
+	
+	 
+
+		
+<div class="grid-item story" data-date="1072860480">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Exosat_factsheet">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Exosat factsheet</h3>  
+
+<div class="meta">
+		<span>1505 <small>views</small></span>
+			<span>0 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																																													
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1055422440">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Observations_Seeing_in_X-ray_wavelengths">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2003/06/artist_s_impression_of_cygnus_x-1/9791602-3-eng-GB/Artist_s_impression_of_Cygnus_X-1_card_medium.jpg" alt="Artist's impression of Cygnus X-1">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Observations: Seeing in X-ray wavelengths</h3>  
+
+<div class="meta">
+		<span>10783 <small>views</small></span>
+			<span>61 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																																													 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	 
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1056445380">
+<a class="card focuson" href="http://sci.esa.int/exosat" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Exosat in depth</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+
+		<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

@@ -1,0 +1,698 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="Reentry technologies">
+<title>ESA - Reentry technologies</title>					<meta name="description" content="Atmospheric reentry is a cornerstone for a wide range of applications in future space transportation, including next-generation launchers, planetary exploration, sample-return missions, space planes and crew and cargo transportation.">
+		<meta property="og:description" content="Atmospheric reentry is a cornerstone for a wide range of applications in future space transportation, including next-generation launchers, planetary exploration, sample-return missions, space planes and crew and cargo transportation.">
+				<meta name="keywords" content="Re-entry technologies, LAU, IXV, Intermediate eXperimental Vehicle, reentry">
+					<meta property="og:image" content="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2011/06/ixv/10297084-2-eng-GB/IXV_pillars.jpg">
+	
+	
+			<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@esa">
+		
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header designing-operating">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'designing-operating';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+
+		<script>
+$.post(
+	'/ezjscore/call', 
+	"ezjscServer_function_arguments=esaux::viewsincr::137770", 
+	function(data) { 
+		$(document).ready(function() {			$('#viewcount').text(data)
+		})
+	})
+</script>
+
+
+							
+														
+										
+
+	  
+
+							
+				
+								
+						
+								
+				<section class="feature feature--article">
+	<a href="/ESA_Multimedia/Images/2011/06/IXV" class="popup">
+		<img class="image-bg stellar" src="/var/esa/storage/images/esa_multimedia/images/2011/06/ixv/10297084-2-eng-GB/IXV_pillars.jpg" alt="Intermediate eXperimental Vehicle (IXV)" data-stellar-ratio="0.7" data-stellar-vertical-offset="60">
+	</a>
+	</section>
+	
+
+<article class="article designing-operating">
+
+<header class="entry article__block">
+	<span class="pillar article__item">Enabling & Support</span>
+	<h1 class="heading heading--main article__item">Reentry technologies</h1>
+	<div class="meta article__item">
+				<span><span id="viewcount">49105</span><small> views</small></span>
+										<span><span id="ezsr_total_6816457">186</span><small> likes</small></span>
+				
+	</div>
+</header>
+<div class="breadcrumbs article__block article__item">
+<a class="breadcrumbs__entry" href="/">ESA</a> /			<a class="breadcrumbs__entry" href="/Enabling_Support">Enabling & Support</a> /			<a class="breadcrumbs__entry" href="/Enabling_Support/Space_Transportation">Space Transportation</a> /			<a class="breadcrumbs__entry" href="/Enabling_Support/Space_Transportation/IXV">IXV</a></div>
+
+
+
+
+<div class="abstract article__block article__item">
+	<p>Atmospheric reentry is a cornerstone for a wide range of applications in future space transportation, including next-generation launchers, planetary exploration, sample-return missions, space planes and crew and cargo transportation.</p>
+</div>
+
+<div class="article__block">
+				
+		<p>For several years, significant importance has been accorded to the development of critical reentry technologies through several basic research and technology preparatory programmes. Today, the flight verification of such technologies is an important aspect of European programmatic objectives, to be pursued within ESA’s short-term undertakings.</p>
+	</div>
+			
+    
+						
+			<div class="article__block">
+				<p>Several technologies contribute to the consolidation of the European knowledge base for future reentry missions. Among the most important are:</p>
+<ul>
+
+<li><b>Aerothermodynamics</b> – validation of design tools and improvement of design performance, since the current lack of precise knowledge about phenomena occurring during re-entry induces the need for additional design margins. In fact, when re-entering from low Earth orbit (LEO) the oxygen and nitrogen molecules in the air break apart to dissipate the high energies involved. When this happens, the ideal-gas laws normally used for simulations are replaced by complex, real-gas laws that are governed by phenomena that are difficult to predict.</li>
+
+<li><b>Guidance Navigation and Control (GNC)</b> – improvement of the guidance algorithms, coupling of inertial measurement units with GPS for navigation, exploration of the combination of flaps and thrusters for flight control, addressing complex GNC issues related to the hypersonic phase of a reentry from LEO.</li>
+
+<li><b>Thermal protection and hot structures</b> – validation of the flight performance of thermal protection materials and complex design solutions (for example, thermal expansion, junctions between materials, seals, gaps, steps and singularities), addressing the complexities introduced by the severe thermo-mechanical environment for LEO reentry applications.</li>
+
+</ul>
+<p>&nbsp;</p><p>The Intermediate eXperimental Vehicle (IXV) project objectives tackled the basic European needs for reentry from LEO, consolidating the knowledge necessary for the development of any future European reentry system while allowing risk limitation.</p><p>IXV’s flawless 100 minute end-to-end European mission on the Vega launcher took place on 11 February 2015.</p><p>Mastering reentry has opened a new chapter for ESA. The results from the IXV mission will feed ESA's Space Rider mission aimed at allowing routine access to and return from low orbit.</p><p>The Integrated Space Transportation System Service,&nbsp;Space Rider, is a reusable spaceplane, that will be launched on Europe’s Vega-C, orbit, and land automatically on ground in 2020. &nbsp;&nbsp;</p><p>With a reusable system, Space Rider will be able to transport payloads for an array of applications, orbit altitudes and inclinations. &nbsp;</p><p>This will have the potential to allow: European servicing of the International Space Station and future orbital infrastructures; opportunities for in-orbit validation of technologies required for several application missions; possible educational missions; and enhancement of European industry competitiveness in paving the way to a commercial service.</p>	</div>	
+    
+						
+    
+						
+    
+						
+    
+						
+    
+						
+    
+						
+    
+						
+    
+						
+    
+					
+
+<div class="share button-group article__block article__item">
+
+<button id="ezsr_6816457_36_5" class="btn ezsr-star-rating-enabled" title="Like">Like</button>
+<p id="ezsr_just_rated_6816457" class="ezsr-just-rated hide">Thank you for liking</p>
+<p id="ezsr_has_rated_6816457" class="ezsr-has-rated hide">You have already liked this page, you can only like it once!</p>
+
+
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+	<a class="a2a_button_x"></a>
+	<a class="a2a_button_facebook"></a>
+	<a class="a2a_button_copy_link"></a>
+	<a class="a2a_dd" href=https://www.addtoany.com/share></a>
+</div>
+
+</div>
+
+</article>
+
+
+
+	<section class="cards">
+		<h2 class="heading section-heading">Related Links</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1404259509">
+<a class="card focuson" href="http://www.esa.int/Our_Activities/Launchers/IXV">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/media/image_links/ixv_logo/14605030-1-eng-GB/IXV_logo_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading"></h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1308740580">
+<a class="card focuson" href="https://esamultimedia.esa.int/multimedia/publications/ixv/" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/media/image_links/ixv_icon/3772493-6-eng-GB/IXV_icon_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">IXV flyer</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1404141892">
+<a class="card focuson" href="http://www.esa.int/spaceinvideos/Videos/2012/11/ESA_s_IXV_reentry_vehicle_mission" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2014/06/artist_s_view_of_the_ixv_mission2/14588131-2-eng-GB/Artist_s_view_of_the_IXV_mission_card_medium.jpg" alt="Artist's view of the IXV mission ">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">IXV mission animation</h3> 
+		<p class="subheading">IXV mission animation</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+											
+												
+																			
+ 
+		
+ 
+		
+					
+			
+  
+	
+
+
+	
+	 
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1423513672">
+<a class="card focuson" href="/Enabling_Support/Space_Transportation/IXV/Frequently_asked_questions_on_IXV" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">IXV: frequently asked questions</h3> 
+		<p class="subheading">IXV FAQs</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																																													 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	 
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1404142650">
+<a class="card focuson" href="http://www.esa.int/spaceinvideos/Videos/2012/11/IXV_parachute_drop_test" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">IXV parachute drop test video</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	 
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1404261928">
+<a class="card focuson" href="http://spaceinvideos.esa.int/Videos/2013/07/IXV_Splash_down" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">IXV splashdown video</h3> 
+		<p class="subheading">IXV splashdown video</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	 
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1403696938">
+<a class="card focuson" href="http://www.esa.int/Our_Activities/Launchers/Highlights/Rehearsing_IXV_recovery" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Rehearsing IXV recovery slideshow</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																																													 
+										
+											
+												
+																			
+ 
+		
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1078317720">
+<a class="card focuson" href="/Enabling_Support/Space_Transportation/Launch_vehicles/Vega" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/media/image_links/vega_icon_launchers_site/3786184-6-eng-GB/vega_icon_Launchers_site_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Vega</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+											
+												
+																			
+ 
+		
+ 
+		
+					
+			
+  
+	
+
+
+	
+	 
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1423513043">
+<a class="card focuson" href="/Enabling_Support/Space_Transportation/Launch_vehicles/Frequently_asked_questions_on_Vega" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Vega: frequently asked questions</h3> 
+		<p class="subheading">Vega FAQs</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+	<section class="cards">
+		<h2 class="heading section-heading">Related Links</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																																										 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1359994533">
+<a class="card focuson" href="https://www.thalesgroup.com/" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/04/thales_alenia_space_logo/16918001-1-eng-GB/Thales_Alenia_Space_logo_card_medium.jpg" alt="Thales Alenia Space logo">
+	</figure>
+	<header class="entry">
+				<h3 class="heading"></h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+
+	
+	
+ 
+	<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+
+<script>
+if (jQuery.cookie('cc_cookie_accept') == "cc_cookie_accept") {
+var s = document.createElement("script");
+
+s.src = "https://static.addtoany.com/menu/page.js";
+document.body.appendChild(s);
+}</script>
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

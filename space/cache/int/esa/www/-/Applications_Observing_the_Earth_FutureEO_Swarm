@@ -1,0 +1,1424 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="Swarm">
+<title>ESA - Swarm</title>						
+	
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header connecting-benefiting">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'connecting-benefiting';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+				
+			<section class="page-header mission-header connecting-benefiting">
+	<header class="entry">
+		<a href="/Applications" class="pillar">Applications</a>
+		<h1 class="heading">Swarm </h1>
+		<p class="subheading">ESA's magnetic field mission</p> 
+	</header>
+	<div class="social-media-links">
+		
+										
+													
+														
+														
+														
+						</div>
+					<img class="image-bg stellar" src="/var/esa/storage/images/applications/observing_the_earth/futureeo/swarm/19716928-3-eng-GB/Swarm_pillars.jpg" alt="Swarm" data-stellar-ratio="0.8"> 
+</section>
+
+<section class="mission-details">
+	<div class="mission-intro">
+		
+		<a name="eztoc19727158_1" id="eztoc19727158_1"></a><h2><b>The mission</b></h2><p>ESA’s three-satellite Swarm mission&nbsp;is dedicated to unravelling one of the most mysterious aspects of our planet: the magnetic field.&nbsp;Although invisible, the magnetic field and electric currents in and around Earth generate complex forces that have immeasurable impact on everyday life.&nbsp;By analysing the different characteristics of the observed field, Swarm will lead to new insight into many natural processes, from those occurring deep inside the planet to weather in space caused by solar activity.</p>
+	</div>
+	<div class="mission-data">
+		
+		<a name="eztoc19728181_1" id="eztoc19728181_1"></a><h2><b>The launch</b></h2><p>
+<b>Date:</b> 22 November 2013<br />
+<b>Site:</b> Plesetsk Cosmodrome, Russia<br /><b>Launcher:</b> Rockot</p>
+	</div>
+	</section>
+
+<section class="mission-stats connecting-benefiting">
+	
+		
+		
+<ul>
+
+<li><a href="https://www.esa.int/Applications/Observing_the_Earth/Swarm/Introducing_Swarm"><b>1st </b></a>Explorer constellation</li>
+
+<li><a href="https://www.esa.int/Applications/Observing_the_Earth/Swarm/Three_identical_satellites"><b>3 </b></a>identical satellites</li>
+
+<li><a href="https://www.esa.int/Applications/Observing_the_Earth/Swarm/New_generation_of_sensors"><b>1st</b></a> sensors of their kind</li>
+
+</ul>
+
+	
+	<div class="dimmer"></div>
+	<img class="image-bg" src="/" alt="Swarm">
+</section>
+
+
+
+	
+						  
+	
+
+
+
+
+
+
+					 
+
+	
+																																			
+				
+																																																					
+				
+														
+				
+												
+			
+	
+					
+			
+			 
+		
+					
+			
+			 
+		
+					
+						
+						 
+		
+					
+			
+			 
+						
+ 
+
+<section class="cards filtered">
+	<div class="filter-wrapper">
+		<h2 class="heading section-heading">
+			
+							Latest
+					</h2>
+		<div class="filters button-group">
+			<button data-filter="" class="btn active">All</button>
+			<button data-filter=".story" class="btn">Stories</button>
+			<button data-filter=".video" class="btn">Videos</button>
+			<button data-filter=".image" class="btn">Images</button>
+		</div>
+	</div>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+					
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+													
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1697534160">
+<a class="card focuson connecting-benefiting" href="https://www.swarm-anniversary-and-science.org/" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/10/swarm_10_years_workshop_2024_icon/25139588-1-eng-GB/Swarm_10_Years_workshop_2024_icon_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Swarm 10 year anniversary & science conference</h3> 
+		<p class="subheading">08 - 12 April 2024 | Copenhagen, Denmark</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1681824300">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/10_remarkable_Earth_facts">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/04/earth_30_year_comparison/24832556-1-eng-GB/Earth_30_year_comparison_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">10 remarkable Earth facts</h3>  
+
+<div class="meta">
+			<span>18/04/2023</span>
+		<span>124427 <small>views</small></span>
+			<span>1957 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1666591200">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Swarm/The_scary_sound_of_Earth_s_magnetic_field">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/10/magnetic_field_sound_waves/24538347-1-eng-GB/Magnetic_field_sound_waves_card_medium.jpg" alt="Magnetic field sound waves">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">The scary sound of Earth’s magnetic field</h3>  
+
+<div class="meta">
+			<span>24/10/2022</span>
+		<span>115119 <small>views</small></span>
+			<span>365 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1657792800">
+<a class="card story monitoring-safeguarding" href="/Space_Safety/Swarm_dodges_collision_during_climb_to_escape_Sun_s_wrath">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2013/11/artist_s_view_of_swarm9/13381102-2-eng-GB/Artist_s_view_of_Swarm_card_medium.jpg" alt="Artist's view of Swarm">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Space Safety</span>
+
+<h3 class="heading">Swarm dodges collision during climb to escape Sun’s wrath</h3>  
+
+<div class="meta">
+			<span>14/07/2022</span>
+		<span>25836 <small>views</small></span>
+			<span>181 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1653310800">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Swarm/Swarm_unveils_magnetic_waves_deep_down">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/06/swarm_reveals_magnetic_waves_across_earth_s_outer_core/24084914-1-eng-GB/Swarm_reveals_magnetic_waves_across_Earth_s_outer_core_card_medium.jpg" alt="Swarm reveals magnetic waves across Earth’s outer core">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Swarm unveils magnetic waves deep down</h3>  
+
+<div class="meta">
+			<span>23/05/2022</span>
+		<span>8839 <small>views</small></span>
+			<span>101 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1639584600">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Swarm/Swarm_and_Cluster_get_to_the_bottom_of_geomagnetic_storms">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2014/02/earth_s_protective_shield/14265082-1-eng-GB/Earth_s_protective_shield_card_medium.jpg" alt="Earth's protective shield">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Swarm and Cluster get to the bottom of geomagnetic storms</h3>  
+
+<div class="meta">
+			<span>15/12/2021</span>
+		<span>6403 <small>views</small></span>
+			<span>115 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+				<div class="grid-item story image video"> 
+<a class="card more" href="/Applications/Observing_the_Earth/FutureEO/Swarm/(archive)/0">
+	<div class="outline">
+		<h3 class="heading">More items</h3>
+	</div>
+</a>
+</div>
+	</div>
+</section>
+		
+		
+											<!-- # obj in slider 4 -->		<section class="feature slider">
+	<div class="flexslider"><ul class="slides">
+								<li>
+				
+	
+	
+ 
+	
+
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Image gallery</h3>
+		
+					<a class="cta" href="http://www.esa.int/spaceinimages/Missions/Swarm" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2018/04/magnetic_lithosphere_detailed/17445346-1-eng-GB/Magnetic_lithosphere_detailed_pillars.jpg" alt="Magnetic lithosphere detailed ">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+	
+	
+ 
+	
+
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Video gallery</h3>
+		
+					<a class="cta" href="https://www.esa.int/ESA_Multimedia/Missions/Swarm/(result_type)/videos" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2013/09/video_gallery/13006679-1-eng-GB/Video_gallery_pillars.jpg" alt="">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+	
+	
+ 
+		
+					
+			
+
+
+
+	
+	
+
+	
+			  
+													
+						
+											
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Downloads</h3>
+		
+					<a class="cta" href="/Applications/Observing_the_Earth/FutureEO/Swarm/Downloads" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/05/download_page_icon/22001315-1-eng-GB/Download_page_icon_pillars.jpg" alt="">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+	
+	
+ 
+		
+					
+			
+
+
+
+	
+	
+
+	
+			  
+													
+						
+											
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Documents and publications</h3>
+		
+					<a class="cta" href="/Applications/Observing_the_Earth/FutureEO/Swarm/Documents_publications" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/11/documents_and_publications/21149456-1-eng-GB/Documents_and_publications_pillars.jpg" alt="Documents and publications">
+</figure>
+</div>
+</li>
+						
+						</ul></div>
+	</section>				
+		
+									
+	<section class="cards">
+					<h2 class="heading section-heading">Discover Swarm</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1382531760">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Swarm/Introducing_Swarm">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2013/11/artist_s_view_of_swarm9/13381102-2-eng-GB/Artist_s_view_of_Swarm_card_medium.jpg" alt="Artist's view of Swarm">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Introducing Swarm </h3>  
+
+<div class="meta">
+		<span>21984 <small>views</small></span>
+			<span>88 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1382534040">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Swarm/Our_protective_shield">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/08/our_protective_shield/23428545-2-eng-GB/Our_protective_shield_card_medium.jpg" alt="Our protective shield">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Our protective shield</h3>  
+
+<div class="meta">
+		<span>12450 <small>views</small></span>
+			<span>37 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1382625840">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Swarm/From_core_to_crust">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2012/09/the_seafloor_acts_as_a_geological_tape_recorder/11856656-2-eng-GB/The_seafloor_acts_as_a_geological_tape_recorder_card_medium.jpg" alt="The seafloor acts as a geological 'tape recorder'">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">From core to crust</h3>  
+
+<div class="meta">
+		<span>5457 <small>views</small></span>
+			<span>18 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1406799120">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Swarm/Earth_s_external_environment">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2012/09/aurora_borealis/11851970-1-eng-GB/Aurora_borealis_card_medium.jpg" alt="Aurora borealis">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Earth’s external environment </h3>  
+
+<div class="meta">
+		<span>3380 <small>views</small></span>
+			<span>13 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1382358960">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Swarm/Facts_and_figures">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2013/10/swarm_constellation_over_earth/13357781-1-eng-GB/Swarm_constellation_over_Earth_card_medium.jpg" alt="Swarm constellation over Earth">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Facts and figures</h3>  
+
+<div class="meta">
+		<span>10237 <small>views</small></span>
+			<span>25 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1382700300">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Swarm/Three_identical_satellites">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2013/10/three_in_a_row/13370539-2-eng-GB/Three_in_a_row_card_medium.jpg" alt="Three in a row">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Three identical satellites</h3>  
+
+<div class="meta">
+		<span>5685 <small>views</small></span>
+			<span>7 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1382702880">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Swarm/New_generation_of_sensors">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2012/11/swarm_instruments_side_view/12120613-2-eng-GB/Swarm_instruments_side_view_card_medium.jpg" alt="Swarm instruments (side view)">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">New generation of sensors</h3>  
+
+<div class="meta">
+		<span>6052 <small>views</small></span>
+			<span>15 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1406814780">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Swarm/Bearings_on_Earth">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2011/10/swarm_constellation/9874372-3-eng-GB/Swarm_constellation_card_medium.jpg" alt="Swarm constellation">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Bearings on Earth </h3>  
+
+<div class="meta">
+		<span>3327 <small>views</small></span>
+			<span>8 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1383039060">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Swarm/About_the_launch">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2013/11/swarm_liftoff/13409815-3-eng-GB/Swarm_liftoff_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">About the launch</h3>  
+
+<div class="meta">
+		<span>4055 <small>views</small></span>
+			<span>11 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1383040380">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Swarm/Data_flow">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2013/10/swarm_data_flow/13369005-1-eng-GB/Swarm_data_flow_card_medium.jpg" alt="Swarm data flow and ground segment">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Data flow</h3>  
+
+<div class="meta">
+		<span>5695 <small>views</small></span>
+			<span>14 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1406817180">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Swarm/Data_products">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2012/09/swarm_products/11854882-2-eng-GB/Swarm_products_card_medium.jpg" alt="Swarm products">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Data products</h3>  
+
+<div class="meta">
+		<span>6945 <small>views</small></span>
+			<span>12 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1642692660">
+<a class="card focuson connecting-benefiting" href="https://www.youtube.com/watch?v=HxYprsGA8bI" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/01/anja_stroemme/23908978-1-eng-GB/Anja_Stroemme_card_medium.jpg" alt="Anja Strømme">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Meet Swarm's mission manager</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+ 
+		
+		
+											<section class="link-section dark">
+		<div class="theme-block connecting-benefiting">
+					<h2 class="heading section-heading">Follow us</h2>
+	<div class="section-group button-group">
+															 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new?topic_id=EUESA_6" class="btn"><i class="fas fa-rss"></i>Subscribe</a>
+		
+		 
+
+															 
+								
+										<a href="https://twitter.com/ESA_EO" class="btn"><i class="fa-brands fa-x-twitter"></i> @ESA_EO</a>
+		
+		 
+
+															 
+								
+										<a href="https://www.instagram.com/esa_earth/" class="btn"><i class="fab fa-instagram"></i> @esa_earth</a>
+		
+		 
+
+	 
+	</div> 
+
+</div> 
+ 
+		</section>
+			
+		
+									
+	<section class="cards">
+					<h2 class="heading section-heading">Recommended</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		
+								
+										
+
+
+	 
+
+		
+<div class="grid-item focuson" data-date="1697449013">
+<a class="card focuson connecting-benefiting" href="/Applications/Observing_the_Earth">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<img class="image-bg" src="/var/esa/storage/images/applications/observing_the_earth/19716454-24-eng-GB/Observing_the_Earth_card_full.jpg" alt="Observing the Earth">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Observing the Earth</h3>
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+	</div>
+</a>
+</div>
+																					
+								
+										
+
+
+	 
+
+		
+<div class="grid-item focuson" data-date="1698313511">
+<a class="card focuson connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<img class="image-bg" src="/var/esa/storage/images/applications/observing_the_earth/futureeo/19716535-16-eng-GB/FutureEO_card_full.jpg" alt="FutureEO">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+		<h3 class="heading">FutureEO</h3>
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+	</div>
+</a>
+</div>
+																					 
+										
+											
+												
+																			
+				
+	
+	
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1540720860">
+<a class="card focuson connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/Earth_Explorers_ESA_s_pioneering_science_missions_for_Earth">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/12/earth_explorers_icon/23865850-1-eng-GB/Earth_Explorers_icon_card_medium.jpg" alt="Earth Explorers icon">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Earth Explorers</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1382428980">
+<a class="card focuson" href="https://download.esa.int/multimedia/mission_logos/EO/swarm_logo/swarm.jpg" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2004/12/swarm_logo/9598153-6-eng-GB/Swarm_logo_card_medium.jpg" alt="Swarm logo">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Download Swarm logo</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1400241840">
+<a class="card focuson connecting-benefiting" href="https://earth.esa.int/eogateway/missions/swarm" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2012/09/swarm_products/11854882-2-eng-GB/Swarm_products_card_medium.jpg" alt="Swarm products">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Access Swarm data</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+ 
+		
+		
+		
+ 
+
+
+	<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

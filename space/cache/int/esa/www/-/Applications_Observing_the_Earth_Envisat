@@ -1,0 +1,994 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="Envisat">
+<title>ESA - Envisat</title>					<meta name="description" content="Envisat">
+		<meta property="og:description" content="Envisat">
+				
+	
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header connecting-benefiting">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'connecting-benefiting';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+				
+			<section class="page-header mission-header connecting-benefiting">
+	<header class="entry">
+		<a href="/Applications" class="pillar">Applications</a>
+		<h1 class="heading">Envisat </h1>
+		<p class="subheading">ESA's environmental satellite</p> 
+	</header>
+	<div class="social-media-links">
+		
+										
+													
+														
+														
+														
+						</div>
+					<img class="image-bg stellar" src="/var/esa/storage/images/applications/observing_the_earth/envisat/19716850-11-eng-GB/Envisat_pillars.jpg" alt="Envisat" data-stellar-ratio="0.8"> 
+</section>
+
+<section class="mission-details">
+	<div class="mission-intro">
+		
+		<a name="eztoc19727080_1" id="eztoc19727080_1"></a><h2><b>The mission</b></h2><p>Envisat was the largest Earth observation spacecraft ever built.&nbsp;The mission delivered&nbsp;thousands of images and a wealth of data used to study the workings of the Earth system, including insights into factors contributing to climate change. The end of the mission was declared on 9 May 2012, but ten years of Envisat’s archived data continue to be exploited for studying our planet.</p>
+	</div>
+	<div class="mission-data">
+		
+		<a name="eztoc19728103_1" id="eztoc19728103_1"></a><h2><b>The launch</b></h2>
+<ul>
+
+<li><b>Date: </b>01 March 2002</li>
+
+<li><b><b>Site:&nbsp;</b></b>Kourou, French Guiana</li>
+
+<li><b>Rocket: </b>Ariane 5</li>
+
+</ul>
+
+	</div>
+	</section>
+
+<section class="mission-stats connecting-benefiting">
+	
+		
+		
+<ul>
+
+<li><a href="https://www.esa.int/Applications/Observing_the_Earth/Envisat/Mission_overview"><b>8-tonne</b></a> satellite</li>
+
+<li><a href="https://www.esa.int/Applications/Observing_the_Earth/Envisat/Envisat_instruments"><b>10 </b></a>instruments</li>
+
+<li><a href="https://www.esa.int/Applications/Observing_the_Earth/Envisat/Happy_birthday_Envisat" target="_blank"><b>10 yrs</b></a> in orbit</li>
+
+</ul>
+
+	
+	<div class="dimmer"></div>
+	<img class="image-bg" src="/" alt="Envisat">
+</section>
+
+
+
+	
+							
+	<section class="cards">
+					<h2 class="heading section-heading">Discover Envisat</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1330590960">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Envisat/Mission_overview">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2002/02/envisat_artist_s_impression/9163452-5-eng-GB/Envisat_artist_s_impression_card_medium.jpg" alt="Envisat, artist's impression">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Mission overview</h3>  
+
+<div class="meta">
+		<span>18529 <small>views</small></span>
+			<span>45 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1644312960">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Envisat/Envisat_instruments">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2001/05/envisat_instruments/9128462-5-eng-GB/Envisat_instruments_card_medium.jpg" alt="Envisat instruments">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Envisat instruments</h3>  
+
+<div class="meta">
+		<span>681 <small>views</small></span>
+			<span>1 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1086169980">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Envisat/Mission_milestones">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2012/02/tropical_cyclone_giovanna/9524935-4-eng-GB/Tropical_Cyclone_Giovanna_card_medium.jpg" alt="Tropical Cyclone Giovanna">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Mission milestones</h3>  
+
+<div class="meta">
+		<span>4200 <small>views</small></span>
+			<span>3 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+<!-- |284377|Envisat anniversary mission highlights LNB|esa_linklist| -->						</div>
+</section> 
+ 
+		
+		
+											<!-- # obj in slider 2 -->		<section class="feature slider">
+	<div class="flexslider"><ul class="slides">
+								<li>
+				
+	
+	
+ 
+	
+
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Image gallery</h3>
+		
+					<a class="cta" href="https://www.esa.int/ESA_Multimedia/Missions/Envisat/(sortBy)/published/(result_type)/images" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2003/09/cuba_-_meris_28_february_2003/9904246-2-eng-GB/Cuba_-_MERIS_28_February_2003_pillars.jpg" alt="Cuba - MERIS, 28 February 2003">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+	
+	
+ 
+	
+
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Video gallery</h3>
+		
+					<a class="cta" href="https://www.esa.int/ESA_Multimedia/Missions/Envisat/(result_type)/videos" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2013/09/video_gallery/13006679-1-eng-GB/Video_gallery_pillars.jpg" alt="">
+</figure>
+</div>
+</li>
+						
+						</ul></div>
+	</section>				
+		
+								  
+	
+
+
+
+
+
+	
+	
+					 
+
+	
+																																			
+				
+																																																					
+				
+														
+				
+												
+			
+	
+					
+			
+						 
+		
+					
+			
+						 
+		
+					
+						
+						 
+		
+					
+			
+						 
+						
+ 
+
+<section class="cards filtered">
+	<div class="filter-wrapper">
+		<h2 class="heading section-heading">
+			
+							Latest
+					</h2>
+		<div class="filters button-group">
+			<button data-filter="" class="btn active">All</button>
+			<button data-filter=".story" class="btn">Stories</button>
+			<button data-filter=".video" class="btn">Videos</button>
+			<button data-filter=".image" class="btn">Images</button>
+		</div>
+	</div>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+					
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+													
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1677664980">
+<a class="card focuson connecting-benefiting" href="https://earth.esa.int/eogateway/news/envisat-delivers-a-decade-of-insights-into-ocean-oil-slicks" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/03/oil_spill_from_platform_in_the_gulf_of_guinea/24734649-1-eng-GB/Oil_spill_from_platform_in_the_Gulf_of_Guinea_card_medium.jpg" alt="Oil spill from platform in the Gulf of Guinea">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Envisat delivers a decade of insights into ocean oil slicks</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1677153600">
+<a class="card video connecting-benefiting popup" href="/ESA_Multimedia/Videos/2023/02/The_ozone_layer_a_hole_new_world">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:08:47
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2023/02/the_ozone_layer_a_hole_new_world/24722594-1-eng-GB/The_ozone_layer_a_hole_new_world_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">The ozone layer: a hole new world </h3>  
+
+<div class="meta">
+			<span>23/02/2023</span>
+		<span>6897 <small>views</small></span>
+			<span>167 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1646123400">
+<a class="card video connecting-benefiting popup" href="/ESA_Multimedia/Videos/2022/02/Envisat_20_years_after_launch">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:04:00
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2022/02/envisat_20_years_after_launch/23977225-8-eng-GB/Envisat_20_years_after_launch_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Envisat: 20 years after launch</h3>  
+
+<div class="meta">
+			<span>01/03/2022</span>
+		<span>15998 <small>views</small></span>
+			<span>88 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1645714200">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Space_for_our_climate/Severe_heatwaves_putting_lakes_in_hot_water">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/02/lake_victoria/23976909-1-eng-GB/Lake_Victoria_card_medium.jpg" alt="Lake Victoria">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Severe heatwaves putting lakes in hot water</h3>  
+
+<div class="meta">
+			<span>24/02/2022</span>
+		<span>3651 <small>views</small></span>
+			<span>83 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1625652900">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/New_satellite_data_techniques_reveal_coastal_sea-level_rise">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/07/baltic_sea_from_copernicus_sentinel-3/23385966-1-eng-GB/Baltic_Sea_from_Copernicus_Sentinel-3_card_medium.jpg" alt="Baltic Sea from Copernicus Sentinel-3">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">New satellite data techniques reveal coastal sea-level rise</h3>  
+
+<div class="meta">
+			<span>07/07/2021</span>
+		<span>14635 <small>views</small></span>
+			<span>111 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1623309000">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/CryoSat/Arctic_coastal_sea_ice_thinning_twice_as_fast_than_thought">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/06/victims_of_diminishing_arctic_sea_ice/23344234-1-eng-GB/Victims_of_diminishing_Arctic_sea_ice_card_medium.jpg" alt="Victims of diminishing Arctic sea ice ">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Arctic coastal sea ice thinning twice as fast than thought</h3>  
+
+<div class="meta">
+			<span>10/06/2021</span>
+		<span>4256 <small>views</small></span>
+			<span>109 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1615971600">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Space_for_our_climate/Maps_to_improve_forest_biomass_estimates">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/03/above_ground_biomass/23207926-1-eng-GB/Above_ground_biomass_card_medium.jpg" alt="Above ground biomass">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Maps to improve forest biomass estimates</h3>  
+
+<div class="meta">
+			<span>17/03/2021</span>
+		<span>9827 <small>views</small></span>
+			<span>101 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1611571500">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/FutureEO/CryoSat/Our_world_is_losing_ice_at_record_rate">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/01/earth_is_losing_ice_at_record_rate/22517664-1-eng-GB/Earth_is_losing_ice_at_record_rate_card_medium.jpg" alt="Earth is losing ice at record rate">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Our world is losing ice at record rate</h3>  
+
+<div class="meta">
+			<span>25/01/2021</span>
+		<span>14416 <small>views</small></span>
+			<span>139 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+				<div class="grid-item story image video"> 
+<a class="card more" href="/Applications/Observing_the_Earth/Envisat/(archive)/0">
+	<div class="outline">
+		<h3 class="heading">More items</h3>
+	</div>
+</a>
+</div>
+	</div>
+</section>
+		
+		
+											<section class="link-section dark">
+		<div class="theme-block connecting-benefiting">
+					<h2 class="heading section-heading">Follow us</h2>
+	<div class="section-group button-group">
+															 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new?topic_id=EUESA_6" class="btn"><i class="fas fa-rss"></i>Subscribe</a>
+		
+		 
+
+															 
+								
+										<a href="https://twitter.com/ESA_EO" class="btn"><i class="fa-brands fa-x-twitter"></i> @ESA_EO</a>
+		
+		 
+
+															 
+								
+										<a href="https://www.instagram.com/esa_earth/" class="btn"><i class="fab fa-instagram"></i> @esa_earth</a>
+		
+		 
+
+	 
+	</div> 
+
+</div> 
+ 
+		</section>
+			
+		
+									
+	<section class="cards">
+					<h2 class="heading section-heading">Recommended</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		
+								
+										
+
+
+	 
+
+		
+<div class="grid-item focuson" data-date="1697449013">
+<a class="card focuson connecting-benefiting" href="/Applications/Observing_the_Earth">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<img class="image-bg" src="/var/esa/storage/images/applications/observing_the_earth/19716454-24-eng-GB/Observing_the_Earth_card_full.jpg" alt="Observing the Earth">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Observing the Earth</h3>
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1089621900">
+<a class="card focuson connecting-benefiting" href="https://earth.esa.int/web/guest/missions/esa-operational-eo-missions/envisat" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2014/02/ecuador_s_highlands/14296868-1-eng-GB/Ecuador_s_highlands_card_medium.jpg" alt="Ecuador’s northern highlands">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Access Envisat data</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1330612260">
+<a class="card focuson" href="http://multimedia.esa.int/Videos/2012/02/Earth-from-Space-Special-edition" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/media/image_links/vlcsnap-2012-02-27-16h21m01s114_icon/8527988-8-eng-GB/vlcsnap-2012-02-27-16h21m01s114_ICON_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Interview with Envisat mission manager</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+ 
+		
+		
+		
+ 
+
+
+	<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

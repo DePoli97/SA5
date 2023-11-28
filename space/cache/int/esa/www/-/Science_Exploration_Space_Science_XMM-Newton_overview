@@ -1,0 +1,494 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="XMM-Newton overview">
+<title>ESA - XMM-Newton overview</title>						<meta name="keywords" content="SPCS xmm-newton overview">
+			
+	
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header exploring-discovering">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'exploring-discovering';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+		<script>
+$.post(
+	'/ezjscore/call', 
+	"ezjscServer_function_arguments=esaux::viewsincr::183485", 
+	function(data) { 
+		$(document).ready(function() {			$('#viewcount').text(data)
+		})
+	})
+</script>
+
+
+
+<article class="article mission-overview exploring-discovering">
+
+<div class="feature slider"><div class="flexslider"><ul class="slides">	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2020/01/The_dynamic_behaviour_of_a_black_hole_corona">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/01/the_dynamic_behaviour_of_a_black_hole_corona/21803848-1-eng-GB/The_dynamic_behaviour_of_a_black_hole_corona_pillars.gif" alt="The dynamic behaviour of a black hole corona">
+				<figcaption class="image__caption">The dynamic behaviour of a black hole corona</figcaption>
+			</a></figure></div></li>	
+							
+														
+																								
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2021/07/XMM-Newton_sees_light_echo_from_behind_a_black_hole">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2021/07/xmm-newton_sees_light_echo_from_behind_a_black_hole/23409781-4-eng-GB/XMM-Newton_sees_light_echo_from_behind_a_black_hole_pillars.png" alt="XMM-Newton sees light echo from behind a black hole">
+				<figcaption class="image__caption">XMM-Newton sees light echo from behind a black hole</figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2020/05/Bridge_between_galaxy_clusters_in_Abell_2384">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/05/bridge_between_galaxy_clusters_in_abell_2384/22006998-1-eng-GB/Bridge_between_galaxy_clusters_in_Abell_2384_pillars.jpg" alt="Bridge between galaxy clusters in Abell 2384">
+				<figcaption class="image__caption">Bridge between galaxy clusters in Abell 2384</figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2020/01/Animated_view_of_the_Milky_Way_s_hot_halo_and_its_elements_artist_s_impression">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/01/animated_view_of_the_milky_way_s_hot_halo_and_its_elements_artist_s_impression/21798756-1-eng-GB/Animated_view_of_the_Milky_Way_s_hot_halo_and_its_elements_artist_s_impression_pillars.gif" alt="Animated view of the Milky Way’s hot halo and its elements – artist’s impression">
+				<figcaption class="image__caption">Animated view of the Milky Way’s hot halo and its elements – artist’s impression</figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2008/06/XMM-Newton">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2008/06/xmm-newton/10148619-2-eng-GB/XMM-Newton_pillars.jpg" alt="XMM-Newton">
+				<figcaption class="image__caption">XMM-Newton</figcaption>
+			</a></figure></div></li></ul></div></div>
+
+<header class="entry article__block">
+	<span class="pillar article__item">Science & Exploration</span>
+	<h1 class="heading heading--main article__item">XMM-Newton overview</h1>
+	<div class="meta article__item">
+		<span><span id="viewcount">61484</span><small> views</small></span>
+		
+	</div>
+</header>
+<div class="breadcrumbs article__block article__item">
+<a class="breadcrumbs__entry" href="/">ESA</a> /			<a class="breadcrumbs__entry" href="/Science_Exploration">Science & Exploration</a> /			<a class="breadcrumbs__entry" href="/Science_Exploration/Space_Science">Space Science</a></div>
+
+
+<div class="abstract article__block article__item">
+	
+</div>
+
+
+
+
+<div class="article__block">
+				</div>
+
+
+    
+					
+	
+    
+							
+														
+																	
+
+
+
+							
+				
+								
+						
+								
+												<div class="article__block">
+				<figure class="article__image article__image--left">
+					<a href="/ESA_Multimedia/Images/2000/09/Artist_s_impression_of_XMM-Newton" class="popup">
+				<img src="/var/esa/storage/images/esa_multimedia/images/2000/09/artist_s_impression_of_xmm-newton/9217102-5-eng-GB/Artist_s_impression_of_XMM-Newton_article.jpg" alt="Artist's impression of XMM-Newton">
+			</a>
+				<figcaption class="image__caption">
+							<a href="/ESA_Multimedia/Images/2000/09/Artist_s_impression_of_XMM-Newton">Artist's impression of XMM-Newton</a>
+								</figcaption>
+	</figure>	
+		<p><b>Name: </b>XMM-Newton</p><p><b>Objective</b>: Increase our knowledge of very hot objects often created through cataclysmic events. XMM-Newton will help solve many mysteries, ranging from black holes to cosmological structure formation traced through hot gas.</p><p><b>Status</b>: In operation</p><p>
+<b>Mission</b><br />XMM-Newton is detecting X-ray sources and helping to solve many cosmic mysteries of the violent Universe, from what happens in and around black holes to the formation of galaxies in the early Universe. It is designed and built to return data for at least a decade.</p><p>It is the biggest science satellite ever built in Europe. At the time of launch, its telescope mirrors were the most sensitive ever developed in the world and, with its sensitive detectors, it was able to see much more than any previous X-ray satellite.</p><p>XMM-Newton’s high-technology design uses over 170 wafer-thin cylindrical mirrors spread over three telescopes. Its orbit takes it almost a third of the way to the Moon, so that astronomers can enjoy long, uninterrupted views of celestial objects.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">What's special?</h2>
+	    
+						
+		<p>For more than two decades, XMM-Newton has supplied a constant stream of outstanding science. One area that the mission has excelled in is the science of black holes, having had a profound effect on our understanding of these cosmic enigmas.</p><p>Black holes are celestial objects so dense that nothing, not even light, can escape their pull. In this artist’s impression, the weird shapes of light around the black hole are what computer simulations predict will happen in the vicinity of its intense gravitational field.</p><p>Although neither XMM-Newton nor any other telescope can actually see black holes in this detail, the mission’s data and observations have provided a great source of information about these mysterious gravitational traps. In particular, XMM-Newton has been particularly good at isolating the X-rays given out by high-temperature, ionised atoms of iron as they swirl towards doom in the black hole.</p><p>For example, XMM-Newton is able to use the echoes of X-rays to map the dynamic behaviour and surroundings of a black hole.</p>	</div>	
+    
+							
+														
+																	
+
+
+
+							
+				
+								
+						
+								
+												<div class="article__block">
+				<figure class="article__image article__image--left">
+					<a href="/ESA_Multimedia/Images/2020/01/The_dynamic_behaviour_of_a_black_hole_corona" class="popup">
+				<img src="/var/esa/storage/images/esa_multimedia/images/2020/01/the_dynamic_behaviour_of_a_black_hole_corona/21803848-1-eng-GB/The_dynamic_behaviour_of_a_black_hole_corona_article.gif" alt="The dynamic behaviour of a black hole corona">
+			</a>
+				<figcaption class="image__caption">
+							<a href="/ESA_Multimedia/Images/2020/01/The_dynamic_behaviour_of_a_black_hole_corona">The dynamic behaviour of a black hole corona</a>
+								</figcaption>
+	</figure>	
+		<p>As material spirals towards a black hole, it is heated up and emits X-rays that, in turn, echo and reverberate as they interact with nearby gas. These regions of space are highly distorted and warped due to the extreme nature and crushingly strong gravity of the black hole.</p><p><a href="/Science_Exploration/Space_Science/XMM-Newton_maps_black_hole_surroundings">Researchers have used XMM-Newton to track these light echoes and map the surroundings of the black hole at the core of an active galaxy.</a> By tracking the X-ray echoes, it was possible to track the dynamic behaviour of the corona itself, where the intense X-ray emission originates from.</p><p>This technique, called 'reverberation mapping' is an exciting technique that allows to reveal much about black holes, such as their mass and how fast they spin around their axis, and about the wider Universe.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Spacecraft</h2>
+	    
+							
+														
+																	
+
+
+
+							
+				
+								
+						
+								
+											<figure class="article__image article__image--right">
+					<a href="/ESA_Multimedia/Images/2001/11/Testing_of_the_XMM-Newton_lower_module_mass_properties_at_ESA_ESTEC" class="popup">
+				<img src="/var/esa/storage/images/esa_multimedia/images/2001/11/testing_of_the_xmm-newton_lower_module_mass_properties_at_esa_estec/9157363-5-eng-GB/Testing_of_the_XMM-Newton_lower_module_mass_properties_at_ESA_ESTEC_article.jpg" alt="Testing of the XMM-Newton lower module mass properties at ESA/ESTEC">
+			</a>
+				<figcaption class="image__caption">
+							<a href="/ESA_Multimedia/Images/2001/11/Testing_of_the_XMM-Newton_lower_module_mass_properties_at_ESA_ESTEC">Testing of the XMM-Newton lower module mass properties at ESA/ESTEC</a>
+								</figcaption>
+	</figure>	
+		<p>XMM-Newton's name comes from the design of its mirrors, the highly nested X-ray Multi-Mirrors. These are enabling astronomers to discover more X-ray sources than with any of the previous space observatories. In one day, XMM-Newton sees more sources in a small area than one of the earliest X-ray satellites UHURU found across the whole sky during its three years in operation.</p><p>However, the programme also has a more formal name: the High-Throughput X-ray Spectroscopy Mission. Spectroscopy, the spreading of light into a spectrum, allows astronomers to measure a source’s composition. In the same way the colour of a lamp indicates what gas is used in street lighting, the three scientific instruments on board XMM-Newton will reveal the deepest secrets of a source, its chemical composition, temperature, and even the velocity of the source.</p><p>XMM-Newton can change its orientation extremely precisely using two sets of four small thrusters that use hydrazine gas and four momentum wheels mounted on the spacecraft are the primary means to control its attitude. It builds on the system which previously flew on the ISO mission, and is now also in use on the Integral mission.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Journey</h2>
+	    
+						
+		<p>XMM-Newton, in its 48-hour orbit, travels to nearly one third of the distance to the Moon. At the apogee (furthest point) of 114 000 kilometres away from Earth, the satellite travels very slowly. At the perigee (closest point) it passes 7000 kilometres above Earth much faster at 24 120 kilometres per hour. XMM-Newton’s highly eccentric orbit has been chosen so that its instruments can work outside the radiation belts surrounding the Earth.</p><p>The orientation of a satellite in space is crucial, whether for telecommunications, Earth observation or for astronomy missions. XMM-Newton will be targeting distant X-ray sources for long periods (often more than ten hours) and one of the key requirements of the satellite is its very high pointing accuracy and stability.</p><p>While orbiting the Earth in its highly elliptical orbit, XMM-Newton is steered to point its telescope towards targets selected by astronomers. The 3.8-tonne satellite slowly turns towards these celestial objects at a rate of 90 degrees per hour.</p><p>The pointing accuracy of the 10-metre long XMM-Newton is 0.25 arcsec over a 10-second interval. This is the equivalent of seeing a melon from a distance of 300 kilometres, using a handheld telescope and seeing it without the slightest wobble!</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">History</h2>
+	    
+						
+		<p>Before the late 1970s, only four galaxies had been detected emitting X-rays: the Milky Way, M31, and the Magellanic Clouds. Building on earlier work in the field, ESA’s X-ray observatory, Exosat, was launched in May 1983. It was active until April 1986, by which time it had made 1780 X-ray observations.</p><p>In 1982, an ‘X-ray Multi-Mirror’ astronomy mission was proposed. In 1984, a group of European scientists developed the ‘Horizon 2000’ long-term plan for ESA’s scientific programme. The idea was to achieve a 50% increase in the annual science budget over the following five years. Central to this plan was the concept of four ‘Cornerstones’ — large-scale missions whose scientific objectives would be achievable. The second Cornerstone was to be a ‘High Throughput X-ray Spectroscopy’ mission, or XMM by another name.</p><p>Serious work on XMM started in 1985 with the establishment of a number of working groups. The overall configuration was developed by 1987, looking very much like XMM as we know it today. Following the experience with Exosat, which demonstrated the value of a highly eccentric orbit for long uninterrupted observations of X-ray sources, XMM was to be placed in a 48-hour period orbit using the Ariane 4 launcher. The payload now featured only four X-ray mirror systems. However a very important feature had been added — the Optical Monitor — an instrument to allow simultaneous observation of the field of view the X-ray telescopes in the UV and visible bands. This was a lesson learned from the operation and exploitation of Exosat. An important part of XMM-Newton is that all instruments work in parallel — this is an extremely important tool in making the observatory more efficient.</p><p>ESA approved the mission in this form in June 1988. One year later the selection of the instruments and the long hardware development programme began. The Survey Science Centre was selected by ESA in 1995 to develop the processing of the XMM data.</p><p>XMM-Newton launched at the end of 1999.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Partnerships</h2>
+	    
+						
+		<p>XMM-Newton is an ESA science mission with instruments and contributions directly funded by ESA Member States and NASA. The instruments have been conceived and built by European scientific institutes, and are each managed by a Principal Investigator (PI), heading teams of scientists and engineers from different countries. Overseeing the science of the entire mission is ESA’s XMM-Newton Project Scientist.</p>	</div>
+</article>
+
+
+	<section class="cards">
+		<h2 class="heading section-heading">Related Links</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																																										
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1370877360">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/XMM-Newton_factsheet">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2008/06/xmm-newton/10148619-2-eng-GB/XMM-Newton_card_medium.jpg" alt="XMM-Newton">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">XMM-Newton factsheet</h3>  
+
+<div class="meta">
+		<span>10720 <small>views</small></span>
+			<span>27 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																																													
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1055422440">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Observations_Seeing_in_X-ray_wavelengths">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2003/06/artist_s_impression_of_cygnus_x-1/9791602-3-eng-GB/Artist_s_impression_of_Cygnus_X-1_card_medium.jpg" alt="Artist's impression of Cygnus X-1">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Observations: Seeing in X-ray wavelengths</h3>  
+
+<div class="meta">
+		<span>10783 <small>views</small></span>
+			<span>61 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+													
+						
+											
+
+		
+<div class="grid-item story" data-date="1071320580">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Exploring_space/X-ray_view_of_the_Red_Planet">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2003/12/x-ray_image_of_mars/9841681-3-eng-GB/X-ray_image_of_Mars_card_medium.jpg" alt="X-ray image of Mars">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">X-ray view of the Red Planet</h3>  
+
+<div class="meta">
+			<span>13/12/2003</span>
+		<span>3080 <small>views</small></span>
+			<span>10 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+
+		<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

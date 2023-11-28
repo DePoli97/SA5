@@ -1,0 +1,750 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="BepiColombo overview">
+<title>ESA - BepiColombo overview</title>						<meta name="keywords" content="SPCS bepicolombo overview">
+			
+	
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header exploring-discovering">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'exploring-discovering';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+		<script>
+$.post(
+	'/ezjscore/call', 
+	"ezjscServer_function_arguments=esaux::viewsincr::183436", 
+	function(data) { 
+		$(document).ready(function() {			$('#viewcount').text(data)
+		})
+	})
+</script>
+
+
+
+<article class="article mission-overview exploring-discovering">
+
+<div class="feature slider"><div class="flexslider"><ul class="slides">	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2013/06/BepiColombo_mission_logo">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2013/06/bepicolombo_mission_logo/12868325-1-eng-GB/BepiColombo_mission_logo_pillars.jpg" alt="BepiColombo mission logo">
+				<figcaption class="image__caption">BepiColombo mission logo</figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2017/04/BepiColombo_in_cruise_configuration">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/04/bepicolombo_in_cruise_configuration/16896735-2-eng-GB/BepiColombo_in_cruise_configuration_pillars.png" alt="BepiColombo in cruise configuration">
+				<figcaption class="image__caption">BepiColombo in cruise configuration</figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2017/04/BepiColombo_exploded_view">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/04/bepicolombo_exploded_view/16896698-3-eng-GB/BepiColombo_exploded_view_pillars.jpg" alt="BepiColombo exploded view">
+				<figcaption class="image__caption">BepiColombo exploded view</figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2017/04/Mercury_Planetary_Orbiter_bottom_view">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/04/mercury_planetary_orbiter_bottom_view/16896661-2-eng-GB/Mercury_Planetary_Orbiter_bottom_view_pillars.jpg" alt="Mercury Planetary Orbiter – bottom view">
+				<figcaption class="image__caption">Mercury Planetary Orbiter – bottom view</figcaption>
+			</a></figure></div></li>	
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<li><div class="feature-item image"><figure class="thumbnail"><a href="/ESA_Multimedia/Images/2017/04/Mercury_Magnetospheric_Orbiter_top_view">
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/04/mercury_magnetospheric_orbiter_top_view/16896539-3-eng-GB/Mercury_Magnetospheric_Orbiter_top_view_pillars.jpg" alt="Mercury Magnetospheric Orbiter, top view">
+				<figcaption class="image__caption">Mercury Magnetospheric Orbiter, top view</figcaption>
+			</a></figure></div></li></ul></div></div>
+
+<header class="entry article__block">
+	<span class="pillar article__item">Science & Exploration</span>
+	<h1 class="heading heading--main article__item">BepiColombo overview</h1>
+	<div class="meta article__item">
+		<span><span id="viewcount">96051</span><small> views</small></span>
+		
+	</div>
+</header>
+<div class="breadcrumbs article__block article__item">
+<a class="breadcrumbs__entry" href="/">ESA</a> /			<a class="breadcrumbs__entry" href="/Science_Exploration">Science & Exploration</a> /			<a class="breadcrumbs__entry" href="/Science_Exploration/Space_Science">Space Science</a></div>
+
+
+<div class="abstract article__block article__item">
+	
+</div>
+
+
+
+
+<div class="article__block">
+				</div>
+
+
+    
+					
+	
+	<div class="article__block">
+	<h2 class="heading">Mission</h2>
+	    
+							
+														
+																	
+
+
+
+							
+				
+								
+						
+								
+											<figure class="article__image article__image--left">
+					<a href="/ESA_Multimedia/Images/2017/04/BepiColombo_at_Mercury" class="popup">
+				<img src="/var/esa/storage/images/esa_multimedia/images/2017/04/bepicolombo_at_mercury/16896419-5-eng-GB/BepiColombo_at_Mercury_article.jpg" alt="BepiColombo at Mercury">
+			</a>
+				<figcaption class="image__caption">
+							<a href="/ESA_Multimedia/Images/2017/04/BepiColombo_at_Mercury">BepiColombo at Mercury</a>
+								</figcaption>
+	</figure>	
+		<p><b>Status:</b> En route to Mercury</p><p>
+<b>Objective:</b><br />One of ESA’s cornerstone missions, it will study and understand the composition, geophysics, atmosphere, magnetosphere and history of Mercury, the least explored planet in the inner Solar System.</p><p>
+<b>Mission:</b><br />BepiColombo will provide the best understanding of Mercury to date. It consists of two individual orbiters: the Mercury Planetary Orbiter (MPO) to map the planet, and the Mercury Magnetospheric Orbiter (MMO) to investigate its magnetosphere.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">What’s special?</h2>
+	    
+						
+		<p>Most of ESA's previous interplanetary missions have been to relatively cold parts of the Solar System. BepiColombo will be the Agency's first experience of sending a planetary probe close to the Sun.</p><p>BepiColombo’s mission is especially challenging because Mercury's orbit is so close to our star. The planet is hard to observe from a distance, because the Sun is so bright. Furthermore, it is difficult to reach because a spacecraft must lose a lot of energy to ‘fall’ towards the planet from the Earth. The Sun’s enormous gravity presents a challenge in placing a spacecraft into a stable orbit around Mercury.</p><p>Only NASA's Mariner 10 and Messenger have visited Mercury so far. Mariner 10 provided the first-ever close-up images of the planet when it flew past three times in 1974-1975. En route to its final destination in orbit around Mercury in 18 March 2011, Messenger flew past the planet 3 times (14 January 2008, 6 October 2008, and 29 September 2009), providing new data and images. Once BepiColombo arrives in late 2025, it will help reveal information on the composition and history of Mercury. It should discover more about the formation and the history of the inner planets in general, including Earth.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Spacecraft</h2>
+	    
+						
+		<p>The BepiColombo mission is based on two scientific spacecraft and one transfer module:</p>
+<ul>
+
+<li>Mercury Planetary Orbiter (MPO)</li>
+
+<li>Mercury Magnetospheric Orbiter (MMO)</li>
+
+<li>Mercury Transfer Module (MTM)</li>
+
+</ul>
+<p>Among several investigations, BepiColombo will make a complete map of Mercury at different wavelengths. It will chart the planet's mineralogy and elemental composition, determine whether the interior of the planet is molten or not, and investigate the extent and origin of Mercury’s magnetic field.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Journey</h2>
+	    
+						
+		<p>BepiColombo will use the gravity of Earth, Venus and Mercury in combination with the thrust provided by solar-electric propulsion (SEP). During the voyage to Mercury, the two orbiters and a transfer module, consisting of electric propulsion and traditional chemical rocket units, will form one single composite spacecraft.</p><p>When approaching Mercury in late 2025, the transfer module will be separated and the composite spacecraft will use rocket engines and a technique called 'weak stability boundary capture’ to bring it into polar orbit around the planet. When the MMO orbit is reached, the MPO will separate and lower its altitude to its own operational orbit. Observations from orbit will be taken for at least one Earth year with the possibility of an extension.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">History</h2>
+	    
+						
+		<p>As the nearest planet to the Sun, Mercury has an important role in showing us how planets form. Mercury, Venus, Earth and Mars make up the family of terrestrial planets; each one carrying essential information to trace the history of the whole group.</p><p>The knowledge of how they originated and evolved is key to understanding how conditions supporting life arose in the Solar System, and possibly elsewhere. As long as Earth-like planets orbiting other stars remain inaccessible to astronomers, the Solar System is the only laboratory where scientists can test models applicable to other planetary systems.</p><p>Exploring Mercury is therefore fundamental to answering important astrophysical and philosophical questions such as 'Are Earth-like planets common in the Galaxy?'</p><p>A European mission to Mercury was first proposed in May 1993. Although an assessment showed it to be too costly for a medium-size mission, ESA made a Mercury orbiter one of its three new cornerstone missions when the Horizon 2000 science programme was extended in 1994. Gaia competed with BepiColombo for the fifth cornerstone mission. In October 2000, ESA approved a package of missions for 2008–2013 and both BepiColombo and Gaia were approved.</p><p>In February 2007, the mission was approved as part of the Cosmic Vision programme. Following an unavoidable increase in the mission’s mass during 2008, the launch vehicle was changed from Soyuz-Fregat to Ariane 5. Final approval for the redesigned mission was given by ESA’s Science Programme Committee in November 2009.</p><p>BepiColombo represents the first time ESA and JAXA have joined forces for the implementation of a major space science mission.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Partnerships</h2>
+	    
+						
+		<p>BepiColombo is a joint mission between ESA and the Japan Aerospace Exploration Agency (JAXA), executed under ESA leadership.</p>	</div>	
+    
+					
+</article>
+
+
+	<section class="cards">
+		<h2 class="heading section-heading">Related Links</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1496931269">
+<a class="card focuson" href="http://www.esa.int/Our_Activities/Space_Science/BepiColombo">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2013/06/bepicolombo_mission_logo/12868325-1-eng-GB/BepiColombo_mission_logo_card_medium.jpg" alt="BepiColombo mission logo">
+	</figure>
+	<header class="entry">
+				<h3 class="heading"></h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																																													 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1496995307">
+<a class="card focuson" href="http://sci.esa.int/bepicolombo/">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/03/bepicolombo_solar_wing_deployment_test/16840339-1-eng-GB/BepiColombo_solar_wing_deployment_test_card_medium.jpg" alt="BepiColombo solar wing deployment test ">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">BepiColombo in depth</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+											
+												
+																			
+ 
+		
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1216025580">
+<a class="card focuson" href="/Enabling_Support/Operations" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/media/image_links/spacecraft_operations/3782951-6-eng-GB/Spacecraft_Operations_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Spacecraft Operations</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																																													
+								
+										
+
+
+
+
+	
+	 
+
+		
+<div class="grid-item story">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/BepiColombo_overview2">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">BepiColombo overview</h3>  
+
+<div class="meta">
+			<span>01/01/1970</span>
+		<span>96051 <small>views</small></span>
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1497276000">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/BepiColombo/BepiColombo_factsheet">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/07/bepicolombo_timeline/17193015-5-eng-GB/BepiColombo_timeline_card_medium.png" alt="BepiColombo timeline">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">BepiColombo factsheet </h3>  
+
+<div class="meta">
+		<span>16688 <small>views</small></span>
+			<span>44 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1497014820">
+<a class="card focuson exploring-discovering" href="https://esamultimedia.esa.int/multimedia/publications/BR-335/BR-335.pdf">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/05/br-335_cover/16947066-1-eng-GB/BR-335_cover_card_medium.jpg" alt="BR-335 cover">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Science & Exploration</span>
+				<h3 class="heading">BepiColombo brochure</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																																													 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1496931540">
+<a class="card focuson" href="http://sci.esa.int/bepicolombo/" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/04/bepicolombo_at_mercury/16896419-5-eng-GB/BepiColombo_at_Mercury_card_medium.jpg" alt="BepiColombo at Mercury">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">BepiColombo in depth</h3> 
+		<p class="subheading">In-depth information about the science and technology aspects of the mission</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																																													 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	 
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1496931689">
+<a class="card focuson" href="http://global.jaxa.jp/projects/sat/bepi/index.html" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">BepiColombo at JAXA </h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																																													 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	 
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1539089507">
+<a class="card focuson" href="http://www.esa.int/Our_Activities/Space_Science/BepiColombo/Watch_BepiColombo_launch" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Watch live</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1539088872">
+<a class="card focuson" href="https://www.esa.int/Our_Activities/Space_Science/BepiColombo/BepiColombo_launch_media_kit">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2018/03/bepicolombo_approaching_mercury4/17405256-1-eng-GB/BepiColombo_approaching_Mercury_card_medium.jpg" alt="BepiColombo approaching Mercury">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Launch media kit </h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+
+		<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

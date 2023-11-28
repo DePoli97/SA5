@@ -1,0 +1,1446 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="Gaia">
+<title>ESA - Gaia</title>						
+	
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header exploring-discovering">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'exploring-discovering';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+				
+			<section class="page-header mission-header exploring-discovering">
+	<header class="entry">
+		<a href="/Science_Exploration" class="pillar">Science & Exploration</a>
+		<h1 class="heading">Gaia </h1>
+		<p class="subheading">ESA's billion star surveyor </p> 
+	</header>
+	<div class="social-media-links">
+		
+										
+													
+																				<a href="https://twitter.com/ESAGaia" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+														
+														
+														
+						</div>
+					<img class="image-bg stellar" src="/var/esa/storage/images/science_exploration/space_science/gaia/19716907-3-eng-GB/Gaia_pillars.jpg" alt="Gaia" data-stellar-ratio="0.8"> 
+</section>
+
+<section class="mission-details">
+	<div class="mission-intro">
+		
+		<a name="eztoc19727137_1" id="eztoc19727137_1"></a><h2>The mission</h2><p>Gaia is creating an extraordinarily precise three-dimensional map of more than a thousand million stars throughout our Milky Way galaxy and beyond, mapping their motions, luminosity, temperature and composition. This huge stellar census will provide the data needed to tackle an enormous range of important questions related to the origin, structure and evolutionary history of our galaxy.</p>
+	</div>
+	<div class="mission-data">
+		
+		<p><b>Launch:</b> 19 December 2013</p><p><b>Orbit:</b> L2 Lagrangian point</p><p><b>Upcoming Focused Product Release:</b> 10 October 2023</p><p>
+<b>Previous data release milestones: </b><br />
+Data Release 1: 14 September 2016<br />
+Data Release 2: 25 April 2018 <br />
+Early Data Release 3: 3 December 2020<br />Data Release 3: 13 June 2022</p>
+	</div>
+	</section>
+
+<section class="mission-stats exploring-discovering">
+	
+		
+		
+<ul>
+
+<li><b>1 </b>billion pixel camera</li>
+
+<li><b>10 m </b>sunshield</li>
+
+<li><b>1800 </b>million objects</li>
+
+</ul>
+
+	
+	<div class="dimmer"></div>
+	<img class="image-bg" src="/var/esa/storage/images/science_exploration/space_science/gaia/19731229-17-eng-GB/Gaia.png" alt="Gaia">
+</section>
+
+
+
+	
+						  
+	
+
+
+
+
+
+
+					 
+
+	
+																																			
+				
+																																																					
+				
+														
+				
+												
+			
+	
+					
+			
+			 
+		
+					
+			
+			 
+		
+					
+						
+						 
+		
+					
+			
+			 
+						
+ 
+
+<section class="cards filtered">
+	<div class="filter-wrapper">
+		<h2 class="heading section-heading">
+			
+							Latest
+					</h2>
+		<div class="filters button-group">
+			<button data-filter="" class="btn active">All</button>
+			<button data-filter=".story" class="btn">Stories</button>
+			<button data-filter=".video" class="btn">Videos</button>
+			<button data-filter=".image" class="btn">Images</button>
+		</div>
+	</div>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1696924800">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Gaia/New_Gaia_release_reveals_rare_lenses_cluster_cores_and_unforeseen_science">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/10/new_gaia_image_of_omega_centauri/25118977-2-eng-GB/New_Gaia_image_of_Omega_Centauri_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">New Gaia release reveals rare lenses, cluster cores and unf&#8230;</h3>  
+
+<div class="meta">
+			<span>10/10/2023</span>
+		<span>20209 <small>views</small></span>
+			<span>90 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1696921200">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2023/10/Gaia_locates_hundreds_of_lensed_quasar_candidates_in_new_data_release">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Gaia locates hundreds of lensed quasar candidates in new da&#8230;</h3>  
+
+<div class="meta">
+			<span>10/10/2023</span>
+		<span>667 <small>views</small></span>
+			<span>10 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/10/gaia_locates_hundreds_of_lensed_quasar_candidates_in_new_data_release/25118764-2-eng-GB/Gaia_locates_hundreds_of_lensed_quasar_candidates_in_new_data_release_card_full.png" alt="">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1696921200">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2023/10/Gaia_reveals_crowded_core_of_massive_star_cluster">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Gaia reveals crowded core of massive star cluster </h3>  
+
+<div class="meta">
+			<span>10/10/2023</span>
+		<span>881 <small>views</small></span>
+			<span>14 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/10/gaia_reveals_crowded_core_of_massive_star_cluster/25118915-1-eng-GB/Gaia_reveals_crowded_core_of_massive_star_cluster_card_full.png" alt="">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1684845480">
+<a class="card video exploring-discovering popup" href="/ESA_Multimedia/Videos/2023/05/Has_Gaia_found_missing_link_in_black_hole_evolution">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:00:10
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2023/05/has_gaia_found_missing_link_in_black_hole_evolution/24895166-2-eng-GB/Has_Gaia_found_missing_link_in_black_hole_evolution_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Has Gaia found missing link in black hole evolution?</h3>  
+
+<div class="meta">
+			<span>23/05/2023</span>
+		<span>3381 <small>views</small></span>
+			<span>88 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1681413120">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Gaia/Wobbling_star_found_in_Gaia-Hipparcos_data_confirmed_to_host_exoplanet">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/04/wobbling_star_found_in_gaia-hipparcos_data_confirmed_to_host_exoplanet/24829609-1-eng-GB/Wobbling_star_found_in_Gaia-Hipparcos_data_confirmed_to_host_exoplanet_card_medium.gif" alt="">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Wobbling star found in Gaia-Hipparcos data confirmed to hos&#8230;</h3>  
+
+<div class="meta">
+			<span>13/04/2023</span>
+		<span>8622 <small>views</small></span>
+			<span>137 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1680163200">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Gaia/Gaia_discovers_a_new_family_of_black_holes">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2023/03/gaia_s_black_holes/24772472-1-eng-GB/Gaia_s_black_holes_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Gaia discovers a new family of black holes </h3>  
+
+<div class="meta">
+			<span>30/03/2023</span>
+		<span>29250 <small>views</small></span>
+			<span>160 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1679562000">
+<a class="card video exploring-discovering popup" href="/ESA_Multimedia/Videos/2023/03/Gaia_discovers_a_unique_black_hole">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:01:59
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2023/03/gaia_discovers_a_unique_black_hole/24772194-1-eng-GB/Gaia_discovers_a_unique_black_hole_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Gaia discovers a unique black hole</h3>  
+
+<div class="meta">
+			<span>23/03/2023</span>
+		<span>5923 <small>views</small></span>
+			<span>99 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1679410800">
+<a class="card story designing-operating" href="/Enabling_Support/Preparing_for_the_Future/Space_for_Earth/Amateur_astronomers_needed_help_classify_stars_with_Gaia_s_data">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2004/05/gaia_mapping_the_stars_of_the_milky_way/10200416-8-eng-GB/Gaia_mapping_the_stars_of_the_Milky_Way_card_medium.jpg" alt="Gaia mapping the stars of the Milky Way">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Enabling & Support</span>
+
+<h3 class="heading">Amateur astronomers needed: help classify stars with Gaia's&#8230;</h3>  
+
+<div class="meta">
+			<span>21/03/2023</span>
+		<span>12942 <small>views</small></span>
+			<span>211 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1666337400">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2022/10/ESA_spacecraft_catch_the_brightest_ever_gamma-ray_burst">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">ESA spacecraft catch the brightest ever gamma-ray burst</h3>  
+
+<div class="meta">
+			<span>21/10/2022</span>
+		<span>12167 <small>views</small></span>
+			<span>159 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/10/esa_spacecraft_catch_the_brightest_ever_gamma-ray_burst/24534715-1-eng-GB/ESA_spacecraft_catch_the_brightest_ever_gamma-ray_burst_card_full.png" alt="ESA spacecraft catch the brightest ever gamma-ray burst">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1666268940">
+<a class="card story designing-operating" href="/Enabling_Support/Space_Engineering_Technology/Shadow_hunters_capture_Didymos_asteroid_eclipsing_stars">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/10/setup_for_occultation_observation/24536303-1-eng-GB/Setup_for_occultation_observation_card_medium.jpg" alt="Setup for occultation observation">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Enabling & Support</span>
+
+<h3 class="heading">Shadow hunters capture Didymos asteroid eclipsing stars</h3>  
+
+<div class="meta">
+			<span>20/10/2022</span>
+		<span>4057 <small>views</small></span>
+			<span>80 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1655118000">
+<a class="card video exploring-discovering popup" href="/ESA_Multimedia/Videos/2022/06/Gaia_data_release_3_press_event">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:54:56
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2022/06/gaia_data_release_3_press_event/24309246-2-eng-GB/Gaia_data_release_3_press_event_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Gaia data release 3 – press event</h3>  
+
+<div class="meta">
+			<span>13/06/2022</span>
+		<span>6741 <small>views</small></span>
+			<span>134 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1655107200">
+<a class="card video exploring-discovering popup" href="/ESA_Multimedia/Videos/2022/06/Asteroid_populations_in_Gaia_data_release_3">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:02:52
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2022/06/asteroid_populations_in_gaia_data_release_3/24300854-1-eng-GB/Asteroid_populations_in_Gaia_data_release_3_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Asteroid populations in Gaia data release 3</h3>  
+
+<div class="meta">
+			<span>13/06/2022</span>
+		<span>11052 <small>views</small></span>
+			<span>43 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1655107200">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2022/06/Gaia_Exploring_the_multi-dimensional_Milky_Way">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Gaia: Exploring the multi-dimensional Milky Way</h3>  
+
+<div class="meta">
+			<span>13/06/2022</span>
+		<span>9368 <small>views</small></span>
+			<span>159 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/06/gaia_exploring_the_multi-dimensional_milky_way/24305477-1-eng-GB/Gaia_Exploring_the_multi-dimensional_Milky_Way_card_full.jpg" alt="">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1655107200">
+<a class="card video exploring-discovering popup" href="/ESA_Multimedia/Videos/2022/06/Chemistry_of_asteroids_as_seen_by_Gaia">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:04:56
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2022/06/chemistry_of_asteroids_as_seen_by_gaia/24300938-1-eng-GB/Chemistry_of_asteroids_as_seen_by_Gaia_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Chemistry of asteroids as seen by Gaia</h3>  
+
+<div class="meta">
+			<span>13/06/2022</span>
+		<span>2054 <small>views</small></span>
+			<span>25 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+<div class="grid-item image" data-date="1654851960">
+<a class="card image exploring-discovering popup" href="/ESA_Multimedia/Images/2022/06/Gaia_observes_the_Milky_Way">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Gaia observes the Milky Way</h3>  
+
+<div class="meta">
+			<span>10/06/2022</span>
+		<span>3987 <small>views</small></span>
+			<span>62 <small>likes</small></span>
+		
+	</div>
+		</header>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/06/gaia_observes_the_milky_way/24305944-1-eng-GB/Gaia_observes_the_Milky_Way_card_full.jpg" alt="Gaia observes the Milky Way">
+	</figure>
+	<div class="cta">
+		<label>View</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="View">
+	</div>
+</a>
+</div>
+  
+				<div class="grid-item story image video"> 
+<a class="card more" href="/Science_Exploration/Space_Science/Gaia/(archive)/0">
+	<div class="outline">
+		<h3 class="heading">More items</h3>
+	</div>
+</a>
+</div>
+	</div>
+</section>
+		
+		
+										
+	<section class="feature">
+		
+
+
+
+
+
+	  		
+	
+					
+						
+				
+	
+	
+<div class="feature-item exploring-discovering image">
+<figure class="thumbnail">
+	<header class="entry">
+		<div class="entry-info">
+			<span class="category">Image</span>
+		</div>
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">The density of stars from Gaia’s Early Data Release 3</h3>
+
+<div class="meta">
+			<span>03/12/2020</span>
+		<span>16098 <small>views</small></span>
+			<span>196 <small>likes</small></span>
+		
+	</div>
+		<a class="cta popup" href="/ESA_Multimedia/Images/2020/12/The_density_of_stars_from_Gaia_s_Early_Data_Release_32">
+			<label>View</label>
+			<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+		</a>
+	</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/12/the_density_of_stars_from_gaia_s_early_data_release_32/22358886-1-eng-GB/The_density_of_stars_from_Gaia_s_Early_Data_Release_3_pillars.png" alt="The density of stars from Gaia’s Early Data Release 3">
+</figure>
+</div>
+	</section>		
+		
+									
+	<section class="cards">
+					<h2 class="heading section-heading">About Gaia</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1654688460">
+<a class="card focuson exploring-discovering" href="https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_overview">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2004/05/gaia_mapping_the_stars_of_the_milky_way/10200416-8-eng-GB/Gaia_mapping_the_stars_of_the_Milky_Way_card_medium.jpg" alt="Gaia mapping the stars of the Milky Way">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Science & Exploration</span>
+				<h3 class="heading">Gaia overview</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1371458580">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Gaia/Gaia_factsheet">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/12/the_colour_of_the_sky_from_gaia_s_early_data_release_3/22358049-1-eng-GB/The_colour_of_the_sky_from_Gaia_s_Early_Data_Release_3_card_medium.png" alt="The colour of the sky from Gaia’s Early Data Release 3">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Gaia factsheet</h3>  
+
+<div class="meta">
+		<span>32430 <small>views</small></span>
+			<span>158 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1606396980">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Gaia/How_does_Gaia_study_the_Milky_Way">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2018/04/parallax_and_proper_motion_on_the_sky/17473350-1-eng-GB/Parallax_and_proper_motion_on_the_sky_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">How does Gaia study the Milky Way?</h3>  
+
+<div class="meta">
+		<span>5832 <small>views</small></span>
+			<span>23 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1600677060">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Gaia/Five_fascinating_Gaia_revelations_about_the_Milky_Way">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/05/collisions_with_sagittarius_trigger_star_formation_in_milky_way/22031701-1-eng-GB/Collisions_with_Sagittarius_trigger_star_formation_in_Milky_Way_card_medium.gif" alt="">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Five fascinating Gaia revelations about the Milky Way</h3>  
+
+<div class="meta">
+			<span>21/09/2020</span>
+		<span>10962 <small>views</small></span>
+			<span>112 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1595856900">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Gaia/Why_was_it_so_difficult_to_study_the_Milky_Way_before_Gaia">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/08/what_are_we_looking_at/19679574-1-eng-GB/What_are_we_looking_at_card_medium.jpg" alt="What are we looking at?">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Why was it so difficult to study the Milky Way before Gaia?</h3>  
+
+<div class="meta">
+		<span>4053 <small>views</small></span>
+			<span>22 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1654002000">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Gaia/Gaia_data_release_3_media_kit">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/06/gaia_milky_way_stars/24090376-1-eng-GB/Gaia_Milky_Way_stars_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Gaia data release 3 media kit</h3>  
+
+<div class="meta">
+		<span>7645 <small>views</small></span>
+			<span>48 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1598283120">
+<a class="card focuson" href="https://sci.esa.int/web/gaia ">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/06/gaia_observes_the_milky_way/24305944-1-eng-GB/Gaia_observes_the_Milky_Way_card_medium.jpg" alt="Gaia observes the Milky Way">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Gaia in depth</h3> 
+		<p class="subheading">Gaia in depth</p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+ 
+		
+		
+								
+
+	
+	<section class="link-section dark">
+			<div class="theme-block exploring-discovering">
+		<h2 class="heading section-heading">More</h2>
+	<div class="section-group button-group">
+												
+									
+							<h3 class="heading">About Gaia</h3>
+		
+					
+																																					
+													<a href="/Science_Exploration/Space_Science/Gaia/The_legend_of_Gaia" class="btn">The legend of Gaia</a>
+				
+				 
+
+																																		
+													<a href="/Science_Exploration/Space_Science/Gaia/Science_objectives" class="btn">Science objectives</a>
+				
+				 
+
+			 
+						</div> 
+			<div class="section-group button-group">
+					 
+
+												
+									
+							<h3 class="heading">Measuring the Milky Way</h3>
+		
+					
+																																 
+												
+																											
+											
+																		<a href="/Science_Exploration/Space_Science/Gaia/Guide_to_our_Galaxy" class="btn">Guide to our Galaxy</a>
+				
+				 
+
+																																		
+													<a href="/Science_Exploration/Space_Science/Gaia/Cosmic_distances" class="btn">Cosmic distances</a>
+				
+				 
+
+																																		
+													<a href="/Science_Exploration/Space_Science/Gaia/Parallax" class="btn">Parallax</a>
+				
+				 
+
+																																		
+													<a href="/Science_Exploration/Space_Science/Gaia/Spectroscopy" class="btn">Spectroscopy</a>
+				
+				 
+
+																																		
+													<a href="/Science_Exploration/Space_Science/Gaia/Radial_velocity" class="btn">Radial velocity</a>
+				
+				 
+
+																																		
+													<a href="/Science_Exploration/Space_Science/Gaia/Proper_motion" class="btn">Proper motion</a>
+				
+				 
+
+			 
+						</div> 
+			<div class="section-group button-group">
+					 
+
+												
+									
+							<h3 class="heading">Spacecraft and Instruments</h3>
+		
+					
+																																					
+													<a href="/Science_Exploration/Space_Science/Gaia/Spacecraft_overview" class="btn">Spacecraft overview</a>
+				
+				 
+
+																																		
+													<a href="/Science_Exploration/Space_Science/Gaia/Telescopes" class="btn">Telescopes</a>
+				
+				 
+
+																																		
+													<a href="/Science_Exploration/Space_Science/Gaia/Science_instruments" class="btn">Science instruments</a>
+				
+				 
+
+																																		
+													<a href="/Science_Exploration/Space_Science/Gaia/Service_module" class="btn">Service module</a>
+				
+				 
+
+			 
+						</div> 
+			<div class="section-group button-group">
+					 
+
+												
+									
+							<h3 class="heading">Mission Operations</h3>
+		
+					
+																																					
+													<a href="/Science_Exploration/Space_Science/Gaia/Journey_to_orbit" class="btn">Journey to orbit</a>
+				
+				 
+
+																																		
+													<a href="/Science_Exploration/Space_Science/Gaia/Spinning_in_space" class="btn">Spinning in space</a>
+				
+				 
+
+																																		
+													<a href="/Science_Exploration/Space_Science/Gaia/Who_operates_Gaia" class="btn">Who operates Gaia?</a>
+				
+				 
+
+			 
+						</div> 
+			<div class="section-group button-group">
+					 
+
+															 
+								
+										<h3 class="heading">Multimedia</h3>
+		
+		 
+
+															 
+								
+										<a href="http://www.esa.int/ESA_Multimedia/Search?SearchText=gaia&result_type=images" class="btn">Gaia images</a>
+		
+		 
+
+															 
+								
+										<a href="http://www.esa.int/ESA_Multimedia/Search?SearchText=gaia&result_type=videos" class="btn">Gaia animations and videos</a>
+		
+		 
+
+															 
+								
+										<a href="http://spaceinimages.esa.int/Images/2013/06/Gaia_mission_poster" class="btn">Gaia poster</a>
+		
+		 
+
+															 
+								
+										<h3 class="heading">Follow us</h3>
+		
+		 
+
+															 
+								
+											
+		 
+
+															 
+								
+										<a href="https://twitter.com/ESAGaia" class="btn"><i class="fa-brands fa-x-twitter"></i> @ESAGaia</a>
+		
+		 
+
+															 
+								
+										<a href="http://www.twitter.com/esascience" class="btn"><i class="fa-brands fa-x-twitter"></i> @esascience</a>
+		
+		 
+
+															 
+								
+										<a href="https://www.facebook.com/ESAGaiaMission" class="btn"><i class="fa-brands fa-facebook-f"></i> Gaia on Facebook </a>
+		
+		 
+
+															 
+								
+										<a href="https://www.youtube.com/@esagaiamission2542" class="btn"><i class="fa-brands fa-youtube"></i> Gaia on YouTube</a>
+		
+		 
+
+	 
+	</div> 
+
+</div> 
+ 
+				</section>		
+		
+		
+ 
+
+
+	<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

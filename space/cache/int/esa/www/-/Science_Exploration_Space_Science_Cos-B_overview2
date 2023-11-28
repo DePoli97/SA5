@@ -1,0 +1,458 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="Cos-B overview">
+<title>ESA - Cos-B overview</title>						<meta name="keywords" content="SPCS cos-b overview">
+			
+	
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header exploring-discovering">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'exploring-discovering';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+		<script>
+$.post(
+	'/ezjscore/call', 
+	"ezjscServer_function_arguments=esaux::viewsincr::183469", 
+	function(data) { 
+		$(document).ready(function() {			$('#viewcount').text(data)
+		})
+	})
+</script>
+
+
+
+<article class="article mission-overview exploring-discovering">
+
+
+
+<header class="entry article__block">
+	<span class="pillar article__item">Science & Exploration</span>
+	<h1 class="heading heading--main article__item">Cos-B overview</h1>
+	<div class="meta article__item">
+		<span><span id="viewcount">12295</span><small> views</small></span>
+		
+	</div>
+</header>
+<div class="breadcrumbs article__block article__item">
+<a class="breadcrumbs__entry" href="/">ESA</a> /			<a class="breadcrumbs__entry" href="/Science_Exploration">Science & Exploration</a> /			<a class="breadcrumbs__entry" href="/Science_Exploration/Space_Science">Space Science</a></div>
+
+
+<div class="abstract article__block article__item">
+	
+</div>
+
+
+
+
+<div class="article__block">
+				</div>
+
+
+    
+					
+	
+    
+							
+														
+																	
+
+
+
+								
+				
+								
+						
+								
+												<div class="article__block">
+				<figure class="article__image article__image--left">
+					<a href="/ESA_Multimedia/Images/2003/04/Cos-B_a_gamma-ray_telescope" class="popup">
+				<img src="/var/esa/storage/images/esa_multimedia/images/2003/04/cos-b_a_gamma-ray_telescope/10284086-2-eng-GB/Cos-B_a_gamma-ray_telescope_article.jpg" alt="Cos-B, a gamma-ray telescope">
+			</a>
+				<figcaption class="image__caption">
+							<a href="/ESA_Multimedia/Images/2003/04/Cos-B_a_gamma-ray_telescope">Cos-B, a gamma-ray telescope</a>
+								</figcaption>
+	</figure>	
+		<p>
+<b>Status</b><br />Completed (1982)</p><p>
+<b>Objective</b><br />The first ESA mission to study gamma-ray sources, Cos-B operated for over six years, four years longer than planned. It was a forerunner of the current Integral mission.</p><p>
+<b>Mission</b><br />Cos-B was the first ESA mission to study gamma-ray sources. Its results created a catalogue of these sources, known as the 2CG catalogue, and a complete gamma-ray map of the disc of our Galaxy, the Milky Way.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">What’s special?</h2>
+	    
+						
+		<p>Cos-B, one of the most successful space missions ever, had no optical telescopes or complicated scientific instrumentation (though the central spark chamber was a significant technical achievement). It had one function - pointing in the direction of a star or other object and measuring its gamma-ray emissions.</p><p>The major result was the creation of the 2CG Catalogue that contained about 25 gamma-ray sources out of 30 observations made during the first three years and a complete gamma-ray map of the disc of the Milky Way.</p><p>Cos-B devoted much of its lifetime to the search for gamma-ray emissions from the Cygnus X-3 X-ray pulsar. Despite devoting about 10% of the entire mission, it did not detect gamma variability although the X-ray variability was clearly seen by the on-board X-ray monitor.</p><p>The end of the mission coincided with the end of its fuel supply, which had been conserved by careful choice of manoeuvres. The originally foreseen duration of the mission was two years, but Cos-B was finally switched off on 25th April 1982, having functioned successfully for more than 6.5 years.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Spacecraft</h2>
+	    
+						
+		<p>Cos-B detected gamma rays - an incoming gamma-ray crossed the protective Veto-Dome. The spark chamber was a device for converting the incoming gamma emission into an electron and a positron. This event triggered a spark in the spark chamber allowing experts to trace the paths and determine the direction of the incoming gamma ray.</p><p>The track information and parameters measuring the energy of the gamma ray were transmitted to a ground station on Earth.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Journey</h2>
+	    
+						
+		<p>The 37-hour orbit of Cos-B was an eccentric orbit that ensured that the satellite was outside the Earth's radiation belts for most of the time.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">History</h2>
+	    
+						
+		<p>Only a handful of gamma-ray sources were known prior to Cos-B; based on observations from two previous missions: SAS 2 and TD-1. SAS 2 had detected the extragalactic diffuse gamma radiation and established that two radio pulsars (the Crab and Vela) were also gamma-ray sources. Cos-B was meant to add to the knowledge gathered by these earlier missions.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Partnerships</h2>
+	    
+						
+		<p>Cos-B was an ESA mission, built and equipped by European scientists and launched by NASA. Collaborating on Cos-B were the Laboratory for Space Research (Leiden, The Netherlands), Istituto di Fisica Cosmica e Informatica del CNR, (Palermo, Italy), Laboratorio di Fisica Cosmica e Tecnologie Relative del CNR, (Milano, Italy), Max-Planck-Institut für Extraterrestrische Physik, (Garching, Germany), Service d'Electronique Physique, (CEN de Saclay, France) and the Space Science Department of ESA, (Noordwijk, The Netherlands).</p>	</div>	
+    
+					
+</article>
+
+
+	<section class="cards">
+		<h2 class="heading section-heading">Related Links</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																																										
+								
+										
+						
+
+
+	
+	 
+
+		
+<div class="grid-item story" data-date="1053680580">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Cos-B_factsheet">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Cos-B factsheet</h3>  
+
+<div class="meta">
+		<span>2024 <small>views</small></span>
+			<span>7 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																																													
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1055422320">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Integral/Seeing_in_gamma-ray_wavelengths">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2003/04/artist_s_impression_of_a_gamma-ray_burst/10337949-2-eng-GB/Artist_s_impression_of_a_gamma-ray_burst_card_medium.jpg" alt="Artist's impression of a gamma-ray burst">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Seeing in gamma-ray wavelengths</h3>  
+
+<div class="meta">
+		<span>3929 <small>views</small></span>
+			<span>31 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1056607380">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Extreme_space/Gamma-ray_detectives_close_in_on_30-year-old_mystery">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2003/04/artist_s_impression_of_a_gamma-ray_burst/10337949-2-eng-GB/Artist_s_impression_of_a_gamma-ray_burst_card_medium.jpg" alt="Artist's impression of a gamma-ray burst">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Gamma-ray detectives close in on 30-year-old mystery</h3>  
+
+<div class="meta">
+			<span>26/06/2003</span>
+		<span>2341 <small>views</small></span>
+			<span>3 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																					
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1048517940">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Integral/A_gamma-ray_burst_bonanza">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2003/03/artist_s_impression_of_a_gamma-ray_burst/9831410-3-eng-GB/Artist_s_impression_of_a_gamma-ray_burst_card_medium.jpg" alt="Artist's impression of a gamma-ray burst">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">A gamma-ray burst bonanza</h3>  
+
+<div class="meta">
+			<span>24/03/2003</span>
+		<span>1992 <small>views</small></span>
+			<span>8 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																																													 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	 
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1056445860">
+<a class="card focuson" href="http://sci.esa.int/cos-b" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">COS-B in depth</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+
+		<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

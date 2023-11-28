@@ -1,0 +1,500 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="Overview">
+<title>ESA - Overview</title>					<meta name="description" content="The Highly Adaptable Satellite is an advanced satellite system focused on high-speed internet connectivity for Europe.">
+		<meta property="og:description" content="The Highly Adaptable Satellite is an advanced satellite system focused on high-speed internet connectivity for Europe.">
+				<meta name="keywords" content="hylas1 overview">
+					<meta property="og:image" content="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2010/10/hylas-1/9503377-4-eng-GB/Hylas-1_pillars.jpg">
+	
+	
+			<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@esa">
+		
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header connecting-benefiting">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'connecting-benefiting';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+
+		<script>
+$.post(
+	'/ezjscore/call', 
+	"ezjscServer_function_arguments=esaux::viewsincr::139961", 
+	function(data) { 
+		$(document).ready(function() {			$('#viewcount').text(data)
+		})
+	})
+</script>
+
+
+							
+														
+																	
+
+	  
+
+							
+				
+								
+						
+								
+				<section class="feature feature--article">
+	<a href="/ESA_Multimedia/Images/2010/10/Hylas-1" class="popup">
+		<img class="image-bg stellar" src="/var/esa/storage/images/esa_multimedia/images/2010/10/hylas-1/9503377-4-eng-GB/Hylas-1_pillars.jpg" alt="Hylas-1" data-stellar-ratio="0.7" data-stellar-vertical-offset="60">
+	</a>
+	</section>
+	
+
+<article class="article connecting-benefiting">
+
+<header class="entry article__block">
+	<span class="pillar article__item">Applications</span>
+	<h1 class="heading heading--main article__item">Overview</h1>
+	<div class="meta article__item">
+				<span><span id="viewcount">4253</span><small> views</small></span>
+										<span><span id="ezsr_total_6818648">5</span><small> likes</small></span>
+				
+	</div>
+</header>
+<div class="breadcrumbs article__block article__item">
+<a class="breadcrumbs__entry" href="/">ESA</a> /			<a class="breadcrumbs__entry" href="/Applications">Applications</a> /			<a class="breadcrumbs__entry" href="/Applications/Connectivity_and_Secure_Communications">Connectivity and Secure Communications</a> /			<a class="breadcrumbs__entry" href="/Applications/Connectivity_and_Secure_Communications/Hylas">Hylas</a></div>
+
+
+
+
+<div class="abstract article__block article__item">
+	<p>The Highly Adaptable Satellite is an advanced satellite system focused on high-speed internet connectivity for Europe.</p>
+</div>
+
+<div class="article__block">
+			<h2 class="heading">Broadband from the sky</h2>
+				
+		<p>Operating across Ku- and Ka-band frequencies with advanced communication technology, Hylas-1 can pipe broadband through the sky to hundreds of thousands of previously underserved users while simultaneously broadcasting multiple standard and high-definition TV channels.</p>
+	</div>
+			
+    
+							
+														
+																	
+
+
+
+							
+				
+								
+						
+								
+												<div class="article__block">
+				<figure class="article__image article__image--left">
+					<a href="/ESA_Multimedia/Images/2010/11/Hylas-1_during_mating" class="popup">
+				<img src="/var/esa/storage/images/esa_multimedia/images/2010/11/hylas-1_during_mating/9971181-2-eng-GB/Hylas-1_during_mating_article.jpg" alt="Hylas-1 during mating">
+			</a>
+				<figcaption class="image__caption">
+							<a href="/ESA_Multimedia/Images/2010/11/Hylas-1_during_mating">Hylas-1 during mating</a>
+								</figcaption>
+	</figure>	
+		<p>Ku-band and Ka-band are portions of the microwave spectrum: Ku-band is extensively used for satellite television broadcasting, while Ka-band is increasingly employed for broadband internet services.</p><p>Hylas-1’s wide Ku-band beam covers the whole of Europe. Its Ka-band antenna generates eight closely focused ‘spot beams’ for optimal frequency reuse, each providing coverage to a key European market. Bandwidth and power can be redistributed between beams to fulfil the changing needs of the market.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">In partnership with business</h2>
+	    
+							
+														
+																	
+
+
+
+							
+				
+								
+						
+								
+											<figure class="article__image article__image--right">
+					<a href="/ESA_Multimedia/Images/2010/11/Hylas-1_in_geostationary_orbit" class="popup">
+				<img src="/var/esa/storage/images/esa_multimedia/images/2010/11/hylas-1_in_geostationary_orbit/10269475-2-eng-GB/Hylas-1_in_geostationary_orbit_article.jpg" alt="Hylas-1 in geostationary orbit">
+			</a>
+				<figcaption class="image__caption">
+							<a href="/ESA_Multimedia/Images/2010/11/Hylas-1_in_geostationary_orbit">Hylas-1 in geostationary orbit</a>
+								</figcaption>
+	</figure>	
+		<p>Hylas-1 is an innovative mission put together in a new way: it is ESA’s first public–private partnership resulting in a full satellite system. The commercial operator, UK-based Avanti Communications, has contributed most of the mission budget and will use the satellite to deliver broadband services to customers. ESA’s involvement focuses on Hylas-1's payload technology.</p><p>Joining forces with a commercial operator means that Europe’s advanced telecom technologies reach orbit much more rapidly and economically than otherwise. The Hylas-1 public–private partnership drives the technical state-of-the-art forward in space while efficiently serving a developing market.</p>	</div>	
+    
+						
+			<div class="article__block">
+				<table border="1" cellpadding="1" cellspacing="1" width="100%">
+<tr><th class=" text-left" colspan="2" valign="top">  Hylas-1 facts and figures
+  </th></tr>
+
+<tr><td width="25%">	Launch date:</td>
+<td>	26 November 2010</td>
+</tr>
+
+<tr><td>	Launch vehicle:</td>
+<td>	Ariane 5 ECA</td>
+</tr>
+
+<tr><td>	Launch site:</td>
+<td>	Guiana Space Centre, Kourou, French Guiana</td>
+</tr>
+
+<tr><td>	Orbital location:</td>
+<td>	geostationary at 33.5°W</td>
+</tr>
+
+<tr><td>	Operational lifetime:</td>
+<td>	15 years</td>
+</tr>
+
+<tr><td>	Payload:</td>
+<td>	repeaters: eight flexible Ka-band forward link transponders; one flexible Ka-band return link transponder; two flexible Ku-band transponders</td>
+</tr>
+
+<tr><td>	&nbsp;</td>
+<td>	
+antennas: deployable 1.6 m-diameter <b>Ku-band</b> reflector antenna generating a linearly polarised shaped beam with European coverage;<br />a single-feed-per-beam <b>Ka-band</b> antenna system with two elliptical antennas – each measuring 1.6 x 1.35 m – generating eight circularly polarised spot beams, each covering a key European market</td>
+</tr>
+
+<tr><td>	Spacecraft bus:</td>
+<td>	ISRO I-2K (three-axis stabilised)</td>
+</tr>
+
+<tr><td>	Launch mass:</td>
+<td>	2242 kg (1109 kg dry mass)</td>
+</tr>
+
+<tr><td>	Size:</td>
+<td>	4.2 x 2.6 x 2.5 m; deployed solar array span 9.0 m; deployed antenna span 6.0 m</td>
+</tr>
+
+<tr><td>	Power supply:</td>
+<td>	two Sun-tracking wings each comprising two (2.54 x 1.53 m) solar panels, made up of triple-junction gallium arsenide cells; two batteries each comprising 20 lithium-ion cells with 32 Ah capacity</td>
+</tr>
+
+<tr><td>	Satellite control centre:</td>
+<td>	Inmarsat HQ, East London, UK</td>
+</tr>
+
+<tr><td>	Network operations centre:</td>
+<td>	Avanti Communications HQ, London, UK</td>
+</tr>
+
+<tr><td>	Gateway stations:</td>
+<td>	primary: Goonhilly (UK); back-up: Land’s End (UK)</td>
+</tr>
+
+</table>
+	</div>	
+    
+						
+    
+						
+    
+						
+    
+						
+    
+						
+    
+						
+    
+					
+
+<div class="share button-group article__block article__item">
+
+<button id="ezsr_6818648_25_5" class="btn ezsr-star-rating-enabled" title="Like">Like</button>
+<p id="ezsr_just_rated_6818648" class="ezsr-just-rated hide">Thank you for liking</p>
+<p id="ezsr_has_rated_6818648" class="ezsr-has-rated hide">You have already liked this page, you can only like it once!</p>
+
+
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+	<a class="a2a_button_x"></a>
+	<a class="a2a_button_facebook"></a>
+	<a class="a2a_button_copy_link"></a>
+	<a class="a2a_dd" href=https://www.addtoany.com/share></a>
+</div>
+
+</div>
+
+</article>
+
+
+
+	<section class="cards">
+		<h2 class="heading section-heading">Related Links</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1288708980">
+<a class="card focuson" href="https://esamultimedia.esa.int/images/telecom/02_logo_blue_green_rgb.jpg" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/media/image_links/hylas_logo_icon/3751852-5-eng-GB/Hylas_logo_icon_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading"></h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1288797840">
+<a class="card focuson" href="http://telecom.esa.int/telecom/www/language/index.cfm?flanguageid=5" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/media/image_links/artes_3-4_telecom_icon/3756300-6-eng-GB/Artes_3-4_telecom_icon_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Telecommunications and Integrated Applications</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																																													 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	 
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1257509400">
+<a class="card focuson" href="http://www.avantiplc.com/home" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">Avanti Communications</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+
+	
+	
+ 
+	<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+
+<script>
+if (jQuery.cookie('cc_cookie_accept') == "cc_cookie_accept") {
+var s = document.createElement("script");
+
+s.src = "https://static.addtoany.com/menu/page.js";
+document.body.appendChild(s);
+}</script>
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

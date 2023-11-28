@@ -1,0 +1,372 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="IUE overview">
+<title>ESA - IUE overview</title>						<meta name="keywords" content="SPCS iue overview">
+			
+	
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header exploring-discovering">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'exploring-discovering';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+		<script>
+$.post(
+	'/ezjscore/call', 
+	"ezjscServer_function_arguments=esaux::viewsincr::183463", 
+	function(data) { 
+		$(document).ready(function() {			$('#viewcount').text(data)
+		})
+	})
+</script>
+
+
+
+<article class="article mission-overview exploring-discovering">
+
+
+
+<header class="entry article__block">
+	<span class="pillar article__item">Science & Exploration</span>
+	<h1 class="heading heading--main article__item">IUE overview</h1>
+	<div class="meta article__item">
+		<span><span id="viewcount">12559</span><small> views</small></span>
+		
+	</div>
+</header>
+<div class="breadcrumbs article__block article__item">
+<a class="breadcrumbs__entry" href="/">ESA</a> /			<a class="breadcrumbs__entry" href="/Science_Exploration">Science & Exploration</a> /			<a class="breadcrumbs__entry" href="/Science_Exploration/Space_Science">Space Science</a></div>
+
+
+<div class="abstract article__block article__item">
+	
+</div>
+
+
+
+
+<div class="article__block">
+				</div>
+
+
+    
+					
+	
+    
+							
+														
+																	
+
+
+
+								
+				
+								
+						
+								
+												<div class="article__block">
+				<figure class="article__image article__image--right">
+					<a href="/ESA_Multimedia/Images/2003/04/Artist_s_impression_of_IUE2" class="popup">
+				<img src="/var/esa/storage/images/esa_multimedia/images/2003/04/artist_s_impression_of_iue2/10104731-2-eng-GB/Artist_s_impression_of_IUE_article.jpg" alt="Artist's impression of IUE">
+			</a>
+				<figcaption class="image__caption">
+							<a href="/ESA_Multimedia/Images/2003/04/Artist_s_impression_of_IUE2">Artist's impression of IUE</a>
+								</figcaption>
+	</figure>	
+		<p>
+<b>Status</b><br />Completed (1996)</p><p>
+<b>Objective</b><br />Making ultraviolet observations, ranging from comets to quasars, the International Ultraviolet Explorer was the world’s longest-lived and one of the most productive satellites ever built.</p><p>
+<b>Mission</b><br />The IUE is the longest-lived and one of the most productive satellites ever built. It worked non-stop (only one week of program interruption was made in 1985) until it was switched off in September 1996, 14 years later than originally planned. Although IUE produced no images, it provided invaluable data by measuring the energies of ultraviolet rays coming from celestial objects, giving insight into the physiscal conditions in those objects.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">What’s special?</h2>
+	    
+						
+		<p>Instead of producing pictures of a planet or galaxy, IUE spread the ultraviolet radiation in a spectrum and so revealed which wavelengths are strong and which are weak. The resulting graphs look cryptic to non-experts.</p><p>On average, IUE made one hour-long observation every 90 minutes, around the clock. It detected ultraviolet light that cannot reach telescopes on the ground, and everything from far-off supernovae to approaching comets came under IUE’s analytical gaze. Even though its observing method (spectroscopy) was not readily understandable to the general public, the IUE mission is one of the biggest success stories in space science.</p><p>Comparing IUE with the Hubble Space Telescope, the American astrophysicist Freeman Dyson spoke of ‘a little half-metre mirror sitting in the sky, unnoticed by the public, pouring out results while its big sister was still struggling to be born’.</p><p>The IUE can be seen as the precursor mission of the observatories which have come later, and which are now considered an essential part of the tools of the scientists. Subsequent failures of the on-board gyroscopes used for the pointing and stability requirements of IUE tended to complicate the operations. In the end, with only one gyroscope, the mission continued but with severe restrictions on the observing programme.</p><p>IUE was the first scientific satellite that allowed ‘visiting’ astronomers to make real-time observations of UV spectra and allow immediate response to unanticipated results. The impressive response time of less than one hour provided an unparalleled flexibility in scheduling unforeseen observations. This has given a strong impulse to the discipline of multi-wavelength astrophysics, where observations with instruments on the ground and in space are coordinated to obtain simultaneous measurements over a wide range of the electromagnetic spectrum.</p><p>The flexibility of IUE demonstrated for the first time the power of these diagnostic tools in astrophysics. This has also highlighted the dynamic nature of the Universe where enormously energetic sources vary in their radiative output over timescales less than hours. IUE provided astronomers with a unique tool, and requests for observation time remained two to three times greater than available, even towards the end of orbital operations.</p><p>A real innovation of IUE was the rapid turnaround of the data processing. The observers were not burdened with the instrumental details, but could do the data reduction immediately after the observations. The scientists could concentrate on the analysis of their observations, rather than spending much of their time in correcting for instrumental effects with which they are normally not familiar.</p><p>At the time of switch-off, IUE was the longest-lived and the most productive satellite in the history of space astronomy. After more than 18 years, IUE still worked 24 hours a day, harvesting new knowledge for astronomers.</p><p>Key observations included Halley’s Comet during its 1986 visit, the first space observations of a naked-eye visible supernova event in 300 years in the nearby galaxy LMC in 1987, and the extensive observational programme of the Jupiter atmosphere after the impact of Comet Shoemaker-Levy in 1994. Astronomers still continue to work with the wealth of data now stored in the IUE final archive.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Spacecraft</h2>
+	    
+						
+		<p>IUE was a three-axis stabilised spacecraft which could control its pointing direction to better than ± 1 arcsecond. Its fixed solar wings extending from opposing sides of the spacecraft body were inclined to provide optimal power to the instrument over a wide range of solar angles. Most of the power electronics were mounted in the main equipment bay at the base, while the experiment electronics and attitude control elements were on the upper equipment platform.</p><p>The telescope mirror had an aperture of 0.45 metres and had four ultraviolet cameras on board: one primary long-wavelength camera, one primary short-wavelength camera, and a back-up for each.</p><p>The reliability of IUE's operation throughout its 18-year lifetime was staggering. Although the back-up cameras were faulty, the primary cameras remained fully operational. Despite the failure of four of its six gyroscopes, the pointing and slew control remained precise to the last.</p><p>When its fourth gyroscope failed in 1985, IUE continued operations thanks to an innovative reworking of its attitude control system by using the fine Sun sensor as a substitute. Targets were acquired blindly by knowledge of their positions and by careful pointing of the telescope. This redesign (the first ever in the history of space) worked well, with the loss of only a few minutes observation time per hour. Even with another gyroscope lost in its last year, IUE could still be stabilised in three axes, with only a single gyroscope, by adding star-tracker measurements.</p><p>IUE accomplished its attitude control originally with six gyroscopes, three reaction wheels (one spare was never used in orbit), fine-error sensors (imaging devices using the telescope optics) used for identification and stabilisation of the telescope pointing, fine/coarse Sun sensors and hydrazine thrusters (27.3 kilograms hydrazine in 6 tanks) for momentum and orbit adjustment.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Journey</h2>
+	    
+						
+		<p>IUE was placed into a geo-synchronous orbit above the Atlantic Ocean. Until October 1995, IUE was in continuous operation, controlled 16 hours daily from one observatory and ground station on the East coast of America and the remaining 8 hours from the ESA IUE Observatory near Madrid, Spain.</p><p>Operational schemes were later completely redesigned and an innovative control system was implemented. With these innovations it became feasible to do science operations fully controlled from the ground station in Spain, even when the satellite could not be seen from Spain because it was below the horizon. For practical reasons, only 16 hours of each day were used for scientific operations, and 8 hours of the orbit –inside the Van Allen belts- were used for spacecraft housekeeping.</p><p>In February 1996, the partners ESA, NASA, and PPARC decided to discontinue the operations. IUE remained operational until September 1996, when its hydrazine was deliberately vented, its batteries drained and its transmitter turned off, thereby ensuring that IUE would remain intact as a non-operational spacecraft and not risk an accidental disruption of the spacecraft.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">History</h2>
+	    
+						
+		<p>When IUE went into orbit around the Earth in January 1978, it was designed to last for three years. After 18 years in space, the operational complexity due to different equipment failures had become so large that the decision to switch it off in 1996 was fully justified. However, even at that time, astronomers were still queuing up to use the instrument. The objectives of IUE were observation of faint stars, quasars, comets, gas streams, and extragalactic objects. As the remit of its mission was wide, it was an ideal candidate for an ESA mission in the Agency’s early days.</p>	</div>	
+	<div class="article__block">
+	<h2 class="heading">Partnerships</h2>
+	    
+						
+		<p>IUE was a trilateral project, in which NASA provided the spacecraft, telescope, spectrographs and one ground observatory, ESA provided the solar panels and the second observatory, and the United Kingdom the four spectrograph detectors and the fine-error sensor cameras.</p><p>In addition to controlling the satellite, the ground stations acted as typical astronomical observatories, except that their telescope hovered far out in space. ESA’s IUE Observatory was established in 1977 at the Villafranca Satellite Tracking Station, Madrid, Spain. The NASA IUE Observatory was located in Goddard Space Flight Centre, Maryland, United States.</p>	</div>	
+    
+					
+</article>
+
+
+	<section class="cards">
+		<h2 class="heading section-heading">Related Links</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																																										
+								
+										
+						
+
+
+	
+	 
+
+		
+<div class="grid-item story" data-date="1054709760">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/IUE_factsheet">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">IUE factsheet</h3>  
+
+<div class="meta">
+		<span>1635 <small>views</small></span>
+			<span>2 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																																													
+								
+										
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1055422200">
+<a class="card story exploring-discovering" href="/Science_Exploration/Space_Science/Observations_Seeing_in_ultraviolet_wavelengths">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2002/01/venus_in_ultraviolet_light/9126721-5-eng-GB/Venus_in_ultraviolet_light_card_medium.jpg" alt="Venus in ultraviolet light">
+	</figure>
+	<header class="entry">
+									
+		<span class="pillar">Science & Exploration</span>
+
+<h3 class="heading">Observations: Seeing in ultraviolet wavelengths</h3>  
+
+<div class="meta">
+		<span>5681 <small>views</small></span>
+			<span>13 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+																																													 
+										
+														
+ 
+		
+ 
+	
+  
+	
+
+
+	
+	 
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1056445080">
+<a class="card focuson" href="http://sci.esa.int/iue" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/extension/pillars/design/pillars/images/nebula.jpg" alt="">
+	</figure>
+	<header class="entry">
+				<h3 class="heading">IUE in depth</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+
+		<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

@@ -1,0 +1,974 @@
+		
+
+		
+	
+<!doctype html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/var/esa/cache/public/stylesheets/c35b41a32fb01cc5cc5a0efcc8ca483e_1685535780_all.css" />
+
+
+
+
+
+
+
+
+
+<link href="/fontawesome/css/fontawesome.css" rel="stylesheet">
+<link href="/fontawesome/css/brands.css" rel="stylesheet">
+<link href="/fontawesome/css/solid.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+
+
+
+
+<script type="text/javascript" src="/var/esa/cache/public/javascript/ec3756e8a47adc0f64e3c43418bca85a_1634129598.js" charset="utf-8"></script>
+
+
+
+		<meta property="og:title" content="Meteosat">
+<title>ESA - Meteosat</title>					<meta name="description" content="Meteosat Second Generation (MSG) is a meteorological  satellite, jointly developed and operated by ESA and EUMETSAT. It follows up the success of the first generation Meteosat weather satellite series.">
+		<meta property="og:description" content="Meteosat Second Generation (MSG) is a meteorological  satellite, jointly developed and operated by ESA and EUMETSAT. It follows up the success of the first generation Meteosat weather satellite series.">
+				<meta name="keywords" content="Meteosat Second Generation, MSG, weather, satellite, meteorology, EUMETSAT">
+			
+	
+	<script>
+var _paq = window._paq = window._paq || [];
+_paq.push(["setDomains", ["*.www.esa.int","*.www.esa.int"]]);
+_paq.push(["enableCrossDomainLinking"]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {	var u="https://www-analytics.esa.int/";
+	_paq.push(['setTrackerUrl', u+'matomo.php']);
+	_paq.push(['setSiteId', '46']);
+	var d=document, g=d.createElement('script'),
+	s=d.getElementsByTagName('script')[0];
+	g.type='text/javascript'; g.async=true; g.src=u+'matomo.js';
+	s.parentNode.insertBefore(g,s);})();
+</script>
+
+</head>
+	
+
+<body>
+
+
+<div class="wrapper popmod">
+	<div id="cookie_loc"></div>
+	
+		
+
+<section id="esa-header" class="esa-header connecting-benefiting">
+	<div class="esa-header__left">
+		<button id="esa-menu" class="esa-header__toggle menu-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Menu.svg" alt="ESA menu toggle">
+		</button>
+		<button id="esa-search" class="esa-header__toggle search-toggle">
+			<img class="esa-header__icon" src="/extension/pillars/design/pillars/images/ESA_Search.svg" alt="ESA search toggle">
+		</button>
+		<img class="esa-header__title" src="/extension/pillars/design/pillars/images/ESA_Title.svg" alt="ESA title">
+	</div>
+	<div class="esa-header__right">
+		<a class="esa-header__link" href="/">
+			<img class="esa-header__logo" src="/extension/pillars/design/pillars/images/ESA_Logo.svg" alt="ESA logo">
+		</a>
+	</div>
+</section>
+
+<form class="quick-search" action="/esearch">
+	<input class="quick-search__field" type="text" name="q" placeholder="Search ESA">
+	<button class="quick-search__submit" type="submit"><i class="far fa-arrow-right"></i></button>
+</form>
+	
+	
+	<script>
+try {	iniframe = window.self !== window.top;} catch (e) {	iniframe = true;}if (!iniframe) {theme = 'connecting-benefiting';
+$.get('/var/esa/storage/menu_overlay.html', for_overlay_menu);}</script>
+
+<section id="overlay-menu"></section>
+	
+
+				
+			<section class="page-header mission-header connecting-benefiting">
+	<header class="entry">
+		<a href="/Applications" class="pillar">Applications</a>
+		<h1 class="heading">Meteosat </h1>
+		<p class="subheading">Meteorogical satellites</p> 
+	</header>
+	<div class="social-media-links">
+		
+										
+													
+														
+														
+														
+						</div>
+					<img class="image-bg stellar" src="/var/esa/storage/images/applications/observing_the_earth/meteorological_missions/meteosat/19716744-15-eng-GB/Meteosat_pillars.jpg" alt="Meteosat" data-stellar-ratio="0.8"> 
+</section>
+
+<section class="mission-details">
+	<div class="mission-intro">
+		
+		<a name="eztoc19726974_1" id="eztoc19726974_1"></a><h2><b>The mission</b></h2><p>Europe’s series of Meteosat satellites has been improving the accuracy of weather forecasts for over 40 years.&nbsp;The first Meteosat was launched in 1977 and also goes down in history as ESA’s first Earth observation mission.&nbsp;From geostationary orbit, the Meteosat satellites provide a continuous stream of images of the whole Earth disc, to monitor the weather over Europe, Africa&nbsp;and parts of the Atlantic and Indian Ocean.&nbsp;</p>
+	</div>
+	<div class="mission-data">
+		
+		<a name="eztoc19727997_1" id="eztoc19727997_1"></a><h2><b>The launch</b></h2>
+<ul>
+
+<li><b>First launch:</b> Meteosat-1 on 23 November 1977</li>
+
+<li><b>Site:</b> Cape Canaveral, US</li>
+
+<li><b>Rocket:</b>&nbsp;Delta 2000</li>
+
+</ul>
+
+	</div>
+	</section>
+
+<section class="mission-stats connecting-benefiting">
+	
+		
+		
+<ul>
+
+<li><b>11</b> satellites in the series</li>
+
+<li><b>40+ yrs</b> of imagery</li>
+
+<li><b>36000 </b>km&nbsp;altitude</li>
+
+</ul>
+
+	
+	<div class="dimmer"></div>
+	<img class="image-bg" src="/" alt="Meteosat">
+</section>
+
+
+
+	
+						  
+	
+
+
+
+
+
+
+					 
+
+	
+																																			
+				
+																																																					
+				
+														
+				
+												
+			
+	
+					
+			
+			 
+		
+					
+			
+			 
+		
+					
+						
+						 
+		
+					
+			
+			 
+						
+ 
+
+<section class="cards filtered">
+	<div class="filter-wrapper">
+		<h2 class="heading section-heading">
+			
+							Latest
+					</h2>
+		<div class="filters button-group">
+			<button data-filter="" class="btn active">All</button>
+			<button data-filter=".story" class="btn">Stories</button>
+			<button data-filter=".video" class="btn">Videos</button>
+			<button data-filter=".image" class="btn">Images</button>
+		</div>
+	</div>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+					
+
+
+
+
+		
+	
+					
+						
+				
+	
+	
+	
+<div class="grid-item video" data-date="1677596400">
+<a class="card video connecting-benefiting popup" href="/ESA_Multimedia/Videos/2023/02/Storm_Juliette_over_the_Balearic_Islands">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Video</span>
+						<span class="duration">00:00:31
+</span>
+					</div>
+		<img class="play-button" src="/extension/pillars/design/pillars/images/play-button.svg" alt="Play">
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/videos/2023/02/storm_juliette_over_the_balearic_islands/24732755-1-eng-GB/Storm_Juliette_over_the_Balearic_Islands_card_medium.png" alt="">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Storm Juliette over the Balearic Islands</h3>  
+
+<div class="meta">
+			<span>28/02/2023</span>
+		<span>1030 <small>views</small></span>
+			<span>4 <small>likes</small></span>
+		
+	</div>
+			</header>
+	<div class="cta">
+		<label>Play</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Play">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1650614400">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Earth_from_Space_Earth_Day">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2022/04/earth/24035530-2-eng-GB/Earth_card_medium.jpg" alt="Earth">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Earth from Space: Earth Day</h3>  
+
+<div class="meta">
+			<span>22/04/2022</span>
+		<span>23691 <small>views</small></span>
+			<span>67 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1552056060">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/New_observations_for_the_new_economy">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2018/05/cloud-free_europe_from_sentinel-3/17518604-1-eng-GB/Cloud-free_Europe_from_Sentinel-3_card_medium.jpg" alt="Cloud-free Europe">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">New observations for the new economy</h3>  
+
+<div class="meta">
+			<span>08/03/2019</span>
+		<span>10024 <small>views</small></span>
+			<span>87 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+ 
+		
+<div class="grid-item story" data-date="1511359740">
+<a class="card story agency" href="/About_Us/ESA_history/Forty_years_of_Meteosat">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2017/11/meteosat-1_launch/17264652-1-eng-GB/Meteosat-1_launch_card_medium.jpg" alt="Meteosat-1 launch">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Agency</span>
+
+<h3 class="heading">Forty years of Meteosat</h3>  
+
+<div class="meta">
+			<span>22/11/2017</span>
+		<span>6013 <small>views</small></span>
+			<span>111 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1510131300">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Shared_vision_strengthens_Europe_s_space_strategy">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2015/04/earth_seen_by_meteosat/15370001-1-eng-GB/Earth_seen_by_Meteosat_card_medium.jpg" alt="Earth seen by Meteosat ">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">Shared vision strengthens Europe’s space strategy</h3>  
+
+<div class="meta">
+			<span>08/11/2017</span>
+		<span>4182 <small>views</small></span>
+			<span>44 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+					
+				
+
+
+	
+	
+
+	
+										
+						
+											
+
+		
+<div class="grid-item story" data-date="1437989400">
+<a class="card story connecting-benefiting" href="/Applications/Observing_the_Earth/Meteorological_missions/Meteosat/ESA_hands_over_control_of_the_MSG-4_weather_satellite">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Story</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2015/07/msg-4/15516404-1-eng-GB/MSG-4_card_medium.jpg" alt="MSG-4 in orbit">
+	</figure>
+	<header class="entry">
+				
+		<span class="pillar">Applications</span>
+
+<h3 class="heading">ESA hands over control of the MSG-4 weather satellite </h3>  
+
+<div class="meta">
+			<span>27/07/2015</span>
+		<span>5621 <small>views</small></span>
+			<span>61 <small>likes</small></span>
+		
+	</div>
+	</header>
+	<div class="cta">
+		<label>Read</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Read">
+	</div>
+</a>
+</div>
+  
+				<div class="grid-item story image video"> 
+<a class="card more" href="/Applications/Observing_the_Earth/Meteorological_missions/Meteosat/(archive)/0">
+	<div class="outline">
+		<h3 class="heading">More items</h3>
+	</div>
+</a>
+</div>
+	</div>
+</section>
+		
+		
+											<!-- # obj in slider 4 -->		<section class="feature slider">
+	<div class="flexslider"><ul class="slides">
+								<li>
+				
+	
+	
+ 
+	
+
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Image Gallery</h3>
+		
+					<a class="cta" href="http://www.esa.int/ESA_Multimedia/Missions/Meteosat_Second_Generation_MSG/(result_type)/images" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2015/08/msg-4_europe_s_latest_weather_satellite_delivers_first_image/15547768-1-eng-GB/MSG-4_Europe_s_latest_weather_satellite_delivers_first_image_pillars.jpg" alt="MSG-4 first image">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+	
+	
+ 
+	
+
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Video gallery</h3>
+		
+					<a class="cta" href="http://www.esa.int/spaceinvideos/content/search?SearchText=msg" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2013/09/video_gallery/13006679-1-eng-GB/Video_gallery_pillars.jpg" alt="">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+	
+	
+ 
+	
+
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Get to know Europe's meteorological missions</h3>
+		
+					<a class="cta" href="https://esamultimedia.esa.int/docs/EarthObservation/Europes_Meteorological_Missions_infographic_2022.pdf" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2020/06/meteo_missions_infographics_icon/22078787-4-eng-GB/Meteo_missions_infographics_icon_pillars.jpg" alt="">
+</figure>
+</div>
+</li>
+						
+											<li>
+				
+	
+	
+ 
+		
+					
+			
+
+
+
+	
+	
+
+	
+			  
+										
+						
+											
+<div class="feature-item story connecting-benefiting">
+<figure class="thumbnail">
+	<header class="entry">
+		
+		
+		<span class="pillar">Applications</span>
+		<h3 class="heading">30 years of Meteosat in pictures</h3>
+		
+					<a class="cta" href="/Applications/Observing_the_Earth/Meteorological_missions/Meteosat/Meteosat_s_history_in_pictures" target="_blank">
+				<label>Open</label>
+				<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+			</a>
+			</header>
+	<div class="dimmer"></div>
+	
+	<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/1998/01/meteosat_scanning_radiometer/9103304-5-eng-GB/Meteosat_scanning_radiometer_pillars.jpg" alt="Meteosat scanning radiometer">
+</figure>
+</div>
+</li>
+						
+						</ul></div>
+	</section>				
+		
+											<section class="link-section dark">
+		<div class="theme-block connecting-benefiting">
+					<h2 class="heading section-heading">Discover Meteosat</h2>
+	<div class="section-group button-group">
+																		
+							<a href="/Applications/Observing_the_Earth/Meteorological_missions/Meteosat/A_brief_history_of_Meteosat" class="btn">A brief history of Meteosat</a>
+		
+		 
+
+																		
+							<a href="/Applications/Observing_the_Earth/Meteorological_missions/Meteosat/Keeping_an_eye_on_the_weather" class="btn">Keeping an eye on the weather</a>
+		
+		 
+
+												
+									
+							<h3 class="heading">Meteosat Second Generation (MSG)</h3>
+		
+					
+																																					
+													<a href="/Applications/Observing_the_Earth/Meteorological_missions/Meteosat/Introducing_MSG" class="btn">Introducing MSG</a>
+				
+				 
+
+																																		
+													<a href="/Applications/Observing_the_Earth/Meteorological_missions/Meteosat/Why_we_need_MSG" class="btn">Why we need MSG</a>
+				
+				 
+
+																																		
+													<a href="/Applications/Observing_the_Earth/Meteorological_missions/Meteosat/How_MSG_works" class="btn">How MSG works</a>
+				
+				 
+
+																																		
+													<a href="/Applications/Observing_the_Earth/Meteorological_missions/Meteosat/Designed_for_the_high_ground_of_space" class="btn">Designed for the high ground of space</a>
+				
+				 
+
+																																		
+													<a href="/Applications/Observing_the_Earth/Meteorological_missions/Meteosat/Reaching_orbit" class="btn">Reaching orbit</a>
+				
+				 
+
+																																		
+													<a href="/Applications/Observing_the_Earth/Meteorological_missions/Meteosat/Launch_and_early_orbit_phase" class="btn">Launch and early orbit phase</a>
+				
+				 
+
+			 
+						</div> 
+			<div class="section-group button-group">
+					 
+
+												
+									
+							<h3 class="heading">The future</h3>
+		
+					
+																																					
+													<a href="/Applications/Observing_the_Earth/Meteorological_missions/Meteosat/Next_steps" class="btn">Next steps</a>
+				
+				 
+
+																																		
+													<a href="/Applications/Observing_the_Earth/Meteorological_missions/Meteosat/Beyond_MSG_and_MetOp" class="btn">Beyond MSG and MetOp</a>
+				
+				 
+
+			 
+						</div> 
+			<div class="section-group button-group">
+					 
+
+												
+									
+							<h3 class="heading">Follow us</h3>
+		
+					
+																																 
+												
+																		<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new?topic_id=EUESA_6" class="btn"><i class="fas fa-rss"></i>Subscribe</a>
+				
+				 
+
+																													 
+												
+																		<a href="https://twitter.com/ESA_EO" class="btn"><i class="fa-brands fa-x-twitter"></i> @ESA_EO</a>
+				
+				 
+
+																													 
+												
+																		<a href="https://www.instagram.com/esa_earth/" class="btn"><i class="fab fa-instagram"></i> @esa_earth</a>
+				
+				 
+
+			 
+					 
+
+	 
+	</div> 
+
+</div> 
+ 
+		</section>
+			
+		
+									
+	<section class="cards">
+					<h2 class="heading section-heading">Recommended</h2>
+	<div class="grid clearfix">
+		<div class="grid-sizer"></div>
+																		 
+										
+											
+												
+																			
+				
+	
+	
+ 
+		
+					
+			
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1112884920">
+<a class="card focuson connecting-benefiting" href="/Applications/Observing_the_Earth" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/images/2019/10/eo_general/21103663-1-eng-GB/EO_general_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Observing the Earth</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+																					
+								
+										
+
+
+	 
+
+		
+<div class="grid-item focuson" data-date="1696322254">
+<a class="card focuson connecting-benefiting" href="/Applications/Observing_the_Earth/Meteorological_missions">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<img class="image-bg" src="/var/esa/storage/images/applications/observing_the_earth/meteorological_missions/19716541-8-eng-GB/Meteorological_missions_card_full.jpg" alt="Meteorological missions">
+	</figure>
+	<header class="entry">
+		<span class="pillar">Applications</span>
+		<h3 class="heading">Meteorological missions</h3>
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open item">
+	</div>
+</a>
+</div>
+																					 
+										
+											
+												
+																			
+				
+	
+	
+ 
+		
+					
+			
+ 
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	<div class="grid-item highlight mission" data-date="1554111120">
+<a class="card highlight mission connecting-benefiting" href="/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Mission</span>
+		</div>
+		<header class="entry">
+			<span class="pillar">Applications</span>
+			<h3 class="heading">Meteosat Third Generation</h3>
+			
+		</header>
+		<img class="image-bg" src="/var/esa/storage/images/esa_multimedia/satellite_images/mtg_mission_cover/12059961-2-eng-GB/MTG_mission_cover_card_full.jpg" alt="Meteosat Third Generation">
+		<div class="cta">
+			<label>Open</label>
+			<img class="arrow" src="/extension/pillars/design/pillars/images/arrow-white.svg" alt="Open">
+		</div>
+	</figure>
+</a>
+</div>
+																					 
+										
+														
+				
+	
+	
+ 
+	
+  
+	
+
+
+	
+	
+
+	
+										
+						
+											
+
+
+ 
+	
+<div class="grid-item focuson" data-date="1347889020">
+<a class="card focuson connecting-benefiting" href="http://www.eumetsat.int" target="_blank">
+	<figure class="thumbnail">
+		<div class="entry-info">
+			<span class="category">Focus on</span>
+		</div>
+		<div class="dimmer"></div>
+		<img class="image-bg" src="/var/esa/storage/images/media/image_links/eumetsat_logo/3764509-10-eng-GB/eumetsat_logo_card_medium.jpg" alt="">
+	</figure>
+	<header class="entry">
+					<span class="pillar">Applications</span>
+				<h3 class="heading">Eumetsat</h3> 
+		<p class="subheading"></p>
+		
+	</header>
+	<div class="cta">
+		<label>Open</label>
+		<img class="arrow" src="/extension/pillars/design/pillars/images/arrow.svg" alt="Open">
+	</div>
+</a>
+</div>
+						</div>
+</section> 
+ 
+		
+		
+		
+ 
+
+
+	<section id="footer">
+
+<span class="footer__signature">European Space Agency</span>
+
+<div class="footer-nav">
+	
+	
+						
+																 
+								
+														
+																			<a href="/Services/Frequently_asked_questions">FAQ</a>
+																				
+							<a href="/Services/Contacts">Contacts</a>
+																				
+							<a href="/Services/Terms_and_conditions">Terms and conditions</a>
+																	 
+								
+														
+																			<a href="/Services/Privacy_notice">Privacy notice</a>
+																	 
+								
+														
+																			<a href="/About_Us/Careers_at_ESA">Careers at ESA</a>
+																	 
+								
+										<a href="https://public.govdelivery.com/accounts/EUESA/subscriber/new">Subscribe</a>
+				
+</div>
+<div class="social-media-links">
+	<a href="https://www.youtube.com/user/ESA" target="_blank"><i class="fab fa-youtube"></i></a>
+	<a href="https://twitter.com/esa" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+	<a href="https://www.facebook.com/EuropeanSpaceAgency" target="_blank"><i class="fab fa-facebook-f"></i></a>
+	<a href="https://www.instagram.com/europeanspaceagency/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.linkedin.com/company/european-space-agency/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+	
+	<a href="https://www.pinterest.com/EuropeanSpaceAgency/" target="_blank"><i class="fab fa-pinterest"></i></a>
+</div>
+
+</section>
+	<section id="popup-modal"></section></div> 
+
+	<!-- normalize.css,flexslider.css,fonts.css,main.css,header.css,components.css,article.css,modal.css,cookiecuttr.css,ie.css --> 
+
+</body>
+
+</html>

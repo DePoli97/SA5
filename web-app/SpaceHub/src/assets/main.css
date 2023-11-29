@@ -1,0 +1,15 @@
+/* @import './base.css'; */
+:root {
+    --text: #f4fbf9;
+    --background: #1a1a26;
+    --primary: #FE7F01;
+    --secondary: #093968;
+}
+
+* {
+    color: var(--text);
+}
+
+html {
+    background-image: url("./../../../public/bg.jpg");
+}

@@ -3,24 +3,10 @@ import { RouterLink, RouterView } from 'vue-router'
 </script>
 
 <template>
-    <div class="wrapper">
-        <header>
-            <a href="http://localhost:5173/">
-                <h1>SPACE HUB</h1>
-            </a>
-        </header>
         <RouterView />
-    </div>
 </template>
 
 <style scoped>
-.wrapper {
-    display: flex;
-    flex-direction: column;
-    /* align-items: center;
-    justify-content: center;
-    place-items: center; */
-}
 
 header {
     line-height: 1.5;

@@ -50,10 +50,11 @@ def query(query :str):
     queries = pd.DataFrame([["q1", str(query)]], columns=["qid", "query"])
     results = br.transform(queries)
     docs_ids = []
+    print(results.shape[0])
     for i in range(results.shape[0]):
         tmp = results.iloc[i, :]
         docs_ids.append(tmp['docid'])
-        if i >= 10:
+        if i >= 100:
             break
     docs_to_return = []
     for id in docs_ids:

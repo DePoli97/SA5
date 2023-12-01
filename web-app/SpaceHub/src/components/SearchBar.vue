@@ -1,35 +1,42 @@
 <template>
-    <form @submit.prevent="runQuery">
-        <input type="text" v-model="query" />
-        <input type="submit" value="Search"/>
-    </form>    
+    <form @submit.prevent="submit">
+        <input type="text" v-model="query" placeholder="Search Here"/>
+        <input type="submit" value="Search" />
+    </form>
 </template>
 
 <script>
 export default {
-    data: () => ({
-        query: '',
-        results: [],
-    }),
-    methods: {
-        runQuery() {
-            this.$router.push({name : "search" , query : {query : this.query}})
-            console.log(this.query)
+    name: "SearchBar",
+    props: {
+        initial_query: String,
+    },
+    data() {
+        return {
+            query: this.initial_query,
         }
-    }
+    },
+    methods: {
+        submit() {
+            this.$emit("query-submit", this.query);
+        }
+    },
 };
 </script>
 
-<style>
-@import "../assets/main.css";
+<style scoped>
+form {
+    width: 100%;
+    /* as parent */
+    display: grid;
+    grid-template-columns: 1fr 200px;
+    column-gap: 5px;
+}
+
 input {
+    font-size: 1.5em;
     color: #f4fbf9;
     border: 1px solid #FE7F01;
     background-color: #1a1a26;
-    margin-bottom: 2em;
-}
-
-input[type=text] {
-    width: 25vw;
 }
 </style>

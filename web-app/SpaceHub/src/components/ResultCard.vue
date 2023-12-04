@@ -4,6 +4,7 @@
             <h3>{{ title }}</h3>
         </a>
         <p>{{ description }}</p>
+        <p>{{ link.slice(8).split('.')[0] }}</p>
     </section>
 </template>
 

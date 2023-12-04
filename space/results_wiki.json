@@ -1,2030 +1,1298 @@
-{
+[
+  {
     "Date": "4 October 1957",
     "Event": "First artificial  satellite .  First man-made signals from space.",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Sputnik 1",
-        "href": "/wiki/Sputnik_1"
-    },
+    "Mission name": "Sputnik 1",
+    "link": "https://en.wikipedia.org//wiki/Sputnik_1",
     "References": ""
-}
-{
+  },
+  {
     "Date": "3 November 1957",
     "Event": "First mammal in  orbit , the dog  Laika .",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Sputnik 2",
-        "href": "/wiki/Sputnik_2"
-    },
+    "Mission name": "Sputnik 2",
+    "link": "https://en.wikipedia.org//wiki/Sputnik_2",
     "References": ""
-}
-{
+  },
+  {
     "Date": "31 January 1958",
     "Event": "Confirmed existence of the  Van Allen radiation belt .",
     "Country": "USA (",
-    "Mission name": {
-        "text": "Explorer 1",
-        "href": "/wiki/Explorer_1"
-    },
+    "Mission name": "Explorer 1",
+    "link": "https://en.wikipedia.org//wiki/Explorer_1",
     "References": ""
-}
-{
+  },
+  {
     "Date": "17 March 1958",
     "Event": "First use of  solar power  in space. The oldest artificial object still in space.",
     "Country": "USA (",
-    "Mission name": {
-        "text": "Vanguard 1",
-        "href": "/wiki/Vanguard_1"
-    },
+    "Mission name": "Vanguard 1",
+    "link": "https://en.wikipedia.org//wiki/Vanguard_1",
     "References": ""
-}
-{
+  },
+  {
     "Date": "4 January 1959",
     "Event": "First rocket to reach Earth  escape velocity .\n First spacecraft to attempt to impact the Moon's surface.  First artificial object in  heliocentric orbit .  First detection of  solar wind .",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Luna 1",
-        "href": "/wiki/Luna_1"
-    },
+    "Mission name": "Luna 1",
+    "link": "https://en.wikipedia.org//wiki/Luna_1",
     "References": ""
-}
-{
+  },
+  {
     "Date": "17 February 1959",
     "Event": "First  weather satellite .",
     "Country": "USA (NRL)",
-    "Mission name": {
-        "text": "Vanguard 2",
-        "href": "/wiki/Vanguard_2"
-    },
+    "Mission name": "Vanguard 2",
+    "link": "https://en.wikipedia.org//wiki/Vanguard_2",
     "References": ""
-}
-{
+  },
+  {
     "Date": "7 August 1959",
     "Event": "First photograph of Earth  from Earth orbit.",
     "Country": "USA (",
-    "Mission name": {
-        "text": "Explorer 6",
-        "href": "/wiki/Explorer_6"
-    },
+    "Mission name": "Explorer 6",
+    "link": "https://en.wikipedia.org//wiki/Explorer_6",
     "References": ""
-}
-{
+  },
+  {
     "Date": "13 September 1959",
     "Event": "First spacecraft to impact another celestial body (the  Moon ). First delivery of national pennants to a celestial body.",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Luna 2",
-        "href": "/wiki/Luna_2"
-    },
+    "Mission name": "Luna 2",
+    "link": "https://en.wikipedia.org//wiki/Luna_2",
     "References": ""
-}
-{
+  },
+  {
     "Date": "4 October 1959",
     "Event": "First photos of another world from space: the  far side of the Moon .",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Luna 3",
-        "href": "/wiki/Luna_3"
-    },
+    "Mission name": "Luna 3",
+    "link": "https://en.wikipedia.org//wiki/Luna_3",
     "References": ""
-}
-{
-    "Date": null,
-    "Event": null,
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
+  },
+  {
     "Date": "March 1960",
     "Event": "First solar probe.",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Pioneer 5",
-        "href": "/wiki/Pioneer_5"
-    },
+    "Mission name": "Pioneer 5",
+    "link": "https://en.wikipedia.org//wiki/Pioneer_5",
     "References": ""
-}
-{
+  },
+  {
     "Date": "19 August 1960",
     "Event": "First plants and animals to return alive from Earth orbit.",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Sputnik 5",
-        "href": "/wiki/Sputnik_5"
-    },
+    "Mission name": "Sputnik 5",
+    "link": "https://en.wikipedia.org//wiki/Sputnik_5",
     "References": ""
-}
-{
+  },
+  {
     "Date": "25 September 1960",
     "Event": "First rocket engine fired in space.",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Pioneer P-30",
-        "href": "/wiki/Pioneer_P-30"
-    },
+    "Mission name": "Pioneer P-30",
+    "link": "https://en.wikipedia.org//wiki/Pioneer_P-30",
     "References": ""
-}
-{
+  },
+  {
     "Date": "10 October 1960",
     "Event": "First probe  launched to Mars .",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Mars 1M",
-        "href": "/wiki/Mars_1M"
-    },
+    "Mission name": "Mars 1M",
+    "link": "https://en.wikipedia.org//wiki/Mars_1M",
     "References": ""
-}
-{
+  },
+  {
     "Date": "31 January 1961",
     "Event": "First  hominidae  in space( Ham ).\n First tasks performed in space.",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "M-R 2",
-        "href": "/wiki/Mercury-Redstone_2"
-    },
+    "Mission name": "M-R 2",
+    "link": "https://en.wikipedia.org//wiki/Mercury-Redstone_2",
     "References": ""
-}
-{
+  },
+  {
     "Date": "12 February 1961",
     "Event": "First launch from Earth orbit of  upper stage  into a  heliocentric orbit . First mid-course corrections.  First  spin-stabilisation .",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Venera 1",
-        "href": "/wiki/Venera_1"
-    },
+    "Mission name": "Venera 1",
+    "link": "https://en.wikipedia.org//wiki/Venera_1",
     "References": ""
-}
-{
+  },
+  {
     "Date": "12 April 1961",
     "Event": "First  human spaceflight  ( Yuri Gagarin ). First human-crewed orbital flight.",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Vostok 1",
-        "href": "/wiki/Vostok_1"
-    },
+    "Mission name": "Vostok 1",
+    "link": "https://en.wikipedia.org//wiki/Vostok_1",
     "References": ""
-}
-{
+  },
+  {
     "Date": "5 May 1961",
     "Event": "First human-piloted space flight ( Alan Shepard ). First human-crewed suborbital flight.",
     "Country": "USA",
-    "Mission name": {
-        "text": "Freedom 7",
-        "href": "/wiki/Freedom_7"
-    },
+    "Mission name": "Freedom 7",
+    "link": "https://en.wikipedia.org//wiki/Freedom_7",
     "References": ""
-}
-{
+  },
+  {
     "Date": "19 May 1961",
     "Event": "First planetary flyby (within 100,000 km of  Venus  – no data returned).",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Venera 1",
-        "href": "/wiki/Venera_1"
-    },
+    "Mission name": "Venera 1",
+    "link": "https://en.wikipedia.org//wiki/Venera_1",
     "References": ""
-}
-{
+  },
+  {
     "Date": "6 August 1961",
     "Event": "First crewed space flight lasting over twenty four hours by  Gherman Titov , who is also the first to suffer from  space sickness .",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Vostok 2",
-        "href": "/wiki/Vostok_2"
-    },
+    "Mission name": "Vostok 2",
+    "link": "https://en.wikipedia.org//wiki/Vostok_2",
     "References": ""
-}
-{
+  },
+  {
     "Date": "7 March 1962",
     "Event": "First orbital  solar observatory .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": null,
-        "href": "/wiki/Orbiting_Solar_Observatory"
-    },
+    "Mission name": null,
+    "link": "https://en.wikipedia.org//wiki/Orbiting_Solar_Observatory",
     "References": ""
-}
-{
+  },
+  {
     "Date": "26 April 1962",
     "Event": "First spacecraft to impact the  far side of the Moon .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Ranger 4",
-        "href": "/wiki/Ranger_4"
-    },
+    "Mission name": "Ranger 4",
+    "link": "https://en.wikipedia.org//wiki/Ranger_4",
     "References": ""
-}
-{
+  },
+  {
     "Date": "11 August 1962",
     "Event": "First dual crewed spaceflight. First communication between two crewed space vehicles in orbit. First person to float freely in microgravity.",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Vostok 3",
-        "href": "/wiki/Vostok_3"
-    },
+    "Mission name": "Vostok 3",
+    "link": "https://en.wikipedia.org//wiki/Vostok_3",
     "References": ""
-}
-{
+  },
+  {
     "Date": "18 August 1962",
     "Event": "First auroral research rocket launched into the ionosphere.",
     "Country": "",
-    "Mission name": {
-        "text": null,
-        "href": "/wiki/And%C3%B8ya_Space#Ferdinand_1"
-    },
+    "Mission name": null,
+    "link": "https://en.wikipedia.org//wiki/And%C3%B8ya_Space#Ferdinand_1",
     "References": ""
-}
-{
+  },
+  {
     "Date": "November 1962",
     "Event": "First Mars flyby (11,000 km) but contact was lost.",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Mars 1",
-        "href": "/wiki/Mars_1"
-    },
+    "Mission name": "Mars 1",
+    "link": "https://en.wikipedia.org//wiki/Mars_1",
     "References": ""
-}
-{
+  },
+  {
     "Date": "14 December 1962",
     "Event": "First planetary flyby with data returned ( Venus ).\n First successful  planetary science  mission.",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Mariner 2",
-        "href": "/wiki/Mariner_2"
-    },
+    "Mission name": "Mariner 2",
+    "link": "https://en.wikipedia.org//wiki/Mariner_2",
     "References": ""
-}
-{
+  },
+  {
     "Date": "16 June 1963",
     "Event": "First woman in space ( Valentina Tereshkova ).",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Vostok 6",
-        "href": "/wiki/Vostok_6"
-    },
+    "Mission name": "Vostok 6",
+    "link": "https://en.wikipedia.org//wiki/Vostok_6",
     "References": ""
-}
-{
+  },
+  {
     "Date": "19 July 1963",
     "Event": "First  reusable crewed spacecraft  ( suborbital ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "X-15 Flight 90",
-        "href": "/wiki/X-15_Flight_90"
-    },
+    "Mission name": "X-15 Flight 90",
+    "link": "https://en.wikipedia.org//wiki/X-15_Flight_90",
     "References": ""
-}
-{
+  },
+  {
     "Date": "12 October 1964",
     "Event": "First multi-person crew (3) in orbit.",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Voskhod 1",
-        "href": "/wiki/Voskhod_1"
-    },
+    "Mission name": "Voskhod 1",
+    "link": "https://en.wikipedia.org//wiki/Voskhod_1",
     "References": ""
-}
-{
+  },
+  {
     "Date": "18 March 1965",
     "Event": "First space walk/ extra-vehicular activity  ( Alexei Leonov ).",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Voskhod 2",
-        "href": "/wiki/Voskhod_2"
-    },
+    "Mission name": "Voskhod 2",
+    "link": "https://en.wikipedia.org//wiki/Voskhod_2",
     "References": ""
-}
-{
+  },
+  {
     "Date": "March 1965",
     "Event": "First crewed spacecraft to change orbit.",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Gemini 3",
-        "href": "/wiki/Gemini_3"
-    },
+    "Mission name": "Gemini 3",
+    "link": "https://en.wikipedia.org//wiki/Gemini_3",
     "References": ""
-}
-{
+  },
+  {
     "Date": "14 July 1965",
     "Event": "First flyby of  Mars  (returned pictures).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Mariner 4",
-        "href": "/wiki/Mariner_4"
-    },
+    "Mission name": "Mariner 4",
+    "link": "https://en.wikipedia.org//wiki/Mariner_4",
     "References": ""
-}
-{
+  },
+  {
     "Date": "14 July 1965",
     "Event": "First photographs of another planet from deep space ( Mars ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Mariner 4",
-        "href": "/wiki/Mariner_4"
-    },
+    "Mission name": "Mariner 4",
+    "link": "https://en.wikipedia.org//wiki/Mariner_4",
     "References": ""
-}
-{
+  },
+  {
     "Date": "15 December 1965",
     "Event": "First orbital  rendezvous  (parallel flight, no docking).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Gemini 6A",
-        "href": "/wiki/Gemini_6A"
-    },
+    "Mission name": "Gemini 6A",
+    "link": "https://en.wikipedia.org//wiki/Gemini_6A",
     "References": ""
-}
-{
+  },
+  {
     "Date": "3 February 1966",
     "Event": "First  soft landing  on another world (the Moon).  First photos from another world.",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Luna 9",
-        "href": "/wiki/Luna_9"
-    },
+    "Mission name": "Luna 9",
+    "link": "https://en.wikipedia.org//wiki/Luna_9",
     "References": ""
-}
-{
+  },
+  {
     "Date": "1 March 1966",
     "Event": "First impact into another planet ( Venus ).",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Venera 3",
-        "href": "/wiki/Venera_3"
-    },
+    "Mission name": "Venera 3",
+    "link": "https://en.wikipedia.org//wiki/Venera_3",
     "References": ""
-}
-{
+  },
+  {
     "Date": "16 March 1966",
     "Event": "First orbital docking between two spacecraft.",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Gemini 8",
-        "href": "/wiki/Gemini_8"
-    },
+    "Mission name": "Gemini 8",
+    "link": "https://en.wikipedia.org//wiki/Gemini_8",
     "References": ""
-}
-{
+  },
+  {
     "Date": "3 April 1966",
     "Event": "First artificial satellite around another world (the  Moon ).",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Luna 10",
-        "href": "/wiki/Luna_10"
-    },
+    "Mission name": "Luna 10",
+    "link": "https://en.wikipedia.org//wiki/Luna_10",
     "References": ""
-}
-{
+  },
+  {
     "Date": "2 June 1966",
     "Event": "First  soft-landing on the Moon .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Surveyor 1",
-        "href": "/wiki/Surveyor_1"
-    },
+    "Mission name": "Surveyor 1",
+    "link": "https://en.wikipedia.org//wiki/Surveyor_1",
     "References": ""
-}
-{
+  },
+  {
     "Date": "23",
     "Event": "First picture of Earth  from another astronomical object (the  Moon ).\n First probe to  map the Moon .",
     "Country": "USA",
-    "Mission name": {
-        "text": "Lunar Orbiter 1",
-        "href": "/wiki/Lunar_Orbiter_1"
-    },
+    "Mission name": "Lunar Orbiter 1",
+    "link": "https://en.wikipedia.org//wiki/Lunar_Orbiter_1",
     "References": ""
-}
-{
+  },
+  {
     "Date": "8 May 1967",
     "Event": "First  polar orbit  around the Moon.",
     "Country": "USA",
-    "Mission name": {
-        "text": "Lunar Orbiter 4",
-        "href": "/wiki/Lunar_Orbiter_4"
-    },
+    "Mission name": "Lunar Orbiter 4",
+    "link": "https://en.wikipedia.org//wiki/Lunar_Orbiter_4",
     "References": ""
-}
-{
+  },
+  {
     "Date": "July 1967",
     "Event": "First photos of the  Lunar south pole .",
     "Country": "USA",
-    "Mission name": {
-        "text": "Lunar Orbiter 4",
-        "href": "/wiki/Lunar_Orbiter_4"
-    },
+    "Mission name": "Lunar Orbiter 4",
+    "link": "https://en.wikipedia.org//wiki/Lunar_Orbiter_4",
     "References": ""
-}
-{
+  },
+  {
     "Date": "30 October 1967",
     "Event": "First automated (crewless)  docking .",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Cosmos 186",
-        "href": "/wiki/Kosmos_186_and_Kosmos_188"
-    },
+    "Mission name": "Cosmos 186",
+    "link": "https://en.wikipedia.org//wiki/Kosmos_186_and_Kosmos_188",
     "References": ""
-}
-{
+  },
+  {
     "Date": "17 November 1967",
     "Event": "First liftoff from another celestial body (the  Moon ).",
     "Country": "USA",
-    "Mission name": {
-        "text": "Surveyor 6",
-        "href": "/wiki/Surveyor_6"
-    },
+    "Mission name": "Surveyor 6",
+    "link": "https://en.wikipedia.org//wiki/Surveyor_6",
     "References": ""
-}
-{
+  },
+  {
     "Date": "September 1968",
     "Event": "First  animals  and  plants to leave Earth  orbit and travel to and around the Moon.\n First lunar spacecraft  to be recovered successfully.",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Zond 5",
-        "href": "/wiki/Zond_5"
-    },
+    "Mission name": "Zond 5",
+    "link": "https://en.wikipedia.org//wiki/Zond_5",
     "References": ""
-}
-{
+  },
+  {
     "Date": "7 December 1968",
     "Event": "First orbital ultraviolet observatory.",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": null,
-        "href": "/wiki/Orbiting_Astronomical_Observatory"
-    },
+    "Mission name": null,
+    "link": "https://en.wikipedia.org//wiki/Orbiting_Astronomical_Observatory",
     "References": ""
-}
-{
+  },
+  {
     "Date": "21 December 1968",
     "Event": "First human excursion beyond low Earth orbit.\n First in-person observations of Earth from a distance. First  Trans-Earth injection .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Apollo 8",
-        "href": "/wiki/Apollo_8"
-    },
+    "Mission name": "Apollo 8",
+    "link": "https://en.wikipedia.org//wiki/Apollo_8",
     "References": ""
-}
-{
+  },
+  {
     "Date": "24 December 1968",
     "Event": "First human flight to another celestial body (the  Moon ) and to enter its gravitational influence.",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Apollo 8",
-        "href": "/wiki/Apollo_8"
-    },
+    "Mission name": "Apollo 8",
+    "link": "https://en.wikipedia.org//wiki/Apollo_8",
     "References": ""
-}
-{
+  },
+  {
     "Date": "January 1969",
     "Event": "First docking between two crewed spacecraft in Earth orbit.\n First crew exchange in space.",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Soyuz 4",
-        "href": "/wiki/Soyuz_4"
-    },
+    "Mission name": "Soyuz 4",
+    "link": "https://en.wikipedia.org//wiki/Soyuz_4",
     "References": ""
-}
-{
+  },
+  {
     "Date": "January 1969",
     "Event": "First spacecraft to parachute in Venus's atmosphere, lost contact before landing.",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Venera 5",
-        "href": "/wiki/Venera_5"
-    },
+    "Mission name": "Venera 5",
+    "link": "https://en.wikipedia.org//wiki/Venera_5",
     "References": ""
-}
-{
+  },
+  {
     "Date": "23 May 1969",
     "Event": "First docking of two crewed spacecraft around another celestial body.\n First lunar mission to include a  lunar landing module .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Apollo 10",
-        "href": "/wiki/Apollo_10"
-    },
+    "Mission name": "Apollo 10",
+    "link": "https://en.wikipedia.org//wiki/Apollo_10",
     "References": ""
-}
-{
+  },
+  {
     "Date": "20 July 1969",
     "Event": "First human on another  celestial body  (the Moon).\n First words spoken from another world.",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Apollo 11",
-        "href": "/wiki/Apollo_11"
-    },
+    "Mission name": "Apollo 11",
+    "link": "https://en.wikipedia.org//wiki/Apollo_11",
     "References": ""
-}
-{
+  },
+  {
     "Date": "21 July 1969",
     "Event": "First space launch from another celestial body.\n First  sample return  from another celestial body.",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Apollo 11",
-        "href": "/wiki/Apollo_11"
-    },
+    "Mission name": "Apollo 11",
+    "link": "https://en.wikipedia.org//wiki/Apollo_11",
     "References": ""
-}
-{
+  },
+  {
     "Date": "19 November 1969",
     "Event": "First  rendezvous  on the surface of a celestial body.\n First meet up between human explorers and a robotic spacecraft in space (on the  Moon ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Apollo 12",
-        "href": "/wiki/Apollo_12"
-    },
+    "Mission name": "Apollo 12",
+    "link": "https://en.wikipedia.org//wiki/Apollo_12",
     "References": ""
-}
-{
-    "Date": null,
-    "Event": null,
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
+  },
+  {
     "Date": "24 September 1970",
     "Event": "First  automatic sample return  from the Moon.",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Luna 16",
-        "href": "/wiki/Luna_16"
-    },
+    "Mission name": "Luna 16",
+    "link": "https://en.wikipedia.org//wiki/Luna_16",
     "References": ""
-}
-{
+  },
+  {
     "Date": "17 November 1970",
     "Event": "First  rover  on another celestial body (the Moon).\n First  lunar rover .",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Lunokhod 1",
-        "href": "/wiki/Lunokhod_1"
-    },
+    "Mission name": "Lunokhod 1",
+    "link": "https://en.wikipedia.org//wiki/Lunokhod_1",
     "References": ""
-}
-{
+  },
+  {
     "Date": "12 December 1970",
     "Event": "First  X-ray orbital observatory .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": null,
-        "href": "/wiki/Uhuru_(satellite)"
-    },
+    "Mission name": null,
+    "link": "https://en.wikipedia.org//wiki/Uhuru_(satellite)",
     "References": ""
-}
-{
+  },
+  {
     "Date": "15 December 1970",
     "Event": "First soft landing on another planet ( Venus ).  First signals from another planet.",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Venera 7",
-        "href": "/wiki/Venera_7"
-    },
+    "Mission name": "Venera 7",
+    "link": "https://en.wikipedia.org//wiki/Venera_7",
     "References": ""
-}
-{
+  },
+  {
     "Date": "19 April 1971",
     "Event": "First  space station .",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Salyut 1",
-        "href": "/wiki/Salyut_1"
-    },
+    "Mission name": "Salyut 1",
+    "link": "https://en.wikipedia.org//wiki/Salyut_1",
     "References": ""
-}
-{
+  },
+  {
     "Date": "June 1971",
     "Event": "First  crewed orbital observatory .",
     "Country": "USSR",
-    "Mission name": {
-        "text": null,
-        "href": "/wiki/Orion_1_and_Orion_2_Space_Observatories"
-    },
+    "Mission name": null,
+    "link": "https://en.wikipedia.org//wiki/Orion_1_and_Orion_2_Space_Observatories",
     "References": ""
-}
-{
+  },
+  {
     "Date": "30 July 1971",
     "Event": "First  motor vehicle  on another celestial body ( Lunar Roving Vehicle ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Apollo 15",
-        "href": "/wiki/Apollo_15"
-    },
+    "Mission name": "Apollo 15",
+    "link": "https://en.wikipedia.org//wiki/Apollo_15",
     "References": ""
-}
-{
+  },
+  {
     "Date": "14 November 1971",
     "Event": "First spacecraft to orbit another planet ( Mars ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Mariner 9",
-        "href": "/wiki/Mariner_9"
-    },
+    "Mission name": "Mariner 9",
+    "link": "https://en.wikipedia.org//wiki/Mariner_9",
     "References": ""
-}
-{
+  },
+  {
     "Date": "27 November 1971",
     "Event": "First spacecraft to impact another planet (Mars).",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Mars 2",
-        "href": "/wiki/Mars_2"
-    },
+    "Mission name": "Mars 2",
+    "link": "https://en.wikipedia.org//wiki/Mars_2",
     "References": ""
-}
-{
+  },
+  {
     "Date": "2 December 1971",
     "Event": "First  soft landing on Mars .  First signals from  Martian surface . First photograph from Martian surface.",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Mars 3",
-        "href": "/wiki/Mars_3"
-    },
+    "Mission name": "Mars 3",
+    "link": "https://en.wikipedia.org//wiki/Mars_3",
     "References": ""
-}
-{
+  },
+  {
     "Date": "3 March 1972",
     "Event": "First  spacecraft on a trajectory out of the solar system .\n First spacecraft to use all-nuclear electrical power ( SNAP-19   RTGs ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Pioneer 10",
-        "href": "/wiki/Pioneer_10"
-    },
+    "Mission name": "Pioneer 10",
+    "link": "https://en.wikipedia.org//wiki/Pioneer_10",
     "References": ""
-}
-{
+  },
+  {
     "Date": "15 July 1972",
     "Event": "First spacecraft to enter the  asteroid belt .\n First spacecraft beyond the  orbit of Mars .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Pioneer 10",
-        "href": "/wiki/Pioneer_10"
-    },
+    "Mission name": "Pioneer 10",
+    "link": "https://en.wikipedia.org//wiki/Pioneer_10",
     "References": ""
-}
-{
+  },
+  {
     "Date": "15 November 1972",
     "Event": "First orbital  gamma ray observatory .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": null,
-        "href": "/wiki/Second_Small_Astronomy_Satellite"
-    },
+    "Mission name": null,
+    "link": "https://en.wikipedia.org//wiki/Second_Small_Astronomy_Satellite",
     "References": ""
-}
-{
+  },
+  {
     "Date": "3 November 1973",
     "Event": "First mission sent to study  Mercury .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Mariner 10",
-        "href": "/wiki/Mariner_10"
-    },
+    "Mission name": "Mariner 10",
+    "link": "https://en.wikipedia.org//wiki/Mariner_10",
     "References": ""
-}
-{
+  },
+  {
     "Date": "3 December 1973",
     "Event": "First flyby of  Jupiter .\n First spacecraft beyond the Inner Solar System.",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Pioneer 10",
-        "href": "/wiki/Pioneer_10"
-    },
+    "Mission name": "Pioneer 10",
+    "link": "https://en.wikipedia.org//wiki/Pioneer_10",
     "References": ""
-}
-{
+  },
+  {
     "Date": "January 1974",
     "Event": "First spacecraft to return data on a  long-period comet .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Mariner 10",
-        "href": "/wiki/Mariner_10"
-    },
+    "Mission name": "Mariner 10",
+    "link": "https://en.wikipedia.org//wiki/Mariner_10",
     "References": ""
-}
-{
+  },
+  {
     "Date": "5 February 1974",
     "Event": "First  gravity assist .\n First mission to explore two planets in a single mission (Mercury and  Venus ). First photograph of  Venus  from space.\n First use of  solar wind  for spacecraft orientation.",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Mariner 10",
-        "href": "/wiki/Mariner_10"
-    },
+    "Mission name": "Mariner 10",
+    "link": "https://en.wikipedia.org//wiki/Mariner_10",
     "References": ""
-}
-{
+  },
+  {
     "Date": "29 March 1974",
     "Event": "First flyby of  Mercury .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Mariner 10",
-        "href": "/wiki/Mariner_10"
-    },
+    "Mission name": "Mariner 10",
+    "link": "https://en.wikipedia.org//wiki/Mariner_10",
     "References": ""
-}
-{
+  },
+  {
     "Date": "21 Sept. 1974",
     "Event": "First spacecraft to flyby the same planet multiple times ( Mercury ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Mariner 10",
-        "href": "/wiki/Mariner_10"
-    },
+    "Mission name": "Mariner 10",
+    "link": "https://en.wikipedia.org//wiki/Mariner_10",
     "References": ""
-}
-{
+  },
+  {
     "Date": "15 July 1975",
     "Event": "First multinational crewed mission.",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Apollo-Soyuz Test Project",
-        "href": "/wiki/Apollo-Soyuz_Test_Project"
-    },
+    "Mission name": "Apollo-Soyuz Test Project",
+    "link": "https://en.wikipedia.org//wiki/Apollo-Soyuz_Test_Project",
     "References": ""
-}
-{
+  },
+  {
     "Date": "20 October 1975",
     "Event": "First spacecraft to orbit Venus.",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Venera 9",
-        "href": "/wiki/Venera_9"
-    },
+    "Mission name": "Venera 9",
+    "link": "https://en.wikipedia.org//wiki/Venera_9",
     "References": ""
-}
-{
+  },
+  {
     "Date": "22 October 1975",
     "Event": "First successful photos from the surface of another planet (Venus).",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Venera 9",
-        "href": "/wiki/Venera_9"
-    },
+    "Mission name": "Venera 9",
+    "link": "https://en.wikipedia.org//wiki/Venera_9",
     "References": ""
-}
-{
+  },
+  {
     "Date": "20 July 1976",
     "Event": "First successful photos and soil samples from the  surface of Mars .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": null,
-        "href": "/wiki/Viking_program"
-    },
+    "Mission name": null,
+    "link": "https://en.wikipedia.org//wiki/Viking_program",
     "References": ""
-}
-{
+  },
+  {
     "Date": "26 January 1978",
     "Event": "First real time remotely operated ultraviolet orbital observatory.",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "International Ultraviolet Explorer",
-        "href": "/wiki/International_Ultraviolet_Explorer"
-    },
+    "Mission name": "International Ultraviolet Explorer",
+    "link": "https://en.wikipedia.org//wiki/International_Ultraviolet_Explorer",
     "References": ""
-}
-{
+  },
+  {
     "Date": "20 November 1978",
     "Event": "First spacecraft to orbit the Sun at  Lagrange 1 .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "ISEE-3/ICE",
-        "href": "/wiki/International_Cometary_Explorer"
-    },
+    "Mission name": "ISEE-3/ICE",
+    "link": "https://en.wikipedia.org//wiki/International_Cometary_Explorer",
     "References": ""
-}
-{
+  },
+  {
     "Date": "4 December 1978",
     "Event": "First extended (multi-year) orbital exploration of  Venus  (from 1978 to 1992).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": null,
-        "href": "/wiki/Pioneer_Venus_project"
-    },
+    "Mission name": null,
+    "link": "https://en.wikipedia.org//wiki/Pioneer_Venus_project",
     "References": ""
-}
-{
+  },
+  {
     "Date": "5 March 1979",
     "Event": "Jupiter  flyby (closest approach 349,000 km) Encounters with five  Jovian moons . Discovery of volcanism on  Io .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Voyager 1",
-        "href": "/wiki/Voyager_1"
-    },
+    "Mission name": "Voyager 1",
+    "link": "https://en.wikipedia.org//wiki/Voyager_1",
     "References": ""
-}
-{
+  },
+  {
     "Date": "1 September 1979",
     "Event": "First flyby of  Saturn .\n First photograph of  Titan  from deep space.",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Pioneer 11",
-        "href": "/wiki/Pioneer_11"
-    },
+    "Mission name": "Pioneer 11",
+    "link": "https://en.wikipedia.org//wiki/Pioneer_11",
     "References": ""
-}
-{
-    "Date": null,
-    "Event": null,
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
+  },
+  {
     "Date": "12 November 1980",
     "Event": "Saturn flyby (closest approach 124,000 km), close encounter of  Titan  and encounters with a  dozen other moons .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Voyager 1",
-        "href": "/wiki/Voyager_1"
-    },
+    "Mission name": "Voyager 1",
+    "link": "https://en.wikipedia.org//wiki/Voyager_1",
     "References": ""
-}
-{
+  },
+  {
     "Date": "12 April 1981",
     "Event": "First reusable crewed orbital spacecraft ( Space Shuttle ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "STS-1",
-        "href": "/wiki/STS-1"
-    },
+    "Mission name": "STS-1",
+    "link": "https://en.wikipedia.org//wiki/STS-1",
     "References": ""
-}
-{
+  },
+  {
     "Date": "1 March 1982",
     "Event": "First  Venus soil samples \n First sound recording of another world ( Venus ).",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Venera 13",
-        "href": "/wiki/Venera_13"
-    },
+    "Mission name": "Venera 13",
+    "link": "https://en.wikipedia.org//wiki/Venera_13",
     "References": ""
-}
-{
+  },
+  {
     "Date": "10 June 1982",
     "Event": "First spacecraft to conduct a deep survey of  Earth's magnetic tail .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": null,
-        "href": "/wiki/International_Cometary_Explorer"
-    },
+    "Mission name": null,
+    "link": "https://en.wikipedia.org//wiki/International_Cometary_Explorer",
     "References": ""
-}
-{
+  },
+  {
     "Date": "19 August 1982",
     "Event": "First mixed gender crew aboard space station, and first woman,  Svetlana Savitskaya , on space station.",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Salyut 7",
-        "href": "/wiki/Salyut_7"
-    },
+    "Mission name": "Salyut 7",
+    "link": "https://en.wikipedia.org//wiki/Salyut_7",
     "References": ""
-}
-{
+  },
+  {
     "Date": "1982",
     "Event": "First  plants grown in space  ( Arabidopsis ).",
     "Country": "USSR",
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
+    "Mission name": null,
+    "link": null,
     "References": ""
-}
-{
+  },
+  {
     "Date": "25 January 1983",
     "Event": "First Infrared  orbital observatory .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "IRAS",
-        "href": "/wiki/IRAS"
-    },
+    "Mission name": "IRAS",
+    "link": "https://en.wikipedia.org//wiki/IRAS",
     "References": ""
-}
-{
+  },
+  {
     "Date": "13 June 1983",
     "Event": "First spacecraft beyond the orbit of  Neptune .\n First spacecraft beyond all Solar System planets.",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Pioneer 10",
-        "href": "/wiki/Pioneer_10"
-    },
+    "Mission name": "Pioneer 10",
+    "link": "https://en.wikipedia.org//wiki/Pioneer_10",
     "References": ""
-}
-{
+  },
+  {
     "Date": "7 February 1984",
     "Event": "First untethered  spacewalk  ( Bruce McCandless II ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "STS-41-B",
-        "href": "/wiki/STS-41-B"
-    },
+    "Mission name": "STS-41-B",
+    "link": "https://en.wikipedia.org//wiki/STS-41-B",
     "References": ""
-}
-{
+  },
+  {
     "Date": "25 July 1984",
     "Event": "First spacewalk by a woman ( Svetlana Savitskaya ).",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Salyut 7",
-        "href": "/wiki/Salyut_7"
-    },
+    "Mission name": "Salyut 7",
+    "link": "https://en.wikipedia.org//wiki/Salyut_7",
     "References": ""
-}
-{
+  },
+  {
     "Date": "11 June 1985",
     "Event": "First  balloon  deployed on another planet ( Venus ).",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Vega 1",
-        "href": "/wiki/Vega_1"
-    },
+    "Mission name": "Vega 1",
+    "link": "https://en.wikipedia.org//wiki/Vega_1",
     "References": ""
-}
-{
+  },
+  {
     "Date": "11 September 1985",
     "Event": "First spacecraft to flyby a comet ( 21P/Giacobini-Zinner ). [note 1]",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": null,
-        "href": "/wiki/International_Cometary_Explorer"
-    },
+    "Mission name": null,
+    "link": "https://en.wikipedia.org//wiki/International_Cometary_Explorer",
     "References": ""
-}
-{
+  },
+  {
     "Date": "24 January 1986",
     "Event": "First spacecraft to flyby  Uranus .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Voyager 2",
-        "href": "/wiki/Voyager_2"
-    },
+    "Mission name": "Voyager 2",
+    "link": "https://en.wikipedia.org//wiki/Voyager_2",
     "References": ""
-}
-{
+  },
+  {
     "Date": "19 February 1986",
     "Event": "First consistently inhabited long-term research  space station .",
     "Country": "USSR",
-    "Mission name": {
-        "text": "Mir",
-        "href": "/wiki/Mir"
-    },
+    "Mission name": "Mir",
+    "link": "https://en.wikipedia.org//wiki/Mir",
     "References": ""
-}
-{
+  },
+  {
     "Date": "13 March 1986",
     "Event": "First close up observations of a comet ( Halley's Comet , 596 kilometers).",
     "Country": "ESA",
-    "Mission name": {
-        "text": "Giotto",
-        "href": "/wiki/Giotto_(spacecraft)"
-    },
+    "Mission name": "Giotto",
+    "link": "https://en.wikipedia.org//wiki/Giotto_(spacecraft)",
     "References": ""
-}
-{
+  },
+  {
     "Date": "July 1988",
     "Event": "First suspected detection of an  exoplanet  ( Gamma Cephei Ab ). [note 2]",
     "Country": "",
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
+    "Mission name": null,
+    "link": null,
     "References": ""
-}
-{
+  },
+  {
     "Date": "8 August 1989",
     "Event": "First  astrometric  satellite.",
     "Country": "ESA",
-    "Mission name": {
-        "text": "Hipparcos",
-        "href": "/wiki/Hipparcos"
-    },
+    "Mission name": "Hipparcos",
+    "link": "https://en.wikipedia.org//wiki/Hipparcos",
     "References": ""
-}
-{
+  },
+  {
     "Date": "25 August 1989",
     "Event": "First spacecraft to flyby  Neptune .\n First spacecraft to study all four of the solar system's  giant planets  at close range.",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Voyager 2",
-        "href": "/wiki/Voyager_2"
-    },
+    "Mission name": "Voyager 2",
+    "link": "https://en.wikipedia.org//wiki/Voyager_2",
     "References": ""
-}
-{
+  },
+  {
     "Date": "18 November 1989",
     "Event": "First orbital cosmic  microwave observatory .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": null,
-        "href": "/wiki/Cosmic_Background_Explorer"
-    },
+    "Mission name": null,
+    "link": "https://en.wikipedia.org//wiki/Cosmic_Background_Explorer",
     "References": ""
-}
-{
-    "Date": null,
-    "Event": null,
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
+  },
+  {
     "Date": "14 February 1990",
     "Event": "First photograph of the whole Solar System  ( Family Portrait ) .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Voyager 1",
-        "href": "/wiki/Voyager_1"
-    },
+    "Mission name": "Voyager 1",
+    "link": "https://en.wikipedia.org//wiki/Voyager_1",
     "References": ""
-}
-{
+  },
+  {
     "Date": "24 April 1990",
     "Event": "First telescope designed to be repaired in space.",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Hubble Space Telescope",
-        "href": "/wiki/Hubble_Space_Telescope"
-    },
+    "Mission name": "Hubble Space Telescope",
+    "link": "https://en.wikipedia.org//wiki/Hubble_Space_Telescope",
     "References": ""
-}
-{
+  },
+  {
     "Date": "2 July 1990",
     "Event": "First time a spacecraft coming from deep space uses the Earth for a  gravity-assist  manoeuvre.",
     "Country": "ESA",
-    "Mission name": {
-        "text": "Giotto",
-        "href": "/wiki/Giotto_(spacecraft)"
-    },
+    "Mission name": "Giotto",
+    "link": "https://en.wikipedia.org//wiki/Giotto_(spacecraft)",
     "References": ""
-}
-{
+  },
+  {
     "Date": "21 October 1991",
     "Event": "First  asteroid  flyby ( 951 Gaspra  closest approach 1,600 km).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Galileo",
-        "href": "/wiki/Galileo_(spacecraft)"
-    },
+    "Mission name": "Galileo",
+    "link": "https://en.wikipedia.org//wiki/Galileo_(spacecraft)",
     "References": ""
-}
-{
+  },
+  {
     "Date": "1992",
     "Event": "First confirmed observation of an  exoplanet .",
     "Country": "Canada",
-    "Mission name": {
-        "text": "Aleksander Wolszczan",
-        "href": "/wiki/Aleksander_Wolszczan"
-    },
+    "Mission name": "Aleksander Wolszczan",
+    "link": "https://en.wikipedia.org//wiki/Aleksander_Wolszczan",
     "References": ""
-}
-{
+  },
+  {
     "Date": "8 February 1992",
     "Event": "First  polar orbit  around the  Sun .\n First mission to survey the space environment above and below the poles of the Sun.",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Ulysses",
-        "href": "/wiki/Ulysses_(spacecraft)"
-    },
+    "Mission name": "Ulysses",
+    "link": "https://en.wikipedia.org//wiki/Ulysses_(spacecraft)",
     "References": ""
-}
-{
+  },
+  {
     "Date": "13 September 1992",
     "Event": "First spacecraft to  map Venus  in its entirety.",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": null,
-        "href": "/wiki/Magellan_(spacecraft)"
-    },
+    "Mission name": null,
+    "link": "https://en.wikipedia.org//wiki/Magellan_(spacecraft)",
     "References": ""
-}
-{
+  },
+  {
     "Date": "22 March 1995",
     "Event": "Record longest duration spaceflight to date (437.7 day by  Valeri Polyakov ).",
     "Country": "",
-    "Mission name": {
-        "text": "Mir",
-        "href": "/wiki/Mir"
-    },
+    "Mission name": "Mir",
+    "link": "https://en.wikipedia.org//wiki/Mir",
     "References": ""
-}
-{
+  },
+  {
     "Date": "7 December 1995",
     "Event": "First orbit of  Jupiter .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Galileo",
-        "href": "/wiki/Galileo_(spacecraft)"
-    },
+    "Mission name": "Galileo",
+    "link": "https://en.wikipedia.org//wiki/Galileo_(spacecraft)",
     "References": ""
-}
-{
+  },
+  {
     "Date": "7 December 1995",
     "Event": "First spacecraft to enter the atmosphere of a  gas giant  ( Jupiter ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "s atmospheric entry probe",
-        "href": "/wiki/Galileo_(spacecraft)"
-    },
+    "Mission name": "s atmospheric entry probe",
+    "link": "https://en.wikipedia.org//wiki/Galileo_(spacecraft)",
     "References": ""
-}
-{
+  },
+  {
     "Date": "1995",
     "Event": "First  laser communication from space .",
     "Country": "",
-    "Mission name": {
-        "text": "ETS-VI",
-        "href": "/w/index.php?title=ETS-VI&action=edit&redlink=1"
-    },
+    "Mission name": "ETS-VI",
+    "link": "https://en.wikipedia.org//w/index.php?title=ETS-VI&action=edit&redlink=1",
     "References": ""
-}
-{
+  },
+  {
     "Date": "12 February 1997",
     "Event": "First orbital radio observatory.",
     "Country": "",
-    "Mission name": {
-        "text": "HALCA",
-        "href": "/wiki/HALCA"
-    },
+    "Mission name": "HALCA",
+    "link": "https://en.wikipedia.org//wiki/HALCA",
     "References": ""
-}
-{
+  },
+  {
     "Date": "4 July 1997",
     "Event": "First operational  rover  on another planet ( Mars ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Mars Pathfinder",
-        "href": "/wiki/Mars_Pathfinder"
-    },
+    "Mission name": "Mars Pathfinder",
+    "link": "https://en.wikipedia.org//wiki/Mars_Pathfinder",
     "References": ""
-}
-{
+  },
+  {
     "Date": "17 September 1997",
     "Event": "First spacecraft to use aerobraking to enter orbit ( Martian orbit ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Mars Global Surveyor",
-        "href": "/wiki/Mars_Global_Surveyor"
-    },
+    "Mission name": "Mars Global Surveyor",
+    "link": "https://en.wikipedia.org//wiki/Mars_Global_Surveyor",
     "References": ""
-}
-{
+  },
+  {
     "Date": "20 November 1998",
     "Event": "First multinational  space station . Largest artificial object built in space  to date.",
     "Country": "Russia (FKA)",
-    "Mission name": {
-        "text": "International Space Station",
-        "href": "/wiki/International_Space_Station"
-    },
+    "Mission name": "International Space Station",
+    "link": "https://en.wikipedia.org//wiki/International_Space_Station",
     "References": ""
-}
-{
-    "Date": null,
-    "Event": null,
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
+  },
+  {
     "Date": "14 February 2000",
     "Event": "First orbit of an asteroid ( 433 Eros ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "NEAR Shoemaker",
-        "href": "/wiki/NEAR_Shoemaker"
-    },
+    "Mission name": "NEAR Shoemaker",
+    "link": "https://en.wikipedia.org//wiki/NEAR_Shoemaker",
     "References": ""
-}
-{
+  },
+  {
     "Date": "12 February 2001",
     "Event": "First landing on an asteroid ( 433 Eros ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "NEAR Shoemaker",
-        "href": "/wiki/NEAR_Shoemaker"
-    },
+    "Mission name": "NEAR Shoemaker",
+    "link": "https://en.wikipedia.org//wiki/NEAR_Shoemaker",
     "References": ""
-}
-{
+  },
+  {
     "Date": "November 2001",
     "Event": "First  laser communication in space  between two objects.",
     "Country": "ESA",
-    "Mission name": {
-        "text": "Artemis",
-        "href": "/wiki/Artemis_(satellite)"
-    },
+    "Mission name": "Artemis",
+    "link": "https://en.wikipedia.org//wiki/Artemis_(satellite)",
     "References": ""
-}
-{
+  },
+  {
     "Date": "1 July 2004",
     "Event": "First orbit of  Saturn .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Cassini–Huygens",
-        "href": "/wiki/Cassini%E2%80%93Huygens"
-    },
+    "Mission name": "Cassini–Huygens",
+    "link": "https://en.wikipedia.org//wiki/Cassini%E2%80%93Huygens",
     "References": ""
-}
-{
+  },
+  {
     "Date": "8 September 2004",
     "Event": "First  sample return  beyond lunar orbit ( solar wind ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Genesis",
-        "href": "/wiki/Genesis_(spacecraft)"
-    },
+    "Mission name": "Genesis",
+    "link": "https://en.wikipedia.org//wiki/Genesis_(spacecraft)",
     "References": ""
-}
-{
+  },
+  {
     "Date": "14 January 2005",
     "Event": "First landing in the  outer Solar System  ( Titan ).\n First landing on  a moon  other than Earth's Moon.",
     "Country": "ESA",
-    "Mission name": {
-        "text": "Cassini–Huygens",
-        "href": "/wiki/Cassini%E2%80%93Huygens"
-    },
+    "Mission name": "Cassini–Huygens",
+    "link": "https://en.wikipedia.org//wiki/Cassini%E2%80%93Huygens",
     "References": ""
-}
-{
+  },
+  {
     "Date": "January–February 2005",
     "Event": "First confirmed  cryovolcano  ( Enceladus ).",
     "Country": "ESA",
-    "Mission name": {
-        "text": "Cassini–Huygens",
-        "href": "/wiki/Cassini%E2%80%93Huygens"
-    },
+    "Mission name": "Cassini–Huygens",
+    "link": "https://en.wikipedia.org//wiki/Cassini%E2%80%93Huygens",
     "References": ""
-}
-{
+  },
+  {
     "Date": "4 July 2005",
     "Event": "First spacecraft to impact a comet ( Tempel 1 ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Deep Impact",
-        "href": "/wiki/Deep_Impact_(spacecraft)"
-    },
+    "Mission name": "Deep Impact",
+    "link": "https://en.wikipedia.org//wiki/Deep_Impact_(spacecraft)",
     "References": ""
-}
-{
+  },
+  {
     "Date": "19 November 2005",
     "Event": "First asteroid ascent ( 25143 Itokawa ). First interplanetary escape without separating and discarding the  landing gear .",
     "Country": "Japan (JAXA)",
-    "Mission name": {
-        "text": "Hayabusa",
-        "href": "/wiki/Hayabusa"
-    },
+    "Mission name": "Hayabusa",
+    "link": "https://en.wikipedia.org//wiki/Hayabusa",
     "References": ""
-}
-{
+  },
+  {
     "Date": "15 January 2006",
     "Event": "First  sample return  from a comet ( 81P/Wild ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Stardust",
-        "href": "/wiki/Stardust_(spacecraft)"
-    },
+    "Mission name": "Stardust",
+    "link": "https://en.wikipedia.org//wiki/Stardust_(spacecraft)",
     "References": ""
-}
-{
+  },
+  {
     "Date": "3 January 2007",
     "Event": "First confirmed  lakes on the surface of another celestial body  ( lakes of Titan ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Cassini–Huygens",
-        "href": "/wiki/Cassini%E2%80%93Huygens"
-    },
+    "Mission name": "Cassini–Huygens",
+    "link": "https://en.wikipedia.org//wiki/Cassini%E2%80%93Huygens",
     "References": ""
-}
-{
+  },
+  {
     "Date": "25 May 2008",
     "Event": "First spacecraft to photograph another spacecraft landing on another celestial body ( Phoenix , on Mars).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Mars Reconnaissance Orbiter",
-        "href": "/wiki/Mars_Reconnaissance_Orbiter"
-    },
+    "Mission name": "Mars Reconnaissance Orbiter",
+    "link": "https://en.wikipedia.org//wiki/Mars_Reconnaissance_Orbiter",
     "References": ""
-}
-{
+  },
+  {
     "Date": "8 November 2008",
     "Event": "First discovery of  lunar water  in the form of ice. [note 3]",
     "Country": "India (",
-    "Mission name": {
-        "text": "Chandrayaan-1",
-        "href": "/wiki/Chandrayaan-1"
-    },
+    "Mission name": "Chandrayaan-1",
+    "link": "https://en.wikipedia.org//wiki/Chandrayaan-1",
     "References": ""
-}
-{
+  },
+  {
     "Date": "6 March 2009",
     "Event": "First space telescope designated to search for  Earth-like exoplanets .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Kepler Mission",
-        "href": "/wiki/Kepler_Mission"
-    },
+    "Mission name": "Kepler Mission",
+    "link": "https://en.wikipedia.org//wiki/Kepler_Mission",
     "References": ""
-}
-{
+  },
+  {
     "Date": "August 2009",
     "Event": "First images of the structures in the  rings of a planet  ( rings of Saturn ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Cassini–Huygens",
-        "href": "/wiki/Cassini%E2%80%93Huygens"
-    },
+    "Mission name": "Cassini–Huygens",
+    "link": "https://en.wikipedia.org//wiki/Cassini%E2%80%93Huygens",
     "References": ""
-}
-{
-    "Date": null,
-    "Event": null,
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
+  },
+  {
     "Date": "20 May 2010",
     "Event": "First  solar sail .",
     "Country": "Japan (JAXA)",
-    "Mission name": {
-        "text": "IKAROS",
-        "href": "/wiki/IKAROS"
-    },
+    "Mission name": "IKAROS",
+    "link": "https://en.wikipedia.org//wiki/IKAROS",
     "References": ""
-}
-{
+  },
+  {
     "Date": "13 June 2010",
     "Event": "First  sample return  from an asteroid ( 25143 Itokawa ).",
     "Country": "Japan (JAXA)",
-    "Mission name": {
-        "text": "Hayabusa",
-        "href": "/wiki/Hayabusa"
-    },
+    "Mission name": "Hayabusa",
+    "link": "https://en.wikipedia.org//wiki/Hayabusa",
     "References": ""
-}
-{
+  },
+  {
     "Date": "25 August 2010",
     "Event": "First spacecraft to orbit one of the Moon's  Lagrange point  (L2).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": null,
-        "href": "/wiki/ARTEMIS"
-    },
+    "Mission name": null,
+    "link": "https://en.wikipedia.org//wiki/ARTEMIS",
     "References": ""
-}
-{
+  },
+  {
     "Date": "22 October 2010",
     "Event": "First spacecraft to orbit the Moon's  Lagrange 1 point .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": null,
-        "href": "/wiki/ARTEMIS"
-    },
+    "Mission name": null,
+    "link": "https://en.wikipedia.org//wiki/ARTEMIS",
     "References": ""
-}
-{
+  },
+  {
     "Date": "18 March 2011",
     "Event": "First orbit of  Mercury .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "MESSENGER",
-        "href": "/wiki/MESSENGER"
-    },
+    "Mission name": "MESSENGER",
+    "link": "https://en.wikipedia.org//wiki/MESSENGER",
     "References": ""
-}
-{
+  },
+  {
     "Date": "16 July 2011",
     "Event": "First orbit of an object in the  asteroid belt  ( 4 Vesta ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Dawn",
-        "href": "/wiki/Dawn_(spacecraft)"
-    },
+    "Mission name": "Dawn",
+    "link": "https://en.wikipedia.org//wiki/Dawn_(spacecraft)",
     "References": ""
-}
-{
+  },
+  {
     "Date": "6 August 2012",
     "Event": "First use of a  sky crane  to land on another celestial body ( Mars ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Mars Science Laboratory",
-        "href": "/wiki/Mars_Science_Laboratory"
-    },
+    "Mission name": "Mars Science Laboratory",
+    "link": "https://en.wikipedia.org//wiki/Mars_Science_Laboratory",
     "References": ""
-}
-{
+  },
+  {
     "Date": "25 August 2012",
     "Event": "First spacecraft to leave the  heliosphere .\n First spacecraft in  interstellar space .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Voyager 1",
-        "href": "/wiki/Voyager_1"
-    },
+    "Mission name": "Voyager 1",
+    "link": "https://en.wikipedia.org//wiki/Voyager_1",
     "References": ""
-}
-{
+  },
+  {
     "Date": "January 2013",
     "Event": "First  laser communication  with a lunar satellite.",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Lunar Reconnaissance Orbiter",
-        "href": "/wiki/Lunar_Reconnaissance_Orbiter"
-    },
+    "Mission name": "Lunar Reconnaissance Orbiter",
+    "link": "https://en.wikipedia.org//wiki/Lunar_Reconnaissance_Orbiter",
     "References": ""
-}
-{
+  },
+  {
     "Date": "10 September 2014",
     "Event": "First spacecraft to orbit a  comet nucleus  ( 67P/Churyumov–Gerasimenko ).",
     "Country": "ESA",
-    "Mission name": {
-        "text": "Rosetta",
-        "href": "/wiki/Rosetta_(spacecraft)"
-    },
+    "Mission name": "Rosetta",
+    "link": "https://en.wikipedia.org//wiki/Rosetta_(spacecraft)",
     "References": ""
-}
-{
+  },
+  {
     "Date": "12 November 2014",
     "Event": "First soft landing on a comet ( 67P/Churyumov–Gerasimenko ).",
     "Country": "ESA",
-    "Mission name": {
-        "text": "Philae",
-        "href": "/wiki/Philae_(spacecraft)"
-    },
+    "Mission name": "Philae",
+    "link": "https://en.wikipedia.org//wiki/Philae_(spacecraft)",
     "References": ""
-}
-{
+  },
+  {
     "Date": "6 March 2015",
     "Event": "First flyby and orbit of a  dwarf planet  ( Ceres ). First spacecraft to orbit two separate celestial bodies.",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Dawn",
-        "href": "/wiki/Dawn_(spacecraft)"
-    },
+    "Mission name": "Dawn",
+    "link": "https://en.wikipedia.org//wiki/Dawn_(spacecraft)",
     "References": ""
-}
-{
+  },
+  {
     "Date": "July 2015",
     "Event": "First flyby of an object beyond Neptune ( Pluto  and its moons).\n First flyby in the  Kuiper belt .\n First flyby of a  trans-neptunian object . Last original encounter with one of the nine major planets  recognized before 2006 .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "New Horizons",
-        "href": "/wiki/New_Horizons_(spacecraft)"
-    },
+    "Mission name": "New Horizons",
+    "link": "https://en.wikipedia.org//wiki/New_Horizons_(spacecraft)",
     "References": ""
-}
-{
+  },
+  {
     "Date": "10 August 2015",
     "Event": "First food  grown in space  eaten ( lettuce ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "International Space Station",
-        "href": "/wiki/International_Space_Station"
-    },
+    "Mission name": "International Space Station",
+    "link": "https://en.wikipedia.org//wiki/International_Space_Station",
     "References": ""
-}
-{
+  },
+  {
     "Date": "14 September 2015",
     "Event": "First observation of gravitational waves .",
     "Country": "–",
-    "Mission name": {
-        "text": "LIGO",
-        "href": "/wiki/LIGO"
-    },
+    "Mission name": "LIGO",
+    "link": "https://en.wikipedia.org//wiki/LIGO",
     "References": ""
-}
-{
+  },
+  {
     "Date": "23 November 2015",
     "Event": "First  propulsive landing  of a rocket after sending something into space ( suborbital ).",
     "Country": "USA (",
-    "Mission name": {
-        "text": null,
-        "href": "/wiki/New_Shepard#First_vertical_soft_landing"
-    },
+    "Mission name": null,
+    "link": "https://en.wikipedia.org//wiki/New_Shepard#First_vertical_soft_landing",
     "References": ""
-}
-{
+  },
+  {
     "Date": "21 December 2015",
     "Event": "First  propulsive landing  of an orbital rocket.",
     "Country": "USA (",
-    "Mission name": {
-        "text": "Falcon 9 first-stage landing tests",
-        "href": "/wiki/Falcon_9_first-stage_landing_tests"
-    },
+    "Mission name": "Falcon 9 first-stage landing tests",
+    "link": "https://en.wikipedia.org//wiki/Falcon_9_first-stage_landing_tests",
     "References": ""
-}
-{
+  },
+  {
     "Date": "16 April 2016",
     "Event": "First  inflatable space habitat . [note 4]",
     "Country": "USA (",
-    "Mission name": {
-        "text": null,
-        "href": "/wiki/Bigelow_Expandable_Activity_Module"
-    },
+    "Mission name": null,
+    "link": "https://en.wikipedia.org//wiki/Bigelow_Expandable_Activity_Module",
     "References": ""
-}
-{
+  },
+  {
     "Date": "15 September 2017",
     "Event": "First spacecraft to enter the  atmosphere of Saturn .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Cassini–Huygens",
-        "href": "/wiki/Cassini%E2%80%93Huygens"
-    },
+    "Mission name": "Cassini–Huygens",
+    "link": "https://en.wikipedia.org//wiki/Cassini%E2%80%93Huygens",
     "References": ""
-}
-{
+  },
+  {
     "Date": "19 October 2017",
     "Event": "First known  interstellar object  detected passing through the Solar System.",
     "Country": "USA (",
-    "Mission name": {
-        "text": "Oumuamua",
-        "href": "/wiki/Oumuamua"
-    },
+    "Mission name": "Oumuamua",
+    "link": "https://en.wikipedia.org//wiki/Oumuamua",
     "References": ""
-}
-{
+  },
+  {
     "Date": "21 September 2018",
     "Event": "First operational  rover  on an asteroid ( 162173 Ryugu ).",
     "Country": "Japan (JAXA)",
-    "Mission name": {
-        "text": "Hayabusa2",
-        "href": "/wiki/Hayabusa2"
-    },
+    "Mission name": "Hayabusa2",
+    "link": "https://en.wikipedia.org//wiki/Hayabusa2",
     "References": ""
-}
-{
+  },
+  {
     "Date": "1 December 2018",
     "Event": "First recorded sounds from  Mars .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "InSight",
-        "href": "/wiki/InSight"
-    },
+    "Mission name": "InSight",
+    "link": "https://en.wikipedia.org//wiki/InSight",
     "References": ""
-}
-{
+  },
+  {
     "Date": "1 January 2019",
     "Event": "First flyby of a  classical Kuiper belt object  ( 486958 Arrokoth ).\n First flyby of a  contact binary .\n First spacecraft to make two different flybys in the  Kuiper belt .",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "New Horizons",
-        "href": "/wiki/New_Horizons_(spacecraft)"
-    },
+    "Mission name": "New Horizons",
+    "link": "https://en.wikipedia.org//wiki/New_Horizons_(spacecraft)",
     "References": ""
-}
-{
+  },
+  {
     "Date": "3 January 2019",
     "Event": "First  soft landing  on the  far side of the Moon .\n First  germination of seeds on another celestial body .",
     "Country": "China (",
-    "Mission name": {
-        "text": "Chang'e 4",
-        "href": "/wiki/Chang%27e_4"
-    },
+    "Mission name": "Chang'e 4",
+    "link": "https://en.wikipedia.org//wiki/Chang%27e_4",
     "References": ""
-}
-{
+  },
+  {
     "Date": "10 April 2019",
     "Event": "First direct photograph of a  black hole  and its vicinity.",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Event Horizon Telescope",
-        "href": "/wiki/Event_Horizon_Telescope"
-    },
+    "Mission name": "Event Horizon Telescope",
+    "link": "https://en.wikipedia.org//wiki/Event_Horizon_Telescope",
     "References": ""
-}
-{
+  },
+  {
     "Date": "6 April 2021",
     "Event": "First confirmed  quake  on another planet ( marsquake ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "InSight",
-        "href": "/wiki/InSight"
-    },
+    "Mission name": "InSight",
+    "link": "https://en.wikipedia.org//wiki/InSight",
     "References": ""
-}
-{
+  },
+  {
     "Date": "19 April 2021",
     "Event": "First aerodynamically-powered flight on another celestial body ( Mars ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Ingenuity",
-        "href": "/wiki/Ingenuity_(helicopter)"
-    },
+    "Mission name": "Ingenuity",
+    "link": "https://en.wikipedia.org//wiki/Ingenuity_(helicopter)",
     "References": ""
-}
-{
+  },
+  {
     "Date": "20 April 2021",
     "Event": "First  in situ resource utilization .\n First production of oxygen on another celestial body ( Mars ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": null,
-        "href": "/wiki/Mars_Oxygen_ISRU_Experiment"
-    },
+    "Mission name": null,
+    "link": "https://en.wikipedia.org//wiki/Mars_Oxygen_ISRU_Experiment",
     "References": ""
-}
-{
+  },
+  {
     "Date": "14 December 2021",
     "Event": "First spacecraft to fly through the  atmosphere of a star  (the  Sun's corona ).",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "Parker Solar Probe",
-        "href": "/wiki/Parker_Solar_Probe"
-    },
+    "Mission name": "Parker Solar Probe",
+    "link": "https://en.wikipedia.org//wiki/Parker_Solar_Probe",
     "References": ""
-}
-{
+  },
+  {
     "Date": "25 December 2021",
     "Event": "Launch of the largest  space telescope  to date.",
     "Country": "USA (NASA)",
-    "Mission name": {
-        "text": "James Webb Space Telescope",
-        "href": "/wiki/James_Webb_Space_Telescope"
-    },
+    "Mission name": "James Webb Space Telescope",
+    "link": "https://en.wikipedia.org//wiki/James_Webb_Space_Telescope",
     "References": ""
-}
-{
+  },
+  {
     "Date": "26 September 2022",
     "Event": "First  asteroid measurably deflected by a spacecraft .\n First spacecraft to make contact with an  asteroid moon  (impact on  Dimorphos ).",
     "Country": "USA (NASA, SpaceX)",
-    "Mission name": {
-        "text": null,
-        "href": "/wiki/Double_Asteroid_Redirection_Test"
-    },
+    "Mission name": null,
+    "link": "https://en.wikipedia.org//wiki/Double_Asteroid_Redirection_Test",
     "References": ""
-}
-{
+  },
+  {
     "Date": "23 August 2023",
     "Event": "First landing at the  lunar south pole .",
     "Country": "India (",
-    "Mission name": {
-        "text": "Chandrayaan-3",
-        "href": "/wiki/Chandrayaan-3"
-    },
+    "Mission name": "Chandrayaan-3",
+    "link": "https://en.wikipedia.org//wiki/Chandrayaan-3",
     "References": ""
-}
-{
-    "Date": null,
-    "Event": null,
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": null,
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "Mercury \n Venus \n Moon \n Mars \n Jupiter \n Saturn \n Uranus \n Neptune \n Pluto",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "On extra-terrestrial surfaces \n Moon \n Venus \n Mars \n Titan \n Deep-space missions \n Heliocentric orbit \n Leaving the Solar System",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "Moon \n Venus \n Mars \n Titan",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "Heliocentric orbit \n Leaving the Solar System",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "Solar System probes \n Minor planets and comets visited by spacecraft \n Missions to minor planets \n Missions to comets \n Landings on extraterrestrial bodies \n Objects at Lagrangian points",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": null,
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": null,
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": null,
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "Space exploration \n outline \n timeline \n Spacecraft \n Spaceflight records \n Space Race \n Rocket and missile technology",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "General \n Crewed spacecraft \n timeline \n by program \n Spaceflights \n 1961–1970 \n 1971–1980 \n 1981–1990 \n 1991–2000 \n 2001–2010 \n 2011–2020 \n 2021–present \n Soviet \n Russian \n Vostok and Voskhod \n Soyuz \n Mercury \n Gemini \n Apollo \n Skylab \n Shenzhou \n Gaganyaan \n Spacelab \n Artemis \n Civilian spaceflight\n Orbital \n Suborbital \n Salyut \n Expeditions \n Spaceflights\n crewed \n uncrewed \n Spacewalks \n Visitors \n Mir \n Expeditions \n ESA \n Spaceflights\n crewed \n uncrewed \n Spacewalks \n Visitors \n ISS \n Expeditions \n ESA \n Visiting \n Spaceflights \n crewed \n uncrewed \n Spacewalks \n Visitors \n Deployed \n Tiangong \n Expeditions \n Crewed Spaceflights \n Spacewalks \n Shuttle \n Crews \n Missions \n Rollbacks \n People \n Astronauts \n by name \n by year of selection \n Apollo \n Gemini \n Mercury \n Chinese \n Asian \n European \n Cosmonauts \n women \n Muslim \n Arab \n African American \n Ibero-America \n Space scientists \n Space travelers\n by name \n by first flight \n by nationality \n billionaires \n timeline by nationality \n Spaceflight-related human fatalities \n EVA \n 1965–1999 \n 2000–2014 \n 2015–present \n Cumulative spacewalk records \n Longest spacewalks \n Spacewalkers",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "Crewed spacecraft \n timeline \n by program \n Spaceflights \n 1961–1970 \n 1971–1980 \n 1981–1990 \n 1991–2000 \n 2001–2010 \n 2011–2020 \n 2021–present \n Soviet \n Russian \n Vostok and Voskhod \n Soyuz \n Mercury \n Gemini \n Apollo \n Skylab \n Shenzhou \n Gaganyaan \n Spacelab \n Artemis \n Civilian spaceflight\n Orbital \n Suborbital",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "Expeditions \n Spaceflights\n crewed \n uncrewed \n Spacewalks \n Visitors",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "Expeditions \n ESA \n Spaceflights\n crewed \n uncrewed \n Spacewalks \n Visitors",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "Expeditions \n ESA \n Visiting \n Spaceflights \n crewed \n uncrewed \n Spacewalks \n Visitors \n Deployed",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "Expeditions \n Crewed Spaceflights \n Spacewalks",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "Crews \n Missions \n Rollbacks",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "Astronauts \n by name \n by year of selection \n Apollo \n Gemini \n Mercury \n Chinese \n Asian \n European \n Cosmonauts \n women \n Muslim \n Arab \n African American \n Ibero-America \n Space scientists \n Space travelers\n by name \n by first flight \n by nationality \n billionaires \n timeline by nationality \n Spaceflight-related human fatalities",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "1965–1999 \n 2000–2014 \n 2015–present \n Cumulative spacewalk records \n Longest spacewalks \n Spacewalkers",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "Timeline \n Interplanetary voyages \n Landings on other planets \n rovers \n artificial objects \n Objects at Lagrange points \n Probes \n active \n orbiters \n leaving the Solar System \n lunar probes \n Missions to the Moon \n Timeline of satellites \n Sample-return mission \n Mars",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "Communications satellite firsts \n CubeSats \n PocketQube \n Earth observation satellites \n Timeline of first Earth observation satellites \n Geosynchronous orbit \n GOES \n GPS \n Kosmos \n Magnetospheric \n NRO \n TDRS \n USA",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "Orbital launch systems \n Comparison \n Sounding rocket list \n Spacecraft \n uncrewed \n crewed \n heaviest \n Upper stages \n Sounding rocket \n Small-lift launch vehicle \n Medium-lift launch vehicle \n Heavy-lift launch vehicle \n Super heavy-lift launch vehicle",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "Ariane \n Antares \n Atlas \n Atlas LV3B \n Atlas LV3C \n Black Brant \n Electron \n Delta DM-19 \n Delta I \n Delta II \n Delta III \n Delta IV Heavy \n Delta IV Medium \n Delta IV \n Falcon 9 and Heavy \n 2010–2019 \n GSLV \n H-II and H3 \n Kosmos \n Long March \n Minotaur \n Proton \n PSLV \n R-7 (including Semyorka, Molniya, Vostok, Voskhod and Soyuz) \n Scout \n SLS \n Starship \n Thor and Delta \n Thor-Agena \n Thor DM-18 Able \n Thor DM-18 Agena-A \n Thor DM-18 \n Thor DM-21 Agena-B \n Titan \n Tsyklon \n V-2 tests \n Vega \n Zenit",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "Satish Dhawan",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "Communications satellite companies \n comparison \n Private spaceflight companies \n Rocket launch sites \n Space agencies \n Spacecraft manufacturers",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "First orbital launches by country \n First artificial satellites by country \n NASA missions \n Constellation missions \n Timeline of first images of Earth from space \n Timeline of longest spaceflights \n Timeline of private spaceflight",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": null,
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "Canopy \n Cave \n Cave diving \n Desert \n Ocean \n Deep-sea",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "Chronology of European exploration of Asia \n History of European exploration in Tibet \n Africa \n European maritime exploration of Australia \n European land exploration of Australia \n Exploration of the Americas \n Settlement of the Americas \n Exploration of North America \n European colonization of the Americas \n Exploration of the Pacific \n Polynesian navigation \n Polar \n Arctic \n Antarctica",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "Chinese exploration \n Timeline of European exploration \n Major explorations after the Age of Discovery \n Chronology of European exploration of Asia \n Timeline of maritime migration and exploration \n Timeline of space exploration",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "1928 Great Barrier Reef expedition \n Austrian expedition to Brazil \n Challenger expedition \n Dana expeditions \n Norwegian Scientific Expedition to Tristan Da Cunha 1937-1938 \n Operation Sunshine (USS Nautilus) \n Whitney South Sea Expedition",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "By country of origin \n French \n Italian \n Portuguese \n Spanish \n Romanian \n Russian \n By environment \n Circumnavigators \n Climbers \n Polar explorers \n Underwater explorers \n Seafarers \n Space travelers",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "French \n Italian \n Portuguese \n Spanish \n Romanian \n Russian",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
-{
-    "Date": null,
-    "Event": "Circumnavigators \n Climbers \n Polar explorers \n Underwater explorers \n Seafarers \n Space travelers",
-    "Country": null,
-    "Mission name": {
-        "text": null,
-        "href": null
-    },
-    "References": null
-}
+  }
+]

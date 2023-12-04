@@ -27,7 +27,14 @@ section {
     display: flex;
     flex-direction: column;
     background-color: #1a1a26; 
+}
 
+a:visited {
+    color: blueviolet !important;
+}
+
+* {
+    font-size: 110%;
 }
 
 section * {

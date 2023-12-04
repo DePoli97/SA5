@@ -36,7 +36,8 @@ form {
 input {
     font-size: 1.5em;
     color: #f4fbf9;
-    border: 1px solid #FE7F01;
+    border: 1px solid red;
+    border-radius: 8px;
     background-color: #1a1a26;
 }
 </style>

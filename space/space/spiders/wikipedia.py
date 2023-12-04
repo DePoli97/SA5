@@ -40,12 +40,16 @@ class Test_spider(scrapy.Spider):
             if mission_href is not None:
                 new_page = base_site_url + mission_href
                 next_pages.append(new_page)
+            
+            if (any([date is None,event_text is None, country is None])):
+                continue
 
             yield {
                 'Date': date.strip() if date else None,
                 'Event': event_text.strip() if event_text else None,
                 'Country': country.strip() if country else None,
-                'Mission name': {'text': mission_text.strip() if mission_text else None, 'href': mission_href.strip() if mission_href else None},
+                'Mission name': mission_text.strip() if mission_text else None,
+                'link': base_site_url + mission_href.strip() if mission_href else None,
                 'References': references.strip() if references else None,
             }
 

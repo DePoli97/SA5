@@ -1,7 +1,5 @@
 from fastapi import FastAPI
 import uvicorn
-import pyterrier as pt
-import pandas as pd
 import rank
 from fastapi.middleware.cors import CORSMiddleware
 

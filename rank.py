@@ -22,7 +22,6 @@ def prepare_df():
     for i in range(len(df_esa),len(df_s_now)+len(df_esa)):
         ids.append(f"d{i}")
 
-
     for i in range(df_s_now.shape[0]):
         tmp = df_s_now.iloc[i, :]
         texts.append((tmp['title'] + " " + tmp['description'] + " " + tmp['body'][:-34] + " " + tmp['date'].strftime("%d-%B-%Y")).lower())
@@ -47,18 +46,18 @@ def createIndex():
 
 def query(query :str):
     br = pt.BatchRetrieve(index, wmodel="BM25") #Query with a single word
-    queries = pd.DataFrame([["q1", str(query)]], columns=["qid", "query"])
+    queries = pd.DataFrame([["q1", str(query).lower()]], columns=["qid", "query"])
     results = br.transform(queries)
     docs_ids = []
-    print(results.shape[0])
+    # print(results.shape[0])
     for i in range(results.shape[0]):
         tmp = results.iloc[i, :]
         docs_ids.append(tmp['docid'])
-        if i >= 100:
-            break
+        # if i >= 100:
+        #     break
     docs_to_return = []
     for id in docs_ids:
-        print("id",id)
+        # print("id",id)
         if (id > len(df_esa)):
             doc = df_s_now.iloc[id-len(df_esa)]
         else:

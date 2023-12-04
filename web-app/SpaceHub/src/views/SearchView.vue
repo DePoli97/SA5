@@ -68,13 +68,18 @@ export default {
 button {
     font-size: 1.5em;
     color: #f4f4f4;
-    border: 1px solid #ff8000;
+    border: 1px solid red;
+    border-radius: 8px;
     background-color: #1a1a26;
 }
 
 button:disabled {
     color: #777777;
     border: 1px solid #663300;
+}
+
+a:visited {
+    color: blue;
 }
 
 div.search {
@@ -87,6 +92,10 @@ div.search {
     display: grid;
     grid-template-columns: repeat(2, 200px);
     column-gap: 5px;
+}
+
+main {
+    margin-top: 2em;
 }
 
 .page-logo {

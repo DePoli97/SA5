@@ -18,6 +18,10 @@ header {
     margin: 0 auto 2rem;
 }
 
+a,a:hover,a:visited {
+    text-decoration: none;
+}
+
 @media (min-width: 1024px) {
     header {
         display: flex;

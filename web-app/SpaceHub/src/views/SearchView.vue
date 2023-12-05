@@ -10,7 +10,7 @@
     </div>
     <main>
         <h3 v-if="this.results.length == 0"> No results found for this query</h3>
-        <result-card v-for="obj of this.pageResults" :key="obj.link" v-bind="obj" />
+        <result-card v-for="obj of this.pageResults" :key="obj.link" v-bind="obj" v-model:vote="votes[obj.i]" />
     </main>
 </template>
 
@@ -28,7 +28,8 @@ export default {
     data: () => ({
         results: [],
         page: 0,
-        resultsPerPage: 10
+        resultsPerPage: 10,
+        votes: Array(100).fill(0)
     }),
     computed: {
         pageResults() {
@@ -40,18 +41,34 @@ export default {
         previousAvailable() { return this.results.length > 0 && this.page > 0 },
         nextAvailable() { return this.results.length > 0 && this.page < Math.floor(this.results.length / this.resultsPerPage) },
     },
+    watch: {
+        votes: {
+            handler() {
+                // console.log(this.votes);
+            },
+            deep: true,
+        }
+    },
     methods: {
         previousPage() { this.page -= this.previousAvailable },
         nextPage() { this.page += this.nextAvailable },
         searchQuery(query) {
             const backend = "http://localhost:8000/search";
-            fetch(`${backend}?query=${query}`)
+            fetch(`${backend}?query=${query}`,
+                {
+                    method: "POST"
+                    , headers: {
+                        "Content-Type": "application/json",
+                    }
+                    , body: JSON.stringify({feedback : this.votes})
+                })
                 .then((response) => {
                     if (!response.ok) throw new Error("Response was not ok");
                     return response.json();
                 })
                 .then((results) => {
-                    this.results = results;
+                    this.results = results.map((obj, i) => Object.assign(obj, { i }));
+                    this.votes = Array(results.length).fill(0);
                 })
                 .catch(() => null);
             this.$router.push({ name: 'search', query: { query } });
@@ -78,9 +95,6 @@ button:disabled {
     border: 1px solid #663300;
 }
 
-a:visited {
-    color: blue;
-}
 
 div.search {
     display: grid;

@@ -1,10 +1,14 @@
 import pyterrier as pt
+from typing import List
 import pandas as pd
 
 index = None
 df_all = pd.DataFrame()
 df_esa = pd.DataFrame()
 df_s_now = pd.DataFrame()
+
+last_query = ""
+last_result = pd.DataFrame()
 
 def prepare_df():
     global df_all, df_esa, df_s_now
@@ -44,26 +48,37 @@ def createIndex():
     index = pt.IndexFactory.of(index_ref)
 
 
-def query(query :str):
-    br = pt.BatchRetrieve(index, wmodel="BM25") #Query with a single word
-    queries = pd.DataFrame([["q1", str(query).lower()]], columns=["qid", "query"])
-    results = br.transform(queries)
+def query(query :str, feedback : List[int]):
+    global last_query, last_result
     docs_ids = []
-    # print(results.shape[0])
-    for i in range(results.shape[0]):
-        tmp = results.iloc[i, :]
-        docs_ids.append(tmp['docid'])
-        # if i >= 100:
-        #     break
+    results = pd.DataFrame()
+    if (query != last_query):
+        last_query = query
+        bm25 = pt.BatchRetrieve(index, num_results = 100, wmodel="BM25")
+        queries = pd.DataFrame([["q1", str(query).lower()]], columns=["qid", "query"])
+        results = bm25.transform(queries)
+        last_result = results
+    else:
+        for i, row in last_result.iterrows():
+            if feedback[i] > 0:
+                last_result.at[i, 'score'] = row['score'] * 1.25
+            elif feedback[i] < 0:
+                last_result.at[i, 'score'] = row['score'] * 0.75
+        last_result.sort_values(by='score',inplace=True,ascending=False)
+        results = last_result
+        
     docs_to_return = []
+    for i in range(results.shape[0]):
+            tmp = results.iloc[i]
+            docs_ids.append(tmp['docid'])
     for id in docs_ids:
-        # print("id",id)
         if (id > len(df_esa)):
             doc = df_s_now.iloc[id-len(df_esa)]
         else:
             doc = df_esa.iloc[id]
         docs_to_return.append({'title' : doc['title'], 'description' : doc['description'], 'link' : doc['link'] })
     return docs_to_return
+
 
 def init():
     prepare_df()

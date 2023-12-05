@@ -41,7 +41,7 @@ class Test_spider(scrapy.Spider):
                 new_page = base_site_url + mission_href
                 next_pages.append(new_page)
             
-            if (any([date is None,event_text is None, country is None])):
+            if (any([date is None,event_text is None, country is None, mission_text is None, mission_href is None, references is None])):
                 continue
 
             yield {

@@ -15,26 +15,27 @@ def prepare_df():
     df_esa = pd.read_json("./space/results_esa.json")
     ids = []
     texts = []
-    df_esa.rename(columns={'mission_name' : 'title', 'mission_description' : 'description', 'mission_page' : 'link'},inplace=True)
+    df_esa.rename(columns={'mission_name': 'title', 'mission_description': 'description', 'mission_page': 'link'},
+                  inplace=True)
     for i in range(len(df_esa)):
         ids.append(f"d{i}")
-    for i in range(df_esa.shape[0]):
         tmp = df_esa.iloc[i, :]
-        texts.append(tmp['title'] + " " + tmp['description']  + " " + tmp['link'])
+        texts.append(tmp['title'] + " " + tmp['description'] + " " + tmp['link'])
 
     df_s_now = pd.read_json("./space/results_spaceflight_no3.json")
-    for i in range(len(df_esa),len(df_s_now)+len(df_esa)):
+    for i in range(len(df_esa), len(df_s_now) + len(df_esa)):
         ids.append(f"d{i}")
+        tmp = df_s_now.iloc[i - len(df_esa)]
+        texts.append((tmp['title'] + " " + tmp['description'] + " " + tmp['body'][:-34] + " " +
+                       tmp['date'].strftime("%d-%B-%Y")).lower())
 
-    for i in range(df_s_now.shape[0]):
-        tmp = df_s_now.iloc[i, :]
-        texts.append((tmp['title'] + " " + tmp['description'] + " " + tmp['body'][:-34] + " " + tmp['date'].strftime("%d-%B-%Y")).lower())
+    df_wiki = pd.read_json("./space/results_wiki.json")
+    for i in range(len(df_s_now) + len(df_esa), len(df_s_now) + len(df_esa) + len(df_wiki)):
+        ids.append(f"d{i}")
+        tmp = df_wiki.iloc[i - (len(df_s_now) + len(df_esa))]
+        texts.append(tmp['Date'] + " " + tmp['Event'] + " " + tmp['Country'] + " " + tmp['Mission name'])
 
-    # df_wiki = pd.read_json("./space/result_wiki.json")
-    # for i in range(df_s_now.shape[0]):
-    #     print(df_s_now.iloc[i, :])
-    #     # texts.append((tmp['title'] + " " + tmp['description'] + " " + tmp['body'][:-34] + " " + tmp['date'].strftime("%d-%B-%Y")).lower())
-
+    # Verify lengths before creating the DataFrame
 
     df_all['docno'] = ids
     df_all['text'] = texts

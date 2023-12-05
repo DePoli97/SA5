@@ -15,6 +15,7 @@
                 @input="$emit('update:vote', Number.parseInt($event.target.value))" :checked="vote == -1" />
             <label for="3">Negative</label>
         </form>
+        <p>{{ link.slice(8).split('.')[0] }}</p>
     </section>
 </template>
 

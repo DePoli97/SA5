@@ -31,7 +31,7 @@ async def root():
 
 @app.get("/search")
 async def query(query: str = ""):
-    return rank.query(query)
+    return rank.query(query,[0]*100)
 
 @app.post("/search")
 async def search(query: str, feedback_data: FeedbackRequestModel = Body(...)):

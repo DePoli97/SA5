@@ -4,6 +4,7 @@
             <h3>{{ title }}</h3>
         </a>
         <p>{{ description }}</p>
+        <p>From: {{ link.slice(8).split('.')[0] }}</p>
         <form id="voters" @submit.prevent="">
             <input type="radio" id="1" name="vote" value=1
                 @input="$emit('update:vote', Number.parseInt($event.target.value))" :checked="vote == 1" />
@@ -15,7 +16,6 @@
                 @input="$emit('update:vote', Number.parseInt($event.target.value))" :checked="vote == -1" />
             <label for="3">Negative</label>
         </form>
-        <p>{{ link.slice(8).split('.')[0] }}</p>
     </section>
 </template>
 

@@ -6,12 +6,13 @@ index = None
 df_all = pd.DataFrame()
 df_esa = pd.DataFrame()
 df_s_now = pd.DataFrame()
+df_wiki = pd.DataFrame()
 
 last_query = ""
 last_result = pd.DataFrame()
 
 def prepare_df():
-    global df_all, df_esa, df_s_now
+    global df_all, df_esa, df_s_now, df_wiki
     df_esa = pd.read_json("./space/results_esa.json")
     ids = []
     texts = []
@@ -30,12 +31,17 @@ def prepare_df():
                        tmp['date'].strftime("%d-%B-%Y")).lower())
 
     df_wiki = pd.read_json("./space/results_wiki.json")
+
     for i in range(len(df_s_now) + len(df_esa), len(df_s_now) + len(df_esa) + len(df_wiki)):
         ids.append(f"d{i}")
         tmp = df_wiki.iloc[i - (len(df_s_now) + len(df_esa))]
         texts.append(tmp['Date'] + " " + tmp['Event'] + " " + tmp['Country'] + " " + tmp['Mission name'])
 
+    df_wiki.rename(columns={'Mission name': 'title', 'Event': 'description'},
+                   inplace=True)
     # Verify lengths before creating the DataFrame
+
+    print(len(df_s_now),len(df_wiki),len(df_esa))
 
     df_all['docno'] = ids
     df_all['text'] = texts
@@ -73,10 +79,13 @@ def query(query :str, feedback : List[int]):
             tmp = results.iloc[i]
             docs_ids.append(tmp['docid'])
     for id in docs_ids:
-        if (id > len(df_esa)):
+        print(id)
+        if (id < len(df_esa)):
+            doc = df_esa.iloc[id]
+        elif (id < len(df_esa) + len(df_s_now)):
             doc = df_s_now.iloc[id-len(df_esa)]
         else:
-            doc = df_esa.iloc[id]
+            doc = df_wiki.iloc[id-(len(df_esa) + len(df_s_now))]
         docs_to_return.append({'title' : doc['title'], 'description' : doc['description'], 'link' : doc['link'] })
     return docs_to_return
 

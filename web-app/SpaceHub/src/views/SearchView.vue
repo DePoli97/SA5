@@ -56,11 +56,11 @@ export default {
             const backend = "http://localhost:8000/search";
             fetch(`${backend}?query=${query}`,
                 {
-                    method: "GET"
+                    method: "POST"
                     , headers: {
                         "Content-Type": "application/json",
                     }
-                    // , body: JSON.stringify({feedback : this.votes})
+                    , body: JSON.stringify({feedback : this.votes})
                 })
                 .then((response) => {
                     if (!response.ok) throw new Error("Response was not ok");

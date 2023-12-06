@@ -66,20 +66,23 @@ def query(query :str, feedback : List[int]):
         results = bm25.transform(queries)
         last_result = results
     else:
+        print(feedback)
         for i, row in last_result.iterrows():
             if feedback[i] > 0:
                 last_result.at[i, 'score'] = row['score'] * 1.25
             elif feedback[i] < 0:
                 last_result.at[i, 'score'] = row['score'] * 0.75
         last_result.sort_values(by='score',inplace=True,ascending=False)
+        last_result.reset_index(drop=True,inplace=True)
         results = last_result
         
     docs_to_return = []
+    print(results)
     for i in range(results.shape[0]):
             tmp = results.iloc[i]
             docs_ids.append(tmp['docid'])
     for id in docs_ids:
-        print(id)
+        # print(id)
         if (id < len(df_esa)):
             doc = df_esa.iloc[id]
         elif (id < len(df_esa) + len(df_s_now)):

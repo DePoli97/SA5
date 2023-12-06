@@ -26,7 +26,8 @@ export default {
 
 <style scoped>
 form {
-    width: 100%;
+    //width: 100%;
+    margin-left: 2%;
     /* as parent */
     display: grid;
     grid-template-columns: 1fr 200px;

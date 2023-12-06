@@ -11,6 +11,7 @@ df_wiki = pd.DataFrame()
 last_query = ""
 last_result = pd.DataFrame()
 
+
 def prepare_df():
     global df_all, df_esa, df_s_now, df_wiki
     df_esa = pd.read_json("./space/results_esa.json")
@@ -28,7 +29,7 @@ def prepare_df():
         ids.append(f"d{i}")
         tmp = df_s_now.iloc[i - len(df_esa)]
         texts.append((tmp['title'] + " " + tmp['description'] + " " + tmp['body'][:-34] + " " +
-                       tmp['date'].strftime("%d-%B-%Y")).lower())
+                      tmp['date'].strftime("%d-%B-%Y")).lower())
 
     df_wiki = pd.read_json("./space/results_wiki.json")
 
@@ -41,11 +42,12 @@ def prepare_df():
                    inplace=True)
     # Verify lengths before creating the DataFrame
 
-    print(len(df_s_now),len(df_wiki),len(df_esa))
+    print(len(df_s_now), len(df_wiki), len(df_esa))
 
     df_all['docno'] = ids
     df_all['text'] = texts
-    
+
+
 def createIndex():
     global index
     if not pt.started():
@@ -55,13 +57,13 @@ def createIndex():
     index = pt.IndexFactory.of(index_ref)
 
 
-def query(query :str, feedback : List[int]):
+def query(query: str, feedback: List[int]):
     global last_query, last_result
     docs_ids = []
     results = pd.DataFrame()
     if (query != last_query):
         last_query = query
-        bm25 = pt.BatchRetrieve(index, num_results = 100, wmodel="BM25")
+        bm25 = pt.BatchRetrieve(index, num_results=100, wmodel="BM25")
         queries = pd.DataFrame([["q1", str(query).lower()]], columns=["qid", "query"])
         results = bm25.transform(queries)
         last_result = results
@@ -72,24 +74,24 @@ def query(query :str, feedback : List[int]):
                 last_result.at[i, 'score'] = row['score'] * 1.25
             elif feedback[i] < 0:
                 last_result.at[i, 'score'] = row['score'] * 0.75
-        last_result.sort_values(by='score',inplace=True,ascending=False)
-        last_result.reset_index(drop=True,inplace=True)
+        last_result.sort_values(by='score', inplace=True, ascending=False)
+        last_result.reset_index(drop=True, inplace=True)
         results = last_result
-        
+
     docs_to_return = []
     print(results)
     for i in range(results.shape[0]):
-            tmp = results.iloc[i]
-            docs_ids.append(tmp['docid'])
+        tmp = results.iloc[i]
+        docs_ids.append(tmp['docid'])
     for id in docs_ids:
         # print(id)
         if (id < len(df_esa)):
             doc = df_esa.iloc[id]
         elif (id < len(df_esa) + len(df_s_now)):
-            doc = df_s_now.iloc[id-len(df_esa)]
+            doc = df_s_now.iloc[id - len(df_esa)]
         else:
-            doc = df_wiki.iloc[id-(len(df_esa) + len(df_s_now))]
-        docs_to_return.append({'title' : doc['title'], 'description' : doc['description'], 'link' : doc['link'] })
+            doc = df_wiki.iloc[id - (len(df_esa) + len(df_s_now))]
+        docs_to_return.append({'title': doc['title'], 'description': doc['description'], 'link': doc['link']})
     return docs_to_return
 
 
@@ -97,4 +99,3 @@ def init():
     prepare_df()
     createIndex()
     print("Index Created")
-

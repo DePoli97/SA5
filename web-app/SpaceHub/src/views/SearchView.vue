@@ -1,16 +1,23 @@
 <template>
-    <page-logo />
-    <div class="search">
+      <page-logo />
+      <div class="search">
         <search-bar :initial_query="this.$route.query.query" @query-submit="searchQuery" />
         <div class="buttons">
 
-            <button @click="previousPage" :disabled="!previousAvailable">prev</button>
-            <button @click="nextPage" :disabled="!nextAvailable">next</button>
+          <button @click="previousPage" :disabled="!previousAvailable">prev</button>
+          <button style="margin-right: 2%" @click="nextPage" :disabled="!nextAvailable">next</button>
         </div>
-    </div>
+      </div>
     <main>
         <h3 v-if="this.results.length == 0"> No results found for this query</h3>
-        <result-card v-for="obj of this.pageResults" :key="obj.link" v-bind="obj" v-model:vote="votes[obj.i]" />
+        <div style="display: flex; margin: 2%">
+          <div style="flex:70%">
+            <result-card v-for="obj of this.pageResults" :key="obj.link" v-bind="obj" v-model:vote="votes[obj.i]" />
+          </div>
+          <div style="flex:30%">
+<!--              other suggestions-->
+          </div>
+        </div>
     </main>
 </template>
 

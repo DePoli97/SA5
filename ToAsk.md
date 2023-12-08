@@ -31,4 +31,5 @@ Straightforward, intuitive, and i really like the implementation of the user fee
 Test 6:
 Easy to use, and seems really good at finding some things with small queries
 
-
+Test 7:
+Straightforward, really cool and easy to use. It works very good. 

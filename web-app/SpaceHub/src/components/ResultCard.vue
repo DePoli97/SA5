@@ -84,7 +84,7 @@ h3 {
 #voters {
     display: flex;
     flex-direction: row;
-    padding-bottom: 15px;
+    margin-top: 20px;
     gap: 15px;
 }
 </style>

@@ -30,7 +30,7 @@ export default {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: flex-start;
+    justify-content: center;
     height: 98vh;
 }
 

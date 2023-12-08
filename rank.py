@@ -42,8 +42,6 @@ def prepare_df():
                    inplace=True)
     # Verify lengths before creating the DataFrame
 
-    print(len(df_s_now), len(df_wiki), len(df_esa))
-
     df_all['docno'] = ids
     df_all['text'] = texts
 
@@ -63,7 +61,7 @@ def query(query: str, feedback: List[int]):
     results = pd.DataFrame()
     if (query != last_query):
         last_query = query
-        bm25 = pt.BatchRetrieve(index, num_results=100, wmodel="BM25")
+        bm25 = pt.BatchRetrieve(index, num_results = 200, wmodel="BM25")
         queries = pd.DataFrame([["q1", str(query).lower()]], columns=["qid", "query"])
         results = bm25.transform(queries)
         last_result = results

@@ -11,3 +11,24 @@ Find an article about a rocket that malfunctioned
 
 ## Task 3
 Express your feedback (positive and negative) and see if the new results are good.
+
+
+Test 1:
+easy to use, feedback very good idea, I would like a light mode
+
+Test 2:
+straightforward, easy and intuitive interface, good user feedback!
+
+Test 3: 
+Easy to use but the search results aren't always relevant
+
+Test 4:
+Straightforward, very intuitive and it display clearly the source of the documents and that allows an easy backtracking.
+
+Test 5:
+Straightforward, intuitive, and i really like the implementation of the user feedback
+
+Test 6:
+Easy to use, and seems really good at finding some things with small queries
+
+
